@@ -1,0 +1,136 @@
+.action-bar {
+    bottom: 30px;
+    position: fixed;
+    right: 30px;
+    z-index: 9999;
+}
+
+.action-bar-title {
+    background-color: $color-primary;
+    border-radius: 50%;
+    box-shadow: 0 1px 2px rgba(black, .1);
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    height: 56px;
+    position: relative;
+    transition: background-color .15s linear;
+    width: 56px;
+
+    .fa {
+        left: 50%;
+        position: absolute;
+        top: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translateX(-50%) translateY(-50%);
+    }
+
+    &:hover {
+        background-color: darken($color-primary, 5%);
+    }
+}
+
+.action-bar-content {
+    background-color: #fff;
+    box-shadow: 0 0 2px rgba(black, .15);
+    bottom: 70px;
+    display: none;
+    position: absolute;
+    right: 0;
+    width: 170px;
+    z-index: 9999;
+
+    &.open {
+        display: block;
+    }
+
+    strong {
+        color: $color-gray-darker;
+        display: block;
+        font-size: 13px;
+        font-weight: 400;
+        margin: 0 0 14px 0;
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+            border-right: 1px solid $color-gray-medium;
+            display: inline-block;
+            line-height: 1;
+            margin: 0 15px 0 0;
+            padding: 0 15px 0 0;
+
+            a {
+                font-size: 12px;
+                line-height: 1;
+
+                &.active {
+                    color: $color-black;
+                    font-weight: 500;
+                }
+            }
+
+            &:nth-child(2n) {
+                border-right: 0;
+                margin-right: 0;
+                padding-right: 0;
+            }
+        }
+    }
+
+    table {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+
+        td {
+            border: 0;
+            padding: 0 0 12px 0;
+            width: 33%;
+
+            &.color-style {
+                a {
+                    background-color: $color-style-blue;
+                    display: block;
+                    font-size: 0;
+                    height: 22px;
+                    outline: 1px solid $color-gray-medium;
+                    outline-offset: 2px;
+                    width: 22px;
+                }
+            }
+        }
+
+        a {
+            font-size: 12px;
+            line-height: 1;
+
+            &.active {
+                color: $color-black;
+                font-weight: 500;
+            }
+        }
+
+        tr {
+            &:last-child {
+                td {
+                    padding-bottom: 0;
+                }
+            }
+        }
+    }
+}
+
+.action-bar-chapter {
+    border-bottom: 1px solid $color-gray-medium;
+    margin: 0 0 0 0;
+    padding: 15px;
+
+    &:last-child {
+        border-bottom: 0;
+    }
+}

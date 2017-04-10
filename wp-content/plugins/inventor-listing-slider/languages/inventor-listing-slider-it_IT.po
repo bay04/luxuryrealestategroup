@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Listing Slider\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-listing-slider-extend.php:28
+#: includes/widgets/class-inventor-listing-slider-widget-listing-slider.php:23
+msgid "Listing Slider"
+msgstr "Slider annuncio"
+
+#: includes/class-inventor-listing-slider-extend.php:36
+msgid "Image"
+msgstr "Immagine"
+
+#: includes/widgets/class-inventor-listing-slider-widget-listing-slider.php:25
+msgid "Displays listings in slider."
+msgstr "Visualizza annunci nello slider"
+
+#: templates/widgets/listing-slider-admin.php:16
+msgid "IDs"
+msgstr "IDs"
+
+#: templates/widgets/listing-slider-admin.php:25
+msgid "Listing IDs, separated by commas."
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:31
+msgid "Classes"
+msgstr "Classi"
+
+#: templates/widgets/listing-slider-admin.php:40
+msgid ""
+"Additional classes appended to body class and separated by , e.g. <i>header-"
+"transparent, listing-slider-append-top</i>"
+msgstr ""
+"Classi aggiuntive allegate alla classe corpo e separate da, ad esempio, "
+"<i>header-transparent, listing-slider-append-top</i>"
+
+#: templates/widgets/listing-slider-admin.php:46
+msgid "Container height"
+msgstr "Altezza contenitore"
+
+#: templates/widgets/listing-slider-admin.php:55
+msgid "Default value 500px."
+msgstr "Il valore di default 500px."
+
+#: templates/widgets/listing-slider-admin.php:67
+msgid "Fullscreen"
+msgstr "Schermo intero"
+
+#: templates/widgets/listing-slider-admin.php:77
+msgid "Thumbnail size"
+msgstr "Dimensioni anteprima"
+
+#: templates/widgets/listing-slider-admin.php:99
+msgid "Show arrows"
+msgstr "Mostra frecce"
+
+#: templates/widgets/listing-slider-admin.php:112
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: templates/widgets/listing-slider-admin.php:119
+msgid "Autoplay timeout"
+msgstr "Autoplay timeout"
+
+#: templates/widgets/listing-slider-admin.php:128
+msgid "Default value 2000."
+msgstr "Valore predefinito 2000."
+
+#: templates/widgets/listing-slider.php:39
+msgid "View Detail"
+msgstr "Visualizza dettagli"
+
+#~ msgid "Listing IDs, separated by commas."
+#~ msgstr "ID di proprietà, separati da virgole."

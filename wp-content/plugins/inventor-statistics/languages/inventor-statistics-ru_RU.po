@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Statistics\n"
+"POT-Creation-Date: 2016-08-04 19:01+0600\n"
+"PO-Revision-Date: 2016-08-04 19:11+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-statistics-logic.php:54
+msgid "Popularity"
+msgstr "Популярность"
+
+#: includes/class-inventor-statistics-logic.php:212
+msgid "Price from"
+msgstr "Цена от"
+
+#: includes/class-inventor-statistics-logic.php:216
+msgid "Price to"
+msgstr "Цена до"
+
+#: includes/class-inventor-statistics-logic.php:265
+#: includes/class-inventor-statistics-logic.php:371
+msgid "Per day"
+msgstr "В день"
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:34
+msgid "Inventor Statistics"
+msgstr "Статистика разработчика"
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:47
+msgid "Enable Search Query Logging"
+msgstr "Включить Логи Поисковых Запросов"
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:61
+msgid "Enable Listing Views Logging"
+msgstr "Включить Логи Просмотра Листингов"
+
+#: inventor-statistics.php:53 templates/admin/listing-views.php:2
+msgid "Listing Views"
+msgstr "Просмотры Листинга"
+
+#: inventor-statistics.php:53
+msgid "Listing views"
+msgstr "Просмотры Листинга"
+
+#: inventor-statistics.php:54
+msgid "Search Queries"
+msgstr "Поисковые Запросы"
+
+#: templates/admin/listing-views.php:8
+msgid ""
+"Listing views logging is disabled. If you want to collect stats, plase "
+"enable under \"Appearance - Customize\"."
+msgstr ""
+"Логи просмотра Листингов отключены. Если вы хотите собирать статистику, "
+"пожалуйста включите в разделе \"Внешний вид - Настройка\"."
+
+#: templates/admin/listing-views.php:14
+msgid "Overall listing views for last two weeks"
+msgstr "Общее количество просмотров листинга за последние две недели"
+
+#: templates/admin/listing-views.php:30
+msgid "10 most popular listings"
+msgstr "10 наиболее популярных листингов"
+
+#: templates/admin/listing-views.php:46 templates/admin/listing-views.php:72
+msgid "views"
+msgstr "просмотры"
+
+#: templates/admin/listing-views.php:61
+msgid "10 most popular locations"
+msgstr "10 наиболее популярных мест"
+
+#: templates/admin/search-queries.php:2
+msgid "Search Query Statistics"
+msgstr "Статистика Поисковых Запросов"
+
+#: templates/admin/search-queries.php:8
+msgid ""
+"Query logging is disabled. If you want to collect queries, plase enable "
+"under \"Appearance - Customize\"."
+msgstr ""
+"Логи Запросов отключены. Если вы хотите собирать запросы, пожалуйста "
+"включите в разделе \"Внешний вид - Настройка\"."
+
+#: templates/admin/search-queries.php:14
+msgid "Filters per day in the last two weeks"
+msgstr "Фильтры по дню в последние две недели"
+
+#: templates/admin/search-queries.php:26
+msgid "Price searches"
+msgstr "Поиски цен"
+
+#: templates/admin/search-queries.php:40
+msgid "Locations"
+msgstr "Места"
+
+#: templates/admin/search-queries.php:52
+msgid "Categories"
+msgstr "Категории"
+
+#: templates/listing-archive-views.php:5
+msgid "Views"
+msgstr "Просмотры"
+
+#: templates/post-total-views.php:5
+#, php-format
+msgid "<strong>%d</strong> view"
+msgid_plural "<strong>%d</strong> views"
+msgstr[0] "<strong>%d</strong> просмотр"
+msgstr[1] "<strong>%d</strong> просмотра"
+msgstr[2] "<strong>%d</strong> просмотров"

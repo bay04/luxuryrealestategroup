@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor\n"
+"POT-Creation-Date: 2016-05-17 15:50+0200\n"
+"PO-Revision-Date: 2016-06-08 18:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/class-inventor-submission-logic.php:375
+msgid "New submission has been successfully created."
+msgstr "Yeni gönderi başarıyla oluşturuldu."
+
+#: includes/class-inventor-submission-logic.php:381
+msgid "Submission has been successfully updated."
+msgstr "Gönderi başarıyla güncellendi."
+
+#: includes/class-inventor-submission-logic.php:534
+msgid "Item has been successfully removed."
+msgstr "Öge başarıyla silindi."
+
+#: includes/class-inventor-submission-logic.php:536
+msgid "An error occurred when removing an item."
+msgstr "Silme işlemi sırasında bir hata oluştu."
+
+#: includes/class-inventor-submission-logic.php:581
+msgid "Featured listing"
+msgstr "Öne ÇIkarılmış Listeler"
+
+#: includes/class-inventor-submission-logic.php:582
+#, php-format
+msgid "Make listing %s featured"
+msgstr "%s gönderisi öne çıkar"
+
+#: includes/class-inventor-submission-logic.php:586
+msgid "Publish listing"
+msgstr "Listeyi Yayınla"
+
+#: includes/class-inventor-submission-logic.php:587
+#, php-format
+msgid "Publish %s"
+msgstr "%s Yayınla"
+
+#: includes/class-inventor-submission-logic.php:652
+msgid "Listing successfully featured."
+msgstr "Liste başarıyla öne çıkarıldı"
+
+#: includes/class-inventor-submission-logic.php:664
+msgid "Listing will be published after review."
+msgstr "Liste yönetici onayından sonra yayınlanacak. "
+
+#: includes/class-inventor-submission-logic.php:668
+msgid "Listing has been published."
+msgstr "Liste başarıyla yayınlandı"
+
+#: includes/class-inventor-submission-shortcodes.php:69
+msgid "Check your package."
+msgstr "Paketinizi kontrol edin."
+
+#: includes/class-inventor-submission-shortcodes.php:88
+msgid "You are not allowed to submit this type."
+msgstr "Bu gönderi için yetkiniz bulunmuyor."
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Done"
+msgstr "Tamamlandı"
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Proceed to next step"
+msgstr "Bir sonraki adıma geç"
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Save"
+msgstr "Kaydet"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:36
+msgid "Inventor Submission"
+msgstr "Envanter Gönderimi"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:49
+msgid "Type"
+msgstr "Türü"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:50
+msgid "Defines what determines number of user listings."
+msgstr "Kaç tane kullanıcı listesi olacağını tanımlar."
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:54
+msgid "Free for all"
+msgstr "Herkes için ücretsiz"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:55
+msgid "Pay per post"
+msgstr "Gönderi başına ücret"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:68
+msgid "Review Before Submission"
+msgstr "Yayınlamadan önce incele"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:81
+msgid "Publish price"
+msgstr "Yayınlama Ücreti"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:84
+msgid "For \"pay per post\" submission type"
+msgstr "\"pay per post\" gönderi türü için"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:96
+msgid "Featured price"
+msgstr "Öne Çıkarılmış Fiyat"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:111
+msgid "User listings"
+msgstr "Kullanıcı Listeleri"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:126
+msgid "Add listing"
+msgstr "Liste ekle"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:141
+msgid "Edit listing"
+msgstr "Listeyi Düzenle"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:156
+msgid "Remove listing"
+msgstr "Listeyi Sil"
+
+#: templates/submission/list.php:11
+msgid "Create listing"
+msgstr "Liste Oluştur"
+
+#: templates/submission/list.php:29
+msgid "Listing published"
+msgstr "Liste Yayınlandı"
+
+#: templates/submission/list.php:30
+msgid "Waiting for review"
+msgstr "Gönderi inceleme için bekletiliyor"
+
+#: templates/submission/list.php:31
+msgid "Listing disabled"
+msgstr "Listeleme devredışı bırakıldı"
+
+#: templates/submission/list.php:44 templates/submission/list.php:124
+msgid "Pending"
+msgstr "Beklemede"
+
+#: templates/submission/list.php:48 templates/submission/list.php:117
+msgid "Published"
+msgstr "Yayınlandı"
+
+#: templates/submission/list.php:52
+msgid "Disabled"
+msgstr "Devredışı"
+
+#: templates/submission/list.php:98
+msgid "Make featured"
+msgstr "Öne Çıkar"
+
+#: templates/submission/list.php:104
+msgid "Featured"
+msgstr "Öne Çıkarılan"
+
+#: templates/submission/list.php:136
+msgid "Publish"
+msgstr "Yayınla"
+
+#: templates/submission/list.php:151
+msgid "Edit"
+msgstr "Düzenle"
+
+#: templates/submission/list.php:157
+msgid "Remove"
+msgstr "Sil"
+
+#: templates/submission/list.php:169
+msgid "Previous page"
+msgstr "Önceki Sayfa"
+
+#: templates/submission/list.php:170
+msgid "Next page"
+msgstr "Sonraki Sayfa"
+
+#: templates/submission/list.php:171
+msgid "Page"
+msgstr "Sayfa"
+
+#: templates/submission/list.php:178
+msgid "No listings found."
+msgstr "Hiç Liste Bulunamadı"
+
+#: templates/submission/list.php:184
+msgid "You don't have any listings, yet. Start by creating new one."
+msgstr "Henüz hiç listeniz bulunmuyor. Bir tane oluşturmak ister misiniz?"
+
+#: templates/submission/payment-form-before.php:7
+msgid "Price is not set."
+msgstr "Listeleme ücreti ayarlanmadı"
+
+#: templates/submission/payment-form-before.php:12
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for featured listing <strong>\"%s"
+"\"</strong>."
+msgstr ""
+"<strong>\"%s\"</strong> yazısını listelemek için  <strong>%s</strong> "
+"tutarında ücret ödeyeceksiniz."
+
+#: templates/submission/payment-form-before.php:14
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> to publish listing <strong>\"%s\"</"
+"strong>."
+msgstr ""
+"<strong>\"%s\"</strong> yazısını listelemek için  <strong>%s</strong> "
+"tutarında ücret ödeyeceksiniz."
+
+#: templates/submission/payment-form-before.php:21
+msgid "Missing listing."
+msgstr "Eksik listeleme."
+
+#: templates/submission/remove-form.php:3
+msgid "You have to specify listing!"
+msgstr "Listeleme türünü seçmeniz gerekiyor"
+
+#: templates/submission/remove-form.php:6
+#, php-format
+msgid "Are you sure you want to delete %s?"
+msgstr "%s gönderisini silmek istediğinizden emin misiniz?"
+
+#: templates/submission/remove-form.php:15
+msgid "Delete"
+msgstr "Sil"
+
+#: templates/submission/step-title.php:8
+msgid "Step"
+msgstr "Adım"
+
+#: templates/submission/steps-not-found.php:1
+msgid "Listing type does not have any metaboxes."
+msgstr "Listeleme türü metakutusuna sahip değil."
+
+#: templates/submission/steps.php:26
+msgid "Nothing to show."
+msgstr "Gösterilecek bir şey yok"
+
+#: templates/submission/type-not-found.php:6
+msgid "Please define type of your submission"
+msgstr "Lütfen gönderi türünüzü seçin"
+
+#: templates/submission/type-not-found.php:21
+msgid "You don't have privilege to create any submission."
+msgstr "Yeni bir gönderi için yetkiniz bulunmuyor."

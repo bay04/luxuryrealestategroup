@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Pricing v0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-01 11:53+0200\n"
+"PO-Revision-Date: 2016-07-01 11:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:34
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:40
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:46
+#: includes/widgets/class-inventor-pricing-widget-pricing-tables.php:23
+msgid "Pricing Tables"
+msgstr "Pristabeller"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:35
+msgid "Pricing Table"
+msgstr "Pristabel"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:36
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:37
+msgid "Add New Pricing Table"
+msgstr "Tilføj ny prissætning tabel"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:38
+msgid "Edit Pricing Table"
+msgstr "Redigere prissætning tabel"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:39
+msgid "New Pricing Table"
+msgstr "Ny prissætning tabel"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:41
+msgid "View Pricing Table"
+msgstr "Se prissætning tabel"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:42
+msgid "Search Pricing Table"
+msgstr "Søg prissætning tabel"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:43
+msgid "No Pricing Tables found"
+msgstr "Ingen prismærker tabeller fundet"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:44
+msgid "No Pricing Tables found in Trash"
+msgstr "Ingen prismærker tabeller fundet i papirkurven"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:55
+msgctxt "URL slug"
+msgid "pricing"
+msgstr "priser"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:73
+msgid "General Options"
+msgstr "Generelle Indstillinger"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:81
+msgid "Price"
+msgstr "Pris"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:85
+#, php-format
+msgid "In %s. Will be ignored, if package and payment page are set."
+msgstr "I %s. Vil blive ignoreret, hvis pakken og betaling side er angivet."
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:95
+#: templates/widgets/pricing-admin.php:27
+msgid "Description"
+msgstr "Beskrivelse"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:100
+msgid "Button Text"
+msgstr "Knap Tekst"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:105
+msgid "Button Link"
+msgstr "Knap Link"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:107
+msgid "Will be ignored, if package (not trial) and payment page are set."
+msgstr ""
+"Vil blive ignoreret, hvis pakken (ikke prøveperiode) og siden "
+"Betalingsformer er indstillet."
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:111
+msgid "Highlight Table?"
+msgstr "Fremhæve tabel?"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:119
+msgid "Pricing Table Items"
+msgstr "Pris tabel enhed"
+
+# @ inventor-pricing
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:126
+msgid "Item (row)"
+msgstr "Enhed (række)"
+
+# @ inventor-pricing
+#: includes/widgets/class-inventor-pricing-widget-pricing-tables.php:25
+msgid "Displays pricing tables"
+msgstr "Viser prissætning tabeller"
+
+# @ inventor
+#: templates/archive-pricing_table.php:59
+msgid "Previous"
+msgstr "Forrige"
+
+# @ inventor
+#: templates/archive-pricing_table.php:60
+msgid "Next"
+msgstr "Næste"
+
+# @ inventor-pricing
+#: templates/widgets/pricing-admin.php:14
+msgid "Title"
+msgstr "Titel"
+
+# @ inventor-pricing
+#: templates/widgets/pricing-admin.php:39
+msgid "Items per row"
+msgstr "Antal pr. række"
+
+# @ inventor-pricing
+#: templates/widgets/pricing.php:59
+msgid "No pricing tables found."
+msgstr "Ingen prismærker tabeller fundet"

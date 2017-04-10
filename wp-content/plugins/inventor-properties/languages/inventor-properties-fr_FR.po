@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor-properties\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/customizations/class-inventor-properties-customizations-properties.php:34
+msgid "Inventor Properties"
+msgstr "Inventor Propriétés"
+
+#: includes/customizations/class-inventor-properties-customizations-properties.php:47
+msgid "Hide unasigned amenities"
+msgstr "Masquer les modules non cochées"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:60
+#: includes/post-types/class-inventor-properties-post-type-property.php:66
+#: includes/post-types/class-inventor-properties-post-type-property.php:72
+msgid "Properties"
+msgstr "Propriétés"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:61
+msgid "Property"
+msgstr "Propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:62
+#: includes/post-types/class-inventor-properties-post-type-property.php:63
+msgid "Add New Property"
+msgstr "Ajouter une nouvelle propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:64
+msgid "Edit Property"
+msgstr "Modifier la propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:65
+msgid "New Property"
+msgstr "Nouvelle propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:67
+msgid "View Property"
+msgstr "Voir la Propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:68
+msgid "Search Property"
+msgstr "Rechercher propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:69
+msgid "No Properties found"
+msgstr "Aucune propriété trouvée"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:70
+msgid "No Properties Found in Trash"
+msgstr "Aucune propriété trouvée dans la poubelle"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:81
+msgctxt "URL slug"
+msgid "properties"
+msgstr "propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:106
+msgid "Details"
+msgstr "Détails"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:113
+msgid "Property type"
+msgstr "Type de propriété"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:120
+msgid "Reference"
+msgstr "Référence"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:126
+msgid "Year built"
+msgstr "Année de construction"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:137
+msgid "Contract type"
+msgstr "Type de contrat"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:142
+msgid "Rent"
+msgstr "Montant"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:143
+msgid "Sale"
+msgstr "Vente"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:151
+msgid "Attributes"
+msgstr "Attributs"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:158
+msgid "Rooms"
+msgstr "Pièces"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:169
+msgid "Beds"
+msgstr "Lits"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:180
+msgid "Baths"
+msgstr "Salles de bain"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:191
+msgid "Garages"
+msgstr "Garage"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:202
+msgid "Parking lots"
+msgstr "Parking"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:213
+msgid "Home area"
+msgstr "Surface habitable"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:215
+#: includes/post-types/class-inventor-properties-post-type-property.php:228
+#, php-format
+msgid "In %s. (Enter value without unit)"
+msgstr "Dans %s. (Entrée de la valeur sans unité)"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:226
+msgid "Lot area"
+msgstr "Superficie du terrain"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:239
+msgid "Lot dimensions"
+msgstr "Dimensions du bien"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:242
+msgid "e.g. 20x30, 20x30x40, 20x30x40x50"
+msgstr "Exemple: 20x30, 20x30x40, 20x30x40x50"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:246
+#: templates/amenities.php:10
+msgid "Amenities"
+msgstr "Etat et équipements"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:267
+#: includes/post-types/class-inventor-properties-post-type-property.php:281
+#: templates/valuation.php:8
+msgid "Valuation"
+msgstr "Valorisation"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:282
+msgid "Add Another Valuation"
+msgstr "Ajouter un autre évaluation"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:283
+msgid "Remove Valuation"
+msgstr "Retirer évaluation"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:289
+#: includes/post-types/class-inventor-properties-post-type-property.php:339
+msgid "Key"
+msgstr "Clé"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:295
+#: includes/post-types/class-inventor-properties-post-type-property.php:345
+msgid "Value"
+msgstr "Valeur"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:317
+#: templates/public-facilities.php:8
+msgid "Public facilities"
+msgstr "Commodités public"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:331
+msgid "Public Facility"
+msgstr "Commodité public"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:332
+msgid "Add Another Public Facility"
+msgstr "Ajouter un autre commodité public"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:333
+msgid "Remove Public Facility"
+msgstr "Retirer Commodité publique"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:34
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:44
+msgid "Property Amenities"
+msgstr "Équipements de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:35
+msgid "Property Amenity"
+msgstr "Équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:36
+msgid "Search Property Amenity"
+msgstr "Rechercher équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:37
+msgid "All Property Amenities"
+msgstr "Tous l'équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:38
+msgid "Parent Property Amenity"
+msgstr "Parent équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:39
+msgid "Parent Property Amenity:"
+msgstr "Parent équipement de la propriété:"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:40
+msgid "Edit Property Amenity"
+msgstr "Modifier l'équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:41
+msgid "Update Property Amenity"
+msgstr "Mise à jour de l'équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:42
+msgid "Add New Property Amenity"
+msgstr "Ajouter une nouvel équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:43
+msgid "New Property Amenity"
+msgstr "Nouvel équipement de la propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:45
+msgid "No property amenities found."
+msgstr "Aucun établissement trouvé."
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:52
+msgctxt "URL slug"
+msgid "property-amenity"
+msgstr "equipement-de-la-propriete"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:34
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:44
+msgid "Property Types"
+msgstr "Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:35
+msgid "Property Type"
+msgstr "Type de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:36
+msgid "Search Property Type"
+msgstr "Rechercher Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:37
+msgid "All Property Types"
+msgstr "Tous les Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:38
+msgid "Parent Property Type"
+msgstr "Parent Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:39
+msgid "Parent Property Type:"
+msgstr "Parent Types de propriété:"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:40
+msgid "Edit Property Type"
+msgstr "Modifier Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:41
+msgid "Update Property Type"
+msgstr "Mettre à jour le Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:42
+msgid "Add New Property Type"
+msgstr "Ajouter un nouveaux Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:43
+msgid "New Property Type"
+msgstr "Nouveau Types de propriété"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:45
+msgid "No property types found."
+msgstr "Aucun types de propriété trouvé."
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:52
+msgctxt "URL slug"
+msgid "property-type"
+msgstr "types-de-propriete"

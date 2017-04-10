@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Google Map\n"
+"POT-Creation-Date: 2016-12-13 18:14+0100\n"
+"PO-Revision-Date: 2016-12-13 18:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+
+#: includes/widgets/class-inventor-google-map-widget-google-map.php:23
+msgid "Google Map"
+msgstr "Google Mapa"
+
+#: includes/widgets/class-inventor-google-map-widget-google-map.php:25
+msgid "Displays listings in the google map."
+msgstr "Zobrazí položky v Google mape"
+
+#: templates/widgets/google-map-admin.php:42
+msgid "Title"
+msgstr "Názov"
+
+#: templates/widgets/google-map-admin.php:55
+msgid "Latitude"
+msgstr "Zemepisná šírka"
+
+#: templates/widgets/google-map-admin.php:68
+msgid "Longitude"
+msgstr "Zemepisná dĺžka"
+
+#: templates/widgets/google-map-admin.php:82
+msgid "Max. pins"
+msgstr "Max. pinov"
+
+#: templates/widgets/google-map-admin.php:96
+#: templates/widgets/google-map-admin.php:266
+msgid "Zoom"
+msgstr "Priblíženie"
+
+#: templates/widgets/google-map-admin.php:110
+msgid "Grid size"
+msgstr "Veľkosť mriežky"
+
+#: templates/widgets/google-map-admin.php:124
+msgid "Height"
+msgstr "Výška"
+
+#: templates/widgets/google-map-admin.php:137
+msgid "Classes"
+msgstr "Triedy"
+
+#: templates/widgets/google-map-admin.php:150
+msgid "Body Classes"
+msgstr "Body triedy"
+
+#: templates/widgets/google-map-admin.php:159
+msgid "Additional classes appended to body class (separated by comma)"
+msgstr "Dodatočné triedy pripojené k triede body elementu (oddelené čiarkou)"
+
+#: templates/widgets/google-map-admin.php:165
+msgid "Style"
+msgstr "Štýl"
+
+#: templates/widgets/google-map-admin.php:169
+#: templates/widgets/google-map-admin.php:336
+msgid "Default"
+msgstr "Štandardné"
+
+#: templates/widgets/google-map-admin.php:180
+msgid "Toggle default state"
+msgstr "Štandardný stav prepínača"
+
+#: templates/widgets/google-map-admin.php:191
+msgid "Open"
+msgstr "Otvorené"
+
+#: templates/widgets/google-map-admin.php:203
+msgid "Closed"
+msgstr "Zatvorené"
+
+#: templates/widgets/google-map-admin.php:209
+msgid "Intercept"
+msgstr "Zachytenie"
+
+#: templates/widgets/google-map-admin.php:218
+msgid "Filter queries in URL"
+msgstr "Filtrovať dotazy v URL"
+
+#: templates/widgets/google-map-admin.php:229
+msgid "Main post type in loop"
+msgstr "Post type v loop-e"
+
+#: templates/widgets/google-map-admin.php:240
+msgid "Main term in loop"
+msgstr "Term v loop-e"
+
+#: templates/widgets/google-map-admin.php:244
+msgid "Toolbar"
+msgstr "Panel nástrojov"
+
+#: templates/widgets/google-map-admin.php:254
+msgid "Map types"
+msgstr "Typy mapy"
+
+#: templates/widgets/google-map-admin.php:278
+msgid "Geolocation"
+msgstr "Geolokácia"
+
+#: templates/widgets/google-map-admin.php:284
+msgid "Marker style"
+msgstr "Štýl značky"
+
+#: templates/widgets/google-map-admin.php:295
+msgid "Simple"
+msgstr "Jednoduchá"
+
+#: templates/widgets/google-map-admin.php:307
+msgid "Inventor POI"
+msgstr "Inventor POI"
+
+#: templates/widgets/google-map-admin.php:319
+msgid "Thumbnail"
+msgstr "Náhľad"
+
+#: templates/widgets/google-map-admin.php:326
+msgid "Order by"
+msgstr "Zoradiť podľa"
+
+#: templates/widgets/google-map-admin.php:348
+msgid "Random"
+msgstr "Náhodne"
+
+#: templates/widgets/google-map-admin.php:353
+msgid "Options"
+msgstr "Možnosti"
+
+#: templates/widgets/google-map-admin.php:363
+msgid "Show all markers on viewport"
+msgstr "Zobraziť všetky značky"
+
+#: templates/widgets/google-map-admin.php:375
+msgid "Show toggle (open/close map)"
+msgstr "Zobraziť prepínač (otvoriť/zavrieť mapu)"
+
+#: templates/widgets/google-map-admin.php:387
+#: templates/widgets/google-map.php:106
+msgid "Current Position"
+msgstr "Aktuálna pozícia"
+
+#: templates/widgets/google-map-admin.php:399
+msgid "Live Filtering"
+msgstr "Živé filtrovanie"
+
+#: templates/widgets/google-map-admin.php:411
+msgid "Auto Submit Filter"
+msgstr "Automaticky filtrovať"
+
+#: templates/widgets/google-map-admin.php:425
+msgid "Filter"
+msgstr "Filter"
+
+#: templates/widgets/google-map.php:66
+msgid "Toggle Map"
+msgstr "Prepnúť mapu"
+
+#: templates/widgets/google-map.php:85
+msgid "Roadmap"
+msgstr "Cesty"
+
+#: templates/widgets/google-map.php:86
+msgid "Terrain"
+msgstr "Terén"
+
+#: templates/widgets/google-map.php:87
+msgid "Satellite"
+msgstr "Satelit"
+
+#: templates/widgets/google-map.php:94
+msgid "Zoom In"
+msgstr "Priblížiť"
+
+#: templates/widgets/google-map.php:98
+msgid "Zoom Out"
+msgstr "Oddialiť"
+
+#~ msgid "Filter Button Text"
+#~ msgstr "Text filter tlačidla"
+
+#~ msgid "Input titles"
+#~ msgstr "Nadpisy vstupov"
+
+#~ msgid "Labels"
+#~ msgstr "Etiketa"
+
+#~ msgid "Placeholders"
+#~ msgstr "Text v poli"
+
+#~ msgid "Filter Fields"
+#~ msgstr "Polia filtra"
+
+#~ msgid "Additional classes appended to body class and separated by comma"
+#~ msgstr ""
+#~ "Dodatočné triedy pripojené k triede body elementu (oddelené čiarkou)"

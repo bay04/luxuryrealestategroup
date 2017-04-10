@@ -1,0 +1,411 @@
+.detail-banner {
+    background-position: center center;
+    background-size: 100% auto;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+
+    @media (max-width: $screen-xs-max) {
+        background-size: cover;
+        height: auto;
+        padding: 30px 0;
+    }
+
+    &.detail-banner-simple {
+        height: 350px;
+        background-color: darken($color-primary, 10%);
+
+        @media (max-width: $screen-xs-max) {
+            height: auto;
+        }
+    }
+
+    video {
+        height: auto;
+        width: 100%;
+        position: absolute;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        top: 50%;
+
+        @media (max-width: $screen-xs-max) {
+            display:none;
+        }
+    }
+
+    iframe {
+        @media (max-width: $screen-xs-max) {
+            display: none;
+        }
+    }
+
+    .detail-banner-shadow {
+        background: -webkit-linear-gradient(to right, rgba(0,0,0,.3) -10%, rgba(0,0,0,.5) 20%, rgba(0,0,0,.5) 40%, rgba(0,0,0,0) 80%);
+        background: -moz-linear-gradient(to right, rgba(0,0,0,.3) -10%, rgba(0,0,0,.5) 20%, rgba(0,0,0,.5) 40%, rgba(0,0,0,0) 80%);
+        background: linear-gradient(to right, rgba(0,0,0,.3) -10%, rgba(0,0,0,.5) 20%, rgba(0,0,0,.5) 40%, rgba(0,0,0,0) 80%);
+        bottom: 0;
+        content: '';
+        left: 0;
+        pointer-events: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 2;
+
+        @media (max-width: $screen-xs-max) {
+            z-index: 0;
+        }
+    }
+
+    .container {
+        height: 100%;
+        position: relative;
+        z-index: 100;
+    }
+
+    .detail-banner-left, .detail-banner-right {
+        z-index: 3;
+
+        @media (min-width: $screen-sm-min) {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            -webkit-transform: translateY(-50%);
+        }
+
+        @media (max-width: $screen-xs-max) {
+            margin-left: 15px;
+        }
+    }
+
+    .detail-banner-left {
+        left: 15px;
+        pointer-events: none;
+
+        .detail-banner-address, .detail-banner-after a {
+            pointer-events: auto;
+        }
+    }
+
+    .detail-banner-right {
+        pointer-events: none;
+        right: 15px;
+        text-align: right;
+        width: 50%;
+
+        @media (max-width: $screen-xs-max) {
+            height: auto;
+            text-align: left;
+            width: auto;
+        }
+
+        &.affix {
+            @extend .container;
+            height: 0;
+            left: 15px;
+            pointer-events: none;
+            position: fixed;
+            top: 0;
+            z-index: 999;
+
+            @media (max-width: $screen-xs-max) {
+                position: initial;
+            }
+
+            .admin-bar & {
+                margin-top: 32px;
+            }
+
+            .header-sticky & {
+                margin-top: 60px;
+            }
+
+            .admin-bar.header-sticky & {
+                margin-top: 92px;
+            }
+
+            .detail-banner-price {
+                box-shadow: 0 0 50px rgba(0,0,0,0);
+                pointer-events: auto;
+            }
+        }
+
+        .detail-banner-price {
+            box-shadow: 0 0 50px rgba(0,0,0,.2);
+            background-color: $color-green;
+            color: #fff;
+            display: inline-block;
+            font-size: 21px;
+            font-weight: 300;
+            pointer-events: auto;
+            vertical-align: -1px;
+            transition: all ease .3s;
+
+            @media (max-width: $screen-xs-max) {
+                margin-top: 30px;
+            }
+
+            &.reduced-price {
+                background-color: $color-orange;
+            }
+
+            span.detail-banner-price-label {
+                display: inline-block;
+                padding: 6px 2px 6px 18px;
+
+                @media (max-width: $screen-xs-max) {
+                    display: none;
+                }
+            }
+
+            span.detail-banner-price-value {
+                display: inline-block;
+                font-size: 24px;
+                font-weight: 500;
+                padding: 6px 18px 6px 2px;
+                vertical-align: 0;
+
+                @media (max-width: $screen-xs-max) {
+                    padding-left: 18px;
+                }
+            }
+
+            .inventor-shop-wrapper {
+                border-left: solid 1px rgba(255, 255, 255, 0.5);
+                float: right;
+
+                button {
+                    background-color: rgba(255, 255, 255, 0.2);
+                    font-size: 0;
+                    height: 46px;
+                    opacity: 0.7;
+                    transition: opacity .15s linear;
+
+                    &:before {
+                        color: #fff;
+                        content: "\f07a";
+                        display: inline-block;
+                        font-family: fontawesome;
+                        font-size: 23px;
+                        -webkit-font-smoothing: antialiased;
+                        height: 20px;
+                        line-height: 20px;
+                        margin-right: 5px;
+                        text-align: center;
+                        //vertical-align: 9px;
+                        width: 20px;
+                    }
+
+                    &:after {
+                        height: 0;
+                    }
+
+                    &:hover, &:active, &:focus {
+                        background-color: rgba(255, 255, 255, 0.3) !important;
+                        opacity: 1;
+                    }
+                }
+            }
+        }
+    }
+
+    h1, h2 {
+        color: #fff;
+        font-size: 36px;
+        font-weight: 500;
+        text-shadow: 0 0 20px #000;
+        margin-bottom: 11px;
+
+        @media (max-width: $screen-xs-max) {
+            font-size: 25px;
+        }
+
+        .listing-title-logo {
+            max-height: 65px;
+            max-width: 130px;
+        }
+
+        .listing-verified {
+            font-size: 0;
+
+            &:before {
+                background-color: $color-green;
+                border: solid 1px #fff;
+                border-radius: 50%;
+                content: "\f00c";
+                display: inline-block;
+                font-family: fontawesome;
+                font-size: 10px;
+                -webkit-font-smoothing: antialiased;
+                height: 20px;
+                line-height: 18px;
+                margin-left: 7px;
+                text-align: center;
+                vertical-align: 9px;
+                width: 20px;
+
+                @media (max-width: $screen-xs-max) {
+                    vertical-align: 4px;
+                }
+            }
+        }
+
+        .claim-listing {
+            color: #fff;
+            font-size: 12px;
+            pointer-events: auto;
+            opacity: .7;
+            transition: opacity .15s linear;
+            vertical-align: 8px;
+
+            @media (max-width: $screen-xs-max) {
+                vertical-align: 4px;
+            }
+
+            &:before {
+                border: dashed 1px #fff;
+                border-radius: 50%;
+                color: #fff;
+                content: "\f00c";
+                display: inline-block;
+                font-family: fontawesome;
+                font-size: 10px;
+                -webkit-font-smoothing: antialiased;
+                height: 20px;
+                line-height: 18px;
+                margin-left: 7px;
+                margin-right: 5px;
+                text-align: center;
+                vertical-align: 1px;
+                width: 20px;
+            }
+
+            &:hover {
+                opacity: 1;
+
+                &:before {
+                    //    border: solid 1px #fff;
+                    //    background-color: #fff;
+                    //    color: transparent;
+                }
+            }
+        }
+    }
+
+    .detail-banner-address {
+        color: #fff;
+        font-weight: 300;
+        text-shadow: 0 0 18px #000;
+        padding-top: 1px;
+
+        a {
+            color: #fff;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        i {
+            margin-right: 8px;
+        }
+    }
+
+    .inventor-reviews-rating {
+        color: $color-yellow;
+        font-size: 21px;
+        margin-top: 10px;
+        text-shadow: 0 0 20px rgba(0,0,0,.5);
+    }
+
+    .detail-label {
+        background-color: $color-primary;
+        color: #fff;
+        display: inline-block;
+        font-size: 13px;
+        padding: 3px 15px;
+
+        a {
+            color: #fff;
+
+            &:hover {
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+
+    .detail-banner-btn {
+        background-color: transparentize(#fff, 0.6);
+        border: 1px solid transparentize(#fff, 0.6);
+        color: transparentize(#fff, 0.1);
+        float: left;
+        margin-top: 20px;
+        margin-right: 20px;
+        padding: 9px 15px;
+        cursor: pointer;
+        transition: all linear .15s;
+
+        i {
+            font-size: 16px;
+            margin-right: 5px;
+        }
+
+        &:hover {
+            background-color: transparentize(#fff, 0.2);
+            border: 1px solid transparentize(#fff, 0.2);
+            color: $color-black;
+            text-decoration: none;
+        }
+
+        &:focus, &:active {
+            text-decoration: none;
+        }
+
+        &.heart.marked {
+            background-color: #fff;
+            color: $color-black-light;
+            text-shadow: none;
+
+            i:before {
+                content: "\f004";
+                color: $color-red;
+            }
+        }
+
+        &.bookmark.marked {
+            background-color: #fff;
+            color: $color-black-light;
+            text-shadow: none;
+
+            i:before {
+                content: "\f02e";
+                color: $color-primary;
+            }
+        }
+    }
+
+    .inventor-favorites-btn-toggle,
+    .inventor-compare-btn-toggle,
+    .inventor-jobs-apply-btn,
+    .print-listing,
+    .share-listing {
+        @extend .detail-banner-btn;
+    }
+
+    .detail-banner-slogan {
+        color: $color-gray-medium;
+        font-size: 16px;
+        font-weight: 600;
+        margin-top: -4px;
+        margin-bottom: 15px;
+        text-shadow: 0 0 18px #000;
+    }
+
+    iframe {
+        width: 100%;
+        transform: translateY(-50%);
+        top: 50%;
+        position: absolute;
+    }
+}

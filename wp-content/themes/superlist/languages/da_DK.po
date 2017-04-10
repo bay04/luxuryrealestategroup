@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superlist\n"
+"POT-Creation-Date: 2016-04-28 13:26+0200\n"
+"PO-Revision-Date: 2016-04-28 13:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/libraries/class-tgm-plugin-activation."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: 404.php:21
+msgid "Page does not exist."
+msgstr "Denne side eksisterer ikke"
+
+#: comments.php:21
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En tanke om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanke om &ldquo;%2$s&rdquo;"
+
+#: comments.php:27 comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Ældre kommentarer"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Beklager, kommentarer er slået fra på denne side."
+
+#: comments.php:56
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Du kan bruge <abbr title=“HyperText Markup Language”>HTML</abbr> tags og "
+"attributter: %s"
+
+#: comments.php:57
+msgid "Write a Comment"
+msgstr "Skriv en kommentar"
+
+#: comments.php:59
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:61
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:62
+msgid "Email"
+msgstr "E-mail:"
+
+#: comments.php:63
+msgid "Website"
+msgstr "Webside"
+
+#: functions.php:104
+msgid "Main"
+msgstr "Oversigt"
+
+#: functions.php:115
+msgid "Primary"
+msgstr "Primær"
+
+#: functions.php:116
+msgid "Dashboard Sidebar"
+msgstr "Dashboard Sidebar"
+
+#: functions.php:117
+msgid "Header Topbar Left"
+msgstr "Header topbar Venstre"
+
+#: functions.php:118
+msgid "Header Topbar Right"
+msgstr "Header topbar Right"
+
+#: functions.php:119
+msgid "Top Fullwidth"
+msgstr "Top Fuld bredde"
+
+#: functions.php:120
+msgid "Top"
+msgstr "Top"
+
+#: functions.php:121
+msgid "Content Top"
+msgstr "Toppen af indhold"
+
+#: functions.php:122
+msgid "Content Bottom"
+msgstr "Bunden af indhold"
+
+#: functions.php:123
+msgid "Bottom"
+msgstr "Bund"
+
+#: functions.php:124
+msgid "Footer Top First"
+msgstr "Første sidefod"
+
+#: functions.php:125
+msgid "Footer Top Second"
+msgstr "Anden sidefod"
+
+#: functions.php:126
+msgid "Footer Top Third"
+msgstr "Tredje sidefod"
+
+#: functions.php:127
+msgid "Footer Top Fourth"
+msgstr "Sidefod Top Fjerde"
+
+#: functions.php:128
+msgid "Footer First"
+msgstr "Første sidefod"
+
+#: functions.php:129
+msgid "Footer Second"
+msgstr "Anden sidefod"
+
+#: functions.php:130
+msgid "Footer Bottom First"
+msgstr "Sidefod Bund First"
+
+#: functions.php:131
+msgid "Footer Bottom Second"
+msgstr "Sidefod Bund andet"
+
+#: functions.php:381
+msgid "Superlist General"
+msgstr "Superlist General"
+
+#: functions.php:386
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:389
+msgid "Logo displayed in header."
+msgstr "Logo vises i header."
+
+#: functions.php:401
+msgid "Customizer"
+msgstr "Customizer"
+
+#: functions.php:415 widgets/templates/widget-simple-map-admin.php:76
+msgid "Style"
+msgstr "Style"
+
+#: functions.php:420 templates/action-bar.php:46
+msgid "Blue Light"
+msgstr "Blue Light (Blåt lys)"
+
+#: functions.php:421 templates/action-bar.php:47
+msgid "Blue"
+msgstr "Blå"
+
+#: functions.php:422
+msgid "Blue dark"
+msgstr "Blå mørk"
+
+#: functions.php:423
+msgid "Blue gray"
+msgstr "Blå grå"
+
+#: functions.php:424 templates/action-bar.php:49
+msgid "Brown"
+msgstr "Brun"
+
+#: functions.php:425 templates/action-bar.php:53
+msgid "Green"
+msgstr "Grøn"
+
+#: functions.php:426
+msgid "Green dark"
+msgstr "Green dark"
+
+#: functions.php:427 templates/action-bar.php:67
+msgid "Lime"
+msgstr "Lime"
+
+#: functions.php:428 templates/action-bar.php:55
+msgid "Magenta"
+msgstr "Magenta"
+
+#: functions.php:429 templates/action-bar.php:56
+msgid "Orange"
+msgstr "Orange"
+
+#: functions.php:430 templates/action-bar.php:68
+msgid "Pink"
+msgstr "Lyserød"
+
+#: functions.php:431 templates/action-bar.php:60
+msgid "Purple"
+msgstr "Lilla"
+
+#: functions.php:432 templates/action-bar.php:70
+msgid "Purple Dark"
+msgstr "Lilla Mørk"
+
+#: functions.php:433
+msgid "Mint"
+msgstr "mynte"
+
+#: functions.php:434 templates/action-bar.php:61 templates/action-bar.php:62
+msgid "Red"
+msgstr "Rød"
+
+#: functions.php:435 templates/action-bar.php:63
+msgid "Turquoise"
+msgstr "turkis"
+
+#: functions.php:437
+msgid "Check the documentation to learn how to compile custom color."
+msgstr "Se dokumentationen til at lære at kompilere brugerdefineret farve."
+
+#: functions.php:448
+msgid "Layout"
+msgstr "Layout"
+
+#: functions.php:453 templates/action-bar.php:17
+msgid "Wide"
+msgstr "Bred"
+
+#: functions.php:454 templates/action-bar.php:18
+msgid "Boxed"
+msgstr "Boxed"
+
+#: functions.php:466
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:471 templates/action-bar.php:27
+msgid "Sticky"
+msgstr "Fastgjort"
+
+#: functions.php:472 templates/action-bar.php:26
+msgid "Fixed"
+msgstr "Fastlagt"
+
+#: functions.php:484
+msgid "Submenu"
+msgstr "Undermenu"
+
+#: functions.php:489 templates/action-bar.php:35
+msgid "Dark"
+msgstr "Mørk"
+
+#: functions.php:490 templates/action-bar.php:36
+msgid "Light"
+msgstr "Lys"
+
+#: functions.php:501
+msgid "Action Button Text"
+msgstr "\"Call for Action\" tekst"
+
+#: functions.php:504
+msgid "Text is displayed when button is hovered."
+msgstr "Beskrivelsestekst som vises i knappen"
+
+#: functions.php:510
+msgid "Action Button Page"
+msgstr "\"Call for Action\" side"
+
+#: functions.php:515
+msgid "Page where the action button will point to."
+msgstr "“Call for Action” linket"
+
+#: functions.php:527
+msgid "Show print button in listing detail"
+msgstr "Vis print knap i visnings detalje"
+
+#: functions.php:555
+msgid "Not set"
+msgstr "Ikke sat"
+
+#: functions.php:716
+msgid "Previous"
+msgstr "Forrige"
+
+#: functions.php:717
+msgid "Next"
+msgstr "Næste"
+
+#: header.php:89
+msgid "Toggle navigation"
+msgstr "Vis/Skjul Menu"
+
+#: searchform.php:15
+msgid "Search ..."
+msgstr "Søg…"
+
+#: templates/action-bar.php:14
+msgid "Choose Page Layout"
+msgstr "vælg layout"
+
+#: templates/action-bar.php:23
+msgid "Header Position"
+msgstr "Header position"
+
+#: templates/action-bar.php:32
+msgid "Submenu Style"
+msgstr "Undermenu Style"
+
+#: templates/action-bar.php:41
+msgid "Color combination"
+msgstr "Color kombination"
+
+#: templates/action-bar.php:48
+msgid "Blue Dark"
+msgstr "Blå Mørk"
+
+#: templates/action-bar.php:54
+msgid "Green Dark"
+msgstr "Grøn Mørk"
+
+#: templates/action-bar.php:69
+msgid "Blue Gray"
+msgstr "Blå Grå"
+
+#: templates/content-listing-banner.php:32
+msgid "Your browser does not support the video html tag."
+msgstr "Din browser understøtter ikke HTML5 videoer."
+
+#: templates/content-listing-banner.php:123
+msgid "Reduced Price"
+msgstr "Nedsat pris"
+
+#: templates/content-listing-banner.php:123
+msgid "Price"
+msgstr "Pris"
+
+#: templates/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager, men intet matchede din søgning. Prøv venligst igen med andre "
+"søgeord."
+
+#: templates/content-post.php:17 templates/content.php:25
+msgid "By"
+msgstr "Af"
+
+#: templates/content-post.php:34
+msgid "Post Pages:"
+msgstr "Indlæg Sider:"
+
+#: templates/content-post.php:43
+msgid "Tags"
+msgstr "Emner"
+
+#: templates/content.php:15
+msgid "View"
+msgstr "Vis"
+
+#: templates/content.php:31
+msgid "Read more"
+msgstr "Læs mere"
+
+#: templates/document-title.php:18
+msgid "Page Not Found"
+msgstr "Siden blev ikke fundet"
+
+#: templates/document-title.php:20
+msgid "Search for"
+msgstr "Søg efter"
+
+#: templates/misc/comment.php:25
+msgid "Reply"
+msgstr "Svar"
+
+#: templates/misc/comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse"
+
+#: widgets/templates/widget-call-to-action-admin.php:17
+msgid "Text"
+msgstr "Tekst"
+
+#: widgets/templates/widget-call-to-action-admin.php:30
+msgid "Button Text"
+msgstr "Knap Tekst"
+
+#: widgets/templates/widget-call-to-action-admin.php:43
+msgid "Button Link"
+msgstr "Knap Link:"
+
+#: widgets/templates/widget-simple-map-admin.php:19
+msgid "Latitude"
+msgstr "Breddegrad"
+
+#: widgets/templates/widget-simple-map-admin.php:32
+msgid "Longitude"
+msgstr "Længdegrad"
+
+#: widgets/templates/widget-simple-map-admin.php:45
+msgid "Zoom"
+msgstr "Zoom"
+
+#: widgets/templates/widget-simple-map-admin.php:60
+msgid "Height in pixels"
+msgstr "Højde i pixels"
+
+#: widgets/templates/widget-simple-map-admin.php:80
+msgid "Default"
+msgstr "Standard"
+
+#: widgets/templates/widget-video-cover-admin.php:25
+msgid "Title"
+msgstr "Titel"
+
+#: widgets/templates/widget-video-cover-admin.php:39
+msgid "Subtitle"
+msgstr "Under titel"
+
+#: widgets/templates/widget-video-cover-admin.php:53
+msgid "Height"
+msgstr "Højde"
+
+#: widgets/templates/widget-video-cover-admin.php:67
+msgid "Preset Image URL"
+msgstr "Preset Billede URL"
+
+#: widgets/templates/widget-video-cover-admin.php:81
+msgid "Overlay opacity"
+msgstr "Overlag gennemsigtighed"
+
+#: widgets/templates/widget-video-cover-admin.php:95
+msgid "Video MP4"
+msgstr "Video MP4"
+
+#: widgets/templates/widget-video-cover-admin.php:109
+msgid "Video OGG"
+msgstr "Video OGG"
+
+#: widgets/templates/widget-video-cover-admin.php:129
+msgid "Filter"
+msgstr "Filter"
+
+#: widgets/templates/widget-video-cover-admin.php:136
+msgid "Filter Button Text"
+msgstr "Filter Button Text"
+
+#: widgets/templates/widget-video-cover-admin.php:147
+msgid "Input titles"
+msgstr "Input titler"
+
+#: widgets/templates/widget-video-cover-admin.php:158
+msgid "Labels"
+msgstr "Labels"
+
+#: widgets/templates/widget-video-cover-admin.php:170
+msgid "Placeholders"
+msgstr "Pladsholdere"
+
+#: widgets/templates/widget-video-cover-admin.php:175
+msgid "Filter Fields"
+msgstr "Filter Felter"
+
+#: widgets/widget-call-to-action.php:29
+msgid "Call to action"
+msgstr "\"Call to action\""
+
+#: widgets/widget-call-to-action.php:31
+msgid "Call to action widget."
+msgstr "Opfordring til handling widget."
+
+#: widgets/widget-simple-map.php:29
+msgid "Simple Map"
+msgstr "Simpel Kort"
+
+#: widgets/widget-simple-map.php:31
+msgid "Displays 1 place in the map."
+msgstr "Viser 1 sted på kortet."
+
+#: widgets/widget-video-cover.php:29
+msgid "Video Cover"
+msgstr "Video Cover"
+
+#: widgets/widget-video-cover.php:31
+msgid "Displays small filter with video or image background."
+msgstr "Viser lille filter med video eller billede baggrund."
+
+#~ msgid "Featured"
+#~ msgstr "Fremhævet"
+
+#~ msgid "Reduced"
+#~ msgstr "Nedsat"
+
+#~ msgid "Read More"
+#~ msgstr "Læs mere"
+
+#~ msgid "Location"
+#~ msgstr "Placering"

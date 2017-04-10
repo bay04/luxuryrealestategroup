@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Watchdogs\n"
+"POT-Creation-Date: 2016-08-16 11:51+0200\n"
+"PO-Revision-Date: 2016-08-16 11:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-watchdogs-logic.php:162
+#: includes/class-inventor-watchdogs-logic.php:192 templates/watchdogs.php:20
+msgid "You need to log in at first."
+msgstr "Întâi trebuie să fi logat"
+
+#: includes/class-inventor-watchdogs-logic.php:201
+msgid "Watchdog does not exist!"
+msgstr "Obiectul urmărit nu există!"
+
+#: includes/class-inventor-watchdogs-logic.php:203
+msgid "It is not your watchdog!"
+msgstr "Nu se află în lista de obiecte urmărite!"
+
+#: includes/class-inventor-watchdogs-logic.php:206
+#: includes/class-inventor-watchdogs-logic.php:298
+msgid "Watchdog deleted."
+msgstr "Obiectul urmărit a fost șters."
+
+#: includes/class-inventor-watchdogs-logic.php:242
+msgid "Search query watchdogs are disabled."
+msgstr "Căutările obiectelor de urmărit au fost dezactivate."
+
+#: includes/class-inventor-watchdogs-logic.php:251
+msgid "You can't watch empty search query."
+msgstr "Nu poți vizualiza o căutare nulă."
+
+#: includes/class-inventor-watchdogs-logic.php:257
+msgid "You already watch this search query."
+msgstr "Deja urmărești această căutare."
+
+#: includes/class-inventor-watchdogs-logic.php:267
+msgid "Watchdog saved."
+msgstr "Obiect de urmărit salvat."
+
+#: includes/class-inventor-watchdogs-logic.php:290
+msgid "You don't watch this search query."
+msgstr "Nu urmărești această căutare."
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:36
+msgid "Inventor Watchdogs"
+msgstr "Inventor Watchdogs"
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:49
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:37
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:43
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:49
+msgid "Watchdogs"
+msgstr "Obiecte de urmărit"
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:64
+msgid "Enable Search Queries Watchdogs"
+msgstr "Activează Obiectul de urmărit pentru căutări"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:38
+msgid "Watchdog"
+msgstr "Obiect de urmărit"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:39
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:40
+msgid "Add New Watchdog"
+msgstr "Adaugă obiect de urmărit nou"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:41
+msgid "Edit Watchdog"
+msgstr "Editează obiect de urmărit"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:42
+msgid "New Watchdog"
+msgstr "Obiect de urmărit nou"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:44
+msgid "View Watchdog"
+msgstr "Vezi obiect de urmărit"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:45
+msgid "Search Watchdog"
+msgstr "Caută obiect de urmărit"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:46
+msgid "No Watchdogs found"
+msgstr "Nu s-au găsit obiecte de urmărit"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:47
+msgid "No Watchdogs Found in Trash"
+msgstr "Nu s-au găsit obiecte de urmărit în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:77
+msgid "General"
+msgstr "General"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:86
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:109
+#: templates/watchdogs-lookup.php:5
+msgid "Type"
+msgstr "Tip"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:89
+msgid "Search query"
+msgstr "Căutare"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:95
+msgid "Data"
+msgstr "Data"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:110
+msgid "Lookup"
+msgstr "Filtru de căutare"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:111
+msgid "Value"
+msgstr "Valoare"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:112
+msgid "Author"
+msgstr "Autor"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:113
+msgid "Date"
+msgstr "Data"
+
+#: templates/watchdogs-button.php:4
+msgid "Unwatch this search query"
+msgstr ""
+
+#: templates/watchdogs-button.php:8
+msgid "Watch this search query"
+msgstr ""
+
+#: templates/watchdogs-row.php:11
+#, php-format
+msgid "<span class=\"match\">%d</span> listing matches your search query"
+msgid_plural "<span class=\"match\">%d</span> listings match your search query"
+msgstr[0] "<span class=\"match\">%d</span> se potrivește căutării tale"
+msgstr[1] "<span class=\"match\">%d</span> se potrivesc căutării tale"
+msgstr[2] "<span class=\"match\">%d</span> se potrivesc căutării tale"
+
+#: templates/watchdogs-row.php:19
+msgid "Watched value"
+msgstr "Valoare urmărită"
+
+#: templates/watchdogs-row.php:25
+msgid "Record created"
+msgstr ""
+
+#: templates/watchdogs.php:11
+msgid "Previous"
+msgstr "Înapoi"
+
+#: templates/watchdogs.php:12
+msgid "Next"
+msgstr "Înainte"
+
+#: templates/watchdogs.php:18
+msgid "You don't have any watchdogs, yet. Start by adding some."
+msgstr "Nu ai nici un obiect de urmărit încă. Adaugă unul acum."

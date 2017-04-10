@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Notifications\n"
+"POT-Creation-Date: 2016-05-09 15:25-0300\n"
+"PO-Revision-Date: 2016-05-09 15:47-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-notifications-logic.php:43
+msgid "Package will expire"
+msgstr "Pacote irá expirar."
+
+#: includes/class-inventor-notifications-logic.php:44
+msgid "Package expired"
+msgstr "Pacote expirado"
+
+#: includes/class-inventor-notifications-logic.php:47
+msgid "Submission waiting for review - for admin"
+msgstr "Anúncio aguardando revisão - pelo administrador do site"
+
+#: includes/class-inventor-notifications-logic.php:48
+msgid "Submission waiting for review - for user"
+msgstr "Anúncio aguardando revisão - pelo usuário "
+
+#: includes/class-inventor-notifications-logic.php:49
+msgid "Submission published - for admin"
+msgstr "Anúncio publicado - pelo administrador do site"
+
+#: includes/class-inventor-notifications-logic.php:50
+msgid "Submission published - for user"
+msgstr "Anúncio publicado - pelo usuário"
+
+#: includes/class-inventor-notifications-logic.php:209
+msgid "Your package will expire soon"
+msgstr "Seu pacote irá expirar em breve"
+
+#: includes/class-inventor-notifications-logic.php:213
+msgid "Your package expired"
+msgstr "Seu pacote expirou"
+
+#: includes/class-inventor-notifications-logic.php:217
+msgid "New submission waiting for review"
+msgstr "Novos anúncios esperando pela revisão"
+
+#: includes/class-inventor-notifications-logic.php:221
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:95
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:110
+msgid "Submission waiting for review"
+msgstr "Anúncios aguardando revisão"
+
+#: includes/class-inventor-notifications-logic.php:225
+msgid "New submission was published"
+msgstr "Novo anúncio foi publicado"
+
+#: includes/class-inventor-notifications-logic.php:229
+msgid "Your submission was published"
+msgstr "Seu anúncio foi publicado"
+
+#: includes/class-inventor-notifications-logic.php:257
+#, php-format
+msgid "Your package %s will expire in %d days."
+msgstr "Seu pacote %s irá expirar em %d dias."
+
+#: includes/class-inventor-notifications-logic.php:261
+#, php-format
+msgid "Your package %s expired."
+msgstr "Seu pacote %s expirou."
+
+#: includes/class-inventor-notifications-logic.php:265
+#, php-format
+msgid "New pending submission %s is waiting for admin review."
+msgstr "Novo anúncio pendente %s está esperando revisão do administrador."
+
+#: includes/class-inventor-notifications-logic.php:269
+#, php-format
+msgid ""
+"Your submission %s is waiting for admin review. Until then, it will be not "
+"published."
+msgstr ""
+"Seu anúncio %s esta aguardando revisão pelo administrador. Até lá, não "
+"será publicado."
+
+#: includes/class-inventor-notifications-logic.php:273
+#, php-format
+msgid "New submission %s was published."
+msgstr "Novo anúncio %s foi publicado."
+
+#: includes/class-inventor-notifications-logic.php:277
+#, php-format
+msgid "Your submission %s was published."
+msgstr "Seu anúncio %s foi publicado."
+
+#: includes/class-inventor-notifications-post-type-notification.php:37
+#: includes/class-inventor-notifications-post-type-notification.php:43
+#: includes/class-inventor-notifications-post-type-notification.php:49
+msgid "Notifications"
+msgstr "Notificações"
+
+#: includes/class-inventor-notifications-post-type-notification.php:38
+msgid "Notification"
+msgstr "Notificação"
+
+#: includes/class-inventor-notifications-post-type-notification.php:39
+#: includes/class-inventor-notifications-post-type-notification.php:40
+msgid "Add New Notification"
+msgstr "Adicionar Nova Notificação"
+
+#: includes/class-inventor-notifications-post-type-notification.php:41
+msgid "Edit Notification"
+msgstr "Editar notificação"
+
+#: includes/class-inventor-notifications-post-type-notification.php:42
+msgid "New Notification"
+msgstr "Nova Notificação"
+
+#: includes/class-inventor-notifications-post-type-notification.php:44
+msgid "View Notification"
+msgstr "Visualizar Notificação"
+
+#: includes/class-inventor-notifications-post-type-notification.php:45
+msgid "Search Notification"
+msgstr "Procurar notificação"
+
+#: includes/class-inventor-notifications-post-type-notification.php:46
+msgid "No Notifications found"
+msgstr "Nenhuma Notificação Encontrada."
+
+#: includes/class-inventor-notifications-post-type-notification.php:47
+msgid "No Notifications Found in Trash"
+msgstr "Nenhuma Notificação Encontrada na Lixeira"
+
+#: includes/class-inventor-notifications-post-type-notification.php:77
+msgid "General"
+msgstr "Geral"
+
+#: includes/class-inventor-notifications-post-type-notification.php:85
+#: includes/class-inventor-notifications-post-type-notification.php:102
+msgid "Action"
+msgstr "Ação"
+
+#: includes/class-inventor-notifications-post-type-notification.php:101
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-inventor-notifications-post-type-notification.php:103
+msgid "Author"
+msgstr "Autor"
+
+#: includes/class-inventor-notifications-post-type-notification.php:104
+msgid "Date and status"
+msgstr "Data e Status"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:34
+msgid "Inventor Notifications"
+msgstr "Inventor notificações"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:46
+msgid "Package expiration warning"
+msgstr "Aviso de expiração do pacote"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:59
+msgid "Package expiration warning threshold"
+msgstr "Aviso do limite de expiração do pacote"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:64
+msgid "3 days"
+msgstr "3 dias"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:65
+msgid "7 days"
+msgstr "7 dias"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:66
+msgid "14 days"
+msgstr "14 dias"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:67
+msgid "30 days"
+msgstr "30 dias"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:69
+msgid "Set threshold in days."
+msgstr "Definir o limite em dias."
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:80
+msgid "Package expiration announcement"
+msgstr "Anúncio do pacote de expiração"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:84
+msgid "One day before package expiration."
+msgstr "Um dia antes da expiração do pacote."
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:99
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:129
+msgid "For admin"
+msgstr "Pelo administrador"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:114
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:144
+msgid "For user"
+msgstr "Pelo usuário"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:125
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:140
+msgid "Submission published"
+msgstr "Anúncio publicado"

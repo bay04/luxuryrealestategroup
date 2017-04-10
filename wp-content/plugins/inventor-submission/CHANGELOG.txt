@@ -1,0 +1,110 @@
+Version: 1.0.0
+Release date: 2015-04-07
+What's new:
+- First release
+
+
+Version: 1.0.1
+Release date: 2015-04-12
+What's new:
+- support for PHP 5.3
+
+
+Version: 1.1.0
+Release date: 2015-04-18
+What's new:
+- fixed missing translation strings
+- French translation
+- Danish translation
+- icons in submission button
+
+
+Version: 1.1.1
+Release date: 2015-04-19
+What's new:
+- makes pending listings visible to listing author
+
+
+Version: 1.2.0
+Release date: 2016-05-01
+What's new:
+- support for cookie storage
+- choose listing type step will be skipped for single post type websites
+- new WP filter: inventor_submission_allowed_listing_post_types
+
+
+Version: 1.3.0
+Release date: 2016-05-20
+What's new:
+- option to filter user listings by status
+- new submission type: pay per post
+- monetization option: pay per featured listing
+- German translation
+
+
+Version: 1.3.1
+Release date: 2016-05-22
+What's new:
+- fixed "Price not set" message in payment form
+- fixed payment preparation
+
+
+Version: 1.4.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- user is redirected to his listings page (if exists) after submission creation
+- typo in prepare payment data fix
+
+
+Version: 1.5.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- updated Danish translations
+- Portugal translation fix
+- option to override translation files more easily
+
+
+Version: 1.6.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- German translation fix
+- listing type icon
+
+
+Version: 1.7.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- plugin dependency fix
+- fixed saving of empty fields
+- Call to a member function save_fields() error fix
+- submission list accepts listing-type URL argument
+- wire transfer payments need to be approved by website owner at first
+
+
+Version 1.8.0
+Release date: 2016-10-07
+What's new:
+- refactored code of submission steps
+- appended listing title to the edit page title
+- excerpt of the listing title in the my listings page
+- fixed missing listing type icon in submission shortcode
+
+
+Version 1.9.0
+Release date: 2016-11-04
+What's new:
+- single step submission available
+- "Check your package message" is visible only if inventor-packages plugin is activated
+
+
+Version 2.0.0
+Release date: 2016-12-13
+What's new:
+- single step submission minor fix
+- submission support for incoming booking plugin
+- WP filter inventor_metabox_title takes $post_type argument
+- WP filter inventor_metabox_description takes $post_type argument

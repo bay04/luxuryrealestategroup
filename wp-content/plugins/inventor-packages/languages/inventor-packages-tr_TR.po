@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Packages\n"
+"POT-Creation-Date: 2016-05-03 14:24+0200\n"
+"PO-Revision-Date: 2016-06-07 00:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-packages-logic.php:54
+#: includes/post-types/class-inventor-packages-post-type-package.php:37
+#: includes/post-types/class-inventor-packages-post-type-package.php:43
+#: includes/post-types/class-inventor-packages-post-type-package.php:49
+#: includes/widgets/class-inventor-packages-widget-packages.php:23
+msgid "Packages"
+msgstr "Paketler"
+
+#: includes/class-inventor-packages-logic.php:203
+#: templates/widgets/packages.php:83
+msgid "Unlimited"
+msgstr "Sınırsız"
+
+#: includes/class-inventor-packages-logic.php:207
+#: includes/post-types/class-inventor-packages-post-type-package.php:107
+#: includes/post-types/class-inventor-packages-post-type-package.php:188
+#: templates/widgets/packages.php:80
+msgid "Max Listings"
+msgstr "Maksimum İlan Verebilme"
+
+#: includes/class-inventor-packages-logic.php:258
+msgid "Listing details"
+msgstr "İlan Detayları"
+
+#: includes/class-inventor-packages-logic.php:281
+msgid "week"
+msgstr "hafta"
+
+#: includes/class-inventor-packages-logic.php:282
+msgid "month"
+msgstr "ay"
+
+#: includes/class-inventor-packages-logic.php:283
+msgid "year"
+msgstr "yıl"
+
+#: includes/class-inventor-packages-logic.php:300
+msgid "Purchase package"
+msgstr "Paket Satın Al"
+
+#: includes/class-inventor-packages-logic.php:301
+#, php-format
+msgid "Upgrade package to %s"
+msgstr "Paketi %s paketine yükselt"
+
+#: includes/class-inventor-packages-logic.php:319
+msgid "Not set"
+msgstr "Ayarlanmadı"
+
+#: includes/class-inventor-packages-logic.php:466
+msgid "Infinite"
+msgstr "Sınırsız"
+
+#: includes/class-inventor-packages-logic.php:506
+#: includes/class-inventor-packages-logic.php:521
+#: includes/class-inventor-packages-logic.php:567
+#: includes/post-types/class-inventor-packages-post-type-package.php:38
+msgid "Package"
+msgstr "Paket"
+
+#: includes/class-inventor-packages-logic.php:515
+msgid "Package Information"
+msgstr "Paket Bilgileri"
+
+#: includes/class-inventor-packages-logic.php:537
+msgid "Infinite duration"
+msgstr "Sınırsız Paket Süresi"
+
+#: includes/class-inventor-packages-logic.php:544
+msgid "Validity"
+msgstr "Geçerlilik"
+
+#: includes/class-inventor-packages-logic.php:570
+msgid ""
+"Button will be linked to the purchase page. You must create payment page "
+"(containing [inventor_payment]) which must be set up in customizer."
+msgstr ""
+"Buton satın alma sayfasına yönlendirildi. Satın alma sayfasını "
+"özeleştiriciden siz oluşturmalısınız. (containing [inventor_payment])"
+
+#: includes/class-inventor-packages-logic.php:1026
+msgid "Package is not free."
+msgstr "Paket ücretsiz değil"
+
+#: includes/class-inventor-packages-logic.php:1031
+msgid "Package has been set."
+msgstr "Paket ayarlandı."
+
+#: includes/class-inventor-packages-logic.php:1033
+msgid "Could not set package for user."
+msgstr "Kullanıcı için paket oluşturulamadı"
+
+#: includes/class-inventor-packages-logic.php:1054
+msgid "Package has been upgraded."
+msgstr "Paket başarıyla yükseltildi"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:34
+msgid "Inventor Packages"
+msgstr "Envantor Paketleri"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:49
+msgid "Default package"
+msgstr "Varsayılan Paket"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:53
+msgid "For newly registered user"
+msgstr "Yeni Kayıt Olan Kullanıcılar için"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:39
+#: includes/post-types/class-inventor-packages-post-type-package.php:40
+msgid "Add New Package"
+msgstr "Yeni Paket Ekle"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:41
+msgid "Edit Package"
+msgstr "Paketi Düzenle"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:42
+msgid "New Package"
+msgstr "Yeni Paket"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:44
+msgid "View Package"
+msgstr "Paketi Görüntüle"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:45
+msgid "Search Package"
+msgstr "Paket Ara"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:46
+msgid "No Packages found"
+msgstr "Paket Bulunamadı"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:47
+msgid "No Packages Found in Trash"
+msgstr "Çöpte hiç Paket bulunamadıı"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:76
+msgid "General"
+msgstr "Genel"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:85
+#: includes/post-types/class-inventor-packages-post-type-package.php:186
+#: templates/widgets/packages.php:64
+msgid "Price"
+msgstr "Fiyat"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:88
+#, php-format
+msgid "In %s."
+msgstr "%s içinde."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:100
+#: includes/post-types/class-inventor-packages-post-type-package.php:187
+#: templates/widgets/packages.php:72
+msgid "Duration"
+msgstr "Süre"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:109
+msgid ""
+"If submission type is 'packages'. Use -1 for unlimited amount of listings."
+msgstr ""
+"Eğer gönderi türü  \"paketler\" ise sınırsız listeleme özelliğini "
+"aktifleştirmek için -1 ayarlayın."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:119
+#: includes/post-types/class-inventor-packages-post-type-package.php:190
+msgid "Private"
+msgstr "Özel"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:121
+msgid ""
+"If checked, package won't be visible in the pricing. Suitable for VIP users "
+"or admins."
+msgstr ""
+"Eğer aktifleştirilse paket fiyatlandırmada gösterilmeyecek. VIP kullanıcılar "
+"veya yöneticiler için ideal."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:126
+msgid "Permissions"
+msgstr "İzinler"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:135
+msgid "Video"
+msgstr "Video"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:141
+msgid "Gallery"
+msgstr "Galeri"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:147
+msgid "Reviews"
+msgstr "İncelemeler"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:159
+msgid "Location"
+msgstr "Konum"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:165
+msgid "Opening hours"
+msgstr "Açılış Saati"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:171
+msgid "Contact"
+msgstr "İletişim"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:185
+#: templates/widgets/packages-admin.php:12
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:189
+msgid "Type"
+msgstr "Türü"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:191
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:238
+msgid "Yes"
+msgstr "Evet"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:238
+msgid "No"
+msgstr "Hayır"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:243
+msgid "free"
+msgstr "ücretsiz"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:245
+msgid "regular"
+msgstr "standart"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:247
+msgid "simple"
+msgstr "basit"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:249
+msgid "trial"
+msgstr "deneme sürümü"
+
+#: includes/widgets/class-inventor-packages-widget-packages.php:25
+msgid "Displays available packages."
+msgstr "Kullanılabilir paketleri göster"
+
+#: templates/package-info.php:13
+msgid ""
+"Site is using packages. Before you can post listing, please upgrade your "
+"package."
+msgstr "Bu sitede listeleme yapmak için paket satın almalısınız."
+
+#: templates/package-info.php:17
+msgid "You don't have any package."
+msgstr "Herhangi bir pakete sahip değilsiniz. Lütfen bir paket satın alın."
+
+#: templates/package-info.php:22
+#, php-format
+msgid "You are using <strong>%s</strong> package."
+msgstr "<strong>%s</strong> paketini kullanıyorsunuz."
+
+#: templates/package-info.php:29
+#, php-format
+msgid "Your membership is valid until <strong>%s</strong>."
+msgstr "Üyeliğiniz <strong>%s</strong> tarihine kadar aktiftir."
+
+#: templates/package-info.php:38
+msgid "You can add <strong>unlimited</strong> amount of items"
+msgstr "<strong>Sınırsız</strong> liste ekleyebilirsiniz."
+
+#: templates/package-info.php:40
+#, php-format
+msgid ""
+"You can not add new listings because you spent all of your available "
+"listings. Change your package. First <strong>%s</strong> items has been "
+"disabled from listing."
+msgstr ""
+"Yeni bir liste ekleyemezsiniz. Çünkü bütün listeleme haklarınızı "
+"kullandınız. Lütfen paketinizi yükseltin. <strong>%s</strong>  kadar "
+"listeleme devredışı bırakılacak."
+
+#: templates/package-info.php:42
+#, php-format
+msgid "You can add <strong>%s</strong> items."
+msgstr "<strong>%s</strong>  sayıda liste ekleyebilirsiniz"
+
+#: templates/package-info.php:49
+#, php-format
+msgid "Your membership already expired at <strong>%s</strong>."
+msgstr "Üyeliğiniz <strong>%s</strong> tarihinde sona erecektir."
+
+#: templates/package-info.php:51
+msgid "All your items has been deactivated until you pay for new membership."
+msgstr ""
+"Bütün listeleriniz üyeliğinizi yenileyene kadar listeden kaldırılmıştır."
+
+#: templates/package-info.php:67
+msgid "Select Package"
+msgstr "Paket seç."
+
+#: templates/package-info.php:77 templates/widgets/packages.php:55
+msgid "Change"
+msgstr "Değiştir"
+
+#: templates/payment-form-before.php:9
+msgid "You can't choose trial package."
+msgstr "Deneme sürümü paketini seçemezsiniz."
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You chose package <strong>\"%s\"</strong>."
+msgstr "<strong>\"%s\"</strong> paketini seçtiniz"
+
+#: templates/payment-form-before.php:17
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for package <strong>\"%s\"</strong>."
+msgstr ""
+"<strong>\"%s\"</strong> paketi için <strong>%s</strong>  tutarı kadar ödeme "
+"yapacaksınız."
+
+#: templates/payment-form-before.php:23 templates/payment-form-fields.php:23
+msgid "Missing package."
+msgstr "Eksik paket"
+
+#: templates/payment-form-fields.php:8
+msgid ""
+"Trial packages can only be used as a default package. They cannot be "
+"purchased or chosen."
+msgstr ""
+"Deneme sürümü paketi varsayılan paket olarak kullanılabilir. Satın alınamaz."
+
+#: templates/payment-form-fields.php:16
+msgid "Confirm"
+msgstr "Onayla"
+
+#: templates/widgets/packages.php:53
+msgid "Purchase"
+msgstr "Satın Al"
+
+#: templates/widgets/packages.php:95
+msgid "No packages found."
+msgstr "Paket bulunamadı."

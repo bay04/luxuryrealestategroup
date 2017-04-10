@@ -1,0 +1,3712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor\n"
+"POT-Creation-Date: 2016-08-16 09:26+0200\n"
+"PO-Revision-Date: 2016-08-16 09:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/admin/class-inventor-admin-dashboard.php:38
+msgid "Listings counts"
+msgstr ""
+
+#: includes/admin/class-inventor-admin-menu.php:91
+msgid "Inventor"
+msgstr "Inventor"
+
+#: includes/admin/class-inventor-admin-menu.php:92
+#: includes/post-types/class-inventor-post-type-listing.php:95
+#: includes/post-types/class-inventor-post-type-listing.php:101
+#: includes/widgets/class-inventor-widget-listings.php:23
+#: templates/misc/breadcrumb.php:14 templates/misc/breadcrumb.php:48
+msgid "Listings"
+msgstr "Listări"
+
+#: includes/admin/class-inventor-admin-menu.php:93
+msgid "Lexicon"
+msgstr "Lexicon"
+
+#: includes/admin/class-inventor-admin-notices.php:60
+msgid "Please refresh the page and retry action."
+msgstr "Te rugăm să reîncarci pagina și să încerci din nou."
+
+#: includes/class-inventor-billing.php:35
+#: includes/post-types/class-inventor-post-type-report.php:93
+#: templates/mails/inquire.php:8 templates/mails/report.php:13
+#: templates/misc/report-form.php:92
+#: templates/widgets/listing-inquire-admin.php:46
+#: templates/widgets/listing-inquire.php:45
+msgid "Name"
+msgstr "Nume"
+
+#: includes/class-inventor-billing.php:36
+msgid "Reg. No."
+msgstr "Registrul Comerțului"
+
+#: includes/class-inventor-billing.php:37
+msgid "VAT No."
+msgstr "Număr TVA"
+
+#: includes/class-inventor-billing.php:38
+#: includes/post-types/class-inventor-post-type-user.php:218
+msgid "Street and number"
+msgstr "Strada și număr"
+
+#: includes/class-inventor-billing.php:39
+#: includes/post-types/class-inventor-post-type-user.php:227
+msgid "Postal code"
+msgstr "Cod Poștal"
+
+#: includes/class-inventor-billing.php:40
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:39
+#: includes/post-types/class-inventor-post-type-user.php:236
+#: templates/payment/gateways/wire-transfer.php:53
+msgid "City"
+msgstr "Oraș"
+
+#: includes/class-inventor-billing.php:41
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:40
+#: includes/post-types/class-inventor-post-type-user.php:245
+#: templates/payment/gateways/wire-transfer.php:58
+msgid "Country"
+msgstr "Țară"
+
+#: includes/class-inventor-billing.php:42
+#: includes/post-types/class-inventor-post-type-user.php:254
+msgid "State / County"
+msgstr "Stat / Județ"
+
+#: includes/class-inventor-billing.php:85 templates/payment/payment-form.php:49
+msgid "Billing details"
+msgstr "Detalii facturare"
+
+#: includes/class-inventor-filter.php:35
+#: templates/widgets/filter-fields/listing-type.php:4
+#: templates/widgets/filter-fields/listing-type.php:16
+msgid "Listing type"
+msgstr "Tip listare"
+
+#: includes/class-inventor-filter.php:36 includes/class-inventor-filter.php:68
+#: includes/class-inventor-metaboxes.php:206
+#: includes/post-types/class-inventor-post-type-food.php:148
+#: includes/post-types/class-inventor-post-type-report.php:125
+#: templates/widgets/filter-admin.php:18
+#: templates/widgets/filter-fields/title.php:4
+#: templates/widgets/filter-fields/title.php:8
+#: templates/widgets/listing-author-admin.php:12
+#: templates/widgets/listing-categories-admin.php:16
+#: templates/widgets/listing-details-admin.php:12
+#: templates/widgets/listing-inquire-admin.php:24
+#: templates/widgets/listings-admin.php:22
+#: templates/widgets/opening-hours-admin.php:12
+#: templates/widgets/users-admin.php:17
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/class-inventor-filter.php:37
+#: includes/class-inventor-metaboxes.php:218
+#: includes/class-inventor-post-types.php:613
+#: includes/post-types/class-inventor-post-type-food.php:154
+#: templates/widgets/filter-fields/description.php:4
+#: templates/widgets/filter-fields/description.php:8
+#: templates/widgets/listing-categories-admin.php:29
+#: templates/widgets/listings-admin.php:35 templates/widgets/users-admin.php:30
+msgid "Description"
+msgstr "Descriere"
+
+#: includes/class-inventor-filter.php:38
+#: templates/widgets/filter-fields/keyword.php:4
+#: templates/widgets/filter-fields/keyword.php:8
+msgid "Keyword"
+msgstr "Cuvant cheie"
+
+#: includes/class-inventor-filter.php:39
+#: templates/widgets/filter-fields/distance.php:4
+#: templates/widgets/filter-fields/distance.php:10
+msgid "Distance"
+msgstr "Distanță"
+
+#: includes/class-inventor-filter.php:40 includes/class-inventor-filter.php:67
+#: includes/class-inventor-metaboxes.php:845
+#: includes/class-inventor-metaboxes.php:854
+#: includes/class-inventor-post-types.php:562
+#: includes/post-types/class-inventor-post-type-food.php:160
+#: includes/post-types/class-inventor-post-type-transaction.php:107
+#: includes/post-types/class-inventor-post-type-transaction.php:142
+#: templates/listings/row.php:49 templates/payment/transactions.php:19
+msgid "Price"
+msgstr "Preț"
+
+#: includes/class-inventor-filter.php:41
+#: includes/class-inventor-metaboxes.php:974
+#: includes/class-inventor-metaboxes.php:981
+#: includes/class-inventor-metaboxes.php:1172
+#: includes/post-types/class-inventor-post-type-report.php:129
+#: includes/post-types/class-inventor-post-type-transaction.php:146
+#: templates/mails/inquire.php:20 templates/payment/transactions.php:24
+#: templates/widgets/listing-inquire-admin.php:98
+#: templates/widgets/listing-inquire.php:69
+msgid "Date"
+msgstr "Dată"
+
+#: includes/class-inventor-filter.php:42
+msgid "Geolocation"
+msgstr "Geolocație"
+
+#: includes/class-inventor-filter.php:43
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:34
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:44
+#: templates/widgets/listings-admin.php:235
+msgid "Locations"
+msgstr "Locații"
+
+#: includes/class-inventor-filter.php:44
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:35
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:45
+msgid "Categories"
+msgstr "Categorii"
+
+#: includes/class-inventor-filter.php:45
+#: includes/class-inventor-metaboxes.php:938 templates/listings/column.php:18
+#: templates/listings/row.php:20 templates/widgets/filter-fields/featured.php:7
+msgid "Featured"
+msgstr "Promovate"
+
+#: includes/class-inventor-filter.php:46
+#: includes/class-inventor-metaboxes.php:950 templates/listings/column.php:22
+#: templates/listings/row.php:24 templates/widgets/filter-fields/reduced.php:6
+msgid "Reduced"
+msgstr "Reduse"
+
+#: includes/class-inventor-filter.php:69
+msgid "Published"
+msgstr "Publicate"
+
+#: includes/class-inventor-metaboxes.php:104
+msgid "Simple"
+msgstr "Simplu"
+
+#: includes/class-inventor-metaboxes.php:105
+#: includes/class-inventor-metaboxes.php:234
+msgid "Featured Image"
+msgstr "Imagine reprezentativă"
+
+#: includes/class-inventor-metaboxes.php:106
+#: includes/class-inventor-metaboxes.php:424
+msgid "Custom Image"
+msgstr "Imagine customizată"
+
+#: includes/class-inventor-metaboxes.php:107
+#: includes/class-inventor-metaboxes.php:440
+#: includes/class-inventor-metaboxes.php:595
+#: includes/class-inventor-post-types.php:615
+msgid "Video"
+msgstr "Video"
+
+#: includes/class-inventor-metaboxes.php:112
+msgid "Google Map"
+msgstr "Hartă Google"
+
+#: includes/class-inventor-metaboxes.php:116
+msgid "Google Street View"
+msgstr "Google Street View"
+
+#: includes/class-inventor-metaboxes.php:120
+msgid "Google Inside View"
+msgstr "Google Inside View"
+
+#: includes/class-inventor-metaboxes.php:196
+#: includes/post-types/class-inventor-post-type-report.php:74
+#: includes/post-types/class-inventor-post-type-transaction.php:74
+#: includes/post-types/class-inventor-post-type-user.php:155
+msgid "General"
+msgstr "General"
+
+#: includes/class-inventor-metaboxes.php:197
+msgid ""
+"General information about the listing. Enter its title, description and "
+"featured image."
+msgstr ""
+"Informații generale despre listare. Introdu titlul, descrierea și imaginea "
+"reprezentativă."
+
+#: includes/class-inventor-metaboxes.php:256
+#: includes/class-inventor-metaboxes.php:279
+#: includes/class-inventor-post-types.php:621
+msgid "FAQ"
+msgstr "Întrebari frecvente"
+
+#: includes/class-inventor-metaboxes.php:257
+msgid "List of most frequently asked questions."
+msgstr "Lista celor mai frecvente întrebări."
+
+#: includes/class-inventor-metaboxes.php:280
+msgid "Add Another FAQ"
+msgstr "Adaugă altă întrebare frecventă"
+
+#: includes/class-inventor-metaboxes.php:281
+msgid "Remove FAQ"
+msgstr "Șterge întrebare frecventă"
+
+#: includes/class-inventor-metaboxes.php:289
+msgid "Question"
+msgstr "Întrebare"
+
+#: includes/class-inventor-metaboxes.php:299
+msgid "Answer"
+msgstr "Răspuns"
+
+#: includes/class-inventor-metaboxes.php:318
+msgid "Branding"
+msgstr "Branding"
+
+#: includes/class-inventor-metaboxes.php:319
+msgid "Specific listing details like logo, slogan or its own color."
+msgstr "Detalii specifice listării cum ar fi logo, slogan sau coloare."
+
+#: includes/class-inventor-metaboxes.php:328
+msgid "Slogan"
+msgstr "Slogan"
+
+#: includes/class-inventor-metaboxes.php:342
+msgid "Brand color"
+msgstr "Culoare brand"
+
+#: includes/class-inventor-metaboxes.php:356
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/class-inventor-metaboxes.php:382
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/class-inventor-metaboxes.php:383
+msgid "Choose banner type which will be displayed in the listing detail page."
+msgstr "Alege tipul de banner care vrei sa fie afișat în pagina listării"
+
+#: includes/class-inventor-metaboxes.php:398
+msgid "To set map position go to section <strong>Location</strong>."
+msgstr ""
+"Pentru a seta poziția hărții dute la secțiunea <strong>Locație</strong>."
+
+#: includes/class-inventor-metaboxes.php:402
+msgid ""
+"To set Street View go to section <strong>Location</strong>. Do not forget to "
+"<strong>enable</strong> Street View."
+msgstr ""
+"Pentru a seta Street View dute la secțiunea <strong>Locație</strong> și nu "
+"uita să activezi opțiunea Street View."
+
+#: includes/class-inventor-metaboxes.php:406
+msgid ""
+"To set Inside View go to section <strong>Location</strong>. Do not forget to "
+"<strong>enable</strong> Inside View."
+msgstr ""
+"Pentru a seta Inside View dute la secțiunea <strong>Locație</strong> și nu "
+"uita să activezi opțiunea Inside View."
+
+#: includes/class-inventor-metaboxes.php:409
+msgid "Banner Type"
+msgstr "Tip banner"
+
+#: includes/class-inventor-metaboxes.php:430
+msgid "Upload an image."
+msgstr "Încarcă o imagine"
+
+#: includes/class-inventor-metaboxes.php:445
+msgid "Upload video file in .mp4 format."
+msgstr "Încarcă un video în format .mp4"
+
+#: includes/class-inventor-metaboxes.php:452
+msgid "Loop"
+msgstr "Repetă"
+
+#: includes/class-inventor-metaboxes.php:458
+msgid "Check to loop video"
+msgstr "Bifează pentru a repeta videoul"
+
+#: includes/class-inventor-metaboxes.php:468
+msgid "Zoom"
+msgstr "Mărire"
+
+#: includes/class-inventor-metaboxes.php:475
+msgid "Minimum value of zoom is 0. Maximum value depends on location (12-25)."
+msgstr ""
+"Valoarea minimă pentru zoom este 0. Valoareaa maximă depinde de locație "
+"(12-25)."
+
+#: includes/class-inventor-metaboxes.php:485
+msgid "Map Type"
+msgstr "Tip hartă"
+
+#: includes/class-inventor-metaboxes.php:493
+msgid "Roadmap"
+msgstr "Șosea"
+
+#: includes/class-inventor-metaboxes.php:494
+msgid "Satellite"
+msgstr "Satelit"
+
+#: includes/class-inventor-metaboxes.php:495
+msgid "Hybrid"
+msgstr "Hibrid"
+
+#: includes/class-inventor-metaboxes.php:503
+msgid "Marker"
+msgstr "Marker"
+
+#: includes/class-inventor-metaboxes.php:509
+msgid "Check to show marker."
+msgstr "Selectează pentru afișare marker"
+
+#: includes/class-inventor-metaboxes.php:529
+#: includes/class-inventor-metaboxes.php:538
+#: includes/class-inventor-post-types.php:612
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/class-inventor-metaboxes.php:530
+msgid "Upload some photos into listing gallery."
+msgstr "Încarcă câteva poze pentru galeria foto."
+
+#: includes/class-inventor-metaboxes.php:562
+#: includes/class-inventor-metaboxes.php:570
+#: includes/post-types/class-inventor-post-type-car.php:238
+#: includes/post-types/class-inventor-post-type-shopping.php:116
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:35
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:115
+msgid "Color"
+msgstr "Culoare"
+
+#: includes/class-inventor-metaboxes.php:563
+msgid "Listing color definition."
+msgstr "Definește culoarea listării"
+
+#: includes/class-inventor-metaboxes.php:596
+msgid "If you wish, you can enter listing video URL here."
+msgstr "Dacă dorești, poți să introduci URL-ul video al listării aici."
+
+#: includes/class-inventor-metaboxes.php:604 templates/mails/inquire.php:25
+#: templates/mails/report.php:9
+msgid "URL"
+msgstr "URL"
+
+#: includes/class-inventor-metaboxes.php:610
+msgid ""
+"For more information about embeding videos and video links support please "
+"read this <a href=\"http://codex.wordpress.org/Embeds\">article</a>."
+msgstr ""
+"Pentru mai multe informații despre încorporarea video și link-uri video de "
+"sprijin vă rugăm să citiți acest <a href=\"http://codex.wordpress.org/Embeds"
+"\">articol</a>."
+
+#: includes/class-inventor-metaboxes.php:628
+#: includes/class-inventor-metaboxes.php:636
+#: templates/widgets/listing-categories-admin.php:41
+msgid "Listing categories"
+msgstr "Categorie listare"
+
+#: includes/class-inventor-metaboxes.php:629
+msgid "Assign listing into category. It will help users to find it."
+msgstr ""
+"Atribuie listare în categorie. Aceasta va ajuta utilizatorii să o găsească."
+
+#: includes/class-inventor-metaboxes.php:663
+#: includes/class-inventor-post-types.php:617
+msgid "Opening Hours"
+msgstr "Pogram de lucru "
+
+#: includes/class-inventor-metaboxes.php:664
+msgid "Let people know when it is open."
+msgstr "Spune-le vizitatorilor când este deschis."
+
+#: includes/class-inventor-metaboxes.php:713
+#: includes/class-inventor-post-types.php:619
+msgid "Contact"
+msgstr "Contact"
+
+#: includes/class-inventor-metaboxes.php:714
+msgid "Enter some details how can people reach the listing."
+msgstr ""
+"Introdu câteva detalii despre cum pot oamenii să ajungă la această locație."
+
+#: includes/class-inventor-metaboxes.php:723
+#: includes/post-types/class-inventor-post-type-user.php:182
+#: templates/accounts/register.php:16 templates/author.php:43
+#: templates/listings/detail/section-contact.php:18
+#: templates/mails/inquire.php:12 templates/mails/report.php:17
+#: templates/misc/report-form.php:96 templates/users/card.php:40
+#: templates/widgets/listing-inquire-admin.php:59
+#: templates/widgets/listing-inquire.php:51
+msgid "E-mail"
+msgstr "Email"
+
+#: includes/class-inventor-metaboxes.php:737
+#: includes/post-types/class-inventor-post-type-user.php:202
+#: templates/author.php:50 templates/listings/detail/section-contact.php:36
+#: templates/mails/inquire.php:16 templates/users/card.php:47
+#: templates/widgets/listing-inquire-admin.php:72
+#: templates/widgets/listing-inquire.php:57
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/class-inventor-metaboxes.php:751
+#: includes/post-types/class-inventor-post-type-user.php:193
+#: templates/author.php:57 templates/listings/detail/section-contact.php:28
+#: templates/users/card.php:54 templates/widgets/listing-author.php:73
+msgid "Website"
+msgstr "Site"
+
+#: includes/class-inventor-metaboxes.php:765
+#: templates/listings/detail/section-contact.php:46
+msgid "Person"
+msgstr "Persoana contact"
+
+#: includes/class-inventor-metaboxes.php:778
+#: includes/post-types/class-inventor-post-type-user.php:210
+#: templates/listings/detail/section-contact.php:52
+msgid "Address"
+msgstr "Adresă"
+
+#: includes/class-inventor-metaboxes.php:808
+msgid "Social"
+msgstr "Conturi social media"
+
+#: includes/class-inventor-metaboxes.php:809
+msgid "Connections to social networks."
+msgstr "Conturi social media"
+
+#: includes/class-inventor-metaboxes.php:846
+msgid "Define listing price here."
+msgstr "Definește prețul listării aici."
+
+#: includes/class-inventor-metaboxes.php:862
+#: includes/post-types/class-inventor-post-type-food.php:164
+#, php-format
+msgid "In %s."
+msgstr "în %s."
+
+#: includes/class-inventor-metaboxes.php:874
+msgid "Prefix"
+msgstr "Prefix"
+
+#: includes/class-inventor-metaboxes.php:880
+msgid "Any text shown before price (for example \"from\")."
+msgstr "Un text afisat înaintea prețului (exemplu: de la)."
+
+#: includes/class-inventor-metaboxes.php:888
+msgid "Suffix"
+msgstr "Sufix"
+
+#: includes/class-inventor-metaboxes.php:894
+msgid "Any text shown after price (for example \"per night\")."
+msgstr "Un text afisat după preț (exemplu: pe noapte)."
+
+#: includes/class-inventor-metaboxes.php:902
+msgid "Custom"
+msgstr "Altul"
+
+#: includes/class-inventor-metaboxes.php:908
+msgid ""
+"Any text instead of numeric price (for example \"by agreement\"). Prefix and "
+"Suffix will be ignored."
+msgstr ""
+"Orice text în loc de preț numeric (exemplu: întreabă). Prefixul și sufixul "
+"va fi ignorat."
+
+#: includes/class-inventor-metaboxes.php:931
+msgid "Flags"
+msgstr "Steaguri"
+
+#: includes/class-inventor-metaboxes.php:1005
+#: includes/class-inventor-metaboxes.php:1012
+msgid "Time"
+msgstr "Timp"
+
+#: includes/class-inventor-metaboxes.php:1036
+msgid "Date interval"
+msgstr "Interval dată"
+
+#: includes/class-inventor-metaboxes.php:1043
+#: templates/widgets/filter-fields/date.php:6
+#: templates/widgets/filter-fields/date.php:11
+msgid "Date from"
+msgstr "De la data"
+
+#: includes/class-inventor-metaboxes.php:1055
+#: templates/widgets/filter-fields/date.php:23
+#: templates/widgets/filter-fields/date.php:28
+msgid "Date to"
+msgstr "Până la data"
+
+#: includes/class-inventor-metaboxes.php:1079
+#: includes/class-inventor-metaboxes.php:1165
+msgid "Date and time interval"
+msgstr "Interval dată și oră"
+
+#: includes/class-inventor-metaboxes.php:1086
+msgid "Date and time from"
+msgstr "Dată și oră de la"
+
+#: includes/class-inventor-metaboxes.php:1098
+msgid "Date and time to"
+msgstr "Dată și oră până la"
+
+#: includes/class-inventor-metaboxes.php:1122
+msgid "Time interval"
+msgstr "Interval timp"
+
+#: includes/class-inventor-metaboxes.php:1129
+#: includes/class-inventor-metaboxes.php:1184
+#: templates/controls/opening-hours.php:16
+msgid "Time from"
+msgstr "Timp de la"
+
+#: includes/class-inventor-metaboxes.php:1141
+#: includes/class-inventor-metaboxes.php:1196
+#: templates/controls/opening-hours.php:17
+msgid "Time to"
+msgstr "Timp până la"
+
+#: includes/class-inventor-metaboxes.php:1220
+#: includes/class-inventor-post-types.php:618
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:35
+#: templates/listings/row.php:55
+#: templates/widgets/filter-fields/geolocation.php:4
+#: templates/widgets/filter-fields/geolocation.php:8
+#: templates/widgets/filter-fields/locations.php:4
+#: templates/widgets/filter-fields/locations.php:18
+msgid "Location"
+msgstr "Locație"
+
+#: includes/class-inventor-metaboxes.php:1221
+msgid "Set location of the listing. It will help people to find it."
+msgstr "Setează locația listării, va ajuta oamenii să o găsească."
+
+#: includes/class-inventor-metaboxes.php:1230
+msgid "Location / Region"
+msgstr "Locație / Regiune"
+
+#: includes/class-inventor-metaboxes.php:1247
+msgid "Map Location"
+msgstr "Hartă locație"
+
+#: includes/class-inventor-metaboxes.php:1263
+msgid "Map Location Polygon"
+msgstr "Hartă locație"
+
+#: includes/class-inventor-metaboxes.php:1269
+msgid ""
+"Enter encoded path. It can be constructed using <a href=\"https://google-"
+"developers.appspot.com/maps/documentation/utilities/"
+"polylineutility_5bbd4b6fcb5fada7a7a2df3ef50d3f67.frame?hl=en&redesign=true\" "
+"target=\"_blank\">Interactive Polyline Encoder Utility</a>."
+msgstr ""
+"Introdu adresa codată. Poate fi construită folosind <a href=\"https://google-"
+"developers.appspot.com/maps/documentation/utilities/"
+"polylineutility_5bbd4b6fcb5fada7a7a2df3ef50d3f67.frame?hl=en&redesign=true\" "
+"target=\"_blank\">Interactive Polyline Encoder Utility</a>."
+
+#: includes/class-inventor-metaboxes.php:1280
+#: templates/listings/detail/section-location.php:29
+msgid "Street View"
+msgstr "Google Street View"
+
+#: includes/class-inventor-metaboxes.php:1286
+msgid "Check to enable Street View"
+msgstr "Click pentru a activa Google Street View"
+
+#: includes/class-inventor-metaboxes.php:1293
+msgid "Street View Location"
+msgstr "Locație Google Street View"
+
+#: includes/class-inventor-metaboxes.php:1311
+msgid "Inside View"
+msgstr "Google Inside View"
+
+#: includes/class-inventor-metaboxes.php:1317
+msgid "Check to enable Inside View"
+msgstr "Click pentru a activa Google Inside View"
+
+#: includes/class-inventor-metaboxes.php:1324
+msgid "Inside View Location"
+msgstr "Locație Google Inside View"
+
+#: includes/class-inventor-post-types.php:502
+msgid "Yes"
+msgstr "Da"
+
+#: includes/class-inventor-post-types.php:504
+msgid "No"
+msgstr "Nu"
+
+#: includes/class-inventor-post-types.php:614
+#: includes/post-types/class-inventor-post-type-car.php:99
+#: includes/post-types/class-inventor-post-type-dating.php:89
+#: includes/post-types/class-inventor-post-type-education.php:102
+#: includes/post-types/class-inventor-post-type-event.php:101
+#: includes/post-types/class-inventor-post-type-food.php:91
+#: includes/post-types/class-inventor-post-type-hotel.php:101
+#: includes/post-types/class-inventor-post-type-pet.php:102
+#: includes/post-types/class-inventor-post-type-shopping.php:102
+#: includes/post-types/class-inventor-post-type-travel.php:101
+msgid "Details"
+msgstr "Detalii"
+
+#: includes/class-inventor-post-types.php:616
+msgid "Meals And Drinks"
+msgstr "Mâncare și băuturi"
+
+#: includes/class-inventor-post-types.php:620
+msgid "Social connections"
+msgstr "Conturi social media"
+
+#: includes/class-inventor-reports.php:34
+msgid "Listing was reported"
+msgstr "Listarea a for raportată"
+
+#: includes/class-inventor-reports.php:98
+#: includes/post-types/class-inventor-post-type-listing.php:156
+#: includes/post-types/class-inventor-post-type-user.php:480
+msgid "reCAPTCHA is not valid."
+msgstr "Codul reCAPTCHA este invalid."
+
+#: includes/class-inventor-reports.php:159
+msgid "Listing was reported. Please, wait for admin review."
+msgstr ""
+"Listarea a fost raportată. Te rugăm să aștepți verificarea unui "
+"administrator."
+
+#: includes/class-inventor-reports.php:161
+#: includes/post-types/class-inventor-post-type-listing.php:227
+msgid "Unable to send a message."
+msgstr "Eroare la trimiterea mesajului."
+
+#: includes/class-inventor-shortcodes.php:55
+msgid "You have been successfully logged out."
+msgstr "Ai fost deautentificat cu succes."
+
+#: includes/class-inventor-shortcodes.php:237
+msgid "Save profile"
+msgstr "Salvează profil"
+
+#: includes/class-inventor-utilities.php:181
+msgid "Not set"
+msgstr "Nu s-a setat"
+
+#: includes/class-inventor-utilities.php:356
+msgid "Choose payment gateway please."
+msgstr "Te rugăm să alegi procesatorul de plăți."
+
+#: includes/class-inventor-wire-transfer.php:36
+msgid "Wire Transfer"
+msgstr "Transfer bancar"
+
+#: includes/class-inventor-wire-transfer.php:90
+msgid "Missing payment data."
+msgstr "Lipsă date plată."
+
+#: includes/class-inventor-wire-transfer.php:95
+#: includes/post-types/class-inventor-post-type-user.php:511
+msgid "You must agree terms &amp; conditions."
+msgstr "Trebuie să accepți termenii și condițiile."
+
+#: includes/customizations/class-inventor-customizations-currency.php:34
+msgid "Inventor Currency"
+msgstr "Valută Invertor"
+
+#: includes/customizations/class-inventor-customizations-currency.php:46
+msgid "Currency Symbol"
+msgstr "Simbol valută"
+
+#: includes/customizations/class-inventor-customizations-currency.php:59
+msgid "Currency Code"
+msgstr "Cod valută"
+
+#: includes/customizations/class-inventor-customizations-currency.php:73
+msgid "Show Symbol After Amount"
+msgstr "Afișează simbolul după sumă"
+
+#: includes/customizations/class-inventor-customizations-currency.php:85
+msgid "Decimal places"
+msgstr "Loc zecimale"
+
+#: includes/customizations/class-inventor-customizations-currency.php:104
+msgid "Decimal Separator"
+msgstr "Separator zecimale"
+
+#: includes/customizations/class-inventor-customizations-currency.php:109
+#: includes/customizations/class-inventor-customizations-currency.php:127
+msgid ". (dot)"
+msgstr ". (punct)"
+
+#: includes/customizations/class-inventor-customizations-currency.php:110
+#: includes/customizations/class-inventor-customizations-currency.php:128
+msgid ", (comma)"
+msgstr ", (virgulă)"
+
+#: includes/customizations/class-inventor-customizations-currency.php:122
+msgid "Thousands Separator"
+msgstr "Separator mii"
+
+#: includes/customizations/class-inventor-customizations-currency.php:129
+msgid "\" \" (space)"
+msgstr "\" \" (spațiu)"
+
+#: includes/customizations/class-inventor-customizations-currency.php:130
+msgid "\"\" (empty string)"
+msgstr "\"\" (gol)"
+
+#: includes/customizations/class-inventor-customizations-general.php:34
+msgid "Inventor General"
+msgstr "Inventor General"
+
+#: includes/customizations/class-inventor-customizations-general.php:61
+msgid "Post types"
+msgstr "Tipuri postare"
+
+#: includes/customizations/class-inventor-customizations-general.php:63
+msgid ""
+"After changing post types make sure that your resave permalinks in "
+"\"Settings - Permalinks\""
+msgstr ""
+"După schimbarea tipului postării te rugăm să salvezi din nou legăturile "
+"permanente din Setări - Legături permanente."
+
+#: includes/customizations/class-inventor-customizations-general.php:81
+msgid "Listing banner types"
+msgstr "Tipuri bannere"
+
+#: includes/customizations/class-inventor-customizations-general.php:83
+msgid "List of available banner types for listings"
+msgstr "Lista bannerelor disponibile pentru listări"
+
+#: includes/customizations/class-inventor-customizations-general.php:96
+msgid "Default listing banner type"
+msgstr "Tipul bannerului implicit pentru listare"
+
+#: includes/customizations/class-inventor-customizations-general.php:97
+msgid "Has to be one of the enabled above"
+msgstr "Trebuie să fie unul din cele activate mai sus"
+
+#: includes/customizations/class-inventor-customizations-general.php:112
+msgid "Default sorting for listing archive"
+msgstr "Sortarea implicită pentru arhivă"
+
+#: includes/customizations/class-inventor-customizations-general.php:127
+msgid "Default ordering for listing archive"
+msgstr "Ordinea implicită pentru arhivă"
+
+#: includes/customizations/class-inventor-customizations-general.php:145
+msgid "Automatically log user in after registration"
+msgstr "Autentifică utilizatorul după înregistrare"
+
+#: includes/customizations/class-inventor-customizations-general.php:146
+msgid "User won't have to sing in after registration"
+msgstr "Utilizatorul va fi autentificat automat după înregistrare"
+
+#: includes/customizations/class-inventor-customizations-general.php:160
+msgid "Show featured image in listing gallery"
+msgstr "Afisează imaginea reprezentativă în galeria listării"
+
+#: includes/customizations/class-inventor-customizations-general.php:161
+msgid "Featured image of listing will be shown in its gallery"
+msgstr "Imaginea reprezentativă va fi afișată în galeria listării"
+
+#: includes/customizations/class-inventor-customizations-general.php:175
+msgid "Show listing archive as grid"
+msgstr "Afișează listarea arhivei ca grilă"
+
+#: includes/customizations/class-inventor-customizations-general.php:176
+msgid "Listings will be shown as box instead of row"
+msgstr "Listările vor fi afișate în căsuțe în loc de rânduri"
+
+#: includes/customizations/class-inventor-customizations-general.php:190
+msgid "Disable user billing details"
+msgstr "Dezactivează detaliile de facturare ale utilizatorului"
+
+#: includes/customizations/class-inventor-customizations-general.php:191
+msgid "Hide billing fields from user profile"
+msgstr "Ascunde detaliile de facturare al utilizatorului din profil."
+
+#: includes/customizations/class-inventor-customizations-general.php:205
+msgid "Purchase code"
+msgstr "Cod achiziție"
+
+#: includes/customizations/class-inventor-customizations-general.php:219
+msgid "Google Browser Key"
+msgstr "Cheie Google Browser"
+
+#: includes/customizations/class-inventor-customizations-general.php:220
+msgid ""
+"Browser API key. Read more <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/get-api-key\" target=\"_blank\">here</a>."
+msgstr ""
+"Cheie API pentru Google Browser. Mai multe detalii <a href=\"https://"
+"developers.google.com/maps/documentation/javascript/get-api-key\" target="
+"\"_blank\">aici</a>."
+
+#: includes/customizations/class-inventor-customizations-measurement.php:34
+msgid "Inventor Measurement"
+msgstr "Masurători Inventor"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:46
+msgid "Area Unit"
+msgstr "Unitate măsură arie"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:59
+msgid "Short Distance Unit"
+msgstr "Unitate distanță scurtă"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:62
+msgid "Example: \"ft\" or \"m\""
+msgstr "Exemplu: \"ft\" sau \"m\""
+
+#: includes/customizations/class-inventor-customizations-measurement.php:73
+msgid "Long Distance Unit"
+msgstr "Unitate distanță lungă"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:76
+msgid "Example: \"mi\" or \"km\""
+msgstr "Exemplu: \"mi\" sau \"km\""
+
+#: includes/customizations/class-inventor-customizations-measurement.php:87
+msgid "Weight unit"
+msgstr "Greutate"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:90
+msgid "Example: \"lbs\" or \"kg\""
+msgstr "Exemplu: \"lbs\" sau \"kg\""
+
+#: includes/customizations/class-inventor-customizations-pages.php:36
+msgid "Inventor Pages"
+msgstr "Inventor Pagini"
+
+#: includes/customizations/class-inventor-customizations-pages.php:59
+msgid "Login Required"
+msgstr "Logare necesară"
+
+#: includes/customizations/class-inventor-customizations-pages.php:74
+msgid "After Login"
+msgstr "După logare"
+
+#: includes/customizations/class-inventor-customizations-pages.php:89
+msgid "Registration"
+msgstr "Înregistrare"
+
+#: includes/customizations/class-inventor-customizations-pages.php:104
+msgid "After Register"
+msgstr "După înregistrare"
+
+#: includes/customizations/class-inventor-customizations-pages.php:119
+#: includes/post-types/class-inventor-post-type-user.php:145
+msgid "Profile"
+msgstr "Profil"
+
+#: includes/customizations/class-inventor-customizations-pages.php:134
+msgid "Change password"
+msgstr "Schimbă parola"
+
+#: includes/customizations/class-inventor-customizations-pages.php:149
+msgid "Reset forgotten password"
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-pages.php:164
+#: templates/payment/payment-form.php:93
+msgid "Terms & Conditions"
+msgstr "Termeni și condiții"
+
+#: includes/customizations/class-inventor-customizations-pages.php:179
+msgid "Report listing"
+msgstr "Raportează listare"
+
+#: includes/customizations/class-inventor-customizations-pages.php:194
+msgid "Payment"
+msgstr "Plată"
+
+#: includes/customizations/class-inventor-customizations-pages.php:209
+msgid "After Payment"
+msgstr "După plată"
+
+#: includes/customizations/class-inventor-customizations-pages.php:224
+#: includes/post-types/class-inventor-post-type-transaction.php:37
+#: includes/post-types/class-inventor-post-type-transaction.php:43
+#: includes/post-types/class-inventor-post-type-transaction.php:49
+msgid "Transactions"
+msgstr "Tranzacții"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:34
+msgid "Account number"
+msgstr "Număr cont"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:35
+msgid "Bank code"
+msgstr "Cod bancă"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:36
+msgid "Full name"
+msgstr "Nume complet"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:37
+#: templates/payment/gateways/wire-transfer.php:43
+msgid "Street / P.O.Box"
+msgstr "Stradă / căsuță poștală"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:38
+msgid "Postcode"
+msgstr "Cod poștal"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:55
+msgid "Inventor Wire Transfer"
+msgstr "Inventor transfer bancar"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:70
+msgid "Bank account number [mandatory]"
+msgstr "Cont bancar (obligatoriu)"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:84
+msgid "SWIFT or BIC of your bank [mandatory]"
+msgstr "SWIFT-ul sau BIC-ul băncii (obligatoriu)"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:98
+msgid "Your full name [mandatory]"
+msgstr "Numele tău complet (oblogatoriu)"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:112
+msgid "Enter your street."
+msgstr "Introdu strada ta"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:126
+msgid "Enter your postcode (ZIP)."
+msgstr "Introdu codul poștal"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:140
+msgid "Enter your city."
+msgstr "Introdu orașul tău"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:154
+msgid "Enter your country [mandatory]"
+msgstr "Introdu țara ta (oblogatoriu)"
+
+#: includes/field-types/class-inventor-field-types-taxonomy-multicheck-hierarchy.php:61
+#: includes/field-types/class-inventor-field-types-taxonomy-select-chain.php:87
+#: includes/field-types/class-inventor-field-types-taxonomy-select-hierarchy.php:70
+msgid "No terms"
+msgstr "Fără termeni"
+
+#: includes/field-types/class-inventor-field-types-unique-user-email.php:61
+msgid "Invalid E-mail value."
+msgstr "Email invalid."
+
+#: includes/field-types/class-inventor-field-types-unique-user-email.php:68
+msgid "E-mail already exists."
+msgstr "Adresa de email deja există."
+
+#: includes/post-types/class-inventor-post-type-business.php:47
+#: includes/post-types/class-inventor-post-type-business.php:53
+#: includes/post-types/class-inventor-post-type-business.php:59
+msgid "Businesses"
+msgstr "Afaceri"
+
+#: includes/post-types/class-inventor-post-type-business.php:48
+msgid "Business"
+msgstr "Afacere"
+
+#: includes/post-types/class-inventor-post-type-business.php:49
+#: includes/post-types/class-inventor-post-type-business.php:50
+msgid "Add New Business"
+msgstr "Adaugă afacere nouă"
+
+#: includes/post-types/class-inventor-post-type-business.php:51
+msgid "Edit Business"
+msgstr "Editează afacere"
+
+#: includes/post-types/class-inventor-post-type-business.php:52
+msgid "New Business"
+msgstr "Afacere nouă"
+
+#: includes/post-types/class-inventor-post-type-business.php:54
+msgid "View Business"
+msgstr "Vezi afacere"
+
+#: includes/post-types/class-inventor-post-type-business.php:55
+msgid "Search Business"
+msgstr "Caută afacere"
+
+#: includes/post-types/class-inventor-post-type-business.php:56
+msgid "No Businesses found"
+msgstr "Nu s-au găsit afaceri"
+
+#: includes/post-types/class-inventor-post-type-business.php:57
+msgid "No Businesses Found in Trash"
+msgstr "Nu s-au găsit afaceri în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-business.php:69
+msgctxt "URL slug"
+msgid "businesses"
+msgstr "afaceri"
+
+#: includes/post-types/class-inventor-post-type-car.php:60
+#: includes/post-types/class-inventor-post-type-car.php:66
+#: includes/post-types/class-inventor-post-type-car.php:72
+#: includes/post-types/class-inventor-post-type-event.php:72
+msgid "Cars"
+msgstr "Mașini"
+
+#: includes/post-types/class-inventor-post-type-car.php:61
+msgid "Car"
+msgstr "Mașină"
+
+#: includes/post-types/class-inventor-post-type-car.php:62
+#: includes/post-types/class-inventor-post-type-car.php:63
+msgid "Add New Car"
+msgstr "Adaugă mașină nouă"
+
+#: includes/post-types/class-inventor-post-type-car.php:64
+msgid "Edit Car"
+msgstr "Editează mașină"
+
+#: includes/post-types/class-inventor-post-type-car.php:65
+msgid "New Car"
+msgstr "Mașină noă"
+
+#: includes/post-types/class-inventor-post-type-car.php:67
+msgid "View Car"
+msgstr "Vezi mașină"
+
+#: includes/post-types/class-inventor-post-type-car.php:68
+msgid "Search Car"
+msgstr "Caută mașină"
+
+#: includes/post-types/class-inventor-post-type-car.php:69
+msgid "No Cars found"
+msgstr "Nu s-au găsit mașini"
+
+#: includes/post-types/class-inventor-post-type-car.php:70
+msgid "No Cars Found in Trash"
+msgstr "Nu s-au găsit mașini în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-car.php:82
+msgctxt "URL slug"
+msgid "cars"
+msgstr "masini"
+
+#: includes/post-types/class-inventor-post-type-car.php:111
+msgid "Engine type"
+msgstr "Tip motorizare"
+
+#: includes/post-types/class-inventor-post-type-car.php:125
+msgid "Body style"
+msgstr "Tip caroserie"
+
+#: includes/post-types/class-inventor-post-type-car.php:139
+msgid "Transmission"
+msgstr "Transmisie"
+
+#: includes/post-types/class-inventor-post-type-car.php:153
+msgid "Model"
+msgstr "Model"
+
+#: includes/post-types/class-inventor-post-type-car.php:167
+msgid "Year manufactured"
+msgstr "Anul producției"
+
+#: includes/post-types/class-inventor-post-type-car.php:183
+msgid "Mileage"
+msgstr "Kilometraj"
+
+#: includes/post-types/class-inventor-post-type-car.php:199
+msgid "Condition"
+msgstr "Condiție"
+
+#: includes/post-types/class-inventor-post-type-car.php:210
+msgid "new"
+msgstr "nouă"
+
+#: includes/post-types/class-inventor-post-type-car.php:211
+msgid "used"
+msgstr "rulată"
+
+#: includes/post-types/class-inventor-post-type-car.php:216
+msgid "Leasing available"
+msgstr "Leasing disponibil"
+
+#: includes/post-types/class-inventor-post-type-car.php:250
+msgid "Interior color"
+msgstr "Culoare interior"
+
+#: includes/post-types/class-inventor-post-type-car.php:264
+msgid "Exterior color"
+msgstr "Culoare exterior"
+
+#: includes/post-types/class-inventor-post-type-dating.php:48
+#: includes/post-types/class-inventor-post-type-dating.php:54
+#: includes/post-types/class-inventor-post-type-dating.php:60
+msgid "Datings"
+msgstr "Întâlniri"
+
+#: includes/post-types/class-inventor-post-type-dating.php:49
+msgid "Dating"
+msgstr "Întâlnire"
+
+#: includes/post-types/class-inventor-post-type-dating.php:50
+#: includes/post-types/class-inventor-post-type-dating.php:51
+msgid "Add New Dating"
+msgstr "Adaugă întâlnire nouă"
+
+#: includes/post-types/class-inventor-post-type-dating.php:52
+msgid "Edit Dating"
+msgstr "Editează întâlnire"
+
+#: includes/post-types/class-inventor-post-type-dating.php:53
+msgid "New Dating"
+msgstr "Întâlnire nouă"
+
+#: includes/post-types/class-inventor-post-type-dating.php:55
+msgid "View Dating"
+msgstr "Vezi întâlnire"
+
+#: includes/post-types/class-inventor-post-type-dating.php:56
+msgid "Search Dating"
+msgstr "Caută întâlnire"
+
+#: includes/post-types/class-inventor-post-type-dating.php:57
+msgid "No Datings found"
+msgstr "Nu s-au găsit întâlniri"
+
+#: includes/post-types/class-inventor-post-type-dating.php:58
+msgid "No Datings Found in Trash"
+msgstr "Nu s-au găsit întâlniri în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-dating.php:70
+msgctxt "URL slug"
+msgid "datings"
+msgstr "intalniri"
+
+#: includes/post-types/class-inventor-post-type-dating.php:96
+msgid "Dating groups"
+msgstr "Grupuri de întâlniri"
+
+#: includes/post-types/class-inventor-post-type-dating.php:103
+msgid "Gender"
+msgstr "Sex"
+
+#: includes/post-types/class-inventor-post-type-dating.php:107
+msgid "Male"
+msgstr "masculin"
+
+#: includes/post-types/class-inventor-post-type-dating.php:108
+msgid "Female"
+msgstr "feminin"
+
+#: includes/post-types/class-inventor-post-type-dating.php:113
+msgid "Age"
+msgstr "Vârstă"
+
+#: includes/post-types/class-inventor-post-type-dating.php:123
+#: includes/post-types/class-inventor-post-type-shopping.php:130
+msgid "Weight"
+msgstr "Greutate"
+
+#: includes/post-types/class-inventor-post-type-dating.php:133
+#: templates/payment/transactions.php:23
+msgid "Status"
+msgstr "Statut"
+
+#: includes/post-types/class-inventor-post-type-dating.php:140
+msgid "Eye color"
+msgstr "Culoare ochi"
+
+#: includes/post-types/class-inventor-post-type-dating.php:147
+msgid "Interests"
+msgstr "Interese"
+
+#: includes/post-types/class-inventor-post-type-education.php:61
+#: includes/post-types/class-inventor-post-type-education.php:67
+#: includes/post-types/class-inventor-post-type-education.php:73
+msgid "Educations"
+msgstr "Educație"
+
+#: includes/post-types/class-inventor-post-type-education.php:62
+msgid "Education"
+msgstr "Educație"
+
+#: includes/post-types/class-inventor-post-type-education.php:63
+#: includes/post-types/class-inventor-post-type-education.php:64
+msgid "Add New Education"
+msgstr "Adaugă educație nouă"
+
+#: includes/post-types/class-inventor-post-type-education.php:65
+msgid "Edit Education"
+msgstr "Editează educație"
+
+#: includes/post-types/class-inventor-post-type-education.php:66
+msgid "New Education"
+msgstr "Educație nouă"
+
+#: includes/post-types/class-inventor-post-type-education.php:68
+msgid "View Education"
+msgstr "Vezi educație"
+
+#: includes/post-types/class-inventor-post-type-education.php:69
+msgid "Search Education"
+msgstr "Caută educație"
+
+#: includes/post-types/class-inventor-post-type-education.php:70
+msgid "No Educations found"
+msgstr "Nu s-a găsit educație"
+
+#: includes/post-types/class-inventor-post-type-education.php:71
+msgid "No Educations Found in Trash"
+msgstr "Nu s-a găsit educație în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-education.php:83
+msgctxt "URL slug"
+msgid "educations"
+msgstr "educatie"
+
+#: includes/post-types/class-inventor-post-type-education.php:109
+msgid "Education subject"
+msgstr "Subiectul educației"
+
+#: includes/post-types/class-inventor-post-type-education.php:116
+msgid "Education level"
+msgstr "Nivelul educației"
+
+#: includes/post-types/class-inventor-post-type-education.php:123
+msgid "Lector"
+msgstr "Lector"
+
+#: includes/post-types/class-inventor-post-type-event.php:60
+#: includes/post-types/class-inventor-post-type-event.php:66
+msgid "Events"
+msgstr "Evenimente"
+
+#: includes/post-types/class-inventor-post-type-event.php:61
+msgid "Event"
+msgstr "Eveniment"
+
+#: includes/post-types/class-inventor-post-type-event.php:62
+#: includes/post-types/class-inventor-post-type-event.php:63
+msgid "Add New Event"
+msgstr "Adaugă eveniment"
+
+#: includes/post-types/class-inventor-post-type-event.php:64
+msgid "Edit Event"
+msgstr "Editează eveniment"
+
+#: includes/post-types/class-inventor-post-type-event.php:65
+msgid "New Event"
+msgstr "Eveniment nou"
+
+#: includes/post-types/class-inventor-post-type-event.php:67
+msgid "View Event"
+msgstr "Vezi eveniment"
+
+#: includes/post-types/class-inventor-post-type-event.php:68
+msgid "Search Events"
+msgstr "Adaugă eveniment"
+
+#: includes/post-types/class-inventor-post-type-event.php:69
+msgid "No Events found"
+msgstr "Nu s-au găsit evenimente"
+
+#: includes/post-types/class-inventor-post-type-event.php:70
+msgid "No Events Found in Trash"
+msgstr "Nu s-au găsit evenimente în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-event.php:82
+msgctxt "URL slug"
+msgid "events"
+msgstr "eventimente"
+
+#: includes/post-types/class-inventor-post-type-event.php:108
+msgid "Event type"
+msgstr "Tip eveniment"
+
+#: includes/post-types/class-inventor-post-type-food.php:47
+#: includes/post-types/class-inventor-post-type-food.php:53
+#: includes/post-types/class-inventor-post-type-food.php:59
+msgid "Food & Drinks"
+msgstr "Mâncare și băuturi"
+
+#: includes/post-types/class-inventor-post-type-food.php:48
+msgid "Food & Drink"
+msgstr "Mâncare și băutură"
+
+#: includes/post-types/class-inventor-post-type-food.php:49
+#: includes/post-types/class-inventor-post-type-food.php:50
+msgid "Add New Food & Drink"
+msgstr "Adaugă mâncare și băutură nouă"
+
+#: includes/post-types/class-inventor-post-type-food.php:51
+msgid "Edit Food & Drink"
+msgstr "Editează mâncare și băutură"
+
+#: includes/post-types/class-inventor-post-type-food.php:52
+msgid "New Food & Drink"
+msgstr "Mâncare și băutură nouă"
+
+#: includes/post-types/class-inventor-post-type-food.php:54
+msgid "View Food & Drink"
+msgstr "Vezi mâncare și băutură"
+
+#: includes/post-types/class-inventor-post-type-food.php:55
+msgid "Search Food & Drink"
+msgstr "Caută mâncare și băutură"
+
+#: includes/post-types/class-inventor-post-type-food.php:56
+msgid "No Food & Drinks found"
+msgstr "Nu s-a găsit mâncare și băutură"
+
+#: includes/post-types/class-inventor-post-type-food.php:57
+msgid "No Food & Drinks Found in Trash"
+msgstr "Nu s-a găsit mâncare și băutură în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-food.php:69
+msgctxt "URL slug"
+msgid "foods"
+msgstr "mancare"
+
+#: includes/post-types/class-inventor-post-type-food.php:99
+msgid "Food kind"
+msgstr "Tip mâncare"
+
+#: includes/post-types/class-inventor-post-type-food.php:128
+msgid "Meals and drinks menu"
+msgstr "Meniu mâncare și băutură"
+
+#: includes/post-types/class-inventor-post-type-food.php:139
+msgid "Item"
+msgstr "Articol"
+
+#: includes/post-types/class-inventor-post-type-food.php:140
+msgid "Add Another"
+msgstr "Adaugă altul"
+
+#: includes/post-types/class-inventor-post-type-food.php:141
+msgid "Remove"
+msgstr "Șterge"
+
+#: includes/post-types/class-inventor-post-type-food.php:169
+msgid "Serving day"
+msgstr "Ziua în care se servește"
+
+#: includes/post-types/class-inventor-post-type-food.php:171
+msgid "Leave blank if it is not daily menu"
+msgstr "Lasă gol dacă nu este un meniu zilnic"
+
+#: includes/post-types/class-inventor-post-type-food.php:176
+#: templates/post-types/food/menu-item.php:26
+msgid "Speciality"
+msgstr "Specialitate"
+
+#: includes/post-types/class-inventor-post-type-food.php:181
+msgid "Photo"
+msgstr "Poză"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:60
+#: includes/post-types/class-inventor-post-type-hotel.php:66
+#: includes/post-types/class-inventor-post-type-hotel.php:72
+msgid "Hotels"
+msgstr "Hoteluri"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:61
+msgid "Hotel"
+msgstr "Hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:62
+#: includes/post-types/class-inventor-post-type-hotel.php:63
+msgid "Add New Hotel"
+msgstr "Adaugă hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:64
+msgid "Edit Hotel"
+msgstr "Editează hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:65
+msgid "New Hotel"
+msgstr "Hotel nou"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:67
+msgid "View Hotel"
+msgstr "Vezi hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:68
+msgid "Search Hotel"
+msgstr "Caută hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:69
+msgid "No Hotels found"
+msgstr "Nu s-au găsit hoteluri"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:70
+msgid "No Hotels Found in Trash"
+msgstr "Nu s-au găsit hoteluri în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:82
+msgctxt "URL slug"
+msgid "hotels"
+msgstr "hoteluri"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:108
+msgid "Hotel class"
+msgstr "Clasă hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:115
+msgid "Rooms"
+msgstr "Camere"
+
+#: includes/post-types/class-inventor-post-type-listing.php:96
+#: includes/post-types/class-inventor-post-type-listing.php:107
+#: includes/post-types/class-inventor-post-type-report.php:126
+msgid "Listing"
+msgstr "Listare"
+
+#: includes/post-types/class-inventor-post-type-listing.php:97
+#: includes/post-types/class-inventor-post-type-listing.php:98
+msgid "Add New Listing"
+msgstr "Adaugă listare nouă"
+
+#: includes/post-types/class-inventor-post-type-listing.php:99
+msgid "Edit Listing"
+msgstr "Editează listare"
+
+#: includes/post-types/class-inventor-post-type-listing.php:100
+msgid "New Listing"
+msgstr "Listare nouă"
+
+#: includes/post-types/class-inventor-post-type-listing.php:102
+msgid "View Listing"
+msgstr "Vezi listare"
+
+#: includes/post-types/class-inventor-post-type-listing.php:103
+msgid "Search Listing"
+msgstr "Caută listare"
+
+#: includes/post-types/class-inventor-post-type-listing.php:104
+msgid "No Listings found"
+msgstr "Nu s-au găsit listări"
+
+#: includes/post-types/class-inventor-post-type-listing.php:105
+msgid "No Listings Found in Trash"
+msgstr "Nu s-au găsit listări în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-listing.php:116
+msgctxt "URL slug"
+msgid "listings"
+msgstr "listari"
+
+#: includes/post-types/class-inventor-post-type-listing.php:167
+msgid "Message from enquire form"
+msgstr "Mesaj primit prin formularul de întrebări"
+
+#: includes/post-types/class-inventor-post-type-listing.php:225
+msgid "Message has been successfully sent."
+msgstr "Mesajul a fost trimis cu succes."
+
+#: includes/post-types/class-inventor-post-type-music.php:34
+#: includes/post-types/class-inventor-post-type-music.php:40
+#: includes/post-types/class-inventor-post-type-music.php:46
+msgid "Musics"
+msgstr "Piese"
+
+#: includes/post-types/class-inventor-post-type-music.php:35
+msgid "Music"
+msgstr "Muzică"
+
+#: includes/post-types/class-inventor-post-type-music.php:36
+#: includes/post-types/class-inventor-post-type-music.php:37
+msgid "Add New Music"
+msgstr "Adaugă piesă nouă"
+
+#: includes/post-types/class-inventor-post-type-music.php:38
+msgid "Edit Music"
+msgstr "Editează piesă"
+
+#: includes/post-types/class-inventor-post-type-music.php:39
+msgid "New Music"
+msgstr "Adaugă piesă"
+
+#: includes/post-types/class-inventor-post-type-music.php:41
+msgid "View Music"
+msgstr "Vezi piesă"
+
+#: includes/post-types/class-inventor-post-type-music.php:42
+msgid "Search Music"
+msgstr "Caută muzică"
+
+#: includes/post-types/class-inventor-post-type-music.php:43
+msgid "No Musics found"
+msgstr "Nu s-au găsit piese"
+
+#: includes/post-types/class-inventor-post-type-music.php:44
+msgid "No Musics Found in Trash"
+msgstr "Nu s-au găsit piese în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-music.php:56
+msgctxt "URL slug"
+msgid "musics"
+msgstr "muzica"
+
+#: includes/post-types/class-inventor-post-type-pet.php:61
+#: includes/post-types/class-inventor-post-type-pet.php:67
+#: includes/post-types/class-inventor-post-type-pet.php:73
+msgid "Pets"
+msgstr "Animale de companie"
+
+#: includes/post-types/class-inventor-post-type-pet.php:62
+msgid "Pet"
+msgstr "Animal de companie"
+
+#: includes/post-types/class-inventor-post-type-pet.php:63
+#: includes/post-types/class-inventor-post-type-pet.php:64
+msgid "Add New Pet"
+msgstr "Adaugă animal de companie nou"
+
+#: includes/post-types/class-inventor-post-type-pet.php:65
+msgid "Edit Pet"
+msgstr "Editează animal de companie"
+
+#: includes/post-types/class-inventor-post-type-pet.php:66
+msgid "New Pet"
+msgstr "Animal de companie nou"
+
+#: includes/post-types/class-inventor-post-type-pet.php:68
+msgid "View Pet"
+msgstr "Vezi animal de companie"
+
+#: includes/post-types/class-inventor-post-type-pet.php:69
+msgid "Search Pet"
+msgstr "Caută animal de companie"
+
+#: includes/post-types/class-inventor-post-type-pet.php:70
+msgid "No Pets found"
+msgstr "Nu s-au găsit animale de companie"
+
+#: includes/post-types/class-inventor-post-type-pet.php:71
+msgid "No Pets Found in Trash"
+msgstr "Nu s-au găsit animale de companie în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-pet.php:83
+msgctxt "URL slug"
+msgid "pets"
+msgstr "animale"
+
+#: includes/post-types/class-inventor-post-type-pet.php:109
+msgid "Animal"
+msgstr "Animal"
+
+#: includes/post-types/class-inventor-post-type-report.php:37
+#: includes/post-types/class-inventor-post-type-report.php:43
+#: includes/post-types/class-inventor-post-type-report.php:49
+msgid "Reports"
+msgstr "Raportari"
+
+#: includes/post-types/class-inventor-post-type-report.php:38
+msgid "Report"
+msgstr "Raportare"
+
+#: includes/post-types/class-inventor-post-type-report.php:39
+#: includes/post-types/class-inventor-post-type-report.php:40
+msgid "Add New Report"
+msgstr "Adaugă raportare nouă"
+
+#: includes/post-types/class-inventor-post-type-report.php:41
+msgid "Edit Report"
+msgstr "Editează raportare"
+
+#: includes/post-types/class-inventor-post-type-report.php:42
+msgid "New Report"
+msgstr "Raportare nouă"
+
+#: includes/post-types/class-inventor-post-type-report.php:44
+msgid "View Report"
+msgstr "Vezi raportare"
+
+#: includes/post-types/class-inventor-post-type-report.php:45
+msgid "Search Report"
+msgstr "Caută raportare"
+
+#: includes/post-types/class-inventor-post-type-report.php:46
+msgid "No Reports found"
+msgstr "Nu s-au găsit raportări"
+
+#: includes/post-types/class-inventor-post-type-report.php:47
+msgid "No Reports Found in Trash"
+msgstr "Nu s-au găsit raportări în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-report.php:83
+msgid "Listing ID"
+msgstr "ID listare"
+
+#: includes/post-types/class-inventor-post-type-report.php:99
+msgid "Email"
+msgstr "Email"
+
+#: includes/post-types/class-inventor-post-type-report.php:105
+#: includes/post-types/class-inventor-post-type-report.php:127
+msgid "Reason"
+msgstr "Motiv raportare"
+
+#: includes/post-types/class-inventor-post-type-report.php:111
+#: templates/widgets/listing-author.php:77
+#: templates/widgets/listing-inquire-admin.php:111
+#: templates/widgets/listing-inquire.php:75
+msgid "Message"
+msgstr "Mesaj"
+
+#: includes/post-types/class-inventor-post-type-report.php:128
+#: includes/post-types/class-inventor-post-type-transaction.php:145
+msgid "Author"
+msgstr "Autor"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:61
+#: includes/post-types/class-inventor-post-type-shopping.php:67
+#: includes/post-types/class-inventor-post-type-shopping.php:73
+msgid "Shoppings"
+msgstr "Cumpărături"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:62
+msgid "Shopping"
+msgstr "Cumpărătură"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:63
+#: includes/post-types/class-inventor-post-type-shopping.php:64
+msgid "Add New Shopping"
+msgstr "Adaugă cumpărătură"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:65
+msgid "Edit Shopping"
+msgstr "Editează cumpărătură"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:66
+msgid "New Shopping"
+msgstr "Cumpărătură nouă"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:68
+msgid "View Shopping"
+msgstr "Vezi cumpărătură"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:69
+msgid "Search Shopping"
+msgstr "Caută cumpărătură"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:70
+msgid "No Shoppings found"
+msgstr "Nu s-au găsit cumpărături"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:71
+msgid "No Shoppings Found in Trash"
+msgstr "Nu s-au găsit cumpărături în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:83
+msgctxt "URL slug"
+msgid "shoppings"
+msgstr "cumparaturi"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:109
+msgid "Shopping category"
+msgstr "Categorie cumpărături"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:123
+msgid "Size"
+msgstr "Mărime"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:126
+msgid "For example M, 10cm, 47 ..."
+msgstr "Exemplu M, 10cm, 47 ... "
+
+#: includes/post-types/class-inventor-post-type-transaction.php:38
+msgid "Transaction"
+msgstr "Tranzacții"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:39
+#: includes/post-types/class-inventor-post-type-transaction.php:40
+msgid "Add New Transaction"
+msgstr "Adaugă tranzacție nouă"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:41
+msgid "Edit Transaction"
+msgstr "Editează tranzacție"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:42
+msgid "New Transaction"
+msgstr "Tranzacție nouă"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:44
+msgid "View Transaction"
+msgstr "Vezi tranzacție"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:45
+msgid "Search Transaction"
+msgstr "Caută tranzacție"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:46
+msgid "No Transactions found"
+msgstr "Nu s-au găsit tranzacții"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:47
+msgid "No Transactions Found in Trash"
+msgstr "Nu s-au găsit tranzacții în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:83
+#: includes/post-types/class-inventor-post-type-transaction.php:140
+msgid "Payment type"
+msgstr "Tip plată"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:89
+#: includes/post-types/class-inventor-post-type-transaction.php:141
+#: templates/payment/transactions.php:20
+msgid "Gateway"
+msgstr "Metodă de plată"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:95
+msgid "Object ID"
+msgstr "ID obiect"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:101
+#: includes/post-types/class-inventor-post-type-transaction.php:139
+msgid "Payment ID"
+msgstr "ID plată"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:113
+msgid "Currency"
+msgstr "Valută"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:119
+#: includes/post-types/class-inventor-post-type-transaction.php:144
+msgid "Success"
+msgstr "Succes"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:125
+msgid "Data"
+msgstr "Dată"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:143
+#: templates/payment/transactions.php:21
+msgid "Object"
+msgstr "Obiect"
+
+#: includes/post-types/class-inventor-post-type-travel.php:60
+#: includes/post-types/class-inventor-post-type-travel.php:66
+#: includes/post-types/class-inventor-post-type-travel.php:72
+msgid "Travels"
+msgstr "Călătorii"
+
+#: includes/post-types/class-inventor-post-type-travel.php:61
+msgid "Travel"
+msgstr "Călătorie"
+
+#: includes/post-types/class-inventor-post-type-travel.php:62
+#: includes/post-types/class-inventor-post-type-travel.php:63
+msgid "Add New Travel"
+msgstr "Adaugă călătorie nouă"
+
+#: includes/post-types/class-inventor-post-type-travel.php:64
+msgid "Edit Travel"
+msgstr "Editează călătorie"
+
+#: includes/post-types/class-inventor-post-type-travel.php:65
+msgid "New Travel"
+msgstr "Călătorie nouă"
+
+#: includes/post-types/class-inventor-post-type-travel.php:67
+msgid "View Travel"
+msgstr "Vezi călătorie"
+
+#: includes/post-types/class-inventor-post-type-travel.php:68
+msgid "Search Travel"
+msgstr "Caută călătorie"
+
+#: includes/post-types/class-inventor-post-type-travel.php:69
+msgid "No Travels found"
+msgstr "Nu s-au găsit călătorii"
+
+#: includes/post-types/class-inventor-post-type-travel.php:70
+msgid "No Travels Found in Trash"
+msgstr "Nu s-au găsit călătorii în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-post-type-travel.php:82
+msgctxt "URL slug"
+msgid "travels"
+msgstr "calatorii"
+
+#: includes/post-types/class-inventor-post-type-travel.php:108
+msgid "Travel activities"
+msgstr "Activități călătorie"
+
+#: includes/post-types/class-inventor-post-type-user.php:163
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:102
+msgid "Image"
+msgstr "Imagine"
+
+#: includes/post-types/class-inventor-post-type-user.php:170
+msgid "First name"
+msgstr "Nume"
+
+#: includes/post-types/class-inventor-post-type-user.php:176
+msgid "Last name"
+msgstr "Prenume"
+
+#: includes/post-types/class-inventor-post-type-user.php:265
+msgid "Social Connections"
+msgstr "Conturi sociale"
+
+#: includes/post-types/class-inventor-post-type-user.php:336
+msgid "Profile has been successfully updated."
+msgstr "Profilul a fost actualizat cu succes."
+
+#: includes/post-types/class-inventor-post-type-user.php:358
+msgid "All fields are required."
+msgstr "Toate câmpurile sunt obligatorii."
+
+#: includes/post-types/class-inventor-post-type-user.php:363
+msgid "New and retyped password are not same."
+msgstr "Parolele nu sunt identice."
+
+#: includes/post-types/class-inventor-post-type-user.php:369
+msgid "Your old password is not correct."
+msgstr "Parola veche este incorectă."
+
+#: includes/post-types/class-inventor-post-type-user.php:374
+msgid "Your password has been successfully changed."
+msgstr "Parola a fost schimbată cu succes."
+
+#: includes/post-types/class-inventor-post-type-user.php:389
+msgid "Login and password are required."
+msgstr "Username și parolă obligatorii."
+
+#: includes/post-types/class-inventor-post-type-user.php:403
+msgid "You have been successfully logged in."
+msgstr "Ai fost autentificat cu succes."
+
+#: includes/post-types/class-inventor-post-type-user.php:455
+msgid "Unable to send an e-mail."
+msgstr "Nu se poate trimite email."
+
+#: includes/post-types/class-inventor-post-type-user.php:457
+msgid "Please check inbox for more information."
+msgstr "Te rugăm să verifici inboxul pentru mai multe detalii."
+
+#: includes/post-types/class-inventor-post-type-user.php:487
+msgid "Username and e-mail are required."
+msgstr "Username și parolă obligatorii."
+
+#: includes/post-types/class-inventor-post-type-user.php:493
+msgid "Username already exists."
+msgstr "Username-ul există deja."
+
+#: includes/post-types/class-inventor-post-type-user.php:499
+msgid "Email already exists."
+msgstr "Emailul există deja."
+
+#: includes/post-types/class-inventor-post-type-user.php:504
+#: includes/post-types/class-inventor-post-type-user.php:516
+msgid "Passwords must be same."
+msgstr "Parolele trebuie să fie identice."
+
+#: includes/post-types/class-inventor-post-type-user.php:531
+msgid "You have been successfully registered."
+msgstr "Contul tău a fost creat cu succes."
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:44
+msgid "Car Body Styles"
+msgstr "Stiluri de caroserii auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:35
+msgid "Car Body Style"
+msgstr "Stiluri de caroserie auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:36
+msgid "Search Car Body Style"
+msgstr "Caută stiluri de caroserie auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:37
+msgid "All Car Body Styles"
+msgstr "Toate stilurile de caroserie auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:38
+msgid "Parent Car Body Style"
+msgstr "Părinte stil de caroserie auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:39
+msgid "Parent Car Body Style:"
+msgstr "Părinte stil de caroserie auto:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:40
+msgid "Edit Car Body Style"
+msgstr "Editează stil de caroserie auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:41
+msgid "Update Car Body Style"
+msgstr "Actualizează stil de caroserie auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:42
+msgid "Add New Car Body Style"
+msgstr "Adaugă stil de caroserie auto nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:43
+msgid "New Car Body Style"
+msgstr "Stil de caroserie auto nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:45
+msgid "No car body styles found."
+msgstr "Nu s-au găsit stiluri de caroserii auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:52
+msgctxt "URL slug"
+msgid "car-body-style"
+msgstr "stiluri-caroserie-auto"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:44
+msgid "Car Engine Types"
+msgstr "Tip motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:35
+msgid "Car Engine Type"
+msgstr "Tip motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:36
+msgid "Search Car Engine Type"
+msgstr "Caută tip motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:37
+msgid "All Car Engine Types"
+msgstr "Toate tipurile de motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:38
+msgid "Parent Car Engine Type"
+msgstr "Părinte tip autorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:39
+msgid "Parent Car Engine Type:"
+msgstr "Părinte tip autorizare:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:40
+msgid "Edit Car Engine Type"
+msgstr "Editează tip motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:41
+msgid "Update Car Engine Type"
+msgstr "Actualizează tip motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:42
+msgid "Add New Car Engine Type"
+msgstr "Adaugă tip motorizare nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:43
+msgid "New Car Engine Type"
+msgstr "Tip motorizare nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:45
+msgid "No car engine types found."
+msgstr "Nu au fost găsite tipuri de motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:52
+msgctxt "URL slug"
+msgid "car-engine-type"
+msgstr "tip-motorizare"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:44
+msgid "Car Models"
+msgstr "Modele mașini"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:35
+msgid "Car Model"
+msgstr "Model mașină"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:36
+msgid "Search Car Model"
+msgstr "Caută model mașină"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:37
+msgid "All Car Models"
+msgstr "Toate modelele de mașini"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:38
+msgid "Parent Car Model"
+msgstr "Părinte model mașină"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:39
+msgid "Parent Car Model:"
+msgstr "Părinte model mașină"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:40
+msgid "Edit Car Model"
+msgstr "Editează model mașină"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:41
+msgid "Update Car Model"
+msgstr "Actualizează model mașină"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:42
+msgid "Add New Car Model"
+msgstr "Adaugă model mașină nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:43
+msgid "New Car Model"
+msgstr "Model mașină nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:45
+msgid "No car models found."
+msgstr "Nu s-au găsit modele de mașini"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:52
+msgctxt "URL slug"
+msgid "car-model"
+msgstr "model-masina"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:44
+msgid "Car Transmissions"
+msgstr "Transmisii"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:35
+msgid "Car Transmission"
+msgstr "Transmisie"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:36
+msgid "Search Car Transmission"
+msgstr "Caută transmisie"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:37
+msgid "All Car Transmissions"
+msgstr "Toate transmisiile"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:38
+msgid "Parent Car Transmission"
+msgstr "Părinte transmisie"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:39
+msgid "Parent Car Transmission:"
+msgstr "Părinte transmisie:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:40
+msgid "Edit Car Transmission"
+msgstr "Editează transmisie"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:41
+msgid "Update Car Transmission"
+msgstr "Actualizează transmisie"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:42
+msgid "Add New Car Transmission"
+msgstr "Adaugă transmisie nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:43
+msgid "New Car Transmission"
+msgstr "Transmisie nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:45
+msgid "No car transmissions found."
+msgstr "Nu s-au găsit transmisii."
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:52
+msgctxt "URL slug"
+msgid "car-transmission"
+msgstr "transmisie"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:34
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:44
+msgid "Colors"
+msgstr "Culori"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:36
+msgid "Search Color"
+msgstr "Caută culoare"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:37
+msgid "All Colors"
+msgstr "Toate culorile"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:38
+msgid "Parent Color"
+msgstr "Părinte culoare"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:39
+msgid "Parent Color:"
+msgstr "Părinte culoare:"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:40
+msgid "Edit Color"
+msgstr "Editează culoare"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:41
+msgid "Update Color"
+msgstr "Actualizează culoare"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:42
+msgid "Add New Color"
+msgstr "Adaugă culoare nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:43
+msgid "New Color"
+msgstr "Culoare nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:45
+msgid "No colors found."
+msgstr "Nu s-au găsit culori"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:52
+msgctxt "URL slug"
+msgid "color"
+msgstr "culoare"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:34
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:44
+msgid "Dating Groups"
+msgstr "Grupuri de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:35
+msgid "Dating Group"
+msgstr "Grup de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:36
+msgid "Search Dating Group"
+msgstr "Caută grup de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:37
+msgid "All Dating Groups"
+msgstr "Toate grupurile de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:38
+msgid "Parent Dating Group"
+msgstr "Părinte grup de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:39
+msgid "Parent Dating Group:"
+msgstr "Părinte grup de întâlnire:"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:40
+msgid "Edit Dating Group"
+msgstr "Editează grup de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:41
+msgid "Update Dating Group"
+msgstr "Actualizează grup de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:42
+msgid "Add New Dating Group"
+msgstr "Adaugă grup de întâlnire nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:43
+msgid "New Dating Group"
+msgstr "Grup de întâlnire nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:45
+msgid "No dating groups found."
+msgstr "Nu s-au găsit grupuri de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:52
+msgctxt "URL slug"
+msgid "dating-group"
+msgstr "grup-intalnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:34
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:44
+msgid "Dating Interests"
+msgstr "Interese întâlniri"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:35
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:35
+msgid "Dating Status"
+msgstr "Statusuri întalniri"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:36
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:36
+msgid "Search Dating Status"
+msgstr "Caută status"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:37
+msgid "All Dating Interests"
+msgstr "Toate interesele"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:38
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:38
+msgid "Parent Dating Status"
+msgstr "Părinte status întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:39
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:39
+msgid "Parent Dating Status:"
+msgstr "Părinte status întâlnire:"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:40
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:40
+msgid "Edit Dating Status"
+msgstr "Editează status întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:41
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:41
+msgid "Update Dating Status"
+msgstr "Actualizeză status întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:42
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:42
+msgid "Add New Dating Status"
+msgstr "Adaugă status întâlnire nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:43
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:43
+msgid "New Dating Status"
+msgstr "Status întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:45
+msgid "No dating interests found."
+msgstr "Nu s-au găsit statusuri de întâlnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:52
+msgctxt "URL slug"
+msgid "dating-interest"
+msgstr "interese-intalnire"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:34
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:44
+msgid "Dating Statuses"
+msgstr "Statusuri întâlniri"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:37
+msgid "All Dating Statuses"
+msgstr "Toate statusurile"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:45
+msgid "No dating statuses found."
+msgstr "Nu s-au găsit statusuri."
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:52
+msgctxt "URL slug"
+msgid "dating-status"
+msgstr "statusuri-intalniri"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:34
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:44
+msgid "Education Levels"
+msgstr "Nivele educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:35
+msgid "Education Level"
+msgstr "Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:36
+msgid "Search Education Level"
+msgstr "Caută Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:37
+msgid "All Education Levels"
+msgstr "Toate Nivelele de educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:38
+msgid "Parent Education Level"
+msgstr "Părinte Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:39
+msgid "Parent Education Level:"
+msgstr "Părinte Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:40
+msgid "Edit Education Level"
+msgstr "Editeză Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:41
+msgid "Update Education Level"
+msgstr "Actualizează Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:42
+msgid "Add New Education Level"
+msgstr "Adaugă Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:43
+msgid "New Education Level"
+msgstr "Nivel educație nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:45
+msgid "No education levels found."
+msgstr "Nu s-a găsit Nivel educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:52
+msgctxt "URL slug"
+msgid "education-level"
+msgstr "nivel-educatie"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:34
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:44
+msgid "Education Subjects"
+msgstr "Subiectele educației"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:35
+msgid "Education Subject"
+msgstr "Subiectul educației"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:36
+msgid "Search Education Subject"
+msgstr "Caută subiect educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:37
+msgid "All Education Subjects"
+msgstr "Toate subiectele educației"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:38
+msgid "Parent Education Subject"
+msgstr "Părinte subiect educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:39
+msgid "Parent Education Subject:"
+msgstr "Părinte subiect educație:"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:40
+msgid "Edit Education Subject"
+msgstr "Editează subiect educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:41
+msgid "Update Education Subject"
+msgstr "Actualizează subiect educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:42
+msgid "Add New Education Subject"
+msgstr "Adaugă subiect educație nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:43
+msgid "New Education Subject"
+msgstr "Subiect educație nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:45
+msgid "No education subjects found."
+msgstr "Nu s-a găsit subiect educație"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:52
+msgctxt "URL slug"
+msgid "education-subject"
+msgstr "subiect-educatie"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:34
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:44
+msgid "Event Types"
+msgstr "Tipuri eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:35
+msgid "Event Type"
+msgstr "Tip eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:36
+msgid "Search Event Type"
+msgstr "Caută tip eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:37
+msgid "All Event Types"
+msgstr "Toate tipurile de evenimente"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:38
+msgid "Parent Event Type"
+msgstr "Părinte tip eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:39
+msgid "Parent Event Type:"
+msgstr "Părinte tip eveniment:"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:40
+msgid "Edit Event Type"
+msgstr "Editează tip eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:41
+msgid "Update Event Type"
+msgstr "Actualizează tip eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:42
+msgid "Add New Event Type"
+msgstr "Adaugă tip eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:43
+msgid "New Event Type"
+msgstr "Tip eveniment nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:45
+msgid "No event types found."
+msgstr "Nu s-au găsit tipuri de evenimente"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:52
+msgctxt "URL slug"
+msgid "event-type"
+msgstr "tip-eveniment"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:34
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:44
+msgid "Food Kinds"
+msgstr "Tipuri mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:35
+msgid "Food Kind"
+msgstr "Tip mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:36
+msgid "Search Food Kind"
+msgstr "Caută tip mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:37
+msgid "All Food Kinds"
+msgstr "Toate tipurile de mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:38
+msgid "Parent Food Kind"
+msgstr "Părinte tip mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:39
+msgid "Parent Food Kind:"
+msgstr "Părinte tip mâncare:"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:40
+msgid "Edit Food Kind"
+msgstr "Editează tip mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:41
+msgid "Update Food Kind"
+msgstr "Actualizează tip mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:42
+msgid "Add New Food Kind"
+msgstr "Adaugă tip mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:43
+msgid "New Food Kind"
+msgstr "Tip mâncare nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:45
+msgid "No food kinds found."
+msgstr "Nu s-au găsit tipuri de mâncare"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:52
+msgctxt "URL slug"
+msgid "food-kind"
+msgstr "tip-mancare"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:34
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:44
+msgid "Hotel Classes"
+msgstr "Clase hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:35
+msgid "Hotel Class"
+msgstr "Clasă hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:36
+msgid "Search Hotel Class"
+msgstr "Caută clasă hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:37
+msgid "All Hotel Classes"
+msgstr "Toate clasele "
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:38
+msgid "Parent Hotel Class"
+msgstr "Părinte clasă hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:39
+msgid "Parent Hotel Class:"
+msgstr "Părinte clasă hotel:"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:40
+msgid "Edit Hotel Class"
+msgstr "Editează clasă hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:41
+msgid "Update Hotel Class"
+msgstr "Actualizează clasă hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:42
+msgid "Add New Hotel Class"
+msgstr "Adaugă clasă hotel nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:43
+msgid "New Hotel Class"
+msgstr "Clasă hotel nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:45
+msgid "No hotel classes found."
+msgstr "Nu s-a găsit clasă hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:52
+msgctxt "URL slug"
+msgid "hotel-class"
+msgstr "clasa-hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:36
+#: templates/widgets/filter-fields/listing-categories.php:4
+#: templates/widgets/filter-fields/listing-categories.php:18
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:37
+msgid "Search Categories"
+msgstr "Caută categorii"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:38
+msgid "All Categories"
+msgstr "Toate categoriile"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:39
+msgid "Parent Category"
+msgstr "Părinte categorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:40
+msgid "Parent Category:"
+msgstr "Părinte categorie:"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:41
+msgid "Edit Category"
+msgstr "Editează categorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:42
+msgid "Update Category"
+msgstr "Actualizează categorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:43
+msgid "Add New Category"
+msgstr "Adaugă categorie nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:44
+msgid "New Category"
+msgstr "Categorie nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:46
+msgid "No categories found."
+msgstr "Nu s-a găsit categorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:53
+msgctxt "URL slug"
+msgid "listing-category"
+msgstr "categorie-listare"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:96
+msgid "Listing Category Options"
+msgstr "Opțiuni categorie listare"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:108
+msgid "POI"
+msgstr "POI"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:124
+msgid "Listing types"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:125
+msgid "If none selected, category is available for all types."
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:36
+msgid "Search Location"
+msgstr "Caută locație"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:37
+msgid "All Locations"
+msgstr "Toate locațiile"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:38
+msgid "Parent Location"
+msgstr "Părinte locație"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:39
+msgid "Parent Location:"
+msgstr "Părinte locație:"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:40
+msgid "Edit Location"
+msgstr "Editează locație"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:41
+msgid "Update Location"
+msgstr "Actualizează locație"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:42
+msgid "Add New Location"
+msgstr "Adaugă locație nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:43
+msgid "New Location"
+msgstr "Locație nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:45
+msgid "No locations found."
+msgstr "Nu s-au găsit locații."
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:52
+msgctxt "URL slug"
+msgid "location"
+msgstr "locatie"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:34
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:44
+msgid "Music Genres"
+msgstr "Genuri muzicale"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:35
+msgid "Music Genre"
+msgstr "Gen muzical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:36
+msgid "Search Music Genre"
+msgstr "Caută gen muzical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:37
+msgid "All Music Genres"
+msgstr "Toate genurile muzicale"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:38
+msgid "Parent Music Genre"
+msgstr "Părinte gen muzical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:39
+msgid "Parent Music Genre:"
+msgstr "Părinte gen muzical:"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:40
+msgid "Edit Music Genre"
+msgstr "Editează gen muzical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:41
+msgid "Update Music Genre"
+msgstr "Actualizează gen muzical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:42
+msgid "Add New Music Genre"
+msgstr "Adaugă gen muzical nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:43
+msgid "New Music Genre"
+msgstr "Gen muzical nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:45
+msgid "No music genres found."
+msgstr "Nu s-au găsit genuri muzicale"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:52
+msgctxt "URL slug"
+msgid "music-genre"
+msgstr "gen-muzical"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:34
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:44
+msgid "Pet Animals"
+msgstr "Animale de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:35
+msgid "Pet Animal"
+msgstr "Animal de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:36
+msgid "Search Pet Animal"
+msgstr "Caută animal de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:37
+msgid "All Pet Animals"
+msgstr "Toate animalele de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:38
+msgid "Parent Pet Animal"
+msgstr "Părinte animal de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:39
+msgid "Parent Pet Animal:"
+msgstr "Părinte animal de companie:"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:40
+msgid "Edit Pet Animal"
+msgstr "Editează animal de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:41
+msgid "Update Pet Animal"
+msgstr "Actualizează animal de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:42
+msgid "Add New Pet Animal"
+msgstr "Adaugă animal de companie nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:43
+msgid "New Pet Animal"
+msgstr "Animal de companie nou"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:45
+msgid "No pet animals found."
+msgstr "Nu s-au găsit animale de companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:52
+msgctxt "URL slug"
+msgid "pet-animal"
+msgstr "animal-companie"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:34
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:44
+msgid "Shopping Categories"
+msgstr "Categorii cumpărături"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:35
+msgid "Shopping Category"
+msgstr "Categorie cumpărătură"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:36
+msgid "Search Shopping Category"
+msgstr "Caută categorie cumpărătură"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:37
+msgid "All Shopping Categories"
+msgstr "Toate categoriile de cumpărături"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:38
+msgid "Parent Shopping Category"
+msgstr "Părinte categorie cumpărătură"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:39
+msgid "Parent Shopping Category:"
+msgstr "Părinte categorie cumpărătură:"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:40
+msgid "Edit Shopping Category"
+msgstr "Editează categorie cumpărătură"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:41
+msgid "Update Shopping Category"
+msgstr "Actualizează categorie cumpărătură"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:42
+msgid "Add New Shopping Category"
+msgstr "Adaugă categorie nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:43
+msgid "New Shopping Category"
+msgstr "Categorie nouă de cumpărături"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:45
+msgid "No shopping categories found."
+msgstr "Nu s-au găsit categorii de cumpărături"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:52
+msgctxt "URL slug"
+msgid "shopping-category"
+msgstr "categorie-cumparaturi"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:34
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:44
+msgid "Travel Activities"
+msgstr "Activități călătorii"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:35
+msgid "Travel Activity"
+msgstr "Activitate călătorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:36
+msgid "Search Travel Activity"
+msgstr "Caută activitate călătorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:37
+msgid "All Travel Activities"
+msgstr "Toate activitățile de călătorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:38
+msgid "Parent Travel Activity"
+msgstr "Părinte activitate călătorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:39
+msgid "Parent Travel Activity:"
+msgstr "Părinte activitate călătorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:40
+msgid "Edit Travel Activity"
+msgstr "Editează activitate călătorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:41
+msgid "Update Travel Activity"
+msgstr "Actualizează activitate călătorie"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:42
+msgid "Add New Travel Activity"
+msgstr "Adaugă activitate călătorie nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:43
+msgid "New Travel Activity"
+msgstr "Cctivitate călătorie nouă"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:45
+msgid "No travel activities found."
+msgstr "Nu s-au găsit ctivități de călătorii"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:52
+msgctxt "URL slug"
+msgid "travel-activity"
+msgstr "activitate-calatorie"
+
+#: includes/widgets/class-inventor-widget-filter.php:23
+msgid "Filter"
+msgstr "Filtru"
+
+#: includes/widgets/class-inventor-widget-filter.php:25
+msgid "Filter for filtering listings."
+msgstr "Filtru pentru filtrarea listărilor."
+
+#: includes/widgets/class-inventor-widget-listing-author.php:23
+msgid "Listing Author"
+msgstr "Autor"
+
+#: includes/widgets/class-inventor-widget-listing-author.php:25
+msgid "Listing author widget for displaying information about listing author."
+msgstr "Afișează piesa cu detalii despre autorul listării."
+
+#: includes/widgets/class-inventor-widget-listing-categories.php:23
+#: templates/widgets/listings-admin.php:193
+msgid "Listing Categories"
+msgstr "Categorii listare"
+
+#: includes/widgets/class-inventor-widget-listing-categories.php:25
+msgid "Displays listing categories."
+msgstr "Afișează categoriile listării"
+
+#: includes/widgets/class-inventor-widget-listing-details.php:23
+msgid "Listing details"
+msgstr "Detalii listări"
+
+#: includes/widgets/class-inventor-widget-listing-details.php:25
+msgid "Displays listing details."
+msgstr "Afișează detaliile listării"
+
+#: includes/widgets/class-inventor-widget-listing-inquire.php:23
+msgid "Listing Inquire"
+msgstr "Întrebări"
+
+#: includes/widgets/class-inventor-widget-listing-inquire.php:25
+msgid "Listing inquire widget for sending inquire messages."
+msgstr "Afișează piesa cu formularul de întrebări pentru vizitatori."
+
+#: includes/widgets/class-inventor-widget-listings.php:25
+msgid "Displays listings."
+msgstr "Afișează listări"
+
+#: includes/widgets/class-inventor-widget-opening-hours.php:23
+msgid "Opening hours"
+msgstr "Pogram de lucru "
+
+#: includes/widgets/class-inventor-widget-opening-hours.php:25
+msgid "Displays opening hours for current listing."
+msgstr "Afișează programul de lucru pentru listarea curentă."
+
+#: includes/widgets/class-inventor-widget-users.php:23
+msgid "Users"
+msgstr "Utilizatori"
+
+#: includes/widgets/class-inventor-widget-users.php:25
+msgid "Displays users."
+msgstr "Afișare utilizatori"
+
+#: templates/accounts/login.php:10 templates/accounts/register.php:11
+msgid "Username"
+msgstr "Username"
+
+#: templates/accounts/login.php:15 templates/accounts/register.php:21
+msgid "Password"
+msgstr "Parolă"
+
+#: templates/accounts/login.php:21
+msgid "Log in"
+msgstr "Logare"
+
+#: templates/accounts/login.php:27
+msgid "I've forgotten my password."
+msgstr ""
+
+#: templates/accounts/login.php:34 templates/accounts/register.php:55
+#: templates/accounts/reset.php:18
+msgid "You are already logged in."
+msgstr "Ești deja logat"
+
+#: templates/accounts/password.php:9
+msgid "Old password"
+msgstr "Parola veche"
+
+#: templates/accounts/password.php:14
+msgid "New password"
+msgstr "Parola nouă"
+
+#: templates/accounts/password.php:19
+msgid "Retype password"
+msgstr "Rescrie parola"
+
+#: templates/accounts/password.php:23
+msgid "Change Password"
+msgstr "Schimbă parola"
+
+#: templates/accounts/register.php:26
+msgid "Retype Password"
+msgstr "Rescrie parola"
+
+#: templates/accounts/register.php:37 templates/payment/payment-form.php:101
+#, php-format
+msgid "I agree with <a href=\"%s\" target=\"_blank\">terms & conditions</a>"
+msgstr ""
+
+#: templates/accounts/register.php:51
+msgid "Sign Up"
+msgstr "Înregistrare"
+
+#: templates/accounts/register.php:60
+msgid "Registrations are not allowed."
+msgstr "Înregistrările sunt închise"
+
+#: templates/accounts/reset.php:10
+msgid "Username or E-mail:"
+msgstr "Username sau Email:"
+
+#: templates/accounts/reset.php:14
+msgid "Get New Password"
+msgstr "Generează parolă nouă"
+
+#: templates/admin/purchase-code.php:4
+msgid "Please enter valid purchase code to get an update"
+msgstr ""
+"Te rugăm să introduci un cod valid de achiziție pentru a primi actualizări"
+
+#: templates/admin/purchase-code.php:10
+msgid "Confirm"
+msgstr "Confirmă"
+
+#: templates/admin/purchase-code.php:17
+msgid "How to find purchase code."
+msgstr "Cum găsești codul de achiziție."
+
+#: templates/archive-listing.php:53 templates/taxonomy-listing.php:53
+#: templates/users/user-list.php:25
+msgid "Previous"
+msgstr "Înapoi"
+
+#: templates/archive-listing.php:54 templates/taxonomy-listing.php:54
+#: templates/users/user-list.php:26
+msgid "Next"
+msgstr "Înainte"
+
+#: templates/author.php:33 templates/users/card.php:26
+#: templates/users/small.php:26
+#: templates/widgets/listing-categories-cards.php:68
+#, php-format
+msgid "%d listing"
+msgid_plural "%d listings"
+msgstr[0] "%d listare"
+msgstr[1] "%d listări"
+msgstr[2] "%d listări"
+
+#: templates/author.php:72
+msgid "User listings"
+msgstr "Listari utilizator"
+
+#: templates/controls/opening-hours.php:2
+#: templates/listings/detail/section-opening-hours.php:12
+msgid "Monday"
+msgstr "Luni"
+
+#: templates/controls/opening-hours.php:3
+#: templates/listings/detail/section-opening-hours.php:13
+msgid "Tuesday"
+msgstr "Marți"
+
+#: templates/controls/opening-hours.php:4
+#: templates/listings/detail/section-opening-hours.php:14
+msgid "Wednesday"
+msgstr "Miercuri"
+
+#: templates/controls/opening-hours.php:5
+#: templates/listings/detail/section-opening-hours.php:15
+msgid "Thursday"
+msgstr "Joi"
+
+#: templates/controls/opening-hours.php:6
+#: templates/listings/detail/section-opening-hours.php:16
+msgid "Friday"
+msgstr "Vineri"
+
+#: templates/controls/opening-hours.php:7
+#: templates/listings/detail/section-opening-hours.php:17
+msgid "Saturday"
+msgstr "Sâmbătă"
+
+#: templates/controls/opening-hours.php:8
+#: templates/listings/detail/section-opening-hours.php:18
+msgid "Sunday"
+msgstr "Duminică"
+
+#: templates/controls/opening-hours.php:15
+msgid "Day"
+msgstr "Zi"
+
+#: templates/controls/opening-hours.php:18
+msgid "Custom text"
+msgstr "Text customizat"
+
+#: templates/listings/detail/section-food-menu.php:10
+msgid "Daily Menu"
+msgstr "Meniu zilnic"
+
+#: templates/listings/detail/section-food-menu.php:22
+msgid "Menu"
+msgstr "Meniu"
+
+#: templates/listings/detail/section-location.php:21
+msgid "Map"
+msgstr "Hartă"
+
+#: templates/listings/detail/section-location.php:37
+msgid "See Inside"
+msgstr "Vezi înăuntru"
+
+#: templates/listings/detail/section-location.php:44
+msgid "Directions"
+msgstr "Direcții"
+
+#: templates/listings/detail/section-report.php:7
+msgid "Report spam, abuse, or inappropriate content"
+msgstr "Raportează spam, abuz sau conținut impropriu"
+
+#: templates/listings/row.php:40
+msgid "Read More"
+msgstr "Mai mult"
+
+#: templates/mails/report.php:21
+msgid "Report reason"
+msgstr "Motiv raportare"
+
+#: templates/misc/breadcrumb.php:3 templates/misc/breadcrumb.php:6
+#: templates/misc/breadcrumb.php:9
+msgid "Home"
+msgstr "Acasă"
+
+#: templates/misc/breadcrumb.php:84
+msgid "Page not found"
+msgstr "Pagina solicitată nu a fost găsită"
+
+#: templates/misc/breadcrumb.php:91 templates/misc/breadcrumb.php:93
+#: templates/misc/breadcrumb.php:95
+msgid "Archive for"
+msgstr "Arhivă pentru"
+
+#: templates/misc/breadcrumb.php:97
+msgid "Author Archive"
+msgstr "Arhivă autor"
+
+#: templates/misc/breadcrumb.php:99
+msgid "Blog Archives"
+msgstr "Arhivă blog"
+
+#: templates/misc/breadcrumb.php:101
+msgid "Search Results"
+msgstr "Rezultatele căutării"
+
+#: templates/misc/not-allowed.php:9
+msgid "You need to log in at first."
+msgstr "Întâi trebuie să fi logat"
+
+#: templates/misc/not-allowed.php:11
+msgid "You are not allowed to access this page."
+msgstr "Nu ești autorizat să accesezi această pagină."
+
+#: templates/misc/not-allowed.php:23
+msgid "Login"
+msgstr "Logare"
+
+#: templates/misc/not-allowed.php:31
+msgid "Register"
+msgstr "Înregistrare"
+
+#: templates/misc/object-does-not-exist.php:8
+msgid "Object does not exist."
+msgstr "Obiectul nu există"
+
+#: templates/misc/print-button.php:2
+msgid "Print"
+msgstr "Printează"
+
+#: templates/misc/report-form.php:3
+msgid "You have to specify listing!"
+msgstr "Trebuie să specifici listarea!"
+
+#: templates/misc/report-form.php:6
+#, php-format
+msgid "What's wrong with %s?"
+msgstr "Ce este în neregulă cu %s?"
+
+#: templates/misc/report-form.php:14 templates/misc/report-form.php:15
+msgid "It is spam"
+msgstr "Este spam"
+
+#: templates/misc/report-form.php:21 templates/misc/report-form.php:22
+msgid "It is nudity or pornography"
+msgstr "Este nuditate sau pornografie"
+
+#: templates/misc/report-form.php:28 templates/misc/report-form.php:29
+msgid "It humiliates somebody"
+msgstr "Umilește pe cineva"
+
+#: templates/misc/report-form.php:35 templates/misc/report-form.php:36
+msgid "It is inappropriate"
+msgstr "Este impropriu"
+
+#: templates/misc/report-form.php:42 templates/misc/report-form.php:43
+msgid ""
+"It insults or attacks someone based on their religion, ethnicity or sexual "
+"orientation"
+msgstr ""
+"Insultă sau atacă pe cineva bazat pe religie, etnie sau orientare sexuală"
+
+#: templates/misc/report-form.php:49 templates/misc/report-form.php:50
+msgid "It advocates violence or harm to a person or animal"
+msgstr "Instrigă la violentă asupra unui animal sau persoană"
+
+#: templates/misc/report-form.php:56 templates/misc/report-form.php:57
+msgid "It displays someone harming themself or planning to harm themself"
+msgstr "Afisează pe cineva rănindu-se singur"
+
+#: templates/misc/report-form.php:63 templates/misc/report-form.php:64
+msgid "It describes buying or selling drugs, guns or regulated products"
+msgstr ""
+"Descrie mod de a cumpăra sau vinde droguri, arme sau alte produse ilegale"
+
+#: templates/misc/report-form.php:71 templates/misc/report-form.php:72
+msgid "It is an unauthorized use of my intellectual property"
+msgstr "Folosește proprietatea mea intelectuală"
+
+#: templates/misc/report-form.php:78 templates/misc/report-form.php:79
+msgid "Something else"
+msgstr "Altceva"
+
+#: templates/misc/report-form.php:85
+msgid "Other reason or additional information"
+msgstr "Alt motiv sau informații suplimentare"
+
+#: templates/misc/report-form.php:88
+msgid "Your Contact Information"
+msgstr ""
+
+#: templates/misc/report-form.php:107
+msgid "Submit to review"
+msgstr "Trimite către administrator"
+
+#: templates/misc/share.php:3 templates/misc/share.php:7
+msgid "Share"
+msgstr "Distribuie"
+
+#: templates/notices/welcome.php:3
+msgid ""
+"<strong>Welcome to Inventor</strong> - please read <a href=\"http://"
+"inventorwp.com/documentation/\" target=\"_blank\">documentation</a> for more "
+"information."
+msgstr ""
+"<strong>Bun venit la Inventor</strong> - te rugăm să citești <a href="
+"\"http://inventorwp.com/documentation/\" target=\"_blank\">documentația</a> "
+"pentru mai multe informații."
+
+#: templates/notices/welcome.php:7
+msgid ""
+"All available features are listed at <a href=\"http://inventorwp.com\" "
+"target=\"_blank\">inventorwp.com</a>."
+msgstr ""
+"Toate funcționalitățile sunt disponibile pe siteul <a href=\"http://"
+"inventorwp.com\" target=\"_blank\">inventorwp.com</a>."
+
+#: templates/notices/welcome.php:12
+msgid "Documentation"
+msgstr "Documentație"
+
+#: templates/notices/welcome.php:16
+msgid "Plugins"
+msgstr "Module"
+
+#: templates/notices/welcome.php:20
+msgid "Hide"
+msgstr "Ascunde"
+
+#: templates/payment/gateways/wire-transfer.php:10
+#, php-format
+msgid "for package \"%s\""
+msgstr "pentru pachetul \"%s\""
+
+#: templates/payment/gateways/wire-transfer.php:16
+msgid "Beneficiary's account number"
+msgstr "Contul bancar al beneficiarului"
+
+#: templates/payment/gateways/wire-transfer.php:21
+msgid "Bank code (SWIFT/BIC)"
+msgstr "SWIFT-ul sau BIC-ul băncii"
+
+#: templates/payment/gateways/wire-transfer.php:26
+msgid "Variable symbol"
+msgstr "Simbol variabilă"
+
+#: templates/payment/gateways/wire-transfer.php:31
+msgid "Information / reference"
+msgstr "Informație / Referință"
+
+#: templates/payment/gateways/wire-transfer.php:38
+msgid "Beneficiary's name"
+msgstr "Numele beneficiarului"
+
+#: templates/payment/gateways/wire-transfer.php:48
+msgid "Postcode (ZIP)"
+msgstr "Codul poștal"
+
+#: templates/payment/gateways/wire-transfer.php:65
+msgid "Your payment will be manually reviewed when transfer will be completed."
+msgstr "Plata ta va fi verificată manual când transferul va fi complet."
+
+#: templates/payment/payment-form.php:17
+msgid "You are missing payment type."
+msgstr "Modalitatea de plată nu a fost selectată."
+
+#: templates/payment/payment-form.php:21
+msgid "Invalid payment type."
+msgstr "Metoda de plată este invalidă."
+
+#: templates/payment/payment-form.php:25
+msgid "Object is missing."
+msgstr "Obiectul lipsește"
+
+#: templates/payment/payment-form.php:54
+msgid "Payment gateway"
+msgstr "Procesatorul de plăți"
+
+#: templates/payment/payment-form.php:110
+msgid "Process payment"
+msgstr "Procesează plata"
+
+#: templates/payment/payment-form.php:115
+msgid "No payment gateways found."
+msgstr "Nu s-a găsit procesator de plăți"
+
+#: templates/payment/payment-form.php:122
+msgid "Back to"
+msgstr "Înapoi la"
+
+#: templates/payment/transactions.php:18
+msgid "ID"
+msgstr "ID"
+
+#: templates/payment/transactions.php:22
+msgid "Payment Type"
+msgstr "Tip plată"
+
+#: templates/payment/transactions.php:50
+msgid "Package"
+msgstr "Pachet"
+
+#: templates/payment/transactions.php:53
+msgid "Listing purchase"
+msgstr "Produse listare"
+
+#: templates/payment/transactions.php:56
+msgid "Featured listing"
+msgstr "Listare promovată"
+
+#: templates/payment/transactions.php:59
+msgid "Publish listing"
+msgstr "Publică listarea"
+
+#: templates/payment/transactions.php:83
+msgid "Previous page"
+msgstr "Pagina anterioară"
+
+#: templates/payment/transactions.php:84
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: templates/payment/transactions.php:85
+msgid "Page"
+msgstr "Pagina"
+
+#: templates/payment/transactions.php:88
+msgid "No transactions found."
+msgstr "Nu s-au găsit tranzacții"
+
+#: templates/widgets/appearance-admin.php:16
+msgid "Appearance"
+msgstr "Aparență"
+
+#: templates/widgets/appearance-admin.php:24
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: templates/widgets/appearance-admin.php:37
+msgid "Background Image (URL)"
+msgstr "Adresa URL a imaginii presetate"
+
+#: templates/widgets/appearance-admin.php:55
+msgid "Padding Top"
+msgstr "Spațiu sus"
+
+#: templates/widgets/appearance-admin.php:68
+msgid "Padding Bottom"
+msgstr "Spațiu jos"
+
+#: templates/widgets/appearance-admin.php:75
+msgid "Classes"
+msgstr "Clasele"
+
+#: templates/widgets/appearance-admin.php:84
+msgid "Additional classes e.g. <i>background-gray</i>"
+msgstr "Clase adiționale (ex: <i>background-gray</i>)"
+
+#: templates/widgets/filter-admin.php:31
+msgid "Button text"
+msgstr "Text buton"
+
+#: templates/widgets/filter-admin.php:49
+msgid "Sorting Options"
+msgstr "Opțiuni sortare"
+
+#: templates/widgets/filter-admin.php:54
+msgid "Input titles"
+msgstr "Inserează titluri"
+
+#: templates/widgets/filter-admin.php:65
+msgid "Labels"
+msgstr "Etichete"
+
+#: templates/widgets/filter-admin.php:77
+msgid "Placeholders"
+msgstr "Substituenți"
+
+#: templates/widgets/filter-admin.php:83
+msgid "Result numbers"
+msgstr "Numere rezultate"
+
+#: templates/widgets/filter-admin.php:94
+msgid "Show result numbers"
+msgstr "Afișează numerele rezultate"
+
+#: templates/widgets/filter-admin.php:106
+msgid "Show total count"
+msgstr "Afișează contorul total"
+
+#: templates/widgets/filter-fields/listing-categories.php:20
+msgid "All categories"
+msgstr "Toate categoriile"
+
+#: templates/widgets/filter-fields/listing-type.php:18
+msgid "All listing types"
+msgstr "Toate tipurile de listări"
+
+#: templates/widgets/filter-fields/locations.php:20
+msgid "All locations"
+msgstr "Toate locațiile"
+
+#: templates/widgets/filter-fields/price.php:8
+#: templates/widgets/filter-fields/price.php:13
+msgid "Price from"
+msgstr "Preț de la"
+
+#: templates/widgets/filter-fields/price.php:25
+#: templates/widgets/filter-fields/price.php:30
+msgid "Price to"
+msgstr "Preț până la"
+
+#: templates/widgets/filter-form.php:46
+msgid "Sort"
+msgstr "Sortează"
+
+#: templates/widgets/filter-form.php:62 templates/widgets/users-admin.php:81
+msgid "Order"
+msgstr "Ordonează"
+
+#: templates/widgets/filter-form.php:68
+msgid "Asc"
+msgstr "Cresc"
+
+#: templates/widgets/filter-form.php:74
+msgid "Desc"
+msgstr "Desc"
+
+#: templates/widgets/filter-form.php:84
+msgid "Rows"
+msgstr "Rânduri"
+
+#: templates/widgets/filter-form.php:91
+msgid "Grid"
+msgstr "Căsuțe"
+
+#: templates/widgets/filter.php:43
+#, php-format
+msgid ""
+"<span class=\"match\">%d</span> listing from <span class=\"total\">%d</span> "
+"matches your search criteria"
+msgid_plural ""
+"<span class=\"match\">%d</span> listings from <span class=\"total\">%d</"
+"span> match your search criteria"
+msgstr[0] ""
+"<span class=\"match\">%d</span> listare din <span class=\"total\">%d</span> "
+"se potrivește căutării tale"
+msgstr[1] ""
+"<span class=\"match\">%d</span> listari din <span class=\"total\">%d</span> "
+"se potrivesc căutării tale"
+msgstr[2] ""
+"<span class=\"match\">%d</span> listari din <span class=\"total\">%d</span> "
+"se potrivesc căutării tale"
+
+#: templates/widgets/filter.php:45
+#, php-format
+msgid "<span class=\"match\">%d</span> listing matches your search criteria"
+msgid_plural ""
+"<span class=\"match\">%d</span> listings match your search criteria"
+msgstr[0] "<span class=\"match\">%d</span> listare se potrivește căutării tale"
+msgstr[1] "<span class=\"match\">%d</span> listari se potrivesc căutării tale"
+msgstr[2] "<span class=\"match\">%d</span> listari se potrivesc căutării tale"
+
+#: templates/widgets/listing-categories-admin.php:65
+msgid "Show count"
+msgstr "Afisează contor"
+
+#: templates/widgets/listing-categories-admin.php:72
+#: templates/widgets/listings-admin.php:61 templates/widgets/users-admin.php:56
+msgid "Display as"
+msgstr "Afișează ca"
+
+#: templates/widgets/listing-categories-admin.php:77
+msgid "Tabs"
+msgstr ""
+
+#: templates/widgets/listing-categories-admin.php:78
+msgid "Cards"
+msgstr ""
+
+#: templates/widgets/listing-inquire-admin.php:35
+msgid "Form fields"
+msgstr "Câmpuri"
+
+#: templates/widgets/listing-inquire-admin.php:85
+#: templates/widgets/listing-inquire.php:63
+msgid "Subject"
+msgstr "Subiect"
+
+#: templates/widgets/listing-inquire-admin.php:139
+msgid "Site admin"
+msgstr "Administrator site"
+
+#: templates/widgets/listing-inquire-admin.php:152
+msgid "Listing author"
+msgstr "Listări autor"
+
+#: templates/widgets/listing-inquire-admin.php:165
+msgid "Listing email"
+msgstr "Email listări"
+
+#: templates/widgets/listing-inquire-admin.php:170
+msgid "If none selected, post author will receive an email by default."
+msgstr ""
+"Dacă nu este selectat nimic, autorul postării va primi un email automat."
+
+#: templates/widgets/listing-inquire.php:86
+msgid "Send Message"
+msgstr "Trimite mesaj"
+
+#: templates/widgets/listings-admin.php:47 templates/widgets/users-admin.php:42
+msgid "Count"
+msgstr "Contor"
+
+#: templates/widgets/listings-admin.php:66 templates/widgets/users-admin.php:61
+msgid "Small"
+msgstr "Mic"
+
+#: templates/widgets/listings-admin.php:67
+msgid "Box"
+msgstr "Căsuță"
+
+#: templates/widgets/listings-admin.php:68
+msgid "Column"
+msgstr "Coloană"
+
+#: templates/widgets/listings-admin.php:69
+msgid "Row"
+msgstr "Rând"
+
+#: templates/widgets/listings-admin.php:70
+msgid "Masonry"
+msgstr "Masonry"
+
+#: templates/widgets/listings-admin.php:71
+msgid "Carousel"
+msgstr "Carusel"
+
+#: templates/widgets/listings-admin.php:78
+msgid "Items per row"
+msgstr "Listări pe rând"
+
+#: templates/widgets/listings-admin.php:95
+msgid "Pickup"
+msgstr "Pickup"
+
+#: templates/widgets/listings-admin.php:99
+msgid "Random"
+msgstr "Aleatoriu"
+
+#: templates/widgets/listings-admin.php:100
+#: templates/widgets/listings-admin.php:136
+msgid "IDs"
+msgstr "ID-uri"
+
+#: templates/widgets/listings-admin.php:112
+msgid "Default"
+msgstr "Implicit"
+
+#: templates/widgets/listings-admin.php:144
+msgid ""
+"For specific listings please insert post ids, separated by comma. Example: "
+"1,2,3"
+msgstr ""
+"Pentru parteneri specifici te rog să introduci ID-urile posturilor, separate "
+"de virgulă. Exemplu: 1,2,3"
+
+#: templates/widgets/listings-admin.php:150
+msgid "Attribute"
+msgstr "Atribut"
+
+#: templates/widgets/listings-admin.php:160
+msgid "None"
+msgstr "Nimic"
+
+#: templates/widgets/listings-admin.php:172
+msgid "Featured only"
+msgstr "Numai promovate"
+
+#: templates/widgets/listings-admin.php:185
+msgid "Reduced only"
+msgstr "Numai reduse"
+
+#: templates/widgets/listings-admin.php:213
+msgid "Types"
+msgstr "Tipuri"
+
+#: templates/widgets/listings.php:89
+msgid "No listings found."
+msgstr "Nu s-au găsit listări."
+
+#: templates/widgets/opening-hours.php:10
+msgid "Mon"
+msgstr "Luni"
+
+#: templates/widgets/opening-hours.php:11
+msgid "Tue"
+msgstr "Marți"
+
+#: templates/widgets/opening-hours.php:12
+msgid "Wed"
+msgstr "Miercuri"
+
+#: templates/widgets/opening-hours.php:13
+msgid "Thu"
+msgstr "Joi"
+
+#: templates/widgets/opening-hours.php:14
+msgid "Fri"
+msgstr "Vineri"
+
+#: templates/widgets/opening-hours.php:15
+msgid "Sat"
+msgstr "Sâmbătă"
+
+#: templates/widgets/opening-hours.php:16
+msgid "Sun"
+msgstr "Duminică"
+
+#: templates/widgets/opening-hours.php:49
+msgid "It is <span class=\"open\">open</span>."
+msgstr "Este <span class=\"open\">deschis</span>."
+
+#: templates/widgets/opening-hours.php:54
+msgid "It is <span class=\"closed\">closed</span>."
+msgstr "Este <span class=\"closed\">închis</span>."
+
+#: templates/widgets/users-admin.php:68
+msgid "Type"
+msgstr "Tip"
+
+#: templates/widgets/users-admin.php:73
+msgid "Authors"
+msgstr "Autori"
+
+#: templates/widgets/users-admin.php:74
+msgid "All"
+msgstr "Toate"
+
+#: templates/widgets/users-admin.php:92
+msgid "Registration date"
+msgstr "Dată înregistrare"
+
+#: templates/widgets/users-admin.php:104
+msgid "Post count"
+msgstr "Contor postare"
+
+#: templates/widgets/users.php:76
+msgid "No users found."
+msgstr "Nu s-au găsit utilizatori"
+
+#: templates/widgets/visibility-admin.php:16
+msgid "Visibility"
+msgstr "Vizibilitate"
+
+#: templates/widgets/visibility-admin.php:21
+msgid ""
+"Using following settings you can specify, on which pages will be widget "
+"shown."
+msgstr ""
+"Folosind următoarele setări vei putea specifica în care pagină piesa va fi "
+"afișată."
+
+#: templates/widgets/visibility-admin.php:24
+msgid "If none of the following is set, widget will be visible by default."
+msgstr ""
+"Dacă nici una din următoarele este setată, piesa va fi afișată implicit."
+
+#: templates/widgets/visibility-admin.php:31
+msgid "Front page"
+msgstr "Pagina principală"
+
+#: templates/widgets/visibility-admin.php:39
+msgid "Listing detail"
+msgstr "Detalii listare"
+
+#: templates/widgets/visibility-admin.php:47
+msgid "Listing archive"
+msgstr "Arhivă listare"
+
+#: templates/widgets/visibility-admin.php:55
+msgid "Listing taxonomies"
+msgstr "Taxonomii listare"
+
+#: templates/widgets/visibility-admin.php:62
+msgid "Pages"
+msgstr "Pagini"
+
+#: templates/widgets/visibility-admin.php:66
+msgid "Page slugs delimited by comma e.g. <i>image-cover,listing-slider</i>"
+msgstr ""
+"Slug-urile paginilor delimitate de virgulă (ex: <i>image-cover,listing-"
+"slider</i>)"
+
+#~ msgid "Listing Categories Boxes"
+#~ msgstr "Cutiile categoriilor listării"
+
+#~ msgid "Displays listing categories in boxes."
+#~ msgstr "Afișează categoriile listării în cutii"
+
+#~ msgid "I agree with <a href=\"%s\">terms & conditions</a>"
+#~ msgstr "Accept <a href=\"%s\">termenii și condițiile</a>"
+
+#~ msgid "Contact to you"
+#~ msgstr "Datele tale de contact"

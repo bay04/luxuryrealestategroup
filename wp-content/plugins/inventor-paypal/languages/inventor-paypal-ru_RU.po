@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor PayPal\n"
+"POT-Creation-Date: 2016-08-04 19:32+0600\n"
+"PO-Revision-Date: 2016-08-04 19:40+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../libraries\n"
+
+#: ../includes/class-inventor-paypal-logic.php:57
+msgid "PayPal Credit Card"
+msgstr "Кредитная Карта PayPal"
+
+#: ../includes/class-inventor-paypal-logic.php:65
+msgid "PayPal Account"
+msgstr "PayPal Аккаунт"
+
+#: ../includes/class-inventor-paypal-logic.php:105
+msgid "First name is required."
+msgstr "Требуется Имя."
+
+#: ../includes/class-inventor-paypal-logic.php:110
+msgid "Last name is required."
+msgstr "Требуется Фамилия"
+
+#: ../includes/class-inventor-paypal-logic.php:115
+msgid "Card number is required."
+msgstr "Требуется номер Карты."
+
+#: ../includes/class-inventor-paypal-logic.php:120
+msgid "CVV is required."
+msgstr "Требуется CVV."
+
+#: ../includes/class-inventor-paypal-logic.php:125
+msgid "Expires month is required."
+msgstr "Требуется месяц истечения срока."
+
+#: ../includes/class-inventor-paypal-logic.php:130
+msgid "Expires year is required."
+msgstr "Требуется год истечения срока."
+
+#: ../includes/class-inventor-paypal-logic.php:135
+msgid "Credit card number is not valid."
+msgstr "Кредитная карта не действительна."
+
+#: ../includes/class-inventor-paypal-logic.php:140
+msgid "CVV number is not valid."
+msgstr "CVV номер не действителен."
+
+#: ../includes/class-inventor-paypal-logic.php:145
+#: ../includes/class-inventor-paypal-logic.php:174
+msgid "You must agree terms &amp; conditions."
+msgstr "Вы должны принять правила и условия."
+
+#: ../includes/class-inventor-paypal-logic.php:269
+msgid "Payment is invalid."
+msgstr "Оплата не действительна."
+
+#: ../includes/class-inventor-paypal-logic.php:271
+msgid "Undefined payment type."
+msgstr "Неопределенный тип оплаты."
+
+#: ../includes/class-inventor-paypal-logic.php:273
+#: ../includes/class-inventor-paypal-logic.php:485
+msgid "Payment has been successful."
+msgstr "Оплата прошла успешно."
+
+#: ../includes/class-inventor-paypal-logic.php:276
+msgid "Payment failed, canceled or is invalid."
+msgstr "Не удалось выполнить платеж, он отменен или является недействительным."
+
+#: ../includes/class-inventor-paypal-logic.php:489
+msgid "There was an error processing payment."
+msgstr "Произошла ошибка во время платежа."
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:34
+msgid "Inventor PayPal"
+msgstr "PayPal разработчика"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:46
+msgid "Client ID"
+msgstr "ID клиента"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:60
+msgid "Client Secret"
+msgstr "Секрет клиента (Client Secret)"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:73
+msgid "Live Mode"
+msgstr "Режим Реального Времени (Live Mode)"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:87
+msgid "Credit Card"
+msgstr "Кредитная Карта"
+
+#: ../templates/paypal/credit-card-form.php:7
+msgid "First Name"
+msgstr "Имя"
+
+#: ../templates/paypal/credit-card-form.php:12
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../templates/paypal/credit-card-form.php:17
+msgid "Credit Card Number"
+msgstr "Номер Кредитной Карты"
+
+#: ../templates/paypal/credit-card-form.php:22
+msgid "CVV"
+msgstr "CVV"
+
+#: ../templates/paypal/credit-card-form.php:27
+msgid "Expires"
+msgstr "Истекает"
+
+#: ../templates/paypal/credit-card-form.php:30
+msgid "Month"
+msgstr "Месяц"
+
+#: ../templates/paypal/credit-card-form.php:38
+msgid "Year"
+msgstr "Год"

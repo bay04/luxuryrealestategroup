@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Watchdogs\n"
+"POT-Creation-Date: 2016-08-16 11:51+0200\n"
+"PO-Revision-Date: 2016-08-16 11:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-watchdogs-logic.php:162
+#: includes/class-inventor-watchdogs-logic.php:192 templates/watchdogs.php:20
+msgid "You need to log in at first."
+msgstr "Effettua prima l'accesso."
+
+#: includes/class-inventor-watchdogs-logic.php:201
+msgid "Watchdog does not exist!"
+msgstr "Cane da guardia non esiste!"
+
+#: includes/class-inventor-watchdogs-logic.php:203
+msgid "It is not your watchdog!"
+msgstr "Non è il tuo cane da guardia!"
+
+#: includes/class-inventor-watchdogs-logic.php:206
+#: includes/class-inventor-watchdogs-logic.php:298
+msgid "Watchdog deleted."
+msgstr "Cane da guardia eliminato."
+
+#: includes/class-inventor-watchdogs-logic.php:242
+msgid "Search query watchdogs are disabled."
+msgstr "Cani da guardia query di ricerca vengono disattivati."
+
+#: includes/class-inventor-watchdogs-logic.php:251
+msgid "You can't watch empty search query."
+msgstr "Non si può guardare query di ricerca vuota."
+
+#: includes/class-inventor-watchdogs-logic.php:257
+msgid "You already watch this search query."
+msgstr "Si guarda già questa query di ricerca."
+
+#: includes/class-inventor-watchdogs-logic.php:267
+msgid "Watchdog saved."
+msgstr "Cane da guardia salvato."
+
+#: includes/class-inventor-watchdogs-logic.php:290
+msgid "You don't watch this search query."
+msgstr "Non si guarda questa query di ricerca."
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:36
+msgid "Inventor Watchdogs"
+msgstr "Inventor Cani da guardia"
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:49
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:37
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:43
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:49
+msgid "Watchdogs"
+msgstr "Cani da guardia"
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:64
+msgid "Enable Search Queries Watchdogs"
+msgstr "Attivare la ricerca query Cani da guardia"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:38
+msgid "Watchdog"
+msgstr "Cane da guardia"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:39
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:40
+msgid "Add New Watchdog"
+msgstr "Aggiungere nuovo Cane da guardia"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:41
+msgid "Edit Watchdog"
+msgstr "Modificare Cane da guardia"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:42
+msgid "New Watchdog"
+msgstr "Nuovo cane da guardia"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:44
+msgid "View Watchdog"
+msgstr "Visualizza Cane da guardia"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:45
+msgid "Search Watchdog"
+msgstr "Ricerca Cane da guardia"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:46
+msgid "No Watchdogs found"
+msgstr "Nessun cani da guardia trovati"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:47
+msgid "No Watchdogs Found in Trash"
+msgstr "Nessun cani da guardia trovati nel cestino"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:77
+msgid "General"
+msgstr "Generico"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:86
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:109
+#: templates/watchdogs-lookup.php:5
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:89
+msgid "Search query"
+msgstr "Cerca query"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:95
+msgid "Data"
+msgstr "Data"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:110
+msgid "Lookup"
+msgstr "Cerca"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:111
+msgid "Value"
+msgstr "Valore"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:112
+msgid "Author"
+msgstr "Autore"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:113
+msgid "Date"
+msgstr "Data"
+
+#: templates/watchdogs-button.php:4
+msgid "Unwatch this search query"
+msgstr ""
+
+#: templates/watchdogs-button.php:8
+msgid "Watch this search query"
+msgstr ""
+
+#: templates/watchdogs-row.php:11
+#, php-format
+msgid "<span class=\"match\">%d</span> listing matches your search query"
+msgid_plural "<span class=\"match\">%d</span> listings match your search query"
+msgstr[0] ""
+"<span class=\"match\">%d</span> listato corrisponde la query di ricerca"
+msgstr[1] ""
+"<span class=\"match\">%d</span> listati corrisponde la query di ricerca"
+
+#: templates/watchdogs-row.php:19
+msgid "Watched value"
+msgstr "Valore visto"
+
+#: templates/watchdogs-row.php:25
+msgid "Record created"
+msgstr ""
+
+#: templates/watchdogs.php:11
+msgid "Previous"
+msgstr "Precedente"
+
+#: templates/watchdogs.php:12
+msgid "Next"
+msgstr "Avanti"
+
+#: templates/watchdogs.php:18
+msgid "You don't have any watchdogs, yet. Start by adding some."
+msgstr ""
+"Non hai ancora nessun annuncio preferito. Comincia per aggiungerne uno."

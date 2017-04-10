@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Listing Slider\n"
+"POT-Creation-Date: 2016-05-03 14:20+0200\n"
+"PO-Revision-Date: 2016-06-07 00:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-jobs-logic.php:55
+msgid "New job application"
+msgstr "Yeni İş Başvurusu"
+
+#: includes/class-inventor-jobs-logic.php:75
+msgid "Job was already assigned to user."
+msgstr "Bu iş zaten başka bir kullanıcıya verildi."
+
+#: includes/class-inventor-jobs-logic.php:83
+#: includes/class-inventor-jobs-logic.php:255
+msgid "You already applied for this job."
+msgstr "Bu iş için zaten başvurunuzu yaptınız."
+
+#: includes/class-inventor-jobs-logic.php:94
+msgid "Job ID is missing."
+msgstr "İş ID eksik."
+
+#: includes/class-inventor-jobs-logic.php:246
+msgid "reCAPTCHA is not valid."
+msgstr "Doğrulama Kodu geçersiz"
+
+#: includes/class-inventor-jobs-logic.php:308
+msgid "Message has been successfully sent."
+msgstr "Mesaj başarıyla gönderildi"
+
+#: includes/class-inventor-jobs-logic.php:310
+msgid "Unable to send a message."
+msgstr "Mesaj gönderilemiyor"
+
+#: includes/class-inventor-jobs-shortcodes.php:42
+msgid "Listing is not a job."
+msgstr "Listeleme bir iş değildir"
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:45
+msgid "Apply for job"
+msgstr "İş için başvur"
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:60
+msgid "Job applicants"
+msgstr "Başvurucular"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:37
+#: includes/post-types/class-inventor-jobs-post-type-application.php:43
+#: includes/post-types/class-inventor-jobs-post-type-application.php:49
+msgid "Applications"
+msgstr "Başvurular"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:38
+msgid "Application"
+msgstr "Başvuru"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:39
+#: includes/post-types/class-inventor-jobs-post-type-application.php:40
+msgid "Add New Application"
+msgstr "Yeni Başvuru Ekle"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:41
+msgid "Edit Application"
+msgstr "Başvuruyu Düzenle"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:42
+msgid "New Application"
+msgstr "Yeni Başvuru"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:44
+msgid "View Application"
+msgstr "Başvuruyu Görüntüle"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:45
+msgid "Search Application"
+msgstr "Başvuruyu Ara"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:46
+msgid "No Applications found"
+msgstr "Hiç Başvuru Bulunamadı"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:47
+msgid "No Applications Found in Trash"
+msgstr "Çöpte Hiç Başvuru Bulunamadı"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:74
+msgid "General"
+msgstr "Genel"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:83
+msgid "Job ID"
+msgstr "İş ID"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:93
+msgid "Resume ID"
+msgstr "CV ID"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:111
+#: templates/jobs-apply-mail.php:8
+msgid "Name"
+msgstr "İsim"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:112
+#: includes/post-types/class-inventor-jobs-post-type-job.php:101
+#: templates/jobs-apply-mail.php:16
+msgid "Job"
+msgstr "İş"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:113
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:52
+#: templates/jobs-apply-mail.php:20
+msgid "Resume"
+msgstr "CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:114
+msgid "Author"
+msgstr "Yazar"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:115
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:53
+#: includes/post-types/class-inventor-jobs-post-type-job.php:199
+msgid "Required skills"
+msgstr "Gerekli Beceriler"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:100
+#: includes/post-types/class-inventor-jobs-post-type-job.php:106
+#: includes/post-types/class-inventor-jobs-post-type-job.php:112
+msgid "Jobs"
+msgstr "İşler"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:102
+#: includes/post-types/class-inventor-jobs-post-type-job.php:103
+msgid "Add New Job"
+msgstr "Yeni İş Ekle"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:104
+msgid "Edit Job"
+msgstr "İşi Düzenle"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:105
+msgid "New Job"
+msgstr "Yeni İş"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:107
+msgid "View Job"
+msgstr "İşi Düzenle"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:108
+msgid "Search Job"
+msgstr "İşi Ara"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:109
+msgid "No Jobs found"
+msgstr "Hiç İş bulunamadı."
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:110
+msgid "No Jobs Found in Trash"
+msgstr "Çöpte hiç İş bulunamadı"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:121
+msgctxt "URL slug"
+msgid "jobs"
+msgstr "isler"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:141
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:93
+msgid "Details"
+msgstr "Detaylar"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:159
+msgid "Employer"
+msgstr "İşveren"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:170
+msgid "Starting date"
+msgstr "Başlama Tarihi"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:177
+msgid "Job position"
+msgstr "Pozisyon"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:185
+msgid "Contract type"
+msgstr "Sözleşme Türü"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:189
+msgid "Full-time"
+msgstr "Full-time"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:190
+msgid "Part-time"
+msgstr "Part-time"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:191
+msgid "Brigade"
+msgstr "Ekip"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:192
+msgid "Agreement"
+msgstr "Sözleşme"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:193
+msgid "Self-employed persons"
+msgstr "Kendi İşinin Patronu"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:51
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:57
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:63
+msgid "Resumes"
+msgstr "Özgeçmiş"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:53
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:54
+msgid "Add New Resume"
+msgstr "Yeni CV Ekle"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:55
+msgid "Edit Resume"
+msgstr "CV Düzenle"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:56
+msgid "New Resume"
+msgstr "Yeni CV Ekle"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:58
+msgid "View Resume"
+msgstr "CV Görüntüle"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:59
+msgid "Search Resume"
+msgstr "CV Arama"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:60
+msgid "No Resumes found"
+msgstr "Hiç CV Bulunamadı"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:61
+msgid "No Resumes Found in Trash"
+msgstr "Çöpte hiç CV bulunamadı."
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:72
+msgctxt "URL slug"
+msgid "resumes"
+msgstr "cv"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:102
+msgid "Working history"
+msgstr "Çalışma Geçmişi"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:112
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:159
+msgid "Item"
+msgstr "Eşya"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:113
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:160
+msgid "Add Another"
+msgstr "Bir tane daha ekle"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:114
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:161
+msgid "Remove"
+msgstr "Sil"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:121
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:168
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:130
+msgid "Description"
+msgstr "Açıklama"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:136
+msgid "Date from"
+msgstr "Başlangıç tarihi"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:142
+msgid "Date to"
+msgstr "Bitiş Tarihi"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:149
+msgid "Experience"
+msgstr "Tecrübeler"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:177
+msgid "Since"
+msgstr "Tarihinden Beri"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:182
+msgid "Beginner"
+msgstr "Başlangıç"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:183
+msgid "Intermediate"
+msgstr "Orta Seviye"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:184
+msgid "Professional"
+msgstr "Profesyonel"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:189
+msgid "Level"
+msgstr "Sevye"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:44
+msgid "Job Positions"
+msgstr "İş Pozisyonları"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:35
+msgid "Job Position"
+msgstr "İş Pozisyonu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:36
+msgid "Search Job Position"
+msgstr "İş Pozisyonunda Ara"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:37
+msgid "All Job Positions"
+msgstr "Bütün İş Pozisyonları"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:38
+msgid "Parent Job Position"
+msgstr "Ebeveyn İş Pozisyonu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:39
+msgid "Parent Job Position:"
+msgstr "Ebeveyn İş Pozisyonu:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:40
+msgid "Edit Job Position"
+msgstr "İş Pozisyonu Düzenle"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:41
+msgid "Update Job Position"
+msgstr "İş Pozisyonu Güncelle"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:42
+msgid "Add New Job Position"
+msgstr "Yeni İş Pozisyonu Ekle"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:43
+msgid "New Job Position"
+msgstr "Yeni İş Pozisyonu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:45
+msgid "No job positions found."
+msgstr "Hiç İş pozisyonu bulunamadı."
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:52
+msgctxt "URL slug"
+msgid "job-position"
+msgstr "is-pozisyonu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:44
+msgid "Job Skills"
+msgstr "İş Becerileri"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:35
+msgid "Job Skill"
+msgstr "İş Becerisi"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:36
+msgid "Search Job Skill"
+msgstr "İş Becerisi Ara"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:37
+msgid "All Job Skills"
+msgstr "Bütün İş Becerileri"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:38
+msgid "Parent Job Skill"
+msgstr "Ebeveyn İş Becerisi"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:39
+msgid "Parent Job Skill:"
+msgstr "Ebeveyn İş Becerisi:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:40
+msgid "Edit Job Skill"
+msgstr "İş Becerisi Düzenle"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:41
+msgid "Update Job Skill"
+msgstr "İş Becerisi Güncelle"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:42
+msgid "Add New Job Skill"
+msgstr "Yeni İş Becerisi Ekle"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:43
+msgid "New Job Skill"
+msgstr "Yeni İş Becerisi"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:45
+msgid "No job skills found."
+msgstr "Hiç iş becerisi bulunamadı."
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:52
+msgctxt "URL slug"
+msgid "job-skill"
+msgstr "is-becerisi"
+
+#: templates/jobs-apply-button.php:4
+msgid "I applied"
+msgstr "Başvuru yaptım"
+
+#: templates/jobs-apply-button.php:8
+msgid "Apply"
+msgstr "Başvur"
+
+#: templates/jobs-apply-form.php:3
+msgid "You have to specify listing!"
+msgstr "Listeleme türünü seçmeniz gerekiyor"
+
+#: templates/jobs-apply-form.php:7
+msgid "You have already applied for this job."
+msgstr "Bu iş için zaten başvurdunuz"
+
+#: templates/jobs-apply-form.php:13
+msgid "Choose a resume you want to apply with"
+msgstr "İşe başvurmak için CV seçin."
+
+#: templates/jobs-apply-form.php:29
+msgid "Message"
+msgstr "Mesaj"
+
+#: templates/jobs-apply-mail.php:12
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templates/jobs-apply-mail.php:24
+msgid "URL"
+msgstr "URL"

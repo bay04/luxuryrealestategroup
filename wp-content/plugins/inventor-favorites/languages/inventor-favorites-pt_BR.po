@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Favorites\n"
+"POT-Creation-Date: 2016-05-04 14:16-0300\n"
+"PO-Revision-Date: 2016-05-16 08:12-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/class-inventor-favorites-logic.php:58
+#: includes/class-inventor-favorites-logic.php:107 templates/favorites.php:16
+#: templates/widgets/favorites.php:22
+msgid "You need to log in at first."
+msgstr "Por favor, faça login primeiro."
+
+#: includes/class-inventor-favorites-logic.php:78
+msgid "No favorite listings found."
+msgstr "Nenhum anúncio favorito encontrado."
+
+#: includes/class-inventor-favorites-logic.php:84
+#: includes/class-inventor-favorites-logic.php:152
+msgid "Listing ID is missing."
+msgstr "O ID do anúncio está faltando."
+
+#: includes/class-inventor-favorites-logic.php:123
+msgid "This is not listing ID."
+msgstr "Este ID não pertence à um anúncio."
+
+#: includes/class-inventor-favorites-logic.php:145
+msgid "Listing is already in list"
+msgstr "Anúncio já está na lista"
+
+#: includes/customizations/class-inventor-favorites-customizations-favorites.php:44
+#: includes/widgets/class-inventor-favorites-widget-favorites.php:23
+msgid "Favorite listings"
+msgstr "Anúncios favoritos"
+
+#: includes/widgets/class-inventor-favorites-widget-favorites.php:25
+msgid "Favorite listings."
+msgstr "Anúncios Favoritos."
+
+#: templates/favorites.php:7
+msgid "Previous"
+msgstr "Anterior"
+
+#: templates/favorites.php:8
+msgid "Next"
+msgstr "Próximo."
+
+#: templates/favorites.php:14 templates/widgets/favorites.php:20
+msgid "You don't have any favorite listings, yet. Start by adding some."
+msgstr "Você não tem nenhum anúncio em favoritos ainda. Comece adicionando alguns."
+
+#: templates/misc/favorites-button.php:3 templates/misc/favorites-button.php:7
+msgid "Add to favorites"
+msgstr "Adicionar aos favoritos"
+
+#: templates/misc/favorites-button.php:3 templates/misc/favorites-button.php:7
+msgid "I Love It"
+msgstr "Gostei"
+
+#: templates/misc/favorites-total.php:5
+#, php-format
+msgid "<strong>%d</strong> person loves it"
+msgid_plural "<strong>%d</strong> people love it"
+msgstr[0] "<strong>%d</strong> Pessoa curtiu isso"
+msgstr[1] "<strong>%d</strong> Pessoas curtiram isso"
+
+#: templates/widgets/favorites-admin.php:6
+msgid "Title"
+msgstr "Título"

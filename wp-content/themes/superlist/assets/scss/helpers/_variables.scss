@@ -1,0 +1,67 @@
+@import "mixins";
+
+$font-family: 'Roboto', Arial, sans-serif;
+
+//$color-primary: #009f8b;
+$color-primary: #0bb7a5;
+
+$color-black: #363636;
+$color-black-light: #444;
+$color-black-dark: #242424;
+
+$color-yellow: #ffd925;
+$color-red: #d81814;
+$color-green: #8dc63f;
+$color-orange: #ea823f;
+
+$color-gray: #f7f7f7;
+$color-gray-lighter: #fdfdfd;
+$color-gray-light: #fafafa;
+$color-gray-medium: #e9e9e9;
+$color-gray-dark: #b8b8b8;
+$color-gray-darker: #868686;
+$color-gray-darkest: #676767;
+
+$color-danger: #d9534f;
+$color-warning: #EEE0B7;
+$color-success: #6bd072;
+$color-info: #67bbe5;
+
+$color-style-blue: #0a83b6;
+$color-style-blue-dark: #033c55;
+$color-style-blue-gray: #607D8B;
+$color-style-blue-light: #06a7ea;
+$color-style-brown: #bb6733;
+$color-style-green: #25b45b;
+$color-style-green-dark: #419a66;
+$color-style-lime: #CDDC39;
+$color-style-magenta: #bf224e;
+$color-style-mint: #0aab9a;
+$color-style-orange: #f2944e;
+$color-style-pink: #E91E63;
+$color-style-purple: #8e5c90;
+$color-style-purple-dark: #623c68;
+$color-style-red: #bb2a2a;
+$color-style-turquoise: #36b0bb;
+
+// Brand colors
+$color-facebook: #365397;
+$color-twitter: #00a9f1;
+$color-google-plus: #e0452c;
+$color-youtube: #ff3333;
+$color-vimeo: #48b6ed;
+$color-pinterest: #ce1a19;
+$color-dribbble: #ed4584;
+$color-skype: #00acf4;
+$color-instagram: #396d9a;
+$color-tumblr: #304c68;
+$color-linkedin: #287bbc;
+$color-tripadvisor: #589442;
+$color-foursquare: #F84777;
+$color-behance: #1769ff;
+
+// Bootstrap colors
+$code-bg: $color-gray-light;
+$code-color: $color-gray-darkest;
+
+$border-radius: 0;

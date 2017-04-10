@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor PayPal\n"
+"POT-Creation-Date: 2016-04-06 09:07+0200\n"
+"PO-Revision-Date: 2016-06-07 00:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../libraries\n"
+
+#: ../includes/class-inventor-paypal-logic.php:57
+msgid "PayPal Credit Card"
+msgstr "Paypal Kredi Kartı"
+
+#: ../includes/class-inventor-paypal-logic.php:65
+msgid "PayPal Acccount"
+msgstr "Paypal Hesabı"
+
+#: ../includes/class-inventor-paypal-logic.php:105
+msgid "First name is required."
+msgstr "Lütfen isminizi giriniz"
+
+#: ../includes/class-inventor-paypal-logic.php:110
+msgid "Last name is required."
+msgstr "Lütfen soy isminizi giriniz"
+
+#: ../includes/class-inventor-paypal-logic.php:115
+msgid "Card number is required."
+msgstr "Kart numarası girilmesi zorunludur"
+
+#: ../includes/class-inventor-paypal-logic.php:120
+msgid "CVV is required."
+msgstr "CVV girmek zorunludur"
+
+#: ../includes/class-inventor-paypal-logic.php:125
+msgid "Expires month is required."
+msgstr "Son kullanma tarihi girmelisiniz. (ay)"
+
+#: ../includes/class-inventor-paypal-logic.php:130
+msgid "Expires year is required."
+msgstr "Son kullanma tarihi girmelisiniz. (yıl)"
+
+#: ../includes/class-inventor-paypal-logic.php:135
+msgid "Credit card number is not valid."
+msgstr "Kredi Kartı Numarası geçerli değil."
+
+#: ../includes/class-inventor-paypal-logic.php:140
+msgid "CVV number is not valid."
+msgstr "CVV geçerli değil."
+
+#: ../includes/class-inventor-paypal-logic.php:145
+#: ../includes/class-inventor-paypal-logic.php:173
+msgid "You must agree terms &amp; conditions."
+msgstr "Sözleşme &amp şartları kabul etmelisiniz."
+
+#: ../includes/class-inventor-paypal-logic.php:264
+msgid "Payment is invalid."
+msgstr "Ödeme başarısız"
+
+#: ../includes/class-inventor-paypal-logic.php:266
+msgid "Undefined payment type."
+msgstr "Ödeme yöntemi belirlenmemiş"
+
+#: ../includes/class-inventor-paypal-logic.php:268
+#: ../includes/class-inventor-paypal-logic.php:475
+msgid "Payment has been successful."
+msgstr "Ödeme başarılı"
+
+#: ../includes/class-inventor-paypal-logic.php:271
+msgid "Payment failed, canceled or is invalid."
+msgstr "Ödeme başarısız, ya da iptal edildi."
+
+#: ../includes/class-inventor-paypal-logic.php:479
+msgid "There was an error processing payment."
+msgstr "Ödeme işlemi sırasında bir hata oluştu"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:34
+msgid "Inventor PayPal"
+msgstr "Envanter Paypal"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:46
+msgid "Client ID"
+msgstr "Client ID"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:60
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:73
+msgid "Live Mode"
+msgstr "Live Mode"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:87
+msgid "Credit Card"
+msgstr "Kredi Kartı"
+
+#: ../templates/paypal/credit-card-form.php:7
+msgid "First Name"
+msgstr "İsminiz"
+
+#: ../templates/paypal/credit-card-form.php:12
+msgid "Last Name"
+msgstr "Soyadınız"
+
+#: ../templates/paypal/credit-card-form.php:17
+msgid "Credit Card Number"
+msgstr "Kredi Kartı Numarası"
+
+#: ../templates/paypal/credit-card-form.php:22
+msgid "CVV"
+msgstr "CVV"
+
+#: ../templates/paypal/credit-card-form.php:27
+msgid "Expires"
+msgstr "Son Kullanma Tarihi"
+
+#: ../templates/paypal/credit-card-form.php:30
+msgid "Month"
+msgstr "Ay"
+
+#: ../templates/paypal/credit-card-form.php:38
+msgid "Year"
+msgstr "Yıl"

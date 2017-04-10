@@ -1,0 +1,205 @@
+.widget_listing_slider {
+    position: relative;
+
+    .listing-slider-append-top & {
+        //margin-top: -106px;
+        margin-top: -135px;
+    }
+
+    .owl-carousel .owl-stage:after {
+        display: none;
+    }
+
+    .layout-boxed & {
+        .owl-carousel {
+            .owl-stage-outer{
+                &:first-child {
+                    position:absolute;
+                }
+            }
+        }
+    }
+}
+
+.listings-slider-list {
+    overflow: hidden;
+
+    &.listings-slider-fullscreen {
+        height: 100vh !important;
+
+        .admin-bar & {
+            height: calc(100vh - 32px) !important;
+        }
+
+        .owl-stage {
+            height: 100vh;
+
+            .admin-bar & {
+                height: calc(100vh - 32px) !important;
+            }
+        }
+    }
+
+    .owl-controls {
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .owl-prev, .owl-next {
+        background-color: #fff;
+        color: $color-black;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 1;
+        padding: 13px 0;
+        position: absolute;
+        text-align: center;
+        text-transform: uppercase;
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        transition: background-color .15s linear;
+        width: 70px;
+        z-index: 10;
+
+        span {
+            color: rgba($color-black, .8);
+            display: block;
+            font-size: 11px;
+            font-weight: 400;
+            margin: 0 0 10px 0;
+            text-transform: none;
+        }
+
+        &:hover {
+            background-color: $color-gray;
+        }
+    }
+
+    .owl-next {
+        right: 0;
+        top: 50%;
+    }
+}
+
+.listings-slider-item-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .listings-slider-fullscreen & {
+        height: 100vh !important;
+
+        .admin-bar & {
+            height: calc(100vh - 32px) !important;
+        }
+    }
+}
+
+.listings-slider-item {
+    position: relative;
+
+    &:after {
+        background-color: rgba($color-black, .55);
+        bottom: 0;
+        content: '';
+        display: block;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+.listings-slider-item-info-wrapper {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    z-index: 2;
+}
+
+.listings-slider-item-info-title {
+    h1 {
+        color: #fff;
+        font-weight: 300;
+        font-size: 60px;
+        margin: 0 0 10px 0;
+        padding: 0;
+        text-align: center;
+        text-shadow: 1px 1px 1px rgba(black, .45);
+
+        a {
+            color: #fff;
+        }
+    }
+}
+
+.listings-slider-item-info-location {
+    font-size: 20px;
+    text-align: center;
+
+    a {
+        color: #fff;
+        font-weight: 300;
+    }
+
+    .separator {
+        color: rgba(#fff, .6);
+        padding: 0 10px;
+    }
+}
+
+.listings-slider-item-info-more {
+    margin: 50px 0 0 0;
+    text-align: center;
+
+    a {
+        @extend .btn, .btn-primary;
+        font-size: 15px;
+        padding: 14px 44px;
+    }
+}
+
+.listings-slider-dots {
+    @extend .clearfix;
+    background-color: #fff;
+    bottom: 0;
+    height: 84px;
+    left: 50%;
+    padding: 4px 4px 0 4px;
+    position: absolute;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    z-index: 10;
+
+    @media (max-width: $screen-xs-max) {
+        display: none;
+    }
+}
+
+.listings-slider-dot {
+    background-color: $color-black-light;
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 80px;
+    margin: 0 4px 0 0;
+    opacity: .7;
+    width: 120px;
+
+    &:last-child {
+        margin: 0;
+    }
+
+    &.active {
+        opacity: 1;
+    }
+}

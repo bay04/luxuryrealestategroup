@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Listing Slider\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-listing-slider-extend.php:28
+#: includes/widgets/class-inventor-listing-slider-widget-listing-slider.php:23
+msgid "Listing Slider"
+msgstr ""
+
+#: includes/class-inventor-listing-slider-extend.php:36
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/class-inventor-listing-slider-widget-listing-slider.php:25
+msgid "Displays listings in slider."
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:16
+msgid "IDs"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:25
+msgid "Listing IDs, separated by commas."
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:31
+msgid "Classes"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:40
+msgid ""
+"Additional classes appended to body class and separated by , e.g. <i>header-"
+"transparent, listing-slider-append-top</i>"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:46
+msgid "Container height"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:55
+msgid "Default value 500px."
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:67
+msgid "Fullscreen"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:77
+msgid "Thumbnail size"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:99
+msgid "Show arrows"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:112
+msgid "Autoplay"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:119
+msgid "Autoplay timeout"
+msgstr ""
+
+#: templates/widgets/listing-slider-admin.php:128
+msgid "Default value 2000."
+msgstr ""
+
+#: templates/widgets/listing-slider.php:39
+msgid "View Detail"
+msgstr ""
+
+#~ msgid "New job application"
+#~ msgstr "Nye jobansøgning"
+
+#~ msgid "Job was already assigned to user."
+#~ msgstr "Job var allerede tildelt til bruger."
+
+#~ msgid "You already applied for this job."
+#~ msgstr "Du allerede anvendes til dette job."
+
+#~ msgid "Job ID is missing."
+#~ msgstr "Job-ID'ET mangler."
+
+#~ msgid "Message has been successfully sent."
+#~ msgstr "Beskeden er blevet sendt."
+
+#~ msgid "Unable to send a message."
+#~ msgstr "Kan ikke sende en besked."
+
+#~ msgid "Listing is not a job."
+#~ msgstr "Listen er ikke en opgave."
+
+#~ msgid "Apply for job"
+#~ msgstr "Ansøg om stilling"
+
+#~ msgid "Job applicants"
+#~ msgstr "Jobansøgere"
+
+#~ msgid "Applications"
+#~ msgstr "Ansøgninger"
+
+#~ msgid "Application"
+#~ msgstr "Ansøger ID"
+
+#~ msgid "Add New Application"
+#~ msgstr "Tilføj ny ansøgning"
+
+#~ msgid "Edit Application"
+#~ msgstr "Rediger ansøgning"
+
+#~ msgid "New Application"
+#~ msgstr "Tilføj ny ansøgning"
+
+#~ msgid "View Application"
+#~ msgstr "Se program"
+
+#~ msgid "Search Application"
+#~ msgstr "Søgeprogrammet"
+
+#~ msgid "No Applications found"
+#~ msgstr "Ingen programmer findes"
+
+#~ msgid "No Applications Found in Trash"
+#~ msgstr "Ingen programmer findes i papirkurven"
+
+#~ msgid "General"
+#~ msgstr "Generelt"
+
+#~ msgid "Job ID"
+#~ msgstr "Job-ID"
+
+#~ msgid "Resume ID"
+#~ msgstr "CV-ID"
+
+#~ msgid "Name"
+#~ msgstr "Navn"
+
+#~ msgid "Job"
+#~ msgstr "Opgave"
+
+#~ msgid "Resume"
+#~ msgstr "Genoptag"
+
+#~ msgid "Author"
+#~ msgstr "Forfatter"
+
+#~ msgid "Date"
+#~ msgstr "Dato"
+
+#~ msgid "Required skills"
+#~ msgstr "Nødvendige færdigheder"
+
+#~ msgid "Jobs"
+#~ msgstr "Jobs"
+
+#~ msgid "Add New Job"
+#~ msgstr "Tilføj nyt job"
+
+#~ msgid "Edit Job"
+#~ msgstr "Ret i stillingen"
+
+#~ msgid "New Job"
+#~ msgstr "nyt job"
+
+#~ msgid "View Job"
+#~ msgstr "Se stilling"
+
+#~ msgid "Search Job"
+#~ msgstr "Søg Job"
+
+#~ msgid "No Jobs found"
+#~ msgstr "Ingen annoncer fundet"
+
+#~ msgid "No Jobs Found in Trash"
+#~ msgstr "Ingen FAQ, fundet i papirkurven"
+
+#~ msgctxt "URL slug"
+#~ msgid "jobs"
+#~ msgstr "job"
+
+#~ msgid "Details"
+#~ msgstr "Detaljer"
+
+#~ msgid "Employer"
+#~ msgstr "Arbejdsgiver"
+
+#~ msgid "Starting date"
+#~ msgstr "Startdato"
+
+#~ msgid "Job position"
+#~ msgstr "Stilling"
+
+#~ msgid "Contract type"
+#~ msgstr "Kontrakttype"
+
+#~ msgid "Full-time"
+#~ msgstr "Fuld tid"
+
+#~ msgid "Part-time"
+#~ msgstr "Deltid"
+
+#~ msgid "Brigade"
+#~ msgstr "Brigade"
+
+#~ msgid "Agreement"
+#~ msgstr "Aftale"
+
+#~ msgid "Self-employed persons"
+#~ msgstr "Selvstændige erhvervsdrivende"
+
+#~ msgid "Resumes"
+#~ msgstr "CV’er"
+
+#~ msgid "Add New Resume"
+#~ msgstr "Tilføj CV"
+
+#~ msgid "Edit Resume"
+#~ msgstr "Rediger i CV"
+
+#~ msgid "New Resume"
+#~ msgstr "Nye CV"
+
+#~ msgid "View Resume"
+#~ msgstr "Se CV"
+
+#~ msgid "Search Resume"
+#~ msgstr "Søg efter CV"
+
+#~ msgid "No Resumes found"
+#~ msgstr "Ingen CV’er fundet"
+
+#~ msgid "No Resumes Found in Trash"
+#~ msgstr "Ingen CV'er, findes i papirkurven"
+
+#~ msgctxt "URL slug"
+#~ msgid "resumes"
+#~ msgstr "CV’er"
+
+#~ msgid "Working history"
+#~ msgstr "Arbejde historie"
+
+#~ msgid "Item"
+#~ msgstr "Artikl"
+
+#~ msgid "Add Another"
+#~ msgstr "Tilføj endnu en"
+
+#~ msgid "Remove"
+#~ msgstr "Fjern"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Description"
+#~ msgstr "Beskrivelse"
+
+#~ msgid "Date from"
+#~ msgstr "Fra dato"
+
+#~ msgid "Date to"
+#~ msgstr "Til dato"
+
+#~ msgid "Experience"
+#~ msgstr "Erfaring"
+
+#~ msgid "Since"
+#~ msgstr "siden"
+
+#~ msgid "Beginner"
+#~ msgstr "Begynder:"
+
+#~ msgid "Intermediate"
+#~ msgstr "Mellem"
+
+#~ msgid "Professional"
+#~ msgstr "Professionel"
+
+#~ msgid "Level"
+#~ msgstr "Søg Uddannelsesniveau"
+
+#~ msgid "Job Positions"
+#~ msgstr "Job stillinger"
+
+#~ msgid "Job Position"
+#~ msgstr "Stilling"
+
+#~ msgid "Search Job Position"
+#~ msgstr "Søg stilling"
+
+#~ msgid "All Job Positions"
+#~ msgstr "Alle Job stillinger"
+
+#~ msgid "Parent Job Position"
+#~ msgstr "Overordnet stilling"
+
+#~ msgid "Parent Job Position:"
+#~ msgstr "Overordnet stilling:"
+
+#~ msgid "Edit Job Position"
+#~ msgstr "Redigere stilling"
+
+#~ msgid "Update Job Position"
+#~ msgstr "Opdatere stilling"
+
+#~ msgid "Add New Job Position"
+#~ msgstr "Tilføje nye stilling"
+
+#~ msgid "New Job Position"
+#~ msgstr "Ny stilling"
+
+#~ msgid "No job positions found."
+#~ msgstr "Ingen job stillinger fundet."
+
+#~ msgctxt "URL slug"
+#~ msgid "job-position"
+#~ msgstr "job-position"
+
+#~ msgid "Job Skills"
+#~ msgstr "Jobfærdigheder"
+
+#~ msgid "Job Skill"
+#~ msgstr "Job færdigheder"
+
+#~ msgid "Search Job Skill"
+#~ msgstr "Søg Job færdigheder"
+
+#~ msgid "All Job Skills"
+#~ msgstr "Alle færdigheder"
+
+#~ msgid "Parent Job Skill"
+#~ msgstr "Overordnede Job færdigheder"
+
+#~ msgid "Parent Job Skill:"
+#~ msgstr "Overordnede Job færdigheder:"
+
+#~ msgid "Edit Job Skill"
+#~ msgstr "Redigere Job færdigheder"
+
+#~ msgid "Update Job Skill"
+#~ msgstr "Opdatere Job færdigheder"
+
+#~ msgid "Add New Job Skill"
+#~ msgstr "Tilføje nye færdigheder"
+
+#~ msgid "New Job Skill"
+#~ msgstr "Nyt Job færdigheder"
+
+#~ msgid "No job skills found."
+#~ msgstr "Ingen jobfærdigheder fundet."
+
+#~ msgctxt "URL slug"
+#~ msgid "job-skill"
+#~ msgstr "job-skill"
+
+#~ msgid "I applied"
+#~ msgstr "Jeg har anvendt"
+
+#~ msgid "Apply"
+#~ msgstr "Tilføj"
+
+#~ msgid "You have to specify listing!"
+#~ msgstr "Du skal angive restauranten!"
+
+#~ msgid "You have already applied for this job."
+#~ msgstr "Du har allerede anvendt for dette job."
+
+#~ msgid "Choose a resume you want to apply with"
+#~ msgstr "Vælg et CV, du vil anvende med"
+
+#~ msgid "Message"
+#~ msgstr "Besked"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "URL"
+#~ msgstr "URL"

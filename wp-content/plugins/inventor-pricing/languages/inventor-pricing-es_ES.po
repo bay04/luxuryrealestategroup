@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Pricing\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:34
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:40
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:46
+#: includes/widgets/class-inventor-pricing-widget-pricing-tables.php:23
+msgid "Pricing Tables"
+msgstr "Tablas de Precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:35
+msgid "Pricing Table"
+msgstr "Tabla de Precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:36
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:37
+msgid "Add New Pricing Table"
+msgstr "Añadir nueva tabla de precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:38
+msgid "Edit Pricing Table"
+msgstr "Editar tabla de precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:39
+msgid "New Pricing Table"
+msgstr "Nueva tabla de precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:41
+msgid "View Pricing Table"
+msgstr "Ver tabla de precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:42
+msgid "Search Pricing Table"
+msgstr "Buscar tabla de precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:43
+msgid "No Pricing Tables found"
+msgstr "No se han encontrado tablas de precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:44
+msgid "No Pricing Tables found in Trash"
+msgstr "No se han encontrado tablas de precios en la papelera"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:55
+msgctxt "URL slug"
+msgid "pricing"
+msgstr "precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:73
+msgid "General Options"
+msgstr "Opciones Generales"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:81
+msgid "Price"
+msgstr "Precio"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:85
+#, php-format
+msgid "In %s. Will be ignored, if package and payment page are set."
+msgstr "En%s. Serán ignorados, si el envase y la página de pago se establecen."
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:95
+#: templates/widgets/pricing-admin.php:27
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:100
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:105
+msgid "Button Link"
+msgstr "Enlace del Botón"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:107
+msgid "Will be ignored, if package (not trial) and payment page are set."
+msgstr "Será ignorada, si se fijan el paquete (no trial) y la página de pago."
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:111
+msgid "Highlight Table?"
+msgstr "¿Resaltar la tabla?"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:119
+msgid "Pricing Table Items"
+msgstr "Artículos de la Tabla de Precios"
+
+#: includes/post-types/class-inventor-pricing-post-type-pricing-table.php:126
+msgid "Item (row)"
+msgstr "Artículo (fila)"
+
+#: includes/widgets/class-inventor-pricing-widget-pricing-tables.php:25
+msgid "Displays pricing tables"
+msgstr "Muestra las tablas de precios"
+
+#: templates/archive-pricing_table.php:59
+msgid "Previous"
+msgstr ""
+
+#: templates/archive-pricing_table.php:60
+msgid "Next"
+msgstr ""
+
+#: templates/widgets/pricing-admin.php:14
+msgid "Title"
+msgstr "Título"
+
+#: templates/widgets/pricing-admin.php:39
+msgid "Items per row"
+msgstr "Elementos por fila"
+
+#: templates/widgets/pricing.php:59
+msgid "No pricing tables found."
+msgstr "No se han encontrado tablas de precios."

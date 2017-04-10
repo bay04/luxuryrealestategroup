@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Currencies\n"
+"POT-Creation-Date: 2016-06-03 21:24+0300\n"
+"PO-Revision-Date: 2016-06-03 21:32+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:34
+msgid "Inventor Currencies"
+msgstr "Envanter Para Birimi"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:47
+msgid "Number of additional currencies"
+msgstr "Ek para birimlerinin sayısı"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:50
+msgid "Input positive integer or 0 for no other currencies."
+msgstr "Diğer para birimleri için pozitif bir tamsayı veya  0 girin."
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:66
+msgid "currencylayer.com API key"
+msgstr "API Key"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:69
+msgid "Enter if you want to automatically update rates of currencies."
+msgstr "Otomatik olarak para oranlarını güncellemek istiyorsanız girin."
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:84
+msgid "Currency"
+msgstr "Para Birimi"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:96
+msgid "Currency Symbol"
+msgstr "Para Birimi Sembolü"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:109
+msgid "Currency Code"
+msgstr "Para Birimi Kodu"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:123
+msgid "Show Symbol After Amount"
+msgstr "Tutardan sonra sembolü göster"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:136
+msgid "Decimal places"
+msgstr "Ondalık basamaklar"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:155
+msgid "Decimal Separator"
+msgstr "Ondalık ayırıcısı"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:160
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:178
+msgid ". (dot)"
+msgstr ". (nokta)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:161
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:179
+msgid ", (comma)"
+msgstr ", (virgül)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:173
+msgid "Thousands Separator"
+msgstr "Binlik Ayırıcısı"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:180
+msgid "\" \" (space)"
+msgstr "\" \" (boşluk)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:181
+msgid "\"\" (empty string)"
+msgstr "\"\" (boş dizi)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:193
+msgid "Rate"
+msgstr "Oran"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:196
+msgid "Rate from default currency"
+msgstr "Varsayılan para biriminin oranı"

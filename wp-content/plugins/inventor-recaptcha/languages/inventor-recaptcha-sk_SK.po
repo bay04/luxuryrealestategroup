@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor-properties\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/customizations/class-inventor-recaptcha-customizations-recaptcha.php:34
+msgid "Inventor reCAPTCHA"
+msgstr "Inventor reCAPTCHA"
+
+#: includes/customizations/class-inventor-recaptcha-customizations-recaptcha.php:45
+msgid "Site Key"
+msgstr "Site Key"
+
+#: includes/customizations/class-inventor-recaptcha-customizations-recaptcha.php:57
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#~ msgid "Inventor Properties"
+#~ msgstr "Inventor nehnuteľnosti"
+
+#~ msgid "Hide unasigned amenities"
+#~ msgstr "Skryť nepriradené vybavenie"
+
+#~ msgid "Properties"
+#~ msgstr "Nehnuteľnosti"
+
+#~ msgid "Property"
+#~ msgstr "Nehnuteľnosť"
+
+#~ msgid "Add New Property"
+#~ msgstr "Pridať novú nehnuteľnosť"
+
+#~ msgid "Edit Property"
+#~ msgstr "Upraviť nehnuteľnosť"
+
+#~ msgid "New Property"
+#~ msgstr "Nová nehnuteľnosť"
+
+#~ msgid "View Property"
+#~ msgstr "Zobraziť nehnuteľnosť"
+
+#~ msgid "Search Property"
+#~ msgstr "Vyhľadať nehnuteľnosť"
+
+#~ msgid "No Properties found"
+#~ msgstr "Nenašli sa žiadne nehnuteľnosti"
+
+#~ msgid "No Properties Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne nehnuteľnosti"
+
+#~ msgctxt "URL slug"
+#~ msgid "properties"
+#~ msgstr "nehnutelnosti"
+
+#~ msgid "Details"
+#~ msgstr "Detaily"
+
+#~ msgid "Property type"
+#~ msgstr "Typ nehnuteľnosti"
+
+#~ msgid "Reference"
+#~ msgstr "Referencia"
+
+#~ msgid "Year built"
+#~ msgstr "Rok výstavby"
+
+#~ msgid "Contract type"
+#~ msgstr "Typ zmluvy"
+
+#~ msgid "Rent"
+#~ msgstr "Prenájom"
+
+#~ msgid "Sale"
+#~ msgstr "Predaj"
+
+#~ msgid "Attributes"
+#~ msgstr "Atribúty"
+
+#~ msgid "Rooms"
+#~ msgstr "Izby"
+
+#~ msgid "Beds"
+#~ msgstr "Postele"
+
+#~ msgid "Baths"
+#~ msgstr "Kúpele"
+
+#~ msgid "Garages"
+#~ msgstr "Garáže"
+
+#~ msgid "Parking lots"
+#~ msgstr "Parkovacie miesta"
+
+#~ msgid "Home area"
+#~ msgstr "Výmera interiéru"
+
+#~ msgid "In %s. (Enter value without unit)"
+#~ msgstr "V %s. (Zadajte hodnotu bez jednotky)"
+
+#~ msgid "Lot area"
+#~ msgstr "Výmera pozemku"
+
+#~ msgid "Lot dimensions"
+#~ msgstr "Rozmery pozemku"
+
+#~ msgid "e.g. 20x30, 20x30x40, 20x30x40x50"
+#~ msgstr "napr. 20x30, 20x30x40, 20x30x40x50"
+
+#~ msgid "Amenities"
+#~ msgstr "Vybavenie"
+
+#~ msgid "Valuation"
+#~ msgstr "Hodnota"
+
+#~ msgid "Add Another Valuation"
+#~ msgstr "Pridať dalšiu hodnotu"
+
+#~ msgid "Remove Valuation"
+#~ msgstr "Zmazať hodnotu"
+
+#~ msgid "Key"
+#~ msgstr "Kľúč"
+
+#~ msgid "Value"
+#~ msgstr "Hodnota"
+
+#~ msgid "Public facilities"
+#~ msgstr "Občianska vybavenosť"
+
+#~ msgid "Public Facility"
+#~ msgstr "Občianska vybavenosť"
+
+#~ msgid "Add Another Public Facility"
+#~ msgstr "Pridať ďalšiu občiansku vybavenosť"
+
+#~ msgid "Remove Public Facility"
+#~ msgstr "Zmazať občiansku vybavenosť"
+
+#~ msgid "Property Amenities"
+#~ msgstr "Vybavenie nehnuteľnosti"
+
+#~ msgid "Property Amenity"
+#~ msgstr "Vybavenie nehnuteľnosti"
+
+#~ msgid "Search Property Amenity"
+#~ msgstr "Hľadať vybavenie nehnuteľnosti"
+
+#~ msgid "All Property Amenities"
+#~ msgstr "Všetky vybavenia nehnuteľnosti"
+
+#~ msgid "Parent Property Amenity"
+#~ msgstr "Nadradené vybavenie nehnuteľnosti"
+
+#~ msgid "Parent Property Amenity:"
+#~ msgstr "Nadradené vybavenie nehnuteľnosti:"
+
+#~ msgid "Edit Property Amenity"
+#~ msgstr "Upraviť vybavenie nehnuteľnosti"
+
+#~ msgid "Update Property Amenity"
+#~ msgstr "Aktualizovať vybavenie nehnuteľnosti"
+
+#~ msgid "Add New Property Amenity"
+#~ msgstr "Pridať nové vybavenie nehnuteľnosti"
+
+#~ msgid "New Property Amenity"
+#~ msgstr "Nové vybavenie nehnuteľnosti"
+
+#~ msgid "No property amenities found."
+#~ msgstr "Nenašli sa žiadne vybavenia nehnuteľnosti"
+
+#~ msgctxt "URL slug"
+#~ msgid "property-amenity"
+#~ msgstr "vybavenie-nehnutelnosti"
+
+#~ msgid "Property Types"
+#~ msgstr "Typy nehnuteľnosti"
+
+#~ msgid "Property Type"
+#~ msgstr "Typ nehnuteľnosti"
+
+#~ msgid "Search Property Type"
+#~ msgstr "Hľadať typ nehnuteľnosti"
+
+#~ msgid "All Property Types"
+#~ msgstr "Všetky typy nehnuteľnosti"
+
+#~ msgid "Parent Property Type"
+#~ msgstr "Nadradený typ nehnuteľnosti"
+
+#~ msgid "Parent Property Type:"
+#~ msgstr "Nadradený typ nehnuteľnosti:"
+
+#~ msgid "Edit Property Type"
+#~ msgstr "Upraviť typ nehnuteľnosti"
+
+#~ msgid "Update Property Type"
+#~ msgstr "Aktualizovať typ nehnuteľnosti"
+
+#~ msgid "Add New Property Type"
+#~ msgstr "Pridať nový typ nehnuteľnosti"
+
+#~ msgid "New Property Type"
+#~ msgstr "Nový typ nehnuteľnosti"
+
+#~ msgid "No property types found."
+#~ msgstr "Nenašli sa žiadne typy nehnuteľnosti."
+
+#~ msgctxt "URL slug"
+#~ msgid "property-type"
+#~ msgstr "typ-nehnutelnosti"
+
+#~ msgid "properties"
+#~ msgstr "nehnutelnosti"
+
+#~ msgid "property-amenity"
+#~ msgstr "vybavenie-nehnutelnosti"
+
+#~ msgid "property-type"
+#~ msgstr "typ-nehnutelnosti"

@@ -1,0 +1,22 @@
+Version: 0.1.0
+Release date: 2015-11-26
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2015-07-01
+What's new:
+- text domain fix
+
+
+Version: 0.2.0
+Release date: 2015-07-02
+What's new:
+- option to override translation files more easily
+
+
+Version: 0.3.0
+Release date: 2016-08-12
+What's new:
+- fixed plugin dependency

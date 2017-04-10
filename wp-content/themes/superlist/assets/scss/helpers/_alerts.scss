@@ -1,0 +1,133 @@
+.alert {
+    border-radius: 0;
+    color: #fff;
+    line-height: 2;
+    overflow: hidden;
+    padding: 20px 30px;
+    width: 100%;
+
+    &.alert-danger {
+        background-color: $color-danger;
+        border-color: darken($color-danger, 5%);
+
+        a {
+            border-bottom: 1px solid rgba(#fff, .8) !important;
+        }
+    }
+
+    &.alert-warning {
+        background-color: $color-warning;
+        border-color: darken($color-warning, 10%);
+        color: darken($color-warning, 45%);
+
+        a {
+            color: darken($color-warning, 45%);
+            border-bottom: 1px solid darken($color-warning, 45%) !important;
+        }
+    }
+
+    &.alert-success {
+        background-color: $color-success;
+        border-color: darken($color-success, 5%);
+
+        a {
+            color: #fff;
+            border-bottom: 1px solid rgba(#fff, .8);
+
+            &:active, &:focus, &:hover {
+                border-bottom: 1px solid rgba(#fff, .6);
+                color: rgba(#fff, .6);
+            }
+        }
+    }
+
+    &.alert-info {
+        background-color: $color-info;
+        border-color: darken($color-info, 5%);
+    }
+
+    .close {
+        line-height: 1.5;
+    }
+
+    &:hover {
+        .close {
+            opacity: .5;
+        }
+    }
+
+    a {
+        border-bottom: 1px solid red;
+        color: #fff;
+        padding-bottom: 3px;
+
+        &:active, &:focus, &:hover {
+            border-bottom: 1px solid rgba(#fff, .6);
+            text-decoration: none;
+        }
+    }
+
+    p {
+        color: #fff;
+        margin: 0 !important;
+    }
+}
+
+.alert-icon {
+    &:before {
+        display: inline-block;
+        font-family: fontawesome;
+        font-size: 24px;
+        -webkit-font-smoothing: antialiased;
+        line-height: 0;
+        margin-right: 10px;
+        vertical-align: -3px;
+    }
+
+    &.alert-danger:before {
+        content: "\f057";
+    }
+
+    &.alert-warning:before {
+        content: "\f071";
+    }
+
+    &.alert-success:before {
+        content: "\f164";
+    }
+
+    &.alert-info:before {
+        content: "\f05a";
+    }
+}
+
+.alert-primary {
+    border: 0;
+    margin: 0;
+    position: relative;
+
+    .container {
+        position: relative;
+    }
+
+    button.close {
+        font-size: 15px;
+        opacity: 1 !important;
+        position: absolute;
+        right: 24px;
+        text-shadow: none;
+        top: 50%;
+        transform: translateY(-50%);
+
+        &:after {
+            display: none;
+            font-size: 15px;
+        }
+
+        &:active, &:focus, &:hover {
+            background-color: transparent !important;
+            color: #fff !important;
+            opacity: 1 !important;
+        }
+    }
+}

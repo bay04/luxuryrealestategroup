@@ -1,0 +1,51 @@
+Version: 1.0.0
+Release date: 2016-04-07
+What's new:
+- First release
+
+
+Version: 1.1.0
+Release date: 2016-04-16
+What's new:
+- French translation
+- Danish translation
+
+
+Version: 1.1.1
+Release date: 2016-05-01
+What's new:
+- support for multiple reCAPTCHAs on single page
+
+
+Version: 1.2.0
+Release date: 2016-05-20
+What's new:
+- German translation
+
+
+Version: 1.3.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+
+
+Version: 1.4.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- Portugal translation fix
+- option to override translation files more easily
+
+
+Version: 1.5.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+
+
+Version: 1.6.0
+Release date: 2016-08-12
+What's new:
+- Russian translation
+- fixed plugin dependency
+- gateway ID in the gateways array

@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Coupons\n"
+"POT-Creation-Date: 2016-08-02 09:25+0200\n"
+"PO-Revision-Date: 2016-08-02 09:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/class-inventor-coupons-ajax.php:41
+msgid "Missing coupon ID."
+msgstr "ID-ul cuponului lipsește"
+
+#: includes/class-inventor-coupons-ajax.php:52
+msgid "Coupon does not exists."
+msgstr "Cuponul nu există"
+
+#: includes/class-inventor-coupons-ajax.php:73
+msgid "Max number of coupons exceeded."
+msgstr "Numărul maxim de cupoane a fost depășit"
+
+#: includes/class-inventor-coupons-metaboxes.php:23
+msgid "Coupon details"
+msgstr "Detalii cupon"
+
+#: includes/class-inventor-coupons-metaboxes.php:33
+msgid "Discount"
+msgstr "Reducere"
+
+#: includes/class-inventor-coupons-metaboxes.php:35
+msgid "Insert integer number like: 30. It will be outputted as 30%."
+msgstr "Inserează numărul, exemplu: 30. Se va reduce cu 30%"
+
+#: includes/class-inventor-coupons-metaboxes.php:40
+msgid "Variant"
+msgstr "Variantă"
+
+#: includes/class-inventor-coupons-metaboxes.php:44
+#: includes/class-inventor-coupons-metaboxes.php:52
+msgid "Image"
+msgstr "Imagine"
+
+#: includes/class-inventor-coupons-metaboxes.php:45
+#: includes/class-inventor-coupons-metaboxes.php:119
+msgid "Code"
+msgstr "Cod"
+
+#: includes/class-inventor-coupons-metaboxes.php:46
+msgid "Generated code"
+msgstr "Cod generat"
+
+#: includes/class-inventor-coupons-metaboxes.php:58
+msgid "Max. number"
+msgstr "Numărul maxim"
+
+#: includes/class-inventor-coupons-metaboxes.php:60
+msgid "Insert integer for max. number of codes which can be generated."
+msgstr "Inserează numărul maxim de coduri care pot fi generate."
+
+#: includes/class-inventor-coupons-metaboxes.php:65
+msgid "Coupon code"
+msgstr "Cod cupon"
+
+#: includes/class-inventor-coupons-metaboxes.php:71
+msgid "Coupon Valid"
+msgstr "Validitate cupon"
+
+#: includes/class-inventor-coupons-metaboxes.php:77
+msgid "Conditions"
+msgstr "Condiții"
+
+#: includes/class-inventor-coupons-metaboxes.php:92
+msgid "Generated Code"
+msgstr "Cod generat"
+
+#: includes/class-inventor-coupons-metaboxes.php:105
+msgid "Generated Codes"
+msgstr "Coduri generate"
+
+#: includes/class-inventor-coupons-metaboxes.php:106
+msgid "Add Another Code"
+msgstr "Adaugă alt cod"
+
+#: includes/class-inventor-coupons-metaboxes.php:107
+msgid "Remove Code"
+msgstr "Șterge cod"
+
+#: includes/class-inventor-coupons-metaboxes.php:113
+msgid "User ID"
+msgstr "ID utilizator"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:34
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:40
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:46
+msgid "Coupons"
+msgstr "Cupoane"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:35
+msgid "Coupon"
+msgstr "Cupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:36
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:37
+msgid "Add New Coupon"
+msgstr "Adaugă cupon nou"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:38
+msgid "Edit Coupon"
+msgstr "Editează cupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:39
+msgid "New Coupon"
+msgstr "Cupon nou"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:41
+#: templates/coupons/box.php:56
+msgid "View Coupon"
+msgstr "Vezi cupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:42
+msgid "Search Coupon"
+msgstr "Caută cupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:43
+msgid "No Coupons found"
+msgstr "Nu s-au găsit cupoane"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:44
+msgid "No Coupons Found in Trash"
+msgstr "Nu s-au găsit cupoane în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:56
+msgctxt "URL slug"
+msgid "coupons"
+msgstr "cupoane"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:23
+msgid "Coupon Detail"
+msgstr "Detaliu cupon"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:25
+msgid "Coupon Detail."
+msgstr "Detaliu cupon."
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:23
+msgid "Coupon Listing"
+msgstr "Listare cupon"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:25
+msgid "Coupon listing."
+msgstr "Listare cupon."
+
+#: templates/coupons/box.php:49
+msgid "Expiration"
+msgstr "Expirare"
+
+#: templates/coupons/box.php:51
+msgid "Coupon does not expire."
+msgstr "Cuponul nu expiră"
+
+#: templates/widgets/coupon-detail-admin.php:12
+#: templates/widgets/coupon-listings-admin.php:13
+msgid "Title"
+msgstr "Titlu"
+
+#: templates/widgets/coupon-detail.php:34
+msgid "Print Coupon"
+msgstr "Printare cupon"
+
+#: templates/widgets/coupon-detail.php:40
+msgid "Get the Code"
+msgstr "Obține codul"
+
+#: templates/widgets/coupon-detail.php:58
+msgid "Generate Code"
+msgstr "Generează cod"
+
+#: templates/widgets/coupon-detail.php:64
+msgid "Available codes"
+msgstr "Coduri disponibile"
+
+#: templates/widgets/coupon-detail.php:74
+msgid "You must be logged in to get the coupon code."
+msgstr "Trebuie să fii logat pentru a obține codul cuponului."
+
+#: templates/widgets/coupon-detail.php:82
+msgid "Expires"
+msgstr "Expiră"
+
+#: templates/widgets/coupon-detail.php:89
+msgid "Voucher valid"
+msgstr "Validitate voucher"
+
+#: templates/widgets/coupon-detail.php:97
+msgid "Conditions of application"
+msgstr "Condițiile aplicării"
+
+#: templates/widgets/coupon-listings-admin.php:26
+msgid "Count"
+msgstr "Contor"

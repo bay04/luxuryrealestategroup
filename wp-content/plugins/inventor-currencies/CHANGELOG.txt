@@ -1,0 +1,67 @@
+Version: 0.1.0
+Release date: 2015-11-03
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- removed unnecessary theme support condition
+- Slovak translation
+
+
+Version: 0.2.0
+Release date: 2016-03-29
+What's new:
+- Italian translation
+
+
+Version: 0.3.0
+Release date: 2016-04-07
+What's new:
+- Spanish translation
+
+
+Version: 0.4.0
+Release date: 2016-04-15
+What's new:
+- French translation
+- Danish translation
+
+
+Version: 0.5.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- support for multiple currencies in listing filter
+
+
+Version: 0.6.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+
+
+Version: 0.7.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- updated Danish translations
+- Portugal translation fix
+- option to override translation files more easily
+
+
+Version: 0.8.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- Inventor_Filter::get_price_range() replaced by Inventor_Filter::get_field_range()
+
+
+Version: 0.9.0
+Release date: 2016-08-12
+What's new:
+- Russian translation
+- fixed plugin dependency

@@ -1,0 +1,3810 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor\n"
+"POT-Creation-Date: 2016-09-15 11:37+0200\n"
+"PO-Revision-Date: 2016-09-15 11:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/admin/class-inventor-admin-dashboard.php:38
+msgid "Listings counts"
+msgstr ""
+
+#: includes/admin/class-inventor-admin-menu.php:91
+msgid "Inventor"
+msgstr "Inventor:"
+
+#: includes/admin/class-inventor-admin-menu.php:92
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-inventor-admin-menu.php:94
+#: includes/post-types/class-inventor-post-type-listing.php:115
+#: includes/post-types/class-inventor-post-type-listing.php:121
+#: includes/widgets/class-inventor-widget-listings.php:23
+#: templates/misc/breadcrumb.php:14 templates/misc/breadcrumb.php:48
+msgid "Listings"
+msgstr "Anúncios"
+
+#: includes/admin/class-inventor-admin-menu.php:95
+msgid "Lexicon"
+msgstr "dicionário"
+
+#: includes/admin/class-inventor-admin-notices.php:60
+msgid "Please refresh the page and retry action."
+msgstr "Por favor, atualize a página e tente novamente a ação."
+
+#: includes/class-inventor-billing.php:35
+#: includes/post-types/class-inventor-post-type-report.php:93
+#: templates/mails/inquire.php:8 templates/mails/report.php:13
+#: templates/misc/report-form.php:92
+#: templates/widgets/listing-inquire-admin.php:46
+#: templates/widgets/listing-inquire.php:45
+msgid "Name"
+msgstr "Nome"
+
+#: includes/class-inventor-billing.php:36
+msgid "Reg. No."
+msgstr "Reg. No."
+
+#: includes/class-inventor-billing.php:37
+msgid "VAT No."
+msgstr "VAT No."
+
+#: includes/class-inventor-billing.php:38
+#: includes/post-types/class-inventor-post-type-user.php:237
+msgid "Street and number"
+msgstr "Rua e número"
+
+#: includes/class-inventor-billing.php:39
+#: includes/post-types/class-inventor-post-type-user.php:246
+msgid "Postal code"
+msgstr "CEP"
+
+#: includes/class-inventor-billing.php:40
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:39
+#: includes/post-types/class-inventor-post-type-user.php:255
+#: templates/payment/gateways/wire-transfer.php:53
+msgid "City"
+msgstr "Cidade"
+
+#: includes/class-inventor-billing.php:41
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:40
+#: includes/post-types/class-inventor-post-type-user.php:261
+#: templates/payment/gateways/wire-transfer.php:58
+msgid "Country"
+msgstr "País"
+
+#: includes/class-inventor-billing.php:42
+#: includes/post-types/class-inventor-post-type-user.php:291
+msgid "State / County"
+msgstr "Estado (UF)"
+
+#: includes/class-inventor-billing.php:85 templates/payment/payment-form.php:49
+msgid "Billing details"
+msgstr "Detalhes do pagamento"
+
+#: includes/class-inventor-filter.php:35
+#: templates/widgets/filter-fields/listing-type.php:4
+#: templates/widgets/filter-fields/listing-type.php:16
+msgid "Listing type"
+msgstr "Tipo de anúncio"
+
+#: includes/class-inventor-filter.php:36 includes/class-inventor-filter.php:68
+#: includes/class-inventor-metaboxes.php:206
+#: includes/post-types/class-inventor-post-type-food.php:162
+#: includes/post-types/class-inventor-post-type-report.php:125
+#: templates/widgets/filter-admin.php:18
+#: templates/widgets/filter-fields/title.php:4
+#: templates/widgets/filter-fields/title.php:8
+#: templates/widgets/listing-author-admin.php:12
+#: templates/widgets/listing-categories-admin.php:16
+#: templates/widgets/listing-details-admin.php:12
+#: templates/widgets/listing-inquire-admin.php:24
+#: templates/widgets/listings-admin.php:22
+#: templates/widgets/opening-hours-admin.php:12
+#: templates/widgets/users-admin.php:17
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-inventor-filter.php:37
+#: includes/class-inventor-metaboxes.php:218
+#: includes/class-inventor-post-types.php:620
+#: includes/post-types/class-inventor-post-type-food.php:168
+#: templates/widgets/filter-fields/description.php:4
+#: templates/widgets/filter-fields/description.php:8
+#: templates/widgets/listing-categories-admin.php:29
+#: templates/widgets/listings-admin.php:35 templates/widgets/users-admin.php:30
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/class-inventor-filter.php:38
+#: templates/widgets/filter-fields/keyword.php:4
+#: templates/widgets/filter-fields/keyword.php:8
+msgid "Keyword"
+msgstr "Palavra chave"
+
+#: includes/class-inventor-filter.php:39
+#: templates/widgets/filter-fields/distance.php:4
+#: templates/widgets/filter-fields/distance.php:10
+msgid "Distance"
+msgstr "Distância"
+
+#: includes/class-inventor-filter.php:40 includes/class-inventor-filter.php:67
+#: includes/class-inventor-metaboxes.php:845
+#: includes/class-inventor-metaboxes.php:854
+#: includes/class-inventor-post-types.php:550
+#: includes/post-types/class-inventor-post-type-food.php:174
+#: includes/post-types/class-inventor-post-type-transaction.php:107
+#: includes/post-types/class-inventor-post-type-transaction.php:142
+#: templates/listings/row.php:49 templates/payment/transactions.php:19
+msgid "Price"
+msgstr "Preço"
+
+#: includes/class-inventor-filter.php:41
+#: includes/class-inventor-metaboxes.php:974
+#: includes/class-inventor-metaboxes.php:981
+#: includes/class-inventor-metaboxes.php:1172
+#: includes/post-types/class-inventor-post-type-report.php:129
+#: includes/post-types/class-inventor-post-type-transaction.php:146
+#: templates/mails/inquire.php:20 templates/payment/transactions.php:24
+#: templates/widgets/listing-inquire-admin.php:98
+#: templates/widgets/listing-inquire.php:69
+msgid "Date"
+msgstr "Data"
+
+#: includes/class-inventor-filter.php:42
+msgid "Geolocation"
+msgstr "Geolocalização"
+
+#: includes/class-inventor-filter.php:43
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:34
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:44
+#: templates/widgets/listings-admin.php:235
+msgid "Locations"
+msgstr "Região"
+
+#: includes/class-inventor-filter.php:44
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:35
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:45
+msgid "Categories"
+msgstr "Categorias"
+
+#: includes/class-inventor-filter.php:45
+#: includes/class-inventor-metaboxes.php:938 templates/listings/column.php:18
+#: templates/listings/row.php:20 templates/widgets/filter-fields/featured.php:7
+msgid "Featured"
+msgstr "Em destaque"
+
+#: includes/class-inventor-filter.php:46
+#: includes/class-inventor-metaboxes.php:950 templates/listings/column.php:22
+#: templates/listings/row.php:24 templates/widgets/filter-fields/reduced.php:6
+msgid "Reduced"
+msgstr "Promoção"
+
+#: includes/class-inventor-filter.php:69
+msgid "Published"
+msgstr "Publicado"
+
+#: includes/class-inventor-metaboxes.php:104
+msgid "Simple"
+msgstr ""
+
+#: includes/class-inventor-metaboxes.php:105
+#: includes/class-inventor-metaboxes.php:234
+msgid "Featured Image"
+msgstr "Imagem de destaque"
+
+#: includes/class-inventor-metaboxes.php:106
+#: includes/class-inventor-metaboxes.php:424
+msgid "Custom Image"
+msgstr "Imagem personalizada"
+
+#: includes/class-inventor-metaboxes.php:107
+#: includes/class-inventor-metaboxes.php:595
+#: includes/class-inventor-post-types.php:622
+msgid "Video"
+msgstr "Vídeo"
+
+#: includes/class-inventor-metaboxes.php:112
+msgid "Google Map"
+msgstr "Google Mapas"
+
+#: includes/class-inventor-metaboxes.php:116
+msgid "Google Street View"
+msgstr "Google Street View"
+
+#: includes/class-inventor-metaboxes.php:120
+msgid "Google Inside View"
+msgstr "Google Inside View"
+
+#: includes/class-inventor-metaboxes.php:196
+#: includes/post-types/class-inventor-post-type-report.php:74
+#: includes/post-types/class-inventor-post-type-transaction.php:74
+#: includes/post-types/class-inventor-post-type-user.php:155
+msgid "General"
+msgstr "Geral"
+
+#: includes/class-inventor-metaboxes.php:197
+msgid ""
+"General information about the listing. Enter its title, description and "
+"featured image."
+msgstr ""
+"Informações gerais sobre a listagem. Coloque o título, descrição e imagem em "
+"destaque."
+
+#: includes/class-inventor-metaboxes.php:256
+#: includes/class-inventor-metaboxes.php:279
+#: includes/class-inventor-post-types.php:628
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/class-inventor-metaboxes.php:257
+msgid "List of most frequently asked questions."
+msgstr "Lista de perguntas mais frequentes."
+
+#: includes/class-inventor-metaboxes.php:280
+msgid "Add Another FAQ"
+msgstr "Adicionar outra Pergunta"
+
+#: includes/class-inventor-metaboxes.php:281
+msgid "Remove FAQ"
+msgstr "Remover Pergunta"
+
+#: includes/class-inventor-metaboxes.php:289
+msgid "Question"
+msgstr "Pergunta"
+
+#: includes/class-inventor-metaboxes.php:299
+msgid "Answer"
+msgstr "Resposta"
+
+#: includes/class-inventor-metaboxes.php:318
+msgid "Branding"
+msgstr "Marca "
+
+#: includes/class-inventor-metaboxes.php:319
+msgid "Specific listing details like logo, slogan or its own color."
+msgstr ""
+"detalhes específicos da listagem como logotipo, slogan ou a sua própria cor."
+
+#: includes/class-inventor-metaboxes.php:328
+msgid "Slogan"
+msgstr "Slogan"
+
+#: includes/class-inventor-metaboxes.php:342
+msgid "Brand color"
+msgstr "Cor padrão"
+
+#: includes/class-inventor-metaboxes.php:356
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/class-inventor-metaboxes.php:382
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/class-inventor-metaboxes.php:383
+msgid "Choose banner type which will be displayed in the listing detail page."
+msgstr "Escolher tipo de banner que será exibido na página de detalhes."
+
+#: includes/class-inventor-metaboxes.php:398
+msgid "To set map position go to section <strong>Location</strong>."
+msgstr ""
+"Para definir a posição mapa vá para a seção <strong>Localização</strong>."
+
+#: includes/class-inventor-metaboxes.php:402
+msgid ""
+"To set Street View go to section <strong>Location</strong>. Do not forget to "
+"<strong>enable</strong> Street View."
+msgstr ""
+"Para definir Street View vá para a seção <strong>Localização</strong>. Não "
+"se esqueça de <strong>habilitar o</strong> Street View."
+
+#: includes/class-inventor-metaboxes.php:406
+msgid ""
+"To set Inside View go to section <strong>Location</strong>. Do not forget to "
+"<strong>enable</strong> Inside View."
+msgstr ""
+"Para definir Inside View vá para a seção <strong>Localização</strong>. Não "
+"se esqueça de <strong>habilitar</strong> Inside View."
+
+#: includes/class-inventor-metaboxes.php:409
+msgid "Banner Type"
+msgstr "Tipo do Banner"
+
+#: includes/class-inventor-metaboxes.php:430
+msgid "Upload an image."
+msgstr "Carregar uma imagem"
+
+#: includes/class-inventor-metaboxes.php:440
+msgid "Video file"
+msgstr ""
+
+#: includes/class-inventor-metaboxes.php:445
+msgid "Upload video file in .mp4 format."
+msgstr "Upload de arquivo de vídeo no formato. mp4."
+
+#: includes/class-inventor-metaboxes.php:452
+msgid "Video embed"
+msgstr ""
+
+#: includes/class-inventor-metaboxes.php:458
+msgid "Enter a YouTube or Vimeo URL."
+msgstr ""
+
+#: includes/class-inventor-metaboxes.php:468
+msgid "Zoom"
+msgstr "Zoom"
+
+#: includes/class-inventor-metaboxes.php:475
+msgid "Minimum value of zoom is 0. Maximum value depends on location (12-25)."
+msgstr ""
+"Valor mínimo de zoom é 0. O valor máximo depende da localização (12-25)."
+
+#: includes/class-inventor-metaboxes.php:485
+msgid "Map Type"
+msgstr "Tipo do Mapa"
+
+#: includes/class-inventor-metaboxes.php:493
+#: includes/customizations/class-inventor-customizations-general.php:116
+msgid "Roadmap"
+msgstr "Mapa"
+
+#: includes/class-inventor-metaboxes.php:494
+#: includes/customizations/class-inventor-customizations-general.php:117
+msgid "Satellite"
+msgstr "Satélite"
+
+#: includes/class-inventor-metaboxes.php:495
+#: includes/customizations/class-inventor-customizations-general.php:118
+msgid "Hybrid"
+msgstr "Híbrido"
+
+#: includes/class-inventor-metaboxes.php:503
+msgid "Marker"
+msgstr "Marcador"
+
+#: includes/class-inventor-metaboxes.php:509
+msgid "Check to show marker."
+msgstr "Exibir Marcador"
+
+#: includes/class-inventor-metaboxes.php:529
+#: includes/class-inventor-metaboxes.php:538
+#: includes/class-inventor-post-types.php:619
+msgid "Gallery"
+msgstr "Galeria"
+
+#: includes/class-inventor-metaboxes.php:530
+msgid "Upload some photos into listing gallery."
+msgstr "Upload algumas fotos na lista de galeria"
+
+#: includes/class-inventor-metaboxes.php:562
+#: includes/class-inventor-metaboxes.php:570
+#: includes/post-types/class-inventor-post-type-car.php:238
+#: includes/post-types/class-inventor-post-type-shopping.php:116
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:35
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:115
+msgid "Color"
+msgstr "Cor"
+
+#: includes/class-inventor-metaboxes.php:563
+msgid "Listing color definition."
+msgstr "Listagem de definição de cor."
+
+#: includes/class-inventor-metaboxes.php:596
+msgid "If you wish, you can enter listing video URL here."
+msgstr "Se desejar, você pode inserir a lista do URL do vídeo aqui."
+
+#: includes/class-inventor-metaboxes.php:604 templates/mails/inquire.php:25
+#: templates/mails/report.php:9
+msgid "URL"
+msgstr "URL"
+
+#: includes/class-inventor-metaboxes.php:610
+msgid ""
+"For more information about embeding videos and video links support please "
+"read this <a href=\"http://codex.wordpress.org/Embeds\">article</a>."
+msgstr ""
+"Para mais informações sobre vídeos embutidos e links de vídeo de apoio, por "
+"favor leia este <a href=\"http://codex.wordpress.org/Embeds\">artigo.</a>"
+
+#: includes/class-inventor-metaboxes.php:628
+#: includes/class-inventor-metaboxes.php:636
+#: templates/widgets/listing-categories-admin.php:41
+msgid "Listing categories"
+msgstr "Categorias de anúncios"
+
+#: includes/class-inventor-metaboxes.php:629
+msgid "Assign listing into category. It will help users to find it."
+msgstr ""
+"Atribua a listagem na categoria. Isso ajudará os usuários a encontrá-lo."
+
+#: includes/class-inventor-metaboxes.php:663
+#: includes/class-inventor-post-types.php:624
+msgid "Opening Hours"
+msgstr "Horário de Funcionamento"
+
+#: includes/class-inventor-metaboxes.php:664
+msgid "Let people know when it is open."
+msgstr "Deixe as pessoas saberem quando está aberto."
+
+#: includes/class-inventor-metaboxes.php:713
+#: includes/class-inventor-post-types.php:626
+msgid "Contact"
+msgstr "Contato"
+
+#: includes/class-inventor-metaboxes.php:714
+msgid "Enter some details how can people reach the listing."
+msgstr "Inserir detalhes de como pessoas podem alcançar a listagem."
+
+#: includes/class-inventor-metaboxes.php:723
+#: includes/post-types/class-inventor-post-type-user.php:182
+#: templates/accounts/register.php:16 templates/author.php:72
+#: templates/listings/detail/section-contact.php:18
+#: templates/mails/inquire.php:12 templates/mails/report.php:17
+#: templates/misc/report-form.php:96 templates/users/card.php:40
+#: templates/widgets/listing-inquire-admin.php:59
+#: templates/widgets/listing-inquire.php:51
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/class-inventor-metaboxes.php:737
+#: includes/post-types/class-inventor-post-type-user.php:202
+#: templates/author.php:79 templates/listings/detail/section-contact.php:36
+#: templates/mails/inquire.php:16 templates/users/card.php:47
+#: templates/widgets/listing-inquire-admin.php:72
+#: templates/widgets/listing-inquire.php:57
+msgid "Phone"
+msgstr "Telefone"
+
+#: includes/class-inventor-metaboxes.php:751
+#: includes/post-types/class-inventor-post-type-user.php:193
+#: templates/author.php:86 templates/listings/detail/section-contact.php:28
+#: templates/users/card.php:54 templates/widgets/listing-author.php:73
+msgid "Website"
+msgstr "Website"
+
+#: includes/class-inventor-metaboxes.php:765
+#: templates/listings/detail/section-contact.php:46
+msgid "Person"
+msgstr "Pessoa"
+
+#: includes/class-inventor-metaboxes.php:778
+#: includes/post-types/class-inventor-post-type-user.php:228
+#: templates/listings/detail/section-contact.php:52
+msgid "Address"
+msgstr "Endereço"
+
+#: includes/class-inventor-metaboxes.php:808
+msgid "Social"
+msgstr "Redes Sociais"
+
+#: includes/class-inventor-metaboxes.php:809
+msgid "Connections to social networks."
+msgstr "Conexões para redes sociais."
+
+#: includes/class-inventor-metaboxes.php:846
+msgid "Define listing price here."
+msgstr "Defina o preço aqui."
+
+#: includes/class-inventor-metaboxes.php:862
+#: includes/post-types/class-inventor-post-type-food.php:178
+#, php-format
+msgid "In %s."
+msgstr "Em %s."
+
+#: includes/class-inventor-metaboxes.php:874
+msgid "Prefix"
+msgstr "Prefixo"
+
+#: includes/class-inventor-metaboxes.php:880
+msgid "Any text shown before price (for example \"from\")."
+msgstr "Qualquer texto mostrado antes do preço (por exemplo, \"a partir de\")."
+
+#: includes/class-inventor-metaboxes.php:888
+msgid "Suffix"
+msgstr "Sufixo"
+
+#: includes/class-inventor-metaboxes.php:894
+msgid "Any text shown after price (for example \"per night\")."
+msgstr "Qualquer texto mostrado depois do preço (por exemplo, \"por noite\")."
+
+#: includes/class-inventor-metaboxes.php:902
+msgid "Custom"
+msgstr "Personalizado"
+
+#: includes/class-inventor-metaboxes.php:908
+msgid ""
+"Any text instead of numeric price (for example \"by agreement\"). Prefix and "
+"Suffix will be ignored."
+msgstr ""
+"Qualquer texto em vez de preço (por exemplo, \"Consultar\"). Prefixo e "
+"sufixo será ignorado."
+
+#: includes/class-inventor-metaboxes.php:931
+msgid "Flags"
+msgstr "Denunciar"
+
+#: includes/class-inventor-metaboxes.php:1005
+#: includes/class-inventor-metaboxes.php:1012
+msgid "Time"
+msgstr "Horário"
+
+#: includes/class-inventor-metaboxes.php:1036
+msgid "Date interval"
+msgstr "Data Intervalo"
+
+#: includes/class-inventor-metaboxes.php:1043
+#: templates/widgets/filter-fields/date.php:6
+#: templates/widgets/filter-fields/date.php:11
+msgid "Date from"
+msgstr "Data Inicial"
+
+#: includes/class-inventor-metaboxes.php:1055
+#: templates/widgets/filter-fields/date.php:23
+#: templates/widgets/filter-fields/date.php:28
+msgid "Date to"
+msgstr "Data Até"
+
+#: includes/class-inventor-metaboxes.php:1079
+#: includes/class-inventor-metaboxes.php:1165
+msgid "Date and time interval"
+msgstr "Data e hora de intervalo"
+
+#: includes/class-inventor-metaboxes.php:1086
+msgid "Date and time from"
+msgstr "Data e hora de"
+
+#: includes/class-inventor-metaboxes.php:1098
+msgid "Date and time to"
+msgstr "Data e hora para"
+
+#: includes/class-inventor-metaboxes.php:1122
+msgid "Time interval"
+msgstr "Intervalo de tempo"
+
+#: includes/class-inventor-metaboxes.php:1129
+#: includes/class-inventor-metaboxes.php:1184
+#: templates/controls/opening-hours.php:16
+msgid "Time from"
+msgstr "Hora de começo"
+
+#: includes/class-inventor-metaboxes.php:1141
+#: includes/class-inventor-metaboxes.php:1196
+#: templates/controls/opening-hours.php:17
+msgid "Time to"
+msgstr "Hora do final"
+
+#: includes/class-inventor-metaboxes.php:1220
+#: includes/class-inventor-post-types.php:625
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:35
+#: templates/listings/row.php:55
+#: templates/widgets/filter-fields/geolocation.php:4
+#: templates/widgets/filter-fields/geolocation.php:8
+#: templates/widgets/filter-fields/locations.php:4
+#: templates/widgets/filter-fields/locations.php:18
+msgid "Location"
+msgstr "Localização"
+
+#: includes/class-inventor-metaboxes.php:1221
+msgid "Set location of the listing. It will help people to find it."
+msgstr "Defina a localização da listagem. Vai ajudar as pessoas a encontrá-lo."
+
+#: includes/class-inventor-metaboxes.php:1230
+msgid "Location / Region"
+msgstr "Localização / Região"
+
+#: includes/class-inventor-metaboxes.php:1247
+msgid "Map Location"
+msgstr "Local do mapa"
+
+#: includes/class-inventor-metaboxes.php:1263
+msgid "Map Location Polygon"
+msgstr "Local do mapa (polígono)"
+
+#: includes/class-inventor-metaboxes.php:1269
+msgid ""
+"Enter encoded path. It can be constructed using <a href=\"https://google-"
+"developers.appspot.com/maps/documentation/utilities/"
+"polylineutility_5bbd4b6fcb5fada7a7a2df3ef50d3f67.frame?hl=en&redesign=true\" "
+"target=\"_blank\">Interactive Polyline Encoder Utility</a>."
+msgstr ""
+"Digite o caminho codificado. Ele pode ser construído usando <a href="
+"\"https://google-developers.appspot.com/maps/documentation/utilities/"
+"polylineutility_5bbd4b6fcb5fada7a7a2df3ef50d3f67.frame?hl=en&redesign=true\" "
+"target=\"_blank\">Interactive Polyline Encoder Utility</a>."
+
+#: includes/class-inventor-metaboxes.php:1280
+#: templates/listings/detail/section-location.php:30
+msgid "Street View"
+msgstr "Visualização de Rua (Street View)"
+
+#: includes/class-inventor-metaboxes.php:1286
+msgid "Check to enable Street View"
+msgstr "Marque para ativar Street View"
+
+#: includes/class-inventor-metaboxes.php:1293
+msgid "Street View Location"
+msgstr "Street View Localização"
+
+#: includes/class-inventor-metaboxes.php:1311
+msgid "Inside View"
+msgstr "Inside View"
+
+#: includes/class-inventor-metaboxes.php:1317
+msgid "Check to enable Inside View"
+msgstr "Marque para permitir Inside View"
+
+#: includes/class-inventor-metaboxes.php:1324
+msgid "Inside View Location"
+msgstr "Localização do Inside View"
+
+#: includes/class-inventor-post-types.php:493
+msgid "Yes"
+msgstr "Sim"
+
+#: includes/class-inventor-post-types.php:495
+msgid "No"
+msgstr "Não"
+
+#: includes/class-inventor-post-types.php:621
+#: includes/post-types/class-inventor-post-type-car.php:99
+#: includes/post-types/class-inventor-post-type-dating.php:90
+#: includes/post-types/class-inventor-post-type-education.php:102
+#: includes/post-types/class-inventor-post-type-event.php:101
+#: includes/post-types/class-inventor-post-type-food.php:103
+#: includes/post-types/class-inventor-post-type-hotel.php:101
+#: includes/post-types/class-inventor-post-type-pet.php:102
+#: includes/post-types/class-inventor-post-type-shopping.php:102
+#: includes/post-types/class-inventor-post-type-travel.php:102
+msgid "Details"
+msgstr "Detalhes"
+
+#: includes/class-inventor-post-types.php:623
+msgid "Meals And Drinks"
+msgstr "Refeições e bebidas"
+
+#: includes/class-inventor-post-types.php:627
+msgid "Social connections"
+msgstr "Conexões às redes sociais"
+
+#: includes/class-inventor-reports.php:34
+msgid "Listing was reported"
+msgstr "Anúncio foi reportado"
+
+#: includes/class-inventor-reports.php:98
+#: includes/post-types/class-inventor-post-type-listing.php:176
+#: includes/post-types/class-inventor-post-type-user.php:527
+msgid "reCAPTCHA is not valid."
+msgstr "reCAPTCHA não é válido."
+
+#: includes/class-inventor-reports.php:159
+msgid "Listing was reported. Please, wait for admin review."
+msgstr "Anúncio foi reportado. Aguarde até que nossa equipe faça a avaliação."
+
+#: includes/class-inventor-reports.php:161
+#: includes/post-types/class-inventor-post-type-listing.php:247
+msgid "Unable to send a message."
+msgstr "Não é possível enviar uma mensagem."
+
+#: includes/class-inventor-shortcodes.php:55
+msgid "You have been successfully logged out."
+msgstr "Você conseguiu sair com sucesso."
+
+#: includes/class-inventor-shortcodes.php:237
+msgid "Save profile"
+msgstr "Salvar Perfil"
+
+#: includes/class-inventor-utilities.php:181
+msgid "Not set"
+msgstr "Não configurado"
+
+#: includes/class-inventor-utilities.php:356
+msgid "Choose payment gateway please."
+msgstr "Escolha meio de pagamento, por favor."
+
+#: includes/class-inventor-wire-transfer.php:36
+msgid "Wire Transfer"
+msgstr "Transferência Eletrônica"
+
+#: includes/class-inventor-wire-transfer.php:90
+msgid "Missing payment data."
+msgstr "Está faltando informações de pagamento"
+
+#: includes/customizations/class-inventor-customizations-currency.php:34
+msgid "Inventor Currency"
+msgstr "Inventor Moeda"
+
+#: includes/customizations/class-inventor-customizations-currency.php:46
+msgid "Currency Symbol"
+msgstr "Símbolo da Moeda"
+
+#: includes/customizations/class-inventor-customizations-currency.php:59
+msgid "Currency Code"
+msgstr "Código da moeda"
+
+#: includes/customizations/class-inventor-customizations-currency.php:73
+msgid "Show Symbol After Amount"
+msgstr "Mostrar símbolo após o valor"
+
+#: includes/customizations/class-inventor-customizations-currency.php:85
+msgid "Decimal places"
+msgstr "Casas decimais"
+
+#: includes/customizations/class-inventor-customizations-currency.php:104
+msgid "Decimal Separator"
+msgstr "Separador Decimal"
+
+#: includes/customizations/class-inventor-customizations-currency.php:109
+#: includes/customizations/class-inventor-customizations-currency.php:127
+msgid ". (dot)"
+msgstr ". (ponto)"
+
+#: includes/customizations/class-inventor-customizations-currency.php:110
+#: includes/customizations/class-inventor-customizations-currency.php:128
+msgid ", (comma)"
+msgstr ", (vírgula)"
+
+#: includes/customizations/class-inventor-customizations-currency.php:122
+msgid "Thousands Separator"
+msgstr "Separador de Milhares"
+
+#: includes/customizations/class-inventor-customizations-currency.php:129
+msgid "\" \" (space)"
+msgstr "\" \" (Espaço)"
+
+#: includes/customizations/class-inventor-customizations-currency.php:130
+msgid "\"\" (empty string)"
+msgstr "\"\"  (String vazia)"
+
+#: includes/customizations/class-inventor-customizations-general.php:34
+msgid "Inventor General"
+msgstr "Inventor Geral"
+
+#: includes/customizations/class-inventor-customizations-general.php:61
+msgid "Post types"
+msgstr "Tipos de posts"
+
+#: includes/customizations/class-inventor-customizations-general.php:63
+msgid ""
+"After changing post types make sure that your resave permalinks in "
+"\"Settings - Permalinks\""
+msgstr ""
+"Depois de alterar tipos de posts certifique-se que você salvou novamente o "
+"permalinks em \"Settings - Permalinks\""
+
+#: includes/customizations/class-inventor-customizations-general.php:81
+msgid "Listing banner types"
+msgstr "Listando os tipos de banner"
+
+#: includes/customizations/class-inventor-customizations-general.php:83
+msgid "List of available banner types for listings"
+msgstr "Lista de tipos de banner disponíveis para listagens"
+
+#: includes/customizations/class-inventor-customizations-general.php:96
+msgid "Default listing banner type"
+msgstr "Tipo de Listagem Padrão"
+
+#: includes/customizations/class-inventor-customizations-general.php:97
+msgid "Has to be one of the enabled above"
+msgstr "Tem que ser um dos habilitados acima"
+
+#: includes/customizations/class-inventor-customizations-general.php:112
+msgid "Listing map type"
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-general.php:131
+msgid "Default sorting for listing archive"
+msgstr "Padrão de classificação do arquivamento dos anúncios"
+
+#: includes/customizations/class-inventor-customizations-general.php:146
+msgid "Default ordering for listing archive"
+msgstr "Padrão de ordenação do arquivamento dos anúncios"
+
+#: includes/customizations/class-inventor-customizations-general.php:164
+msgid "Maximum number of allowed categories per listing"
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-general.php:165
+msgid "Keep empty for unlimited."
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-general.php:179
+msgid "Show featured image in listing gallery"
+msgstr "Exibir imagem destacada em galeria"
+
+#: includes/customizations/class-inventor-customizations-general.php:180
+msgid "Featured image of listing will be shown in its gallery"
+msgstr "imagem selecionadas da listagem serão mostradas em sua galeria"
+
+#: includes/customizations/class-inventor-customizations-general.php:194
+msgid "Show listing archive as grid"
+msgstr "Mostrar lista de arquivo como grade"
+
+#: includes/customizations/class-inventor-customizations-general.php:195
+msgid "Listings will be shown as box instead of row"
+msgstr "As listagens serão mostradas como caixa em vez de linha"
+
+#: includes/customizations/class-inventor-customizations-general.php:209
+msgid "Purchase code"
+msgstr "Código de compra"
+
+#: includes/customizations/class-inventor-customizations-general.php:223
+msgid "Google Browser Key"
+msgstr "Chave do navegador do Google"
+
+#: includes/customizations/class-inventor-customizations-general.php:224
+msgid ""
+"Browser API key. Read more <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/get-api-key\" target=\"_blank\">here</a>."
+msgstr ""
+"Chave do navegador API. Leia mais <a href=\"https://developers.google.com/"
+"maps/documentation/javascript/get-api-key\" target=\"_blank\">aqui</a>."
+
+#: includes/customizations/class-inventor-customizations-measurement.php:34
+msgid "Inventor Measurement"
+msgstr "Medição Inventor"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:46
+msgid "Area Unit"
+msgstr "Unidade de Área"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:59
+msgid "Short Distance Unit"
+msgstr "Unidade de curta distância"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:62
+msgid "Example: \"ft\" or \"m\""
+msgstr "Exemplo: \"pés\" ou \"m\""
+
+#: includes/customizations/class-inventor-customizations-measurement.php:73
+msgid "Long Distance Unit"
+msgstr "Unidade de Longa Distância"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:76
+msgid "Example: \"mi\" or \"km\""
+msgstr "Exemplo: \"mi\" ou \"km\""
+
+#: includes/customizations/class-inventor-customizations-measurement.php:87
+msgid "Weight unit"
+msgstr "Unidade de Peso"
+
+#: includes/customizations/class-inventor-customizations-measurement.php:90
+msgid "Example: \"lbs\" or \"kg\""
+msgstr "Exemplo: \"lbs\" ou \"kg\""
+
+#: includes/customizations/class-inventor-customizations-pages.php:36
+msgid "Inventor Pages"
+msgstr "Páginas Inventor"
+
+#: includes/customizations/class-inventor-customizations-pages.php:59
+msgid "Login Required"
+msgstr "Necessário fazer o login"
+
+#: includes/customizations/class-inventor-customizations-pages.php:74
+msgid "After Login"
+msgstr "Após o login"
+
+#: includes/customizations/class-inventor-customizations-pages.php:89
+msgid "Registration"
+msgstr "Cadastro"
+
+#: includes/customizations/class-inventor-customizations-pages.php:104
+msgid "After Register"
+msgstr "Depois do Cadastro"
+
+#: includes/customizations/class-inventor-customizations-pages.php:119
+#: includes/post-types/class-inventor-post-type-user.php:145
+msgid "Profile"
+msgstr "Perfil"
+
+#: includes/customizations/class-inventor-customizations-pages.php:134
+msgid "Change password"
+msgstr "Trocar Senha"
+
+#: includes/customizations/class-inventor-customizations-pages.php:149
+msgid "Reset forgotten password"
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-pages.php:164
+#: templates/payment/payment-form.php:93
+msgid "Terms & Conditions"
+msgstr "Termos e Condições de Uso"
+
+#: includes/customizations/class-inventor-customizations-pages.php:179
+msgid "Report listing"
+msgstr "Reportar anúncio"
+
+#: includes/customizations/class-inventor-customizations-pages.php:194
+msgid "Payment"
+msgstr "Pagamento"
+
+#: includes/customizations/class-inventor-customizations-pages.php:209
+msgid "After Payment"
+msgstr "Após o pagamento"
+
+#: includes/customizations/class-inventor-customizations-pages.php:224
+#: includes/post-types/class-inventor-post-type-transaction.php:37
+#: includes/post-types/class-inventor-post-type-transaction.php:43
+#: includes/post-types/class-inventor-post-type-transaction.php:49
+msgid "Transactions"
+msgstr "Transações"
+
+#: includes/customizations/class-inventor-customizations-users.php:34
+msgid "Inventor Users"
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-users.php:47
+msgid "Automatically log user in after registration"
+msgstr "Logar automaticamente o usuário após o registro."
+
+#: includes/customizations/class-inventor-customizations-users.php:48
+msgid "User won't have to sing in after registration"
+msgstr "Usuário não precisa logar depois do registro"
+
+#: includes/customizations/class-inventor-customizations-users.php:63
+msgid "Disable user billing details"
+msgstr "Desativar os detalhes da conta"
+
+#: includes/customizations/class-inventor-customizations-users.php:64
+msgid "Hide billing fields from user profile"
+msgstr "Ocultar campos faturamento do perfil de usuário"
+
+#: includes/customizations/class-inventor-customizations-users.php:78
+msgid "Country dropdown"
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-users.php:79
+msgid "Show user address country field as a dropdown"
+msgstr ""
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:34
+msgid "Account number"
+msgstr "Número da Conta"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:35
+msgid "Bank code"
+msgstr "Código bancário"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:36
+msgid "Full name"
+msgstr "Nome completo"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:37
+#: templates/payment/gateways/wire-transfer.php:43
+msgid "Street / P.O.Box"
+msgstr "Rua / Caixa postal"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:38
+msgid "Postcode"
+msgstr "CEP"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:55
+msgid "Inventor Wire Transfer"
+msgstr "Inventor Transferência Bancária"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:70
+msgid "Bank account number [mandatory]"
+msgstr "Número de conta bancária [obrigatório]"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:84
+msgid "SWIFT or BIC of your bank [mandatory]"
+msgstr "Código do banco [obrigatório]"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:98
+msgid "Your full name [mandatory]"
+msgstr "Seu nome completo [obrigatório]"
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:112
+msgid "Enter your street."
+msgstr "Digite a sua rua."
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:126
+msgid "Enter your postcode (ZIP)."
+msgstr "Digite seu código postal (CEP)."
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:140
+msgid "Enter your city."
+msgstr "Insira sua cidade."
+
+#: includes/customizations/class-inventor-customizations-wire-transfer.php:154
+msgid "Enter your country [mandatory]"
+msgstr "Digite seu país [obrigatório]"
+
+#: includes/field-types/class-inventor-field-types-taxonomy-multicheck-hierarchy.php:61
+#: includes/field-types/class-inventor-field-types-taxonomy-select-chain.php:87
+#: includes/field-types/class-inventor-field-types-taxonomy-select-hierarchy.php:70
+msgid "No terms"
+msgstr "Não existem Termos"
+
+#: includes/field-types/class-inventor-field-types-unique-user-email.php:61
+msgid "Invalid E-mail value."
+msgstr "Email inválido."
+
+#: includes/field-types/class-inventor-field-types-unique-user-email.php:68
+msgid "E-mail already exists."
+msgstr "Este email já está registado."
+
+#: includes/post-types/class-inventor-post-type-business.php:47
+#: includes/post-types/class-inventor-post-type-business.php:53
+#: includes/post-types/class-inventor-post-type-business.php:59
+msgid "Businesses"
+msgstr "negócios"
+
+#: includes/post-types/class-inventor-post-type-business.php:48
+msgid "Business"
+msgstr "Negócio"
+
+#: includes/post-types/class-inventor-post-type-business.php:49
+#: includes/post-types/class-inventor-post-type-business.php:50
+msgid "Add New Business"
+msgstr "Adicionar Novo negócio"
+
+#: includes/post-types/class-inventor-post-type-business.php:51
+msgid "Edit Business"
+msgstr "Editar negócio"
+
+#: includes/post-types/class-inventor-post-type-business.php:52
+msgid "New Business"
+msgstr "Novo negócio"
+
+#: includes/post-types/class-inventor-post-type-business.php:54
+msgid "View Business"
+msgstr "Ver negócio"
+
+#: includes/post-types/class-inventor-post-type-business.php:55
+msgid "Search Business"
+msgstr "Buscar negócio"
+
+#: includes/post-types/class-inventor-post-type-business.php:56
+msgid "No Businesses found"
+msgstr "Não há empresas encontradas"
+
+#: includes/post-types/class-inventor-post-type-business.php:57
+msgid "No Businesses Found in Trash"
+msgstr "Não há negócios encontrados no lixo"
+
+#: includes/post-types/class-inventor-post-type-business.php:69
+msgctxt "URL slug"
+msgid "businesses"
+msgstr "negocios"
+
+#: includes/post-types/class-inventor-post-type-car.php:60
+#: includes/post-types/class-inventor-post-type-car.php:66
+#: includes/post-types/class-inventor-post-type-car.php:72
+#: includes/post-types/class-inventor-post-type-event.php:72
+msgid "Cars"
+msgstr "Veículos"
+
+#: includes/post-types/class-inventor-post-type-car.php:61
+msgid "Car"
+msgstr "Veículo"
+
+#: includes/post-types/class-inventor-post-type-car.php:62
+#: includes/post-types/class-inventor-post-type-car.php:63
+msgid "Add New Car"
+msgstr "Adicionar novo veículo"
+
+#: includes/post-types/class-inventor-post-type-car.php:64
+msgid "Edit Car"
+msgstr "Editar veículo"
+
+#: includes/post-types/class-inventor-post-type-car.php:65
+msgid "New Car"
+msgstr "Novo veículo"
+
+#: includes/post-types/class-inventor-post-type-car.php:67
+msgid "View Car"
+msgstr "Visualizar veículo"
+
+#: includes/post-types/class-inventor-post-type-car.php:68
+msgid "Search Car"
+msgstr "Buscar Veículo"
+
+#: includes/post-types/class-inventor-post-type-car.php:69
+msgid "No Cars found"
+msgstr "Nenhum Veículo encontrado."
+
+#: includes/post-types/class-inventor-post-type-car.php:70
+msgid "No Cars Found in Trash"
+msgstr "Nenhum veículo encontrado na lixeira"
+
+#: includes/post-types/class-inventor-post-type-car.php:82
+msgctxt "URL slug"
+msgid "cars"
+msgstr "carros"
+
+#: includes/post-types/class-inventor-post-type-car.php:111
+msgid "Engine type"
+msgstr "﻿Tipo de motor"
+
+#: includes/post-types/class-inventor-post-type-car.php:125
+msgid "Body style"
+msgstr "Tipo do modelo"
+
+#: includes/post-types/class-inventor-post-type-car.php:139
+msgid "Transmission"
+msgstr "Transmissão"
+
+#: includes/post-types/class-inventor-post-type-car.php:153
+msgid "Model"
+msgstr "Modelo"
+
+#: includes/post-types/class-inventor-post-type-car.php:167
+msgid "Year manufactured"
+msgstr "Ano de fabricação"
+
+#: includes/post-types/class-inventor-post-type-car.php:183
+msgid "Mileage"
+msgstr "Milhagem"
+
+#: includes/post-types/class-inventor-post-type-car.php:199
+msgid "Condition"
+msgstr "Condição"
+
+#: includes/post-types/class-inventor-post-type-car.php:210
+msgid "new"
+msgstr "novo"
+
+#: includes/post-types/class-inventor-post-type-car.php:211
+msgid "used"
+msgstr "usado"
+
+#: includes/post-types/class-inventor-post-type-car.php:216
+msgid "Leasing available"
+msgstr "Aluguel disponível"
+
+#: includes/post-types/class-inventor-post-type-car.php:250
+msgid "Interior color"
+msgstr "Cor Interna"
+
+#: includes/post-types/class-inventor-post-type-car.php:264
+msgid "Exterior color"
+msgstr "Cor Externa"
+
+#: includes/post-types/class-inventor-post-type-dating.php:48
+#: includes/post-types/class-inventor-post-type-dating.php:54
+#: includes/post-types/class-inventor-post-type-dating.php:60
+msgid "Datings"
+msgstr "Encontros"
+
+#: includes/post-types/class-inventor-post-type-dating.php:49
+msgid "Dating"
+msgstr "encontro"
+
+#: includes/post-types/class-inventor-post-type-dating.php:50
+#: includes/post-types/class-inventor-post-type-dating.php:51
+msgid "Add New Dating"
+msgstr "Adicionar novo encontro"
+
+#: includes/post-types/class-inventor-post-type-dating.php:52
+msgid "Edit Dating"
+msgstr "Editar encontro"
+
+#: includes/post-types/class-inventor-post-type-dating.php:53
+msgid "New Dating"
+msgstr "Novo encontro"
+
+#: includes/post-types/class-inventor-post-type-dating.php:55
+msgid "View Dating"
+msgstr "Ver Encontro"
+
+#: includes/post-types/class-inventor-post-type-dating.php:56
+msgid "Search Dating"
+msgstr "Buscar encontros"
+
+#: includes/post-types/class-inventor-post-type-dating.php:57
+msgid "No Datings found"
+msgstr "Nenhum encontro registrado"
+
+#: includes/post-types/class-inventor-post-type-dating.php:58
+msgid "No Datings Found in Trash"
+msgstr "Nada encontrado na lixeira"
+
+#: includes/post-types/class-inventor-post-type-dating.php:70
+msgctxt "URL slug"
+msgid "datings"
+msgstr "encontros"
+
+#: includes/post-types/class-inventor-post-type-dating.php:103
+msgid "Dating groups"
+msgstr "Grupos de encontros"
+
+#: includes/post-types/class-inventor-post-type-dating.php:118
+msgid "Gender"
+msgstr "Gênero"
+
+#: includes/post-types/class-inventor-post-type-dating.php:129
+msgid "Male"
+msgstr "Masculino"
+
+#: includes/post-types/class-inventor-post-type-dating.php:130
+msgid "Female"
+msgstr "Feminino"
+
+#: includes/post-types/class-inventor-post-type-dating.php:136
+msgid "Age"
+msgstr "Idade"
+
+#: includes/post-types/class-inventor-post-type-dating.php:153
+#: includes/post-types/class-inventor-post-type-shopping.php:130
+msgid "Weight"
+msgstr "Peso"
+
+#: includes/post-types/class-inventor-post-type-dating.php:170
+#: templates/payment/transactions.php:23
+msgid "Status"
+msgstr "Status"
+
+#: includes/post-types/class-inventor-post-type-dating.php:185
+msgid "Eye color"
+msgstr "Cor dos olhos"
+
+#: includes/post-types/class-inventor-post-type-dating.php:200
+msgid "Interests"
+msgstr "Interesses"
+
+#: includes/post-types/class-inventor-post-type-education.php:61
+#: includes/post-types/class-inventor-post-type-education.php:67
+#: includes/post-types/class-inventor-post-type-education.php:73
+msgid "Educations"
+msgstr "Formações"
+
+#: includes/post-types/class-inventor-post-type-education.php:62
+msgid "Education"
+msgstr "Formação"
+
+#: includes/post-types/class-inventor-post-type-education.php:63
+#: includes/post-types/class-inventor-post-type-education.php:64
+msgid "Add New Education"
+msgstr "Nova Formação"
+
+#: includes/post-types/class-inventor-post-type-education.php:65
+msgid "Edit Education"
+msgstr "Editar Formação"
+
+#: includes/post-types/class-inventor-post-type-education.php:66
+msgid "New Education"
+msgstr "Nova Formação"
+
+#: includes/post-types/class-inventor-post-type-education.php:68
+msgid "View Education"
+msgstr "Ver formação"
+
+#: includes/post-types/class-inventor-post-type-education.php:69
+msgid "Search Education"
+msgstr "Busca por Escolaridade"
+
+#: includes/post-types/class-inventor-post-type-education.php:70
+msgid "No Educations found"
+msgstr "Sem educações encontradas"
+
+#: includes/post-types/class-inventor-post-type-education.php:71
+msgid "No Educations Found in Trash"
+msgstr "Nada encontrado na lixeira"
+
+#: includes/post-types/class-inventor-post-type-education.php:83
+msgctxt "URL slug"
+msgid "educations"
+msgstr "formacoes"
+
+#: includes/post-types/class-inventor-post-type-education.php:109
+msgid "Education subject"
+msgstr "Disciplinas da formação"
+
+#: includes/post-types/class-inventor-post-type-education.php:116
+msgid "Education level"
+msgstr "Nível de escolaridade"
+
+#: includes/post-types/class-inventor-post-type-education.php:123
+msgid "Lector"
+msgstr "Leitor"
+
+#: includes/post-types/class-inventor-post-type-event.php:60
+#: includes/post-types/class-inventor-post-type-event.php:66
+msgid "Events"
+msgstr "Eventos"
+
+#: includes/post-types/class-inventor-post-type-event.php:61
+msgid "Event"
+msgstr "Evento"
+
+#: includes/post-types/class-inventor-post-type-event.php:62
+#: includes/post-types/class-inventor-post-type-event.php:63
+msgid "Add New Event"
+msgstr "Adicionar Novo Evento"
+
+#: includes/post-types/class-inventor-post-type-event.php:64
+msgid "Edit Event"
+msgstr "Editar Evento"
+
+#: includes/post-types/class-inventor-post-type-event.php:65
+msgid "New Event"
+msgstr "Novo Evento"
+
+#: includes/post-types/class-inventor-post-type-event.php:67
+msgid "View Event"
+msgstr "Ver Evento"
+
+#: includes/post-types/class-inventor-post-type-event.php:68
+msgid "Search Events"
+msgstr "Pesquisar eventos"
+
+#: includes/post-types/class-inventor-post-type-event.php:69
+msgid "No Events found"
+msgstr "Nenhum Evento foi encontrado"
+
+#: includes/post-types/class-inventor-post-type-event.php:70
+msgid "No Events Found in Trash"
+msgstr "Nenhum Evento Encontrado na Lixeira"
+
+#: includes/post-types/class-inventor-post-type-event.php:82
+msgctxt "URL slug"
+msgid "events"
+msgstr "eventos"
+
+#: includes/post-types/class-inventor-post-type-event.php:108
+msgid "Event type"
+msgstr "﻿Tipo de Evento"
+
+#: includes/post-types/class-inventor-post-type-food.php:59
+#: includes/post-types/class-inventor-post-type-food.php:65
+#: includes/post-types/class-inventor-post-type-food.php:71
+msgid "Food & Drinks"
+msgstr "Comidas & Bebidas"
+
+#: includes/post-types/class-inventor-post-type-food.php:60
+msgid "Food & Drink"
+msgstr "Comida & Bebida"
+
+#: includes/post-types/class-inventor-post-type-food.php:61
+#: includes/post-types/class-inventor-post-type-food.php:62
+msgid "Add New Food & Drink"
+msgstr "Adicionar nova comida & bebida"
+
+#: includes/post-types/class-inventor-post-type-food.php:63
+msgid "Edit Food & Drink"
+msgstr "Editar a comida e bebida"
+
+#: includes/post-types/class-inventor-post-type-food.php:64
+msgid "New Food & Drink"
+msgstr "Nova comida e bebida"
+
+#: includes/post-types/class-inventor-post-type-food.php:66
+msgid "View Food & Drink"
+msgstr "Ver Comida e Bebida"
+
+#: includes/post-types/class-inventor-post-type-food.php:67
+msgid "Search Food & Drink"
+msgstr "Buscar comida e bebida"
+
+#: includes/post-types/class-inventor-post-type-food.php:68
+msgid "No Food & Drinks found"
+msgstr "bebidas & comidas não encontrados"
+
+#: includes/post-types/class-inventor-post-type-food.php:69
+msgid "No Food & Drinks Found in Trash"
+msgstr "Sem comida e bebidas encontradas no lixo"
+
+#: includes/post-types/class-inventor-post-type-food.php:81
+msgctxt "URL slug"
+msgid "foods"
+msgstr "comidas"
+
+#: includes/post-types/class-inventor-post-type-food.php:112
+msgid "Food kind"
+msgstr "Tipo de comida"
+
+#: includes/post-types/class-inventor-post-type-food.php:142
+msgid "Meals and drinks menu"
+msgstr "Menu de refeições e bebidas"
+
+#: includes/post-types/class-inventor-post-type-food.php:153
+msgid "Item"
+msgstr "Item"
+
+#: includes/post-types/class-inventor-post-type-food.php:154
+msgid "Add Another"
+msgstr "Adicionar outro"
+
+#: includes/post-types/class-inventor-post-type-food.php:155
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/post-types/class-inventor-post-type-food.php:182
+msgid "Section"
+msgstr ""
+
+#: includes/post-types/class-inventor-post-type-food.php:201
+msgid "Serving day"
+msgstr "Dia de serviço"
+
+#: includes/post-types/class-inventor-post-type-food.php:203
+msgid "Leave blank if it is not daily menu"
+msgstr "Deixe em branco se não for menu diário"
+
+#: includes/post-types/class-inventor-post-type-food.php:208
+#: templates/post-types/food/menu-item.php:26
+msgid "Speciality"
+msgstr "Especialidade"
+
+#: includes/post-types/class-inventor-post-type-food.php:213
+msgid "Photo"
+msgstr "foto"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:60
+#: includes/post-types/class-inventor-post-type-hotel.php:66
+#: includes/post-types/class-inventor-post-type-hotel.php:72
+msgid "Hotels"
+msgstr "Hotéis"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:61
+msgid "Hotel"
+msgstr "Hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:62
+#: includes/post-types/class-inventor-post-type-hotel.php:63
+msgid "Add New Hotel"
+msgstr "Adicionar Novo Hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:64
+msgid "Edit Hotel"
+msgstr "Editar Hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:65
+msgid "New Hotel"
+msgstr "Novo Hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:67
+msgid "View Hotel"
+msgstr "Visualizar Hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:68
+msgid "Search Hotel"
+msgstr "Pesquisar Hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:69
+msgid "No Hotels found"
+msgstr "Não foram encontrados hotéis"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:70
+msgid "No Hotels Found in Trash"
+msgstr "Nenhum hotel encontrado na Lixeira."
+
+#: includes/post-types/class-inventor-post-type-hotel.php:82
+msgctxt "URL slug"
+msgid "hotels"
+msgstr "hoteis"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:108
+msgid "Hotel class"
+msgstr "Classe de hotel"
+
+#: includes/post-types/class-inventor-post-type-hotel.php:115
+msgid "Rooms"
+msgstr "Quartos"
+
+#: includes/post-types/class-inventor-post-type-listing.php:116
+#: includes/post-types/class-inventor-post-type-listing.php:127
+#: includes/post-types/class-inventor-post-type-report.php:126
+msgid "Listing"
+msgstr "Anúncio"
+
+#: includes/post-types/class-inventor-post-type-listing.php:117
+#: includes/post-types/class-inventor-post-type-listing.php:118
+msgid "Add New Listing"
+msgstr "Adicionar Novo Anúncio"
+
+#: includes/post-types/class-inventor-post-type-listing.php:119
+msgid "Edit Listing"
+msgstr "Editar Anúncio"
+
+#: includes/post-types/class-inventor-post-type-listing.php:120
+msgid "New Listing"
+msgstr "Novo Anúncio"
+
+#: includes/post-types/class-inventor-post-type-listing.php:122
+msgid "View Listing"
+msgstr "Ver Anúncio"
+
+#: includes/post-types/class-inventor-post-type-listing.php:123
+msgid "Search Listing"
+msgstr "Pesquisar Anúncio"
+
+#: includes/post-types/class-inventor-post-type-listing.php:124
+msgid "No Listings found"
+msgstr "Não há anúncios encontrados."
+
+#: includes/post-types/class-inventor-post-type-listing.php:125
+msgid "No Listings Found in Trash"
+msgstr "Não há anúncios encontrados na Lixeira"
+
+#: includes/post-types/class-inventor-post-type-listing.php:136
+msgctxt "URL slug"
+msgid "listings"
+msgstr "anuncios"
+
+#: includes/post-types/class-inventor-post-type-listing.php:187
+msgid "Message from enquire form"
+msgstr "Mensagem do formulário de dúvidas"
+
+#: includes/post-types/class-inventor-post-type-listing.php:245
+msgid "Message has been successfully sent."
+msgstr "Mensagem enviada com sucesso."
+
+#: includes/post-types/class-inventor-post-type-music.php:33
+#: includes/post-types/class-inventor-post-type-music.php:39
+#: includes/post-types/class-inventor-post-type-music.php:45
+msgid "Musics"
+msgstr "Músicas"
+
+#: includes/post-types/class-inventor-post-type-music.php:34
+msgid "Music"
+msgstr "Música"
+
+#: includes/post-types/class-inventor-post-type-music.php:35
+#: includes/post-types/class-inventor-post-type-music.php:36
+msgid "Add New Music"
+msgstr "Adicionar nova música"
+
+#: includes/post-types/class-inventor-post-type-music.php:37
+msgid "Edit Music"
+msgstr "Editar a música"
+
+#: includes/post-types/class-inventor-post-type-music.php:38
+msgid "New Music"
+msgstr "Nova música"
+
+#: includes/post-types/class-inventor-post-type-music.php:40
+msgid "View Music"
+msgstr "Ver música"
+
+#: includes/post-types/class-inventor-post-type-music.php:41
+msgid "Search Music"
+msgstr "Pesquisar música"
+
+#: includes/post-types/class-inventor-post-type-music.php:42
+msgid "No Musics found"
+msgstr "Não há músicas encontradas"
+
+#: includes/post-types/class-inventor-post-type-music.php:43
+msgid "No Musics Found in Trash"
+msgstr "Não há músicas encontradas no lixo"
+
+#: includes/post-types/class-inventor-post-type-music.php:55
+msgctxt "URL slug"
+msgid "musics"
+msgstr "musicas"
+
+#: includes/post-types/class-inventor-post-type-pet.php:61
+#: includes/post-types/class-inventor-post-type-pet.php:67
+#: includes/post-types/class-inventor-post-type-pet.php:73
+msgid "Pets"
+msgstr "Animais de estimação"
+
+#: includes/post-types/class-inventor-post-type-pet.php:62
+msgid "Pet"
+msgstr "Animal de estimação"
+
+#: includes/post-types/class-inventor-post-type-pet.php:63
+#: includes/post-types/class-inventor-post-type-pet.php:64
+msgid "Add New Pet"
+msgstr "Adicionar novo animal de estimação"
+
+#: includes/post-types/class-inventor-post-type-pet.php:65
+msgid "Edit Pet"
+msgstr "Editar o animal de estimação"
+
+#: includes/post-types/class-inventor-post-type-pet.php:66
+msgid "New Pet"
+msgstr "Adicionar novo animal de estimação"
+
+#: includes/post-types/class-inventor-post-type-pet.php:68
+msgid "View Pet"
+msgstr "Ver animal de estimação"
+
+#: includes/post-types/class-inventor-post-type-pet.php:69
+msgid "Search Pet"
+msgstr "Pesquisar animal de estimação"
+
+#: includes/post-types/class-inventor-post-type-pet.php:70
+msgid "No Pets found"
+msgstr "Nenhum animal de estimação encontrado"
+
+#: includes/post-types/class-inventor-post-type-pet.php:71
+msgid "No Pets Found in Trash"
+msgstr "Nenhum animal de estimação encontrado no lixo"
+
+#: includes/post-types/class-inventor-post-type-pet.php:83
+msgctxt "URL slug"
+msgid "pets"
+msgstr "animais-de-estimacao"
+
+#: includes/post-types/class-inventor-post-type-pet.php:109
+msgid "Animal"
+msgstr "Animal"
+
+#: includes/post-types/class-inventor-post-type-report.php:37
+#: includes/post-types/class-inventor-post-type-report.php:43
+#: includes/post-types/class-inventor-post-type-report.php:49
+msgid "Reports"
+msgstr "Relatórios"
+
+#: includes/post-types/class-inventor-post-type-report.php:38
+msgid "Report"
+msgstr "Relatório"
+
+#: includes/post-types/class-inventor-post-type-report.php:39
+#: includes/post-types/class-inventor-post-type-report.php:40
+msgid "Add New Report"
+msgstr "Adicionar novo relatório"
+
+#: includes/post-types/class-inventor-post-type-report.php:41
+msgid "Edit Report"
+msgstr "Editar Relatório"
+
+#: includes/post-types/class-inventor-post-type-report.php:42
+msgid "New Report"
+msgstr "Novo Relatório"
+
+#: includes/post-types/class-inventor-post-type-report.php:44
+msgid "View Report"
+msgstr "Ver relatório"
+
+#: includes/post-types/class-inventor-post-type-report.php:45
+msgid "Search Report"
+msgstr "Pesquisar Relatório"
+
+#: includes/post-types/class-inventor-post-type-report.php:46
+msgid "No Reports found"
+msgstr "Não há relatos encontrados"
+
+#: includes/post-types/class-inventor-post-type-report.php:47
+msgid "No Reports Found in Trash"
+msgstr "Não há relatos encontrados no lixo"
+
+#: includes/post-types/class-inventor-post-type-report.php:83
+msgid "Listing ID"
+msgstr "ID do anúncio"
+
+#: includes/post-types/class-inventor-post-type-report.php:99
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/post-types/class-inventor-post-type-report.php:105
+#: includes/post-types/class-inventor-post-type-report.php:127
+msgid "Reason"
+msgstr "Motivo"
+
+#: includes/post-types/class-inventor-post-type-report.php:111
+#: templates/widgets/listing-author.php:77
+#: templates/widgets/listing-inquire-admin.php:111
+#: templates/widgets/listing-inquire.php:75
+msgid "Message"
+msgstr "Mensagem"
+
+#: includes/post-types/class-inventor-post-type-report.php:128
+#: includes/post-types/class-inventor-post-type-transaction.php:145
+msgid "Author"
+msgstr "Autor"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:61
+#: includes/post-types/class-inventor-post-type-shopping.php:67
+#: includes/post-types/class-inventor-post-type-shopping.php:73
+msgid "Shoppings"
+msgstr "Compras"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:62
+msgid "Shopping"
+msgstr "Compra"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:63
+#: includes/post-types/class-inventor-post-type-shopping.php:64
+msgid "Add New Shopping"
+msgstr "Adicionar nova compra"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:65
+msgid "Edit Shopping"
+msgstr "Editar compra"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:66
+msgid "New Shopping"
+msgstr "Nova compra"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:68
+msgid "View Shopping"
+msgstr "Ver compras"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:69
+msgid "Search Shopping"
+msgstr "Buscar compras"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:70
+msgid "No Shoppings found"
+msgstr "Nenhuma compra encontrada"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:71
+msgid "No Shoppings Found in Trash"
+msgstr "Nenhuma compra encontrada no lixo"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:83
+msgctxt "URL slug"
+msgid "shoppings"
+msgstr "compras"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:109
+msgid "Shopping category"
+msgstr "Categoria de compras"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:123
+msgid "Size"
+msgstr "Tamanho"
+
+#: includes/post-types/class-inventor-post-type-shopping.php:126
+msgid "For example M, 10cm, 47 ..."
+msgstr "Por exemplo: metros, 10cm, 47 ..."
+
+#: includes/post-types/class-inventor-post-type-transaction.php:38
+msgid "Transaction"
+msgstr "Transação"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:39
+#: includes/post-types/class-inventor-post-type-transaction.php:40
+msgid "Add New Transaction"
+msgstr "Adicionar Nova Transação"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:41
+msgid "Edit Transaction"
+msgstr "Editar Transação"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:42
+msgid "New Transaction"
+msgstr "Nova Transação"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:44
+msgid "View Transaction"
+msgstr "Ver Transação"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:45
+msgid "Search Transaction"
+msgstr "Procurar transação"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:46
+msgid "No Transactions found"
+msgstr "Nenhuma Transação encontrada"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:47
+msgid "No Transactions Found in Trash"
+msgstr "Nenhuma transação encontrados no lixo"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:83
+#: includes/post-types/class-inventor-post-type-transaction.php:140
+msgid "Payment type"
+msgstr "Tipo de pagamento"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:89
+#: includes/post-types/class-inventor-post-type-transaction.php:141
+#: templates/payment/transactions.php:20
+msgid "Gateway"
+msgstr "Gateway"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:95
+msgid "Object ID"
+msgstr "ID do Objeto"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:101
+#: includes/post-types/class-inventor-post-type-transaction.php:139
+msgid "Payment ID"
+msgstr "ID do Pagamento"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:113
+msgid "Currency"
+msgstr "Moeda"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:119
+#: includes/post-types/class-inventor-post-type-transaction.php:144
+msgid "Success"
+msgstr "Sucesso"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:125
+msgid "Data"
+msgstr "Dados"
+
+#: includes/post-types/class-inventor-post-type-transaction.php:143
+#: templates/payment/transactions.php:21
+msgid "Object"
+msgstr "Objeto"
+
+#: includes/post-types/class-inventor-post-type-travel.php:60
+#: includes/post-types/class-inventor-post-type-travel.php:66
+#: includes/post-types/class-inventor-post-type-travel.php:72
+msgid "Travels"
+msgstr "viagens"
+
+#: includes/post-types/class-inventor-post-type-travel.php:61
+msgid "Travel"
+msgstr "Viagem"
+
+#: includes/post-types/class-inventor-post-type-travel.php:62
+#: includes/post-types/class-inventor-post-type-travel.php:63
+msgid "Add New Travel"
+msgstr "Adicionar nova viagem"
+
+#: includes/post-types/class-inventor-post-type-travel.php:64
+msgid "Edit Travel"
+msgstr "Editar viagens"
+
+#: includes/post-types/class-inventor-post-type-travel.php:65
+msgid "New Travel"
+msgstr "Nova viagem"
+
+#: includes/post-types/class-inventor-post-type-travel.php:67
+msgid "View Travel"
+msgstr "Ver viagem"
+
+#: includes/post-types/class-inventor-post-type-travel.php:68
+msgid "Search Travel"
+msgstr "Buscar viagens"
+
+#: includes/post-types/class-inventor-post-type-travel.php:69
+msgid "No Travels found"
+msgstr "Nenhuma viagem encontrada"
+
+#: includes/post-types/class-inventor-post-type-travel.php:70
+msgid "No Travels Found in Trash"
+msgstr "Nenhuma viagem encontrada no lixo"
+
+#: includes/post-types/class-inventor-post-type-travel.php:82
+msgctxt "URL slug"
+msgid "travels"
+msgstr "viagens"
+
+#: includes/post-types/class-inventor-post-type-travel.php:114
+msgid "Travel activities"
+msgstr "Atividades de viagem"
+
+#: includes/post-types/class-inventor-post-type-user.php:163
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:102
+msgid "Image"
+msgstr "Imagem"
+
+#: includes/post-types/class-inventor-post-type-user.php:170
+msgid "First name"
+msgstr "Primeiro nome"
+
+#: includes/post-types/class-inventor-post-type-user.php:176
+msgid "Last name"
+msgstr "Sobrenome"
+
+#: includes/post-types/class-inventor-post-type-user.php:302
+msgid "Social Connections"
+msgstr "Conexões às redes sociais"
+
+#: includes/post-types/class-inventor-post-type-user.php:373
+msgid "Profile has been successfully updated."
+msgstr "Perfil foi atualizado com sucesso."
+
+#: includes/post-types/class-inventor-post-type-user.php:395
+msgid "All fields are required."
+msgstr "Todos os campos são obrigatórios."
+
+#: includes/post-types/class-inventor-post-type-user.php:400
+msgid "New and retyped password are not same."
+msgstr "A nova senha e a confirmação não são as mesmas."
+
+#: includes/post-types/class-inventor-post-type-user.php:406
+msgid "Your old password is not correct."
+msgstr "Senha antiga não está correta"
+
+#: includes/post-types/class-inventor-post-type-user.php:411
+msgid "Your password has been successfully changed."
+msgstr "Sua senha foi alterada com sucesso."
+
+#: includes/post-types/class-inventor-post-type-user.php:426
+msgid "Login and password are required."
+msgstr "Login e senha são necessários."
+
+#: includes/post-types/class-inventor-post-type-user.php:442
+msgid "You have been successfully logged in."
+msgstr "Login realizado com sucesso."
+
+#: includes/post-types/class-inventor-post-type-user.php:502
+msgid "Unable to send an e-mail."
+msgstr "Não é possível enviar um e-mail."
+
+#: includes/post-types/class-inventor-post-type-user.php:504
+msgid "Please check inbox for more information."
+msgstr "Por favor check sua caixa de entrada de e-mails para mais informações."
+
+#: includes/post-types/class-inventor-post-type-user.php:534
+msgid "Username and e-mail are required."
+msgstr "Nome de usuário e e-mail são obrigatórios."
+
+#: includes/post-types/class-inventor-post-type-user.php:540
+msgid "Username already exists."
+msgstr "Este usuário já existe!"
+
+#: includes/post-types/class-inventor-post-type-user.php:546
+msgid "Email already exists."
+msgstr "E-mail já cadastrado."
+
+#: includes/post-types/class-inventor-post-type-user.php:551
+#: includes/post-types/class-inventor-post-type-user.php:563
+msgid "Passwords must be same."
+msgstr "As senhas devem ser as mesmas."
+
+#: includes/post-types/class-inventor-post-type-user.php:558
+msgid "You must agree terms &amp; conditions."
+msgstr "Você deve concordar com os termos & condições."
+
+#: includes/post-types/class-inventor-post-type-user.php:579
+msgid "You have been successfully registered."
+msgstr "Você foi registrado com êxito."
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:44
+msgid "Car Body Styles"
+msgstr "Estilos de veículos"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:35
+msgid "Car Body Style"
+msgstr "Tipo do modelo"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:36
+msgid "Search Car Body Style"
+msgstr "Procurar Estilo"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:37
+msgid "All Car Body Styles"
+msgstr "Todos os estilos"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:38
+msgid "Parent Car Body Style"
+msgstr "Estilo do carro pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:39
+msgid "Parent Car Body Style:"
+msgstr "Estilo do carro pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:40
+msgid "Edit Car Body Style"
+msgstr "Editar estilo do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:41
+msgid "Update Car Body Style"
+msgstr "Editar estilo do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:42
+msgid "Add New Car Body Style"
+msgstr "Adicionar Novo Estilo"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:43
+msgid "New Car Body Style"
+msgstr "Novo estilo de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:45
+msgid "No car body styles found."
+msgstr "Nenhum estilo de carro encontrado"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:52
+msgctxt "URL slug"
+msgid "car-body-style"
+msgstr "estilo-de-carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:44
+msgid "Car Engine Types"
+msgstr "Tipo do motor do veículo"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:35
+msgid "Car Engine Type"
+msgstr "Tipo de Motor"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:36
+msgid "Search Car Engine Type"
+msgstr "Pesquisar tipo de motor"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:37
+msgid "All Car Engine Types"
+msgstr "Todos os tipos de motores"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:38
+msgid "Parent Car Engine Type"
+msgstr "Tipo do motor do carro pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:39
+msgid "Parent Car Engine Type:"
+msgstr "Tipo do motor do carro pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:40
+msgid "Edit Car Engine Type"
+msgstr "Editar o tipo de motor do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:41
+msgid "Update Car Engine Type"
+msgstr "Atualizar o tipo de motor do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:42
+msgid "Add New Car Engine Type"
+msgstr "Adicionar novo tipo de motor do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:43
+msgid "New Car Engine Type"
+msgstr "Adicionar novo tipo de motor do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:45
+msgid "No car engine types found."
+msgstr "Não há tipos de motor de carro encontrados."
+
+#: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:52
+msgctxt "URL slug"
+msgid "car-engine-type"
+msgstr "tipo-de-motor-do-carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:44
+msgid "Car Models"
+msgstr "Modelos de veículos"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:35
+msgid "Car Model"
+msgstr "Modelo do Veículo"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:36
+msgid "Search Car Model"
+msgstr "Buscar modelos de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:37
+msgid "All Car Models"
+msgstr "Todos os modelos de carros"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:38
+msgid "Parent Car Model"
+msgstr "Modelo do carro pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:39
+msgid "Parent Car Model:"
+msgstr "Modelo do carro pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:40
+msgid "Edit Car Model"
+msgstr "Editar modelo de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:41
+msgid "Update Car Model"
+msgstr "Atualizar o modelo do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:42
+msgid "Add New Car Model"
+msgstr "Adicionar novo modelo de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:43
+msgid "New Car Model"
+msgstr "Novo modelo de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:45
+msgid "No car models found."
+msgstr "Não há modelos de carro encontrados."
+
+#: includes/taxonomies/class-inventor-taxonomy-car-models.php:52
+msgctxt "URL slug"
+msgid "car-model"
+msgstr "modelo-do-veiculo"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:34
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:44
+msgid "Car Transmissions"
+msgstr "Transmissoes de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:35
+msgid "Car Transmission"
+msgstr "Transmissão de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:36
+msgid "Search Car Transmission"
+msgstr "Pesquisar transmissão do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:37
+msgid "All Car Transmissions"
+msgstr "Todas as transmissões de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:38
+msgid "Parent Car Transmission"
+msgstr "Transmissão do carro pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:39
+msgid "Parent Car Transmission:"
+msgstr "Transmissão do carro pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:40
+msgid "Edit Car Transmission"
+msgstr "Editar transmissão do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:41
+msgid "Update Car Transmission"
+msgstr "Atualizar Transmissão do carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:42
+msgid "Add New Car Transmission"
+msgstr "Adicionar nova transmissão de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:43
+msgid "New Car Transmission"
+msgstr "Nova transmissão de carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:45
+msgid "No car transmissions found."
+msgstr "Nenhuma transmissão de carro encontrada."
+
+#: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:52
+msgctxt "URL slug"
+msgid "car-transmission"
+msgstr "transmissao-do-carro"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:34
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:44
+msgid "Colors"
+msgstr "Cores"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:36
+msgid "Search Color"
+msgstr "Buscar cor"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:37
+msgid "All Colors"
+msgstr "Todas as cores"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:38
+msgid "Parent Color"
+msgstr "Cor pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:39
+msgid "Parent Color:"
+msgstr "Cor pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:40
+msgid "Edit Color"
+msgstr "Editar cor"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:41
+msgid "Update Color"
+msgstr "Atualizar cor"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:42
+msgid "Add New Color"
+msgstr "Adicionar nova cor"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:43
+msgid "New Color"
+msgstr "Nova Cor"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:45
+msgid "No colors found."
+msgstr "Nenhuma cor encontrada"
+
+#: includes/taxonomies/class-inventor-taxonomy-colors.php:52
+msgctxt "URL slug"
+msgid "color"
+msgstr "cor"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:34
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:44
+msgid "Dating Groups"
+msgstr "Grupos de encontros"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:35
+msgid "Dating Group"
+msgstr "Grupo de encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:36
+msgid "Search Dating Group"
+msgstr "Pesquisar grupo de encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:37
+msgid "All Dating Groups"
+msgstr "Todos os grupos de encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:38
+msgid "Parent Dating Group"
+msgstr "Grupo de namoro pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:39
+msgid "Parent Dating Group:"
+msgstr "Grupo de namoro pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:40
+msgid "Edit Dating Group"
+msgstr "Editar grupo de encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:41
+msgid "Update Dating Group"
+msgstr "Atualizar grupo de encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:42
+msgid "Add New Dating Group"
+msgstr "Adicionar no grupo de encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:43
+msgid "New Dating Group"
+msgstr "Novo grupo de encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:45
+msgid "No dating groups found."
+msgstr "Nenhuma atividade encontrada."
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:52
+msgctxt "URL slug"
+msgid "dating-group"
+msgstr "grupo-de-encontro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:34
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:44
+msgid "Dating Interests"
+msgstr "Interesses do namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:35
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:35
+msgid "Dating Status"
+msgstr "Status de namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:36
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:36
+msgid "Search Dating Status"
+msgstr "Pesquisar status de namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:37
+msgid "All Dating Interests"
+msgstr "Todos os interesses de namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:38
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:38
+msgid "Parent Dating Status"
+msgstr "Status do namoro pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:39
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:39
+msgid "Parent Dating Status:"
+msgstr "Status do namoro pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:40
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:40
+msgid "Edit Dating Status"
+msgstr "Editar status do namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:41
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:41
+msgid "Update Dating Status"
+msgstr "Atualizar status do namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:42
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:42
+msgid "Add New Dating Status"
+msgstr "Adicionar novo status de namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:43
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:43
+msgid "New Dating Status"
+msgstr "Novo status do namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:45
+msgid "No dating interests found."
+msgstr "Nenhum interesse de namoro encontrado."
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:52
+msgctxt "URL slug"
+msgid "dating-interest"
+msgstr "interesses-de-namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:34
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:44
+msgid "Dating Statuses"
+msgstr "Status de namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:37
+msgid "All Dating Statuses"
+msgstr "Todos os status de namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:45
+msgid "No dating statuses found."
+msgstr "Nenhum status de namoro encontrado"
+
+#: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:52
+msgctxt "URL slug"
+msgid "dating-status"
+msgstr "status-de-namoro"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:34
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:44
+msgid "Education Levels"
+msgstr "Níveis de escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:35
+msgid "Education Level"
+msgstr "Nível de escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:36
+msgid "Search Education Level"
+msgstr "Buscar escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:37
+msgid "All Education Levels"
+msgstr "Todas as escolaridades"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:38
+msgid "Parent Education Level"
+msgstr "Nível de escolaridade pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:39
+msgid "Parent Education Level:"
+msgstr "Nível de escolaridade pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:40
+msgid "Edit Education Level"
+msgstr "Editar Escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:41
+msgid "Update Education Level"
+msgstr "Atualizar Escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:42
+msgid "Add New Education Level"
+msgstr "Adicionar nova escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:43
+msgid "New Education Level"
+msgstr "Nova Escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:45
+msgid "No education levels found."
+msgstr "Nenhum nível de educação encontrado."
+
+#: includes/taxonomies/class-inventor-taxonomy-education-levels.php:52
+msgctxt "URL slug"
+msgid "education-level"
+msgstr "escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:34
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:44
+msgid "Education Subjects"
+msgstr "Escolaridade: Disciplinas"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:35
+msgid "Education Subject"
+msgstr "Escolaridade: Disciplina"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:36
+msgid "Search Education Subject"
+msgstr "Procurar disciplinas de escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:37
+msgid "All Education Subjects"
+msgstr "Todas as disciplinas de escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:38
+msgid "Parent Education Subject"
+msgstr "Disciplina pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:39
+msgid "Parent Education Subject:"
+msgstr "Disciplina pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:40
+msgid "Edit Education Subject"
+msgstr "Editar disciplina de escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:41
+msgid "Update Education Subject"
+msgstr "Atualizar disciplina de escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:42
+msgid "Add New Education Subject"
+msgstr "Adicionar nova disciplina de escolaridade"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:43
+msgid "New Education Subject"
+msgstr "Nova Disciplina de educação"
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:45
+msgid "No education subjects found."
+msgstr "Não há disciplinas do ensino encontrada."
+
+#: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:52
+msgctxt "URL slug"
+msgid "education-subject"
+msgstr "escolaridade-disciplina"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:34
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:44
+msgid "Event Types"
+msgstr "Tipos de Evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:35
+msgid "Event Type"
+msgstr "Tipo de Evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:36
+msgid "Search Event Type"
+msgstr "Pesquisar Evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:37
+msgid "All Event Types"
+msgstr "Todos Tipos de Eventos"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:38
+msgid "Parent Event Type"
+msgstr "﻿Tipo de Evento pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:39
+msgid "Parent Event Type:"
+msgstr "Tipo de evento do pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:40
+msgid "Edit Event Type"
+msgstr "Editar o tipo de evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:41
+msgid "Update Event Type"
+msgstr "Atualizar Evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:42
+msgid "Add New Event Type"
+msgstr "Adicionar Novo Tipo de Evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:43
+msgid "New Event Type"
+msgstr "Novo Evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:45
+msgid "No event types found."
+msgstr "Nenhum evento encontrado"
+
+#: includes/taxonomies/class-inventor-taxonomy-event-types.php:52
+msgctxt "URL slug"
+msgid "event-type"
+msgstr "﻿tipo-de-evento"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:34
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:44
+msgid "Food Kinds"
+msgstr "Tipos de comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:35
+msgid "Food Kind"
+msgstr "Tipo de comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:36
+msgid "Search Food Kind"
+msgstr "Pesquisar Tipos de comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:37
+msgid "All Food Kinds"
+msgstr "Todos os tipos de alimentos"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:38
+msgid "Parent Food Kind"
+msgstr "Tipo de comida pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:39
+msgid "Parent Food Kind:"
+msgstr "Tipo de comida pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:40
+msgid "Edit Food Kind"
+msgstr "Editar o tipo de comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:41
+msgid "Update Food Kind"
+msgstr "Atualizar tipo de comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:42
+msgid "Add New Food Kind"
+msgstr "Adicionar novo tipo de comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:43
+msgid "New Food Kind"
+msgstr "Novo tipo de comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:45
+msgid "No food kinds found."
+msgstr "Não há tipos de alimentos encontrados."
+
+#: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:52
+msgctxt "URL slug"
+msgid "food-kind"
+msgstr "tipo-de-comida"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:34
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:44
+msgid "Hotel Classes"
+msgstr "Classes de Hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:35
+msgid "Hotel Class"
+msgstr "Classe de hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:36
+msgid "Search Hotel Class"
+msgstr "Pesquisar classe de hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:37
+msgid "All Hotel Classes"
+msgstr "Todas as classes de hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:38
+msgid "Parent Hotel Class"
+msgstr "Classes de Hotel pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:39
+msgid "Parent Hotel Class:"
+msgstr "Classes de Hotel pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:40
+msgid "Edit Hotel Class"
+msgstr "Editar classe de hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:41
+msgid "Update Hotel Class"
+msgstr "Atualizar a classe de Hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:42
+msgid "Add New Hotel Class"
+msgstr "Adicionar nova classe de hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:43
+msgid "New Hotel Class"
+msgstr "Nova classe de hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:45
+msgid "No hotel classes found."
+msgstr "Não há classes de hotel encontradas."
+
+#: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:52
+msgctxt "URL slug"
+msgid "hotel-class"
+msgstr "classe-de-hotel"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:36
+#: templates/widgets/filter-fields/listing-categories.php:4
+#: templates/widgets/filter-fields/listing-categories.php:18
+msgid "Category"
+msgstr "Categoria"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:37
+msgid "Search Categories"
+msgstr "Pesquisar Categorias"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:38
+msgid "All Categories"
+msgstr "Todas as categorias"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:39
+msgid "Parent Category"
+msgstr "Categoria pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:40
+msgid "Parent Category:"
+msgstr "Categoria pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:41
+msgid "Edit Category"
+msgstr "Editar Categoria"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:42
+msgid "Update Category"
+msgstr "Atualizar Categoria"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:43
+msgid "Add New Category"
+msgstr "Adicionar Nova Categoria"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:44
+msgid "New Category"
+msgstr "Nova categoria"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:46
+msgid "No categories found."
+msgstr "Nenhuma categoria foi encontrada."
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:53
+msgctxt "URL slug"
+msgid "listing-category"
+msgstr "categoria-do-anuncio"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:96
+msgid "Listing Category Options"
+msgstr "Opções das categorias dos anúncios"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:108
+msgid "POI"
+msgstr "POI"
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:124
+msgid "Listing types"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:125
+msgid "If none selected, category is available for all types."
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:36
+msgid "Search Location"
+msgstr "Buscar Localização"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:37
+msgid "All Locations"
+msgstr "Todas as localizações"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:38
+msgid "Parent Location"
+msgstr "Localização pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:39
+msgid "Parent Location:"
+msgstr "Localização pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:40
+msgid "Edit Location"
+msgstr "Editar Localização"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:41
+msgid "Update Location"
+msgstr "Atualizar localização"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:42
+msgid "Add New Location"
+msgstr "Adicionar Nova Localização"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:43
+msgid "New Location"
+msgstr "Nova Localização"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:45
+msgid "No locations found."
+msgstr "Nenhuma região encontrada"
+
+#: includes/taxonomies/class-inventor-taxonomy-locations.php:52
+msgctxt "URL slug"
+msgid "location"
+msgstr "localizacao"
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:34
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:44
+msgid "Meals and Drinks Sections"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:35
+msgid "Meals and Drinks Section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:36
+msgid "Search Meals and Drinks Section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:37
+msgid "All Meals and Drinks Sections"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:38
+msgid "Parent Meals and Drinks Section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:39
+msgid "Parent Meals and Drinks Section:"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:40
+msgid "Edit Meals and Drinks Section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:41
+msgid "Update Meals and Drinks Section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:42
+msgid "Add New Meals and Drinks Section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:43
+msgid "New Meals and Drinks Section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:45
+msgid "No Meals and Drinks Sections found."
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-meals-and-drinks-sections.php:52
+msgctxt "URL slug"
+msgid "meals-and-drinks-section"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:34
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:44
+msgid "Music Genres"
+msgstr "Gêneros de Música"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:35
+msgid "Music Genre"
+msgstr "Gênero de música"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:36
+msgid "Search Music Genre"
+msgstr "Pesquisar gênero de música"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:37
+msgid "All Music Genres"
+msgstr "Todos os gêneros de música"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:38
+msgid "Parent Music Genre"
+msgstr "Gênero de música pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:39
+msgid "Parent Music Genre:"
+msgstr "Gênero de música pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:40
+msgid "Edit Music Genre"
+msgstr "Editar Estilo musical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:41
+msgid "Update Music Genre"
+msgstr "Atualizar Estilo musical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:42
+msgid "Add New Music Genre"
+msgstr "Adicionar Novo Estilo musical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:43
+msgid "New Music Genre"
+msgstr "Novo Estilo musical"
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:45
+msgid "No music genres found."
+msgstr "Não há gêneros musicais encontrados."
+
+#: includes/taxonomies/class-inventor-taxonomy-music-genres.php:52
+msgctxt "URL slug"
+msgid "music-genre"
+msgstr "genero-de-música"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:34
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:44
+msgid "Pet Animals"
+msgstr "Animais de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:35
+msgid "Pet Animal"
+msgstr "Animal de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:36
+msgid "Search Pet Animal"
+msgstr "Buscar Animais de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:37
+msgid "All Pet Animals"
+msgstr "Todos os Animais de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:38
+msgid "Parent Pet Animal"
+msgstr "Animal de estimação pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:39
+msgid "Parent Pet Animal:"
+msgstr "Animal de estimação pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:40
+msgid "Edit Pet Animal"
+msgstr "Editar Animal de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:41
+msgid "Update Pet Animal"
+msgstr "Atualizar Animal de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:42
+msgid "Add New Pet Animal"
+msgstr "Adicionar Novo Animal de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:43
+msgid "New Pet Animal"
+msgstr "Novo Animal de estimação"
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:45
+msgid "No pet animals found."
+msgstr "Não há animais de estimação encontrados."
+
+#: includes/taxonomies/class-inventor-taxonomy-pet-animals.php:52
+msgctxt "URL slug"
+msgid "pet-animal"
+msgstr "animal-de-estimacao"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:34
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:44
+msgid "Shopping Categories"
+msgstr "Categorias de compras"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:35
+msgid "Shopping Category"
+msgstr "Categoria de compra"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:36
+msgid "Search Shopping Category"
+msgstr "Buscar categorias de compras"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:37
+msgid "All Shopping Categories"
+msgstr "Todas as categorias de compras"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:38
+msgid "Parent Shopping Category"
+msgstr "Categoria de compras pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:39
+msgid "Parent Shopping Category:"
+msgstr "Categoria de compras pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:40
+msgid "Edit Shopping Category"
+msgstr "Editar categoria de compra"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:41
+msgid "Update Shopping Category"
+msgstr "Atualizar Categoria de compras"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:42
+msgid "Add New Shopping Category"
+msgstr "Adicionar nova categoria de compra"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:43
+msgid "New Shopping Category"
+msgstr "Nova categoria de compra"
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:45
+msgid "No shopping categories found."
+msgstr "Não há categorias de compras encontradas."
+
+#: includes/taxonomies/class-inventor-taxonomy-shopping-categories.php:52
+msgctxt "URL slug"
+msgid "shopping-category"
+msgstr "categoria-de-compra"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:34
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:44
+msgid "Travel Activities"
+msgstr "Atividades de viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:35
+msgid "Travel Activity"
+msgstr "Atividade de viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:36
+msgid "Search Travel Activity"
+msgstr "Buscar Atividade de Viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:37
+msgid "All Travel Activities"
+msgstr "Todas as Atividades de Viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:38
+msgid "Parent Travel Activity"
+msgstr "Atividade de Viagem pai"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:39
+msgid "Parent Travel Activity:"
+msgstr "Atividade de Viagem pai:"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:40
+msgid "Edit Travel Activity"
+msgstr "Editar Atividade de Viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:41
+msgid "Update Travel Activity"
+msgstr "Atualizar Atividade de Viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:42
+msgid "Add New Travel Activity"
+msgstr "Adicionar Nova Atividade de Viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:43
+msgid "New Travel Activity"
+msgstr "Nova Atividade de Viagem"
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:45
+msgid "No travel activities found."
+msgstr "Sem atividades de viagem encontradas."
+
+#: includes/taxonomies/class-inventor-taxonomy-travel-activities.php:52
+msgctxt "URL slug"
+msgid "travel-activity"
+msgstr "atividade-de-viagem"
+
+#: includes/widgets/class-inventor-widget-filter.php:23
+msgid "Filter"
+msgstr "Filtro"
+
+#: includes/widgets/class-inventor-widget-filter.php:25
+msgid "Filter for filtering listings."
+msgstr "Filtro para anúncios filtrados."
+
+#: includes/widgets/class-inventor-widget-listing-author.php:23
+msgid "Listing Author"
+msgstr "Autor do anúncio"
+
+#: includes/widgets/class-inventor-widget-listing-author.php:25
+msgid "Listing author widget for displaying information about listing author."
+msgstr ""
+"Widget do autor do anúncios para mostrar as informações do autor do anúncio"
+
+#: includes/widgets/class-inventor-widget-listing-categories.php:23
+#: templates/widgets/listings-admin.php:193
+msgid "Listing Categories"
+msgstr "Categorias dos anúncios"
+
+#: includes/widgets/class-inventor-widget-listing-categories.php:25
+msgid "Displays listing categories."
+msgstr "Mostrar categorias dos anúncios."
+
+#: includes/widgets/class-inventor-widget-listing-details.php:23
+msgid "Listing details"
+msgstr "Detalhes do anúncio"
+
+#: includes/widgets/class-inventor-widget-listing-details.php:25
+msgid "Displays listing details."
+msgstr "Mostrar detalhes do anúncio."
+
+#: includes/widgets/class-inventor-widget-listing-inquire.php:23
+msgid "Listing Inquire"
+msgstr "Pergunte ao vendedor"
+
+#: includes/widgets/class-inventor-widget-listing-inquire.php:25
+msgid "Listing inquire widget for sending inquire messages."
+msgstr ""
+"Widget de perguntas ao vendedor para que pessoas interessadas enviem "
+"mensagens."
+
+#: includes/widgets/class-inventor-widget-listings.php:25
+msgid "Displays listings."
+msgstr "Exibe anúncios."
+
+#: includes/widgets/class-inventor-widget-opening-hours.php:23
+msgid "Opening hours"
+msgstr "Horário de funcionamento"
+
+#: includes/widgets/class-inventor-widget-opening-hours.php:25
+msgid "Displays opening hours for current listing."
+msgstr "Mostra horário de funcionamento para atual anúncio"
+
+#: includes/widgets/class-inventor-widget-users.php:23
+msgid "Users"
+msgstr ""
+
+#: includes/widgets/class-inventor-widget-users.php:25
+msgid "Displays users."
+msgstr ""
+
+#: templates/accounts/login.php:10 templates/accounts/register.php:11
+msgid "Username"
+msgstr "Nome de Usuário"
+
+#: templates/accounts/login.php:15 templates/accounts/register.php:21
+msgid "Password"
+msgstr "Senha"
+
+#: templates/accounts/login.php:26
+msgid "Log in"
+msgstr "Entrar"
+
+#: templates/accounts/login.php:32
+msgid "I've forgotten my password."
+msgstr ""
+
+#: templates/accounts/login.php:39 templates/accounts/register.php:60
+#: templates/accounts/reset.php:18
+msgid "You are already logged in."
+msgstr "Você já está logado."
+
+#: templates/accounts/password.php:9
+msgid "Old password"
+msgstr "Senha antiga"
+
+#: templates/accounts/password.php:14
+msgid "New password"
+msgstr "Nova senha"
+
+#: templates/accounts/password.php:19
+msgid "Retype password"
+msgstr "DIGITE A SENHA NOVAMENTE"
+
+#: templates/accounts/password.php:23
+msgid "Change Password"
+msgstr "Alterar Senha"
+
+#: templates/accounts/register.php:26
+msgid "Retype Password"
+msgstr "Digite novamente a senha"
+
+#: templates/accounts/register.php:37
+#, php-format
+msgid "I agree with <a href=\"%s\" target=\"_blank\">terms & conditions</a>"
+msgstr ""
+
+#: templates/accounts/register.php:56
+msgid "Sign Up"
+msgstr "Cadastre-se"
+
+#: templates/accounts/register.php:65
+msgid "Registrations are not allowed."
+msgstr "Cadastros não estão permitidos."
+
+#: templates/accounts/reset.php:10
+msgid "Username or E-mail:"
+msgstr "Nome de Usuário ou E-mail"
+
+#: templates/accounts/reset.php:14
+msgid "Get New Password"
+msgstr "Obter nova senha"
+
+#: templates/admin/purchase-code.php:4
+msgid "Please enter valid purchase code to get an update"
+msgstr "Por favor, insira o código de compra válida para obter uma atualização"
+
+#: templates/admin/purchase-code.php:10
+msgid "Confirm"
+msgstr "Confirma"
+
+#: templates/admin/purchase-code.php:17
+msgid "How to find purchase code."
+msgstr "Como encontrar código de compra."
+
+#: templates/archive-listing.php:53 templates/taxonomy-listing.php:53
+#: templates/users/user-list.php:25
+msgid "Previous"
+msgstr "Anterior"
+
+#: templates/archive-listing.php:54 templates/taxonomy-listing.php:54
+#: templates/users/user-list.php:26
+msgid "Next"
+msgstr "Próximo."
+
+#: templates/author.php:33 templates/users/card.php:26
+#: templates/users/small.php:26
+#: templates/widgets/listing-categories-cards.php:68
+#, php-format
+msgid "%d listing"
+msgid_plural "%d listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/author.php:101
+msgid "User listings"
+msgstr ""
+
+#: templates/controls/opening-hours.php:2
+#: templates/listings/detail/section-opening-hours.php:12
+msgid "Monday"
+msgstr "Segunda"
+
+#: templates/controls/opening-hours.php:3
+#: templates/listings/detail/section-opening-hours.php:13
+msgid "Tuesday"
+msgstr "Terça"
+
+#: templates/controls/opening-hours.php:4
+#: templates/listings/detail/section-opening-hours.php:14
+msgid "Wednesday"
+msgstr "Quarta"
+
+#: templates/controls/opening-hours.php:5
+#: templates/listings/detail/section-opening-hours.php:15
+msgid "Thursday"
+msgstr "Quinta"
+
+#: templates/controls/opening-hours.php:6
+#: templates/listings/detail/section-opening-hours.php:16
+msgid "Friday"
+msgstr "Sexta"
+
+#: templates/controls/opening-hours.php:7
+#: templates/listings/detail/section-opening-hours.php:17
+msgid "Saturday"
+msgstr "Sábado"
+
+#: templates/controls/opening-hours.php:8
+#: templates/listings/detail/section-opening-hours.php:18
+msgid "Sunday"
+msgstr "Domingo"
+
+#: templates/controls/opening-hours.php:15
+msgid "Day"
+msgstr "Dia"
+
+#: templates/controls/opening-hours.php:18
+msgid "Custom text"
+msgstr "Texto Personalizado"
+
+#: templates/listings/detail/section-food-menu.php:9
+msgid "Daily Menu"
+msgstr "Menu diário"
+
+#: templates/listings/detail/section-food-menu.php:25
+msgid "Menu"
+msgstr "Menu"
+
+#: templates/listings/detail/section-location.php:22
+msgid "Map"
+msgstr "Mapa"
+
+#: templates/listings/detail/section-location.php:38
+msgid "See Inside"
+msgstr "Veja Dentro"
+
+#: templates/listings/detail/section-location.php:45
+msgid "Directions"
+msgstr "Como chegar"
+
+#: templates/listings/detail/section-report.php:7
+msgid "Report spam, abuse, or inappropriate content"
+msgstr "Denunciar spam, abuso ou conteúdo impróprio"
+
+#: templates/listings/row.php:40
+msgid "Read More"
+msgstr "Leia mais"
+
+#: templates/mails/report.php:21
+msgid "Report reason"
+msgstr "Informar razão"
+
+#: templates/misc/breadcrumb.php:3 templates/misc/breadcrumb.php:6
+#: templates/misc/breadcrumb.php:9
+msgid "Home"
+msgstr "Início"
+
+#: templates/misc/breadcrumb.php:84
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: templates/misc/breadcrumb.php:91 templates/misc/breadcrumb.php:93
+#: templates/misc/breadcrumb.php:95
+msgid "Archive for"
+msgstr "Arquivos de:"
+
+#: templates/misc/breadcrumb.php:97
+msgid "Author Archive"
+msgstr "Arquivos do Autor"
+
+#: templates/misc/breadcrumb.php:99
+msgid "Blog Archives"
+msgstr "Arquivos do Blog"
+
+#: templates/misc/breadcrumb.php:101
+msgid "Search Results"
+msgstr "Resultados da pesquisa"
+
+#: templates/misc/not-allowed.php:9
+msgid "You need to log in at first."
+msgstr "Você precisa fazer login primeiro."
+
+#: templates/misc/not-allowed.php:11
+msgid "You are not allowed to access this page."
+msgstr "Você não está autorizado a acessar essa página"
+
+#: templates/misc/not-allowed.php:23
+msgid "Login"
+msgstr "Login"
+
+#: templates/misc/not-allowed.php:31
+msgid "Register"
+msgstr "Cadastrar"
+
+#: templates/misc/object-does-not-exist.php:8
+msgid "Object does not exist."
+msgstr "O objeto não existe."
+
+#: templates/misc/print-button.php:2
+msgid "Print"
+msgstr "Imprimir"
+
+#: templates/misc/report-form.php:3
+msgid "You have to specify listing!"
+msgstr "Você tem que especificar o anúncio!"
+
+#: templates/misc/report-form.php:6
+#, php-format
+msgid "What's wrong with %s?"
+msgstr "O que há de errado com %s?"
+
+#: templates/misc/report-form.php:14 templates/misc/report-form.php:15
+msgid "It is spam"
+msgstr "É um spam"
+
+#: templates/misc/report-form.php:21 templates/misc/report-form.php:22
+msgid "It is nudity or pornography"
+msgstr "É nudez ou pornografia"
+
+#: templates/misc/report-form.php:28 templates/misc/report-form.php:29
+msgid "It humiliates somebody"
+msgstr "Humilha alguém"
+
+#: templates/misc/report-form.php:35 templates/misc/report-form.php:36
+msgid "It is inappropriate"
+msgstr "É inadequado"
+
+#: templates/misc/report-form.php:42 templates/misc/report-form.php:43
+msgid ""
+"It insults or attacks someone based on their religion, ethnicity or sexual "
+"orientation"
+msgstr ""
+"Ele insulta ou ataca alguém baseado na religião, etinicidade ou orientação "
+"sexual"
+
+#: templates/misc/report-form.php:49 templates/misc/report-form.php:50
+msgid "It advocates violence or harm to a person or animal"
+msgstr "Ele defende a violência ou dano a uma pessoa ou animal"
+
+#: templates/misc/report-form.php:56 templates/misc/report-form.php:57
+msgid "It displays someone harming themself or planning to harm themself"
+msgstr "Mostra alguém machucando a si mesmo ou planejando se machucar"
+
+#: templates/misc/report-form.php:63 templates/misc/report-form.php:64
+msgid "It describes buying or selling drugs, guns or regulated products"
+msgstr "Descreve a compra ou venda de drogas, armas ou produtos regulamentados"
+
+#: templates/misc/report-form.php:71 templates/misc/report-form.php:72
+msgid "It is an unauthorized use of my intellectual property"
+msgstr "É um uso não autorizado de minha propriedade intelectual"
+
+#: templates/misc/report-form.php:78 templates/misc/report-form.php:79
+msgid "Something else"
+msgstr "Outra coisa…"
+
+#: templates/misc/report-form.php:85
+msgid "Other reason or additional information"
+msgstr "Outro motivo ou informações adicionais"
+
+#: templates/misc/report-form.php:88
+msgid "Your Contact Information"
+msgstr ""
+
+#: templates/misc/report-form.php:107
+msgid "Submit to review"
+msgstr "Enviar para avaliação"
+
+#: templates/misc/share.php:3 templates/misc/share.php:7
+msgid "Share"
+msgstr "Compartilhar"
+
+#: templates/notices/welcome.php:3
+msgid ""
+"<strong>Welcome to Inventor</strong> - please read <a href=\"http://"
+"inventorwp.com/documentation/\" target=\"_blank\">documentation</a> for more "
+"information."
+msgstr ""
+"<strong>Bem-vindo ao Inventor</strong> - por favor, leia a <a href=\"http://"
+"inventorwp.com/documentation/\" target=\"_blank\">documentação</a> para "
+"obter mais informações."
+
+#: templates/notices/welcome.php:7
+msgid ""
+"All available features are listed at <a href=\"http://inventorwp.com\" "
+"target=\"_blank\">inventorwp.com</a>."
+msgstr ""
+"Todos os recursos disponíveis são listados em <a href=\"http://inventorwp.com"
+"\" target=\"_blank\">inventorwp.com</a>."
+
+#: templates/notices/welcome.php:12
+msgid "Documentation"
+msgstr "Documentação"
+
+#: templates/notices/welcome.php:16
+msgid "Plugins"
+msgstr "Plugins"
+
+#: templates/notices/welcome.php:20
+msgid "Hide"
+msgstr "Esconder"
+
+#: templates/payment/gateways/wire-transfer.php:10
+#, php-format
+msgid "for package \"%s\""
+msgstr "por pacote \"%s\""
+
+#: templates/payment/gateways/wire-transfer.php:16
+msgid "Beneficiary's account number"
+msgstr "Número da conta do beneficiário"
+
+#: templates/payment/gateways/wire-transfer.php:21
+msgid "Bank code (SWIFT/BIC)"
+msgstr "Código do banco (SWIFT / BIC)"
+
+#: templates/payment/gateways/wire-transfer.php:26
+msgid "Variable symbol"
+msgstr "símbolo variável"
+
+#: templates/payment/gateways/wire-transfer.php:31
+msgid "Information / reference"
+msgstr "Informação / referência"
+
+#: templates/payment/gateways/wire-transfer.php:38
+msgid "Beneficiary's name"
+msgstr "Nome do beneficiário"
+
+#: templates/payment/gateways/wire-transfer.php:48
+msgid "Postcode (ZIP)"
+msgstr "Código Postal / CEP"
+
+#: templates/payment/gateways/wire-transfer.php:65
+msgid "Your payment will be manually reviewed when transfer will be completed."
+msgstr ""
+"Seu envio será revisto manualmente quando a transferência for concluída."
+
+#: templates/payment/payment-form.php:17
+msgid "You are missing payment type."
+msgstr "Está faltando o tipo de pagamento."
+
+#: templates/payment/payment-form.php:21
+msgid "Invalid payment type."
+msgstr "Tipo de pagamento inválido."
+
+#: templates/payment/payment-form.php:25
+msgid "Object is missing."
+msgstr "Objeto está faltando."
+
+#: templates/payment/payment-form.php:54
+msgid "Payment gateway"
+msgstr "Meio de Pagamento"
+
+#: templates/payment/payment-form.php:97
+#, php-format
+msgid ""
+"By continuing, you agree to the <a href=\"%s\" target=\"_blank\">terms & "
+"conditions</a>"
+msgstr ""
+
+#: templates/payment/payment-form.php:105
+msgid "Process payment"
+msgstr ""
+
+#: templates/payment/payment-form.php:110
+msgid "No payment gateways found."
+msgstr "Nenhuma entrada de pagamento encontrada."
+
+#: templates/payment/payment-form.php:117
+msgid "Back to"
+msgstr "Voltar para"
+
+#: templates/payment/transactions.php:18
+msgid "ID"
+msgstr "ID"
+
+#: templates/payment/transactions.php:22
+msgid "Payment Type"
+msgstr "Tipo de Pagamento"
+
+#: templates/payment/transactions.php:50
+msgid "Package"
+msgstr "Pacote"
+
+#: templates/payment/transactions.php:53
+msgid "Listing purchase"
+msgstr ""
+
+#: templates/payment/transactions.php:56
+msgid "Featured listing"
+msgstr ""
+
+#: templates/payment/transactions.php:59
+msgid "Publish listing"
+msgstr ""
+
+#: templates/payment/transactions.php:83
+msgid "Previous page"
+msgstr "Página Anterior"
+
+#: templates/payment/transactions.php:84
+msgid "Next page"
+msgstr "Próxima Página"
+
+#: templates/payment/transactions.php:85
+msgid "Page"
+msgstr "Página"
+
+#: templates/payment/transactions.php:88
+msgid "No transactions found."
+msgstr "Nenhuma transação encontrada."
+
+#: templates/widgets/appearance-admin.php:16
+msgid "Appearance"
+msgstr "Aparência"
+
+#: templates/widgets/appearance-admin.php:24
+msgid "Background Color"
+msgstr "Cor de Fundo"
+
+#: templates/widgets/appearance-admin.php:37
+msgid "Background Image (URL)"
+msgstr "Imagem de Fundo (URL)"
+
+#: templates/widgets/appearance-admin.php:55
+msgid "Padding Top"
+msgstr "Espaçamento Superior"
+
+#: templates/widgets/appearance-admin.php:68
+msgid "Padding Bottom"
+msgstr "Espaçamento inferior"
+
+#: templates/widgets/appearance-admin.php:75
+msgid "Classes"
+msgstr "Classes"
+
+#: templates/widgets/appearance-admin.php:84
+msgid "Additional classes e.g. <i>background-gray</i>"
+msgstr "Classes adicionais, por exemplo, <i>background-gray</i>"
+
+#: templates/widgets/filter-admin.php:31
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: templates/widgets/filter-admin.php:49
+msgid "Sorting Options"
+msgstr "Opções de classificação"
+
+#: templates/widgets/filter-admin.php:54
+msgid "Input titles"
+msgstr "Títulos dos inputs"
+
+#: templates/widgets/filter-admin.php:65
+msgid "Labels"
+msgstr "Etiqueta"
+
+#: templates/widgets/filter-admin.php:77
+msgid "Placeholders"
+msgstr "espaços reservados"
+
+#: templates/widgets/filter-admin.php:83
+msgid "Result numbers"
+msgstr "Números de Resultados"
+
+#: templates/widgets/filter-admin.php:94
+msgid "Show result numbers"
+msgstr "Mostrar os números de resultados"
+
+#: templates/widgets/filter-admin.php:106
+msgid "Show total count"
+msgstr "Mostrar Valor Total"
+
+#: templates/widgets/filter-fields/listing-categories.php:20
+msgid "All categories"
+msgstr "Todas as categorias"
+
+#: templates/widgets/filter-fields/listing-type.php:18
+msgid "All listing types"
+msgstr "Todos os tipos de anúncios"
+
+#: templates/widgets/filter-fields/locations.php:20
+msgid "All locations"
+msgstr "Todas as localizações"
+
+#: templates/widgets/filter-fields/price.php:8
+#: templates/widgets/filter-fields/price.php:13
+msgid "Price from"
+msgstr "Preço de"
+
+#: templates/widgets/filter-fields/price.php:25
+#: templates/widgets/filter-fields/price.php:30
+msgid "Price to"
+msgstr "Preço"
+
+#: templates/widgets/filter-form-sorting-options.php:4
+msgid "Sort"
+msgstr "Ordenar"
+
+#: templates/widgets/filter-form-sorting-options.php:23
+#: templates/widgets/users-admin.php:81
+msgid "Order"
+msgstr "Pedido"
+
+#: templates/widgets/filter-form-sorting-options.php:32
+msgid "Asc"
+msgstr "Crescente"
+
+#: templates/widgets/filter-form-sorting-options.php:38
+msgid "Desc"
+msgstr "Decrescente"
+
+#: templates/widgets/filter-form-sorting-options.php:48
+msgid "Rows"
+msgstr "Fileiras"
+
+#: templates/widgets/filter-form-sorting-options.php:55
+msgid "Grid"
+msgstr "Grade"
+
+#: templates/widgets/filter.php:43
+#, php-format
+msgid ""
+"<span class=\"match\">%d</span> listing from <span class=\"total\">%d</span> "
+"matches your search criteria"
+msgid_plural ""
+"<span class=\"match\">%d</span> listings from <span class=\"total\">%d</"
+"span> match your search criteria"
+msgstr[0] ""
+"<span class=\"match\">%d</span> anúncio de <span class=\"total\">%d</span> "
+"corresponde aos seus critérios de pesquisa"
+msgstr[1] ""
+"<span class=\"match\">%d</span>anúncios de <span class=\"total\">%d</span> "
+"corresponde aos seus critérios de pesquisa"
+
+#: templates/widgets/filter.php:45
+#, php-format
+msgid "<span class=\"match\">%d</span> listing matches your search criteria"
+msgid_plural ""
+"<span class=\"match\">%d</span> listings match your search criteria"
+msgstr[0] ""
+"anúncio de <span class=\"match\">%d</span> corresponde aos seus critérios de "
+"pesquisa"
+msgstr[1] ""
+"anúncios de <span class=\"match\">%d</span> corresponde aos seus critérios "
+"de pesquisa"
+
+#: templates/widgets/listing-categories-admin.php:65
+msgid "Show count"
+msgstr "Mostrar contagem"
+
+#: templates/widgets/listing-categories-admin.php:72
+#: templates/widgets/listings-admin.php:61 templates/widgets/users-admin.php:56
+msgid "Display as"
+msgstr "Mostrar como"
+
+#: templates/widgets/listing-categories-admin.php:77
+msgid "Tabs"
+msgstr ""
+
+#: templates/widgets/listing-categories-admin.php:78
+msgid "Cards"
+msgstr ""
+
+#: templates/widgets/listing-inquire-admin.php:35
+msgid "Form fields"
+msgstr "Campos do Formulário"
+
+#: templates/widgets/listing-inquire-admin.php:85
+#: templates/widgets/listing-inquire.php:63
+msgid "Subject"
+msgstr "Assunto"
+
+#: templates/widgets/listing-inquire-admin.php:139
+msgid "Site admin"
+msgstr "Administrador do site"
+
+#: templates/widgets/listing-inquire-admin.php:152
+msgid "Listing author"
+msgstr "Autor do anúncio"
+
+#: templates/widgets/listing-inquire-admin.php:165
+msgid "Listing email"
+msgstr "E-mail do anúncio"
+
+#: templates/widgets/listing-inquire-admin.php:170
+msgid "If none selected, post author will receive an email by default."
+msgstr "Se nenhum selecionado, o autor do anúncio receberá um e-mail padrão."
+
+#: templates/widgets/listing-inquire.php:86
+msgid "Send Message"
+msgstr "Enviar mensagem"
+
+#: templates/widgets/listings-admin.php:47 templates/widgets/users-admin.php:42
+msgid "Count"
+msgstr "Contador"
+
+#: templates/widgets/listings-admin.php:66 templates/widgets/users-admin.php:61
+msgid "Small"
+msgstr "Pequeno"
+
+#: templates/widgets/listings-admin.php:67
+msgid "Box"
+msgstr "Caixa"
+
+#: templates/widgets/listings-admin.php:68
+msgid "Column"
+msgstr "Coluna"
+
+#: templates/widgets/listings-admin.php:69
+msgid "Row"
+msgstr "Linha"
+
+#: templates/widgets/listings-admin.php:70
+msgid "Masonry"
+msgstr "Alvenaria"
+
+#: templates/widgets/listings-admin.php:71
+msgid "Carousel"
+msgstr "Carrosel"
+
+#: templates/widgets/listings-admin.php:78
+msgid "Items per row"
+msgstr "Itens por fila"
+
+#: templates/widgets/listings-admin.php:95
+msgid "Pickup"
+msgstr "Retirada"
+
+#: templates/widgets/listings-admin.php:99
+msgid "Random"
+msgstr "Aleatório"
+
+#: templates/widgets/listings-admin.php:100
+#: templates/widgets/listings-admin.php:136
+msgid "IDs"
+msgstr "IDs"
+
+#: templates/widgets/listings-admin.php:112
+msgid "Default"
+msgstr "Padrão"
+
+#: templates/widgets/listings-admin.php:144
+msgid ""
+"For specific listings please insert post ids, separated by comma. Example: "
+"1,2,3"
+msgstr ""
+"Para listagens específicas inserir ids dos posts, separados por vírgula. "
+"Exemplo: 1,2,3"
+
+#: templates/widgets/listings-admin.php:150
+msgid "Attribute"
+msgstr "Atributo"
+
+#: templates/widgets/listings-admin.php:160
+msgid "None"
+msgstr "Nenhum"
+
+#: templates/widgets/listings-admin.php:172
+msgid "Featured only"
+msgstr "Somente os destaques"
+
+#: templates/widgets/listings-admin.php:185
+msgid "Reduced only"
+msgstr "Reduzido apenas"
+
+#: templates/widgets/listings-admin.php:213
+msgid "Types"
+msgstr "Categorias"
+
+#: templates/widgets/listings.php:89
+msgid "No listings found."
+msgstr "Não há anúncios encontrados."
+
+#: templates/widgets/opening-hours.php:10
+msgid "Mon"
+msgstr "Seg"
+
+#: templates/widgets/opening-hours.php:11
+msgid "Tue"
+msgstr "Ter"
+
+#: templates/widgets/opening-hours.php:12
+msgid "Wed"
+msgstr "Qua"
+
+#: templates/widgets/opening-hours.php:13
+msgid "Thu"
+msgstr "Qui"
+
+#: templates/widgets/opening-hours.php:14
+msgid "Fri"
+msgstr "Sex"
+
+#: templates/widgets/opening-hours.php:15
+msgid "Sat"
+msgstr "Sab"
+
+#: templates/widgets/opening-hours.php:16
+msgid "Sun"
+msgstr "Dom"
+
+#: templates/widgets/opening-hours.php:49
+msgid "It is <span class=\"open\">open</span>."
+msgstr "Está <span class=\"open\">aberto</span>."
+
+#: templates/widgets/opening-hours.php:54
+msgid "It is <span class=\"closed\">closed</span>."
+msgstr "Está <span class=\"closed\">fechado</span>."
+
+#: templates/widgets/users-admin.php:68
+msgid "Type"
+msgstr ""
+
+#: templates/widgets/users-admin.php:73
+msgid "Authors"
+msgstr ""
+
+#: templates/widgets/users-admin.php:74
+msgid "All"
+msgstr ""
+
+#: templates/widgets/users-admin.php:92
+msgid "Registration date"
+msgstr ""
+
+#: templates/widgets/users-admin.php:104
+msgid "Post count"
+msgstr ""
+
+#: templates/widgets/users.php:76
+msgid "No users found."
+msgstr ""
+
+#: templates/widgets/visibility-admin.php:16
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: templates/widgets/visibility-admin.php:21
+msgid ""
+"Using following settings you can specify, on which pages will be widget "
+"shown."
+msgstr ""
+"Utilizando  as configurações a seguir você pode especificar em que páginas "
+"serão mostrados widgets. "
+
+#: templates/widgets/visibility-admin.php:24
+msgid "If none of the following is set, widget will be visible by default."
+msgstr "Se nenhum dos seguintes é definido, o widget será visível por padrão."
+
+#: templates/widgets/visibility-admin.php:31
+msgid "Front page"
+msgstr "Página Inicial"
+
+#: templates/widgets/visibility-admin.php:39
+msgid "Listing detail"
+msgstr "Detalhe de anúncio"
+
+#: templates/widgets/visibility-admin.php:47
+msgid "Listing archive"
+msgstr "Arquivo de listagem"
+
+#: templates/widgets/visibility-admin.php:55
+msgid "Listing taxonomies"
+msgstr "Listagem de taxonomias"
+
+#: templates/widgets/visibility-admin.php:62
+msgid "Pages"
+msgstr "Páginas"
+
+#: templates/widgets/visibility-admin.php:66
+msgid "Page slugs delimited by comma e.g. <i>image-cover,listing-slider</i>"
+msgstr ""
+"Páginas slug delimitadas por vírgula, por exemplo, <i>image-cover,listing-"
+"slider</i>"
+
+#~ msgid "Loop"
+#~ msgstr "Repetir"
+
+#~ msgid "Check to loop video"
+#~ msgstr "Marque para repetir vídeo"
+
+#~ msgid "Listing Categories Boxes"
+#~ msgstr "Caixas de categorias dos anúncios"
+
+#~ msgid "Displays listing categories in boxes."
+#~ msgstr "Mostrar as categorias dos anúncios em caixas."
+
+#~ msgid "I agree with <a href=\"%s\">terms & conditions</a>"
+#~ msgstr "Concordo com os <a href=”%s”>termos e condições</a>"
+
+#~ msgid "Contact to you"
+#~ msgstr "Contato"
+
+#~ msgid "Proceed payment"
+#~ msgstr "Prossiga com o pagamento"

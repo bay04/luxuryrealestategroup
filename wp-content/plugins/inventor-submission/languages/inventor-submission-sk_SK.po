@@ -1,0 +1,2803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor\n"
+"POT-Creation-Date: 2016-12-13 18:20+0100\n"
+"PO-Revision-Date: 2016-12-13 18:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/class-inventor-submission-logic.php:473
+msgid "New submission has been successfully created."
+msgstr "Nová položka bola úspešne vytvorená."
+
+#: includes/class-inventor-submission-logic.php:479
+msgid "Submission has been successfully updated."
+msgstr "Položka bola úspešne aktualizovaná."
+
+#: includes/class-inventor-submission-logic.php:656
+msgid "Item has been successfully removed."
+msgstr "Položka bola úspešne zmazaná."
+
+#: includes/class-inventor-submission-logic.php:658
+msgid "An error occurred when removing an item."
+msgstr "Pri mazaní položky nastala chyba."
+
+#: includes/class-inventor-submission-logic.php:707
+msgid "Featured listing"
+msgstr "Významná položka"
+
+#: includes/class-inventor-submission-logic.php:708
+#, php-format
+msgid "Make listing %s featured"
+msgstr "Urobiť %s významnou"
+
+#: includes/class-inventor-submission-logic.php:712
+msgid "Publish listing"
+msgstr "Zverejniť položku"
+
+#: includes/class-inventor-submission-logic.php:713
+#, php-format
+msgid "Publish %s"
+msgstr "Zverejniť %s"
+
+#: includes/class-inventor-submission-logic.php:782
+msgid "Listing successfully featured."
+msgstr "Položka úspešne označená za významnú."
+
+#: includes/class-inventor-submission-logic.php:794
+msgid "Listing will be published after review."
+msgstr "Položka bude publikovaná po kontrole."
+
+#: includes/class-inventor-submission-logic.php:798
+msgid "Listing has been published."
+msgstr "Položka bola zverejnená."
+
+#: includes/class-inventor-submission-shortcodes.php:71
+msgid "Check your package."
+msgstr "Skontrolujte svoj balík."
+
+#: includes/class-inventor-submission-shortcodes.php:93
+msgid "You are not allowed to submit this type."
+msgstr "Nemáte povolenie vytvoriť tento typ."
+
+#: includes/class-inventor-submission-shortcodes.php:131
+msgid "Done"
+msgstr "Hotovo"
+
+#: includes/class-inventor-submission-shortcodes.php:131
+msgid "Proceed to next step"
+msgstr "Pokračovať na ďalší krok"
+
+#: includes/class-inventor-submission-shortcodes.php:131
+msgid "Save"
+msgstr "Uložiť"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:36
+msgid "Inventor Submission"
+msgstr "Inventor podanie"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:49
+msgid "Type"
+msgstr "Typ"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:50
+msgid "Defines what determines number of user listings."
+msgstr "Definuje, čo určuje počet položiek užívateľa."
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:54
+msgid "Free for all"
+msgstr "Zdarma pre všetkých"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:55
+msgid "Pay per post"
+msgstr "Platba za položku"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:68
+msgid "Review Before Submission"
+msgstr "Shváliť pred publikáciou"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:82
+msgid "Single step"
+msgstr "Jeden krok"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:83
+msgid "Merge all listing metaboxes into single submission step"
+msgstr "Spojí všetky metaboxy položky do jedného kroku"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:96
+msgid "Publish price"
+msgstr "Cena zverejnenia"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:99
+msgid "For \"pay per post\" submission type"
+msgstr "Pre typ “platba za položku”"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:111
+msgid "Featured price"
+msgstr "Cena za významnú položku"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:126
+msgid "User listings"
+msgstr "Položky používateľa"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:141
+msgid "Add listing"
+msgstr "Pridať položku"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:156
+msgid "Edit listing"
+msgstr "Upraviť položku"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:171
+msgid "Remove listing"
+msgstr "Zmazať položku"
+
+#: templates/submission/list.php:11
+msgid "Create listing"
+msgstr "Vytvoriť položku"
+
+#: templates/submission/list.php:29
+msgid "Listing published"
+msgstr "Položka publikovaná"
+
+#: templates/submission/list.php:30
+msgid "Waiting for review"
+msgstr "Čaká na schválenie"
+
+#: templates/submission/list.php:31
+msgid "Listing disabled"
+msgstr "Položka deaktivovaná"
+
+#: templates/submission/list.php:44 templates/submission/list.php:131
+msgid "Pending"
+msgstr "Vyčkáva"
+
+#: templates/submission/list.php:48 templates/submission/list.php:124
+msgid "Published"
+msgstr "Publikované"
+
+#: templates/submission/list.php:52
+msgid "Disabled"
+msgstr "Deaktivované"
+
+#: templates/submission/list.php:105
+msgid "Make featured"
+msgstr "Urobiť významnou"
+
+#: templates/submission/list.php:111
+msgid "Featured"
+msgstr "Významné"
+
+#: templates/submission/list.php:143
+msgid "Publish"
+msgstr "Zverejniť"
+
+#: templates/submission/list.php:158
+msgid "Edit"
+msgstr "Upraviť"
+
+#: templates/submission/list.php:164
+msgid "Remove"
+msgstr "Zmazať"
+
+#: templates/submission/list.php:176
+msgid "Previous page"
+msgstr "Predchádzajúca strana"
+
+#: templates/submission/list.php:177
+msgid "Next page"
+msgstr "Nasledujúca strana"
+
+#: templates/submission/list.php:178
+msgid "Page"
+msgstr "Strana"
+
+#: templates/submission/list.php:185
+msgid "No listings found."
+msgstr "Nenašli sa žiadne položky."
+
+#: templates/submission/list.php:191
+msgid "You don't have any listings, yet. Start by creating new one."
+msgstr "Nemáte ešte žiadne položky. Začnite jej vytvorením."
+
+#: templates/submission/payment-form-before.php:7
+msgid "Price is not set."
+msgstr "Cena nie je nastavená"
+
+#: templates/submission/payment-form-before.php:12
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for featured listing <strong>\"%s"
+"\"</strong>."
+msgstr ""
+"Chystáte sa zaplatiť <strong>%s</strong> za zvýznamnenie položky <strong>\"%s"
+"\"</strong>."
+
+#: templates/submission/payment-form-before.php:14
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> to publish listing <strong>\"%s\"</"
+"strong>."
+msgstr ""
+"Chystáte sa zaplatiť <strong>%s</strong> za zverejnenie položky <strong>\"%s"
+"\"</strong>."
+
+#: templates/submission/payment-form-before.php:21
+msgid "Missing listing."
+msgstr "Chýba položka"
+
+#: templates/submission/remove-form.php:3
+msgid "You have to specify listing!"
+msgstr "Musíte špecifikovať položku!"
+
+#: templates/submission/remove-form.php:6
+#, php-format
+msgid "Are you sure you want to delete %s?"
+msgstr "Ste si istý zmazaním %s?"
+
+#: templates/submission/remove-form.php:15
+msgid "Delete"
+msgstr "Zmazať"
+
+#: templates/submission/step-title.php:9
+msgid "Step"
+msgstr "Krok"
+
+#: templates/submission/steps-not-found.php:1
+msgid "Listing type does not have any metaboxes."
+msgstr "Typ položky nemá nadefinované žiadne metaboxy."
+
+#: templates/submission/steps.php:26
+msgid "Nothing to show."
+msgstr "Niet čo ukázať."
+
+#: templates/submission/type-not-found.php:7
+msgid "Please define type of your submission"
+msgstr "Zadefinujte prosím typ podania"
+
+#: templates/submission/type-not-found.php:33
+msgid "You don't have privilege to create any submission."
+msgstr "Nemáte dostatočné oprávnenia na vytvorenie akejkoľvek položky."
+
+#~ msgid "Inventor"
+#~ msgstr "Inventor"
+
+#~ msgid "Colors"
+#~ msgstr "Farby"
+
+#~ msgid "Locations"
+#~ msgstr "Umiestnenia"
+
+#~ msgid "Categories"
+#~ msgstr "Kategórie"
+
+#~ msgid "Listings"
+#~ msgstr "Položky"
+
+#~ msgid "Lexicon"
+#~ msgstr "Lexikón"
+
+#~ msgid "Please refresh the page and retry action."
+#~ msgstr "Obnovte stránku a skúste ešte raz."
+
+#~ msgid "Name"
+#~ msgstr "Meno"
+
+#~ msgid "Reg. No."
+#~ msgstr "IČO"
+
+#~ msgid "VAT No."
+#~ msgstr "IČ DPH"
+
+#~ msgid "Street and number"
+#~ msgstr "Ulica a číslo"
+
+#~ msgid "Country"
+#~ msgstr "Krajina"
+
+#~ msgid "State / County"
+#~ msgstr "Okres / Kraj"
+
+#~ msgid "City"
+#~ msgstr "Mesto"
+
+#~ msgid "Postal code"
+#~ msgstr "PSČ"
+
+#~ msgid "Billing details"
+#~ msgstr "Fakturačné údaje"
+
+#~ msgid "Listing type"
+#~ msgstr "Typ položky"
+
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Description"
+#~ msgstr "Opis"
+
+#~ msgid "Keyword"
+#~ msgstr "Kľúčové slovo"
+
+#~ msgid "Distance"
+#~ msgstr "Vzdialenosť"
+
+#~ msgid "Price"
+#~ msgstr "Cena"
+
+#~ msgid "Geolocation"
+#~ msgstr "Geolokácia"
+
+#~ msgid "Reduced"
+#~ msgstr "Zlacnené"
+
+#~ msgid "Featured Image"
+#~ msgstr "Významný obrázok"
+
+#~ msgid "Custom Image"
+#~ msgstr "Vlastný obrázok"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Google Map"
+#~ msgstr "Google mapa"
+
+#~ msgid "Google Street View"
+#~ msgstr "Google street view"
+
+#~ msgid "Google Inside View"
+#~ msgstr "Google inside view"
+
+#~ msgid "General"
+#~ msgstr "Všeobecné"
+
+#~ msgid "FAQ"
+#~ msgstr "Najčastejšie otázky"
+
+#~ msgid "Add Another FAQ"
+#~ msgstr "Pridať ďalšiu otázku"
+
+#~ msgid "Remove FAQ"
+#~ msgstr "Zmazať otázku"
+
+#~ msgid "Question"
+#~ msgstr "Otázka"
+
+#~ msgid "Answer"
+#~ msgstr "Odpoveď"
+
+#~ msgid "Branding"
+#~ msgstr "Značka"
+
+#~ msgid "Slogan"
+#~ msgstr "Slogan"
+
+#~ msgid "Brand color"
+#~ msgstr "Farba značky"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Banner"
+#~ msgstr "Baner"
+
+#~ msgid "Banner Type"
+#~ msgstr "Typ banera"
+
+#~ msgid "To set map position go to section <strong>Location</strong>."
+#~ msgstr ""
+#~ "Na nastavenie pozície mapy choďte do sekcie <strong>Poloha</strong>."
+
+#~ msgid ""
+#~ "To set Street View go to section <strong>Location</strong>. Do not forget "
+#~ "to <strong>enable</strong> Street View."
+#~ msgstr ""
+#~ "Na nastavenie pohľadu z ulice choďte do sekcie <strong>Poloha</strong>. "
+#~ "Nezabudnite <strong>povoliť</strong> Street View."
+
+#~ msgid ""
+#~ "To set Inside View go to section <strong>Location</strong>. Do not forget "
+#~ "to <strong>enable</strong> Inside View."
+#~ msgstr ""
+#~ "Na nastavenie pohľadu z vnútra choďte do sekcie <strong>Poloha</strong>. "
+#~ "Nezabudnite <strong>povoliť</strong> Inside View."
+
+#~ msgid "Upload an image."
+#~ msgstr "Nahrať obrázok."
+
+#~ msgid "Upload video file in .mp4 format."
+#~ msgstr "Nahrať video vo formáte .mp4."
+
+#~ msgid "Loop"
+#~ msgstr "Slučka"
+
+#~ msgid "Check to loop video"
+#~ msgstr "Zaškrnite pre opakovanie prehrávania videa"
+
+#~ msgid "Zoom"
+#~ msgstr "Priblíženie"
+
+#~ msgid ""
+#~ "Minimum value of zoom is 0. Maximum value depends on location (12-25)."
+#~ msgstr "Minimálna hodnota je 0. Maximálna závisí od polohy (12-25)."
+
+#~ msgid "Map Type"
+#~ msgstr "Typ mapy"
+
+#~ msgid "Roadmap"
+#~ msgstr "Cesta"
+
+#~ msgid "Satellite"
+#~ msgstr "Satelit"
+
+#~ msgid "Hybrid"
+#~ msgstr "Hybrid"
+
+#~ msgid "Marker"
+#~ msgstr "Značka"
+
+#~ msgid "Check to show marker."
+#~ msgstr "Zaškrnite pre zobrazenie značky."
+
+#~ msgid "Gallery"
+#~ msgstr "Galéria"
+
+#~ msgid "Color"
+#~ msgstr "Farba"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid ""
+#~ "For more information about embeding videos and video links support please "
+#~ "read this <a href=\"http://codex.wordpress.org/Embeds\">article</a>."
+#~ msgstr ""
+#~ "Viac informácií o vkladaní videí a o podpore videa sa dočítate v tomto <a "
+#~ "href=\"http://codex.wordpress.org/Embeds\">článku</a>."
+
+#~ msgid "Listing categories"
+#~ msgstr "Kategórie položiek"
+
+#~ msgid "Opening Hours"
+#~ msgstr "Otváracie hodiny"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Phone"
+#~ msgstr "Telefón"
+
+#~ msgid "Website"
+#~ msgstr "Webstránka"
+
+#~ msgid "Address"
+#~ msgstr "Adresa"
+
+#~ msgid "Social"
+#~ msgstr "Sociálne siete"
+
+#~ msgid "In %s."
+#~ msgstr "V %s."
+
+#~ msgid "Prefix"
+#~ msgstr "Predpona"
+
+#~ msgid "Any text shown before price (for example \"from\")."
+#~ msgstr "Ľubovoľný text zobrazený pred cenou (napríklad “od”)"
+
+#~ msgid "Suffix"
+#~ msgstr "Prípona"
+
+#~ msgid "Any text shown after price (for example \"per night\")."
+#~ msgstr "Ľubovoľný text zobrazený za cenou (napríklad “za noc”)"
+
+#~ msgid "Custom"
+#~ msgstr "Vlastné"
+
+#~ msgid ""
+#~ "Any text instead of numeric price (for example \"by agreement\"). Prefix "
+#~ "and Suffix will be ignored."
+#~ msgstr ""
+#~ "Ľubovoľný text zobrazený namiesto číselnej ceny (napríklad “cena "
+#~ "dohodou”). Predpona a prípona budú odignorované."
+
+#~ msgid "Flags"
+#~ msgstr "Značky"
+
+#~ msgid "Date"
+#~ msgstr "Dátum"
+
+#~ msgid "Time"
+#~ msgstr "Čas"
+
+#~ msgid "Date interval"
+#~ msgstr "Dátumový interval"
+
+#~ msgid "Date from"
+#~ msgstr "Dátum od"
+
+#~ msgid "Date to"
+#~ msgstr "Dátum do"
+
+#~ msgid "Date and time interval"
+#~ msgstr "Dátumový a časový interval"
+
+#~ msgid "Date and time from"
+#~ msgstr "Dátum a čas od"
+
+#~ msgid "Date and time to"
+#~ msgstr "Dátum a čas do"
+
+#~ msgid "Time interval"
+#~ msgstr "Časový interval"
+
+#~ msgid "Time from"
+#~ msgstr "Čas od"
+
+#~ msgid "Time to"
+#~ msgstr "Čas do"
+
+#~ msgid "Location"
+#~ msgstr "Poloha"
+
+#~ msgid "Map Location"
+#~ msgstr "Poloha na mape"
+
+#~ msgid "Map Location Polygon"
+#~ msgstr "Polygón umiestnenia na mape"
+
+#~ msgid ""
+#~ "Enter encoded path. It can be constructed using <a href=\"https://google-"
+#~ "developers.appspot.com/maps/documentation/utilities/"
+#~ "polylineutility_6dfa1f29011ecf2cf389dba27e343637.frame?hl=en&redesign=true"
+#~ "\" target=\"_blank\">Interactive Polyline Encoder Utility</a>."
+#~ msgstr ""
+#~ "Zadajte zakódovanú cestu. Môžete ju zostrojiť použitím nástroja <a href="
+#~ "\"https://google-developers.appspot.com/maps/documentation/utilities/"
+#~ "polylineutility_6dfa1f29011ecf2cf389dba27e343637.frame?hl=en&redesign=true"
+#~ "\" target=\"_blank\">Interactive Polyline Encoder Utility</a>."
+
+#~ msgid "Street View"
+#~ msgstr "Street View"
+
+#~ msgid "Check to enable Street View"
+#~ msgstr "Zaškrtnite pre povolenie zobrazenia z ulice"
+
+#~ msgid "Street View Location"
+#~ msgstr "Street View poloha"
+
+#~ msgid "Inside View"
+#~ msgstr "Inside View"
+
+#~ msgid "Check to enable Inside View"
+#~ msgstr "Zaškrtnite pre povolenie zobrazenia z vnútra"
+
+#~ msgid "Inside View Location"
+#~ msgstr "Inside View poloha"
+
+#~ msgid "Yes"
+#~ msgstr "Áno"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid "Details"
+#~ msgstr "Detaily"
+
+#~ msgid "Meals And Drinks"
+#~ msgstr "Jedlá a nápoje"
+
+#~ msgid "Social connections"
+#~ msgstr "Sociálne siete"
+
+#~ msgid "Listing was reported"
+#~ msgstr "Položka bola nahlásená"
+
+#~ msgid "Listing was reported. Please, wait for admin review."
+#~ msgstr "Položka bola nahlásená. Počkajte za schválením administrátora."
+
+#~ msgid "Unable to send a message."
+#~ msgstr "Nepodarilo sa odoslať správu."
+
+#~ msgid "You have been successfully logged out."
+#~ msgstr "Boli ste úspešne odhlásený."
+
+#~ msgid "Save profile"
+#~ msgstr "Uložiť profil"
+
+#~ msgid "Please sign in before accessing this page."
+#~ msgstr "Pred vstupom na túto stránku sa musíte prihlásiť."
+
+#~ msgid "You are not allowed to access this page."
+#~ msgstr "Nemáte povolenie na zobrazenie tejto stránky."
+
+#~ msgid "Not set"
+#~ msgstr "Nenastavené"
+
+#~ msgid "Wire Transfer"
+#~ msgstr "Bankový prevod"
+
+#~ msgid "Missing payment data."
+#~ msgstr "Chýbajú platobné údaje."
+
+#~ msgid "You must agree terms &amp; conditions."
+#~ msgstr "Musíte súhlasiť s obchodnými podmienkami."
+
+#~ msgid "Inventor Currency"
+#~ msgstr "Inventor mena"
+
+#~ msgid "Currency Symbol"
+#~ msgstr "Symbol meny"
+
+#~ msgid "Currency Code"
+#~ msgstr "Kód meny"
+
+#~ msgid "Show Symbol After Amount"
+#~ msgstr "Zobraziť symbol za číslom"
+
+#~ msgid "Decimal places"
+#~ msgstr "Desatinné miesta"
+
+#~ msgid "Decimal Separator"
+#~ msgstr "Desatinná čiarka"
+
+#~ msgid ". (dot)"
+#~ msgstr ". (bodka)"
+
+#~ msgid ", (comma)"
+#~ msgstr ", (čiarka)"
+
+#~ msgid "Thousands Separator"
+#~ msgstr "Oddeľovač tisícoviek"
+
+#~ msgid "\" \" (space)"
+#~ msgstr "\" \" (medzera)"
+
+#~ msgid "\"\" (empty string)"
+#~ msgstr "\"\" (prázdny reťazec)"
+
+#~ msgid "Inventor General"
+#~ msgstr "Inventor všeobecné"
+
+#~ msgid "Post types"
+#~ msgstr "Typy položiek"
+
+#~ msgid ""
+#~ "After changing post types make sure that your resave permalinks in "
+#~ "\"Settings - Permalinks\""
+#~ msgstr ""
+#~ "Po zmene typov nezabudnite preuložiť trvalé odkazy v “Nastavenia - Trvalé "
+#~ "odkazy”"
+
+#~ msgid "Listing banner types"
+#~ msgstr "Typy banerov položky"
+
+#~ msgid "List of available banner types for listings"
+#~ msgstr "Zoznam dostupných typov banera pre položky"
+
+#~ msgid "Default listing banner type"
+#~ msgstr "Prednastavený typ banera položky"
+
+#~ msgid "Has to be one of the enabled above"
+#~ msgstr "Musí byť jeden z povolených vyššie"
+
+#~ msgid "Default sorting for listing archive"
+#~ msgstr "Prednastavené triedenie pre archív položiek"
+
+#~ msgid "Default ordering for listing archive"
+#~ msgstr "Prednastavené zoradenie pre archív položiek"
+
+#~ msgid "Automatically log user in after registration"
+#~ msgstr "Automaticky prihlásiť používateľa po registrácii"
+
+#~ msgid "User won't have to sing in after registration"
+#~ msgstr "Používateľ sa nebude musieť prihlásiť po registrácii"
+
+#~ msgid "Show featured image in listing gallery"
+#~ msgstr "Zobraziť významný obrázok v galérii položky"
+
+#~ msgid "Featured image of listing will be shown in its gallery"
+#~ msgstr "Významný obrázok položky bude automaticky zobrazený v jej galérii"
+
+#~ msgid "Show listing archive as grid"
+#~ msgstr "Zobraziť archív položiek ako mriežku"
+
+#~ msgid "Listings will be shown as box instead of row"
+#~ msgstr "Položky budú zobrazené ako box namiesto riadka"
+
+#~ msgid "Disable user billing details"
+#~ msgstr "Deaktivovať fakturačné údaje používateľa"
+
+#~ msgid "Hide billing fields from user profile"
+#~ msgstr "Skryť polia pre fakturáciu v profile používateľa"
+
+#~ msgid "Purchase code"
+#~ msgstr "Kód objednávky"
+
+#~ msgid "Google Browser Key"
+#~ msgstr "Google Browser Key"
+
+#~ msgid ""
+#~ "Browser API key. Read more <a href=\"https://developers.google.com/maps/"
+#~ "documentation/javascript/get-api-key\" target=\"_blank\">here</a>."
+#~ msgstr ""
+#~ "Browser API kľúč. Čitajte viac <a href=\"https://developers.google.com/"
+#~ "maps/documentation/javascript/get-api-key\" target=\"_blank\">tu</a>."
+
+#~ msgid "Inventor Measurement"
+#~ msgstr "Inventor meranie"
+
+#~ msgid "Area Unit"
+#~ msgstr "Plošná jednotka"
+
+#~ msgid "Short Distance Unit"
+#~ msgstr "Jednotka krátkej vzdialenosti"
+
+#~ msgid "Example: \"ft\" or \"m\""
+#~ msgstr "Napríklad: “ft” alebo \"m\""
+
+#~ msgid "Long Distance Unit"
+#~ msgstr "Jednotka dlhej vzdialenosti"
+
+#~ msgid "Example: \"mi\" or \"km\""
+#~ msgstr "Napríklad: “mi” alebo \"m\""
+
+#~ msgid "Weight unit"
+#~ msgstr "Jednotka hmotnosti"
+
+#~ msgid "Example: \"lbs\" or \"kg\""
+#~ msgstr "Napríklad: “lbs” alebo “kg”"
+
+#~ msgid "Inventor Pages"
+#~ msgstr "Inventor stránky"
+
+#~ msgid "Login Required"
+#~ msgstr "Potrebné prihlásenie"
+
+#~ msgid "After Login"
+#~ msgstr "Po prihlásení"
+
+#~ msgid "Registration"
+#~ msgstr "Registrácia"
+
+#~ msgid "After Register"
+#~ msgstr "Po registrácii"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Change password"
+#~ msgstr "Zmena hesla"
+
+#~ msgid "Terms & Conditions"
+#~ msgstr "Obchodné podmienky"
+
+#~ msgid "Report listing"
+#~ msgstr "Nahlásiť položku"
+
+#~ msgid "Payment"
+#~ msgstr "Platba"
+
+#~ msgid "After Payment"
+#~ msgstr "Po platbe"
+
+#~ msgid "Transactions"
+#~ msgstr "Transakcie"
+
+#~ msgid "Account number"
+#~ msgstr "Číslo účtu"
+
+#~ msgid "Bank code"
+#~ msgstr "Kód banky"
+
+#~ msgid "Full name"
+#~ msgstr "Celé meno"
+
+#~ msgid "Street / P.O.Box"
+#~ msgstr "Ulica / P.O.Box"
+
+#~ msgid "Postcode"
+#~ msgstr "PSČ"
+
+#~ msgid "Inventor Wire Transfer"
+#~ msgstr "Inventor bankový prevod"
+
+#~ msgid "Bank account number [mandatory]"
+#~ msgstr "Číslo účtu [povinné]"
+
+#~ msgid "SWIFT or BIC of your bank [mandatory]"
+#~ msgstr "SWIFT alebo BIC kód banky [povinné]"
+
+#~ msgid "Your full name [mandatory]"
+#~ msgstr "Vaše celé meno [povinné]"
+
+#~ msgid "Enter your street."
+#~ msgstr "Zadajte svoje ulicu."
+
+#~ msgid "Enter your postcode (ZIP)."
+#~ msgstr "Zadajte svoje PSČ."
+
+#~ msgid "Enter your city."
+#~ msgstr "Zadajte svoje mesto."
+
+#~ msgid "Enter your country [mandatory]"
+#~ msgstr "Zadajte svoju krajinu [povinné]"
+
+#~ msgid "No terms"
+#~ msgstr "Žiadne termy"
+
+#~ msgid "Invalid E-mail value."
+#~ msgstr "Neplatný E-mail."
+
+#~ msgid "E-mail already exists."
+#~ msgstr "E-mail už existuje."
+
+#~ msgid "Businesses"
+#~ msgstr "Biznisy"
+
+#~ msgid "Business"
+#~ msgstr "Biznis"
+
+#~ msgid "Add New Business"
+#~ msgstr "Pridať nový biznis"
+
+#~ msgid "Edit Business"
+#~ msgstr "Upraviť biznis"
+
+#~ msgid "New Business"
+#~ msgstr "Nový biznis"
+
+#~ msgid "View Business"
+#~ msgstr "Zobraziť biznis"
+
+#~ msgid "Search Business"
+#~ msgstr "Zobraziť biznis"
+
+#~ msgid "No Businesses found"
+#~ msgstr "Nenašli sa žiadne biznisy"
+
+#~ msgid "No Businesses Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne biznisy"
+
+#~ msgctxt "URL slug"
+#~ msgid "businesses"
+#~ msgstr "biznisy"
+
+#~ msgid "Cars"
+#~ msgstr "Automobily"
+
+#~ msgid "Car"
+#~ msgstr "Automobil"
+
+#~ msgid "Add New Car"
+#~ msgstr "Pridať nový automobil"
+
+#~ msgid "Edit Car"
+#~ msgstr "Upraviť automobil"
+
+#~ msgid "New Car"
+#~ msgstr "Nový automobil"
+
+#~ msgid "View Car"
+#~ msgstr "Zobraziť automobil"
+
+#~ msgid "Search Car"
+#~ msgstr "Vyhľadať automobil"
+
+#~ msgid "No Cars found"
+#~ msgstr "Nenašli sa žiadne automobily"
+
+#~ msgid "No Cars Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne automobily"
+
+#~ msgctxt "URL slug"
+#~ msgid "cars"
+#~ msgstr "automobily"
+
+#~ msgid "Engine type"
+#~ msgstr "Motorizácia"
+
+#~ msgid "Body style"
+#~ msgstr "Karoséria"
+
+#~ msgid "Transmission"
+#~ msgstr "Prevodovka"
+
+#~ msgid "Model"
+#~ msgstr "Model"
+
+#~ msgid "Year manufactured"
+#~ msgstr "Rok výroby"
+
+#~ msgid "Mileage"
+#~ msgstr "Najazdených km"
+
+#~ msgid "Condition"
+#~ msgstr "Stav"
+
+#~ msgid "new"
+#~ msgstr "nové"
+
+#~ msgid "used"
+#~ msgstr "použité"
+
+#~ msgid "Leasing available"
+#~ msgstr "Dostupný lízing"
+
+#~ msgid "Interior color"
+#~ msgstr "Farba interéru"
+
+#~ msgid "Exterior color"
+#~ msgstr "Farba exteriéru"
+
+#~ msgid "Datings"
+#~ msgstr "Zoznamky"
+
+#~ msgid "Dating"
+#~ msgstr "Zoznamka"
+
+#~ msgid "Add New Dating"
+#~ msgstr "Pridať novú zoznamku"
+
+#~ msgid "Edit Dating"
+#~ msgstr "Upraviť zoznamku"
+
+#~ msgid "New Dating"
+#~ msgstr "Nová zoznamka"
+
+#~ msgid "View Dating"
+#~ msgstr "Zobraziť zoznamku"
+
+#~ msgid "Search Dating"
+#~ msgstr "Vyhľadať zoznamku"
+
+#~ msgid "No Datings found"
+#~ msgstr "Nenašli sa žiadne zoznamky"
+
+#~ msgid "No Datings Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne zoznamky"
+
+#~ msgctxt "URL slug"
+#~ msgid "datings"
+#~ msgstr "zoznamky"
+
+#~ msgid "Dating groups"
+#~ msgstr "Skupiny zoznamiek"
+
+#~ msgid "Gender"
+#~ msgstr "Pohlavie"
+
+#~ msgid "Male"
+#~ msgstr "Muž"
+
+#~ msgid "Female"
+#~ msgstr "Žena"
+
+#~ msgid "Age"
+#~ msgstr "Vek"
+
+#~ msgid "Weight"
+#~ msgstr "Hmotnosť"
+
+#~ msgid "Status"
+#~ msgstr "Stav"
+
+#~ msgid "Eye color"
+#~ msgstr "Farba očí"
+
+#~ msgid "Interests"
+#~ msgstr "Záujmy"
+
+#~ msgid "Educations"
+#~ msgstr "Vzdelania"
+
+#~ msgid "Education"
+#~ msgstr "Vzdelanie"
+
+#~ msgid "Add New Education"
+#~ msgstr "Pridať nové vzdelanie"
+
+#~ msgid "Edit Education"
+#~ msgstr "Upraviť vzdelanie"
+
+#~ msgid "New Education"
+#~ msgstr "Nové vzdelanie"
+
+#~ msgid "View Education"
+#~ msgstr "Zobraziť vzdelanie"
+
+#~ msgid "Search Education"
+#~ msgstr "Vyhľadať vzdelanie"
+
+#~ msgid "No Educations found"
+#~ msgstr "Nenašli sa žiadne vzdelania"
+
+#~ msgid "No Educations Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne vzdelania"
+
+#~ msgctxt "URL slug"
+#~ msgid "educations"
+#~ msgstr "vzdelania"
+
+#~ msgid "Education subject"
+#~ msgstr "Predmet vzdelania"
+
+#~ msgid "Education level"
+#~ msgstr "Úroveň vzdelania"
+
+#~ msgid "Lector"
+#~ msgstr "Prednášajúci"
+
+#~ msgid "Events"
+#~ msgstr "Podujatia"
+
+#~ msgid "Event"
+#~ msgstr "Podujatie"
+
+#~ msgid "Add New Event"
+#~ msgstr "Pridať nové podujatie"
+
+#~ msgid "Edit Event"
+#~ msgstr "Upraviť podujatie"
+
+#~ msgid "New Event"
+#~ msgstr "Nové podujatie"
+
+#~ msgid "View Event"
+#~ msgstr "Zobraziť podujatie"
+
+#~ msgid "Search Events"
+#~ msgstr "Vyhľadať podujatie"
+
+#~ msgid "No Events found"
+#~ msgstr "Nenašli sa žiadne podujatia"
+
+#~ msgid "No Events Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne podujatia"
+
+#~ msgctxt "URL slug"
+#~ msgid "events"
+#~ msgstr "podujatia"
+
+#~ msgid "Event type"
+#~ msgstr "Typ podujatia"
+
+#~ msgid "Food & Drinks"
+#~ msgstr "Jedlá a nápoje"
+
+#~ msgid "Food & Drink"
+#~ msgstr "Jedlo a nápoj"
+
+#~ msgid "Add New Food & Drink"
+#~ msgstr "Pridať nové jedlo a nápoj"
+
+#~ msgid "Edit Food & Drink"
+#~ msgstr "Upraviť jedlo a nápoj"
+
+#~ msgid "New Food & Drink"
+#~ msgstr "Nové jedlo a nápoj"
+
+#~ msgid "View Food & Drink"
+#~ msgstr "Zobraziť jedlo a nápoj"
+
+#~ msgid "Search Food & Drink"
+#~ msgstr "Vyhľadať jedlo a nápoj"
+
+#~ msgid "No Food & Drinks found"
+#~ msgstr "Nenašli sa žiadne jedlá a nápoje"
+
+#~ msgid "No Food & Drinks Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne jedlá a nápoje"
+
+#~ msgctxt "URL slug"
+#~ msgid "foods"
+#~ msgstr "jedla"
+
+#~ msgid "Food kind"
+#~ msgstr "Typ jedla a nápoja"
+
+#~ msgid "Meals and drinks menu"
+#~ msgstr "Ponukový lístok"
+
+#~ msgid "Item"
+#~ msgstr "Položka"
+
+#~ msgid "Add Another"
+#~ msgstr "Pridať ďalšiu"
+
+#~ msgid "Serving day"
+#~ msgstr "Deň servírovania"
+
+#~ msgid "Leave blank if it is not daily menu"
+#~ msgstr "Nechajte prázdne pokiaľ to nie je denné menu"
+
+#~ msgid "Speciality"
+#~ msgstr "Špecialita"
+
+#~ msgid "Photo"
+#~ msgstr "Fotografia"
+
+#~ msgid "Hotels"
+#~ msgstr "Hotely"
+
+#~ msgid "Hotel"
+#~ msgstr "Hotel"
+
+#~ msgid "Add New Hotel"
+#~ msgstr "Pridať nový hotel"
+
+#~ msgid "Edit Hotel"
+#~ msgstr "Upraviť hotel"
+
+#~ msgid "New Hotel"
+#~ msgstr "Nový hotel"
+
+#~ msgid "View Hotel"
+#~ msgstr "Zobraziť hotel"
+
+#~ msgid "Search Hotel"
+#~ msgstr "Vyhľadať hotel"
+
+#~ msgid "No Hotels found"
+#~ msgstr "Nenašli sa žiadne hotely"
+
+#~ msgid "No Hotels Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne hotely"
+
+#~ msgctxt "URL slug"
+#~ msgid "hotels"
+#~ msgstr "hotely"
+
+#~ msgid "Hotel class"
+#~ msgstr "Trieda hotal"
+
+#~ msgid "Rooms"
+#~ msgstr "Izby"
+
+#~ msgid "Listing"
+#~ msgstr "Položka"
+
+#~ msgid "Add New Listing"
+#~ msgstr "Pridať novú položku"
+
+#~ msgid "Edit Listing"
+#~ msgstr "Upraviť položku"
+
+#~ msgid "New Listing"
+#~ msgstr "Nová položka"
+
+#~ msgid "View Listing"
+#~ msgstr "Zobraziť položku"
+
+#~ msgid "Search Listing"
+#~ msgstr "Vyhľadať položku"
+
+#~ msgid "No Listings found"
+#~ msgstr "Nenašli sa žiadne položky"
+
+#~ msgid "No Listings Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne položky"
+
+#~ msgctxt "URL slug"
+#~ msgid "listings"
+#~ msgstr "polozky"
+
+#~ msgid "Message from enquire form"
+#~ msgstr "Správa z dopytového formulára"
+
+#~ msgid "Message has been successfully sent."
+#~ msgstr "Správa bola úspešne odoslaná"
+
+#~ msgid "Musics"
+#~ msgstr "Hudby"
+
+#~ msgid "Music"
+#~ msgstr "Hudba"
+
+#~ msgid "Add New Music"
+#~ msgstr "Pridať novú hudbu"
+
+#~ msgid "Edit Music"
+#~ msgstr "Upraviť hudbu"
+
+#~ msgid "New Music"
+#~ msgstr "Nová hudba"
+
+#~ msgid "View Music"
+#~ msgstr "Zobraziť hudbu"
+
+#~ msgid "Search Music"
+#~ msgstr "Vyhľadať hudbu"
+
+#~ msgid "No Musics found"
+#~ msgstr "Nenašli sa žiadne hudby"
+
+#~ msgid "No Musics Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne hudby"
+
+#~ msgctxt "URL slug"
+#~ msgid "musics"
+#~ msgstr "hudby"
+
+#~ msgid "Pets"
+#~ msgstr "Domáce zvieratá"
+
+#~ msgid "Pet"
+#~ msgstr "Domáce zviera"
+
+#~ msgid "Add New Pet"
+#~ msgstr "Pridať nové domáce zviera"
+
+#~ msgid "Edit Pet"
+#~ msgstr "Upraviť domáce zviera"
+
+#~ msgid "New Pet"
+#~ msgstr "Nové domáce zviera"
+
+#~ msgid "View Pet"
+#~ msgstr "Zobraziť domáce zviera"
+
+#~ msgid "Search Pet"
+#~ msgstr "Vyhľadať domáce zviera"
+
+#~ msgid "No Pets found"
+#~ msgstr "Nenašli sa žiadne domáce zvieratá"
+
+#~ msgid "No Pets Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne domáce zvieratá"
+
+#~ msgctxt "URL slug"
+#~ msgid "pets"
+#~ msgstr "domace-zvierata"
+
+#~ msgid "Animal"
+#~ msgstr "Zviera"
+
+#~ msgid "Reports"
+#~ msgstr "Hlásenia"
+
+#~ msgid "Report"
+#~ msgstr "Hlásenie"
+
+#~ msgid "Add New Report"
+#~ msgstr "Pridať nové hlásenie"
+
+#~ msgid "Edit Report"
+#~ msgstr "Upraviť hlásenie"
+
+#~ msgid "New Report"
+#~ msgstr "Nové hlásenie"
+
+#~ msgid "View Report"
+#~ msgstr "Zobraziť hlásenie"
+
+#~ msgid "Search Report"
+#~ msgstr "Vyhľadať hlásenie"
+
+#~ msgid "No Reports found"
+#~ msgstr "Nenašli sa žiadne hlásenia"
+
+#~ msgid "No Reports Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne hlásenia"
+
+#~ msgid "Listing ID"
+#~ msgstr "ID položky"
+
+#~ msgid "Email"
+#~ msgstr "Emal"
+
+#~ msgid "Reason"
+#~ msgstr "Dôvod"
+
+#~ msgid "Message"
+#~ msgstr "Správa"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Shoppings"
+#~ msgstr "Tovar"
+
+#~ msgid "Shopping"
+#~ msgstr "Tovar"
+
+#~ msgid "Add New Shopping"
+#~ msgstr "Pridať nový tovar"
+
+#~ msgid "Edit Shopping"
+#~ msgstr "Upraviť tovar"
+
+#~ msgid "New Shopping"
+#~ msgstr "Nový tovar"
+
+#~ msgid "View Shopping"
+#~ msgstr "Zobraziť tovar"
+
+#~ msgid "Search Shopping"
+#~ msgstr "Vyhľadať tovar"
+
+#~ msgid "No Shoppings found"
+#~ msgstr "Nenašiel sa žiaden tovar"
+
+#~ msgid "No Shoppings Found in Trash"
+#~ msgstr "V koši sa nenašiel žiaden tovar"
+
+#~ msgctxt "URL slug"
+#~ msgid "shoppings"
+#~ msgstr "tovar"
+
+#~ msgid "Shopping category"
+#~ msgstr "Kategória tovaru"
+
+#~ msgid "Size"
+#~ msgstr "Veľkosť"
+
+#~ msgid "For example M, 10cm, 47 ..."
+#~ msgstr "Napríklad M, 10cm, 47 …"
+
+#~ msgid "Transaction"
+#~ msgstr "Transakcia"
+
+#~ msgid "Add New Transaction"
+#~ msgstr "Pridať novú transakciu"
+
+#~ msgid "Edit Transaction"
+#~ msgstr "Upraviť transakciu"
+
+#~ msgid "New Transaction"
+#~ msgstr "Nová transkacia"
+
+#~ msgid "View Transaction"
+#~ msgstr "Zobraziť transakciu"
+
+#~ msgid "Search Transaction"
+#~ msgstr "Vyhľadať transakciu"
+
+#~ msgid "No Transactions found"
+#~ msgstr "Nenašli sa žiadne transakcie"
+
+#~ msgid "No Transactions Found in Trash"
+#~ msgstr "V koši sa nenašli žiadne transakcie"
+
+#~ msgid "Payment type"
+#~ msgstr "Typ platby"
+
+#~ msgid "Gateway"
+#~ msgstr "Platobná brána"
+
+#~ msgid "Object ID"
+#~ msgstr "ID objektu"
+
+#~ msgid "Payment ID"
+#~ msgstr "ID platby"
+
+#~ msgid "Currency"
+#~ msgstr "Mena"
+
+#~ msgid "Success"
+#~ msgstr "Úspech"
+
+#~ msgid "Data"
+#~ msgstr "Dáta"
+
+#~ msgid "Object"
+#~ msgstr "Objekt"
+
+#~ msgid "Travels"
+#~ msgstr "Cestovanie"
+
+#~ msgid "Travel"
+#~ msgstr "Cestovanie"
+
+#~ msgid "Add New Travel"
+#~ msgstr "Pridať nové cestovanie"
+
+#~ msgid "Edit Travel"
+#~ msgstr "Upraviť cestovanie"
+
+#~ msgid "New Travel"
+#~ msgstr "Nové cestovanie"
+
+#~ msgid "View Travel"
+#~ msgstr "Zobraziť cestovanie"
+
+#~ msgid "Search Travel"
+#~ msgstr "Vyhľadať cestovanie"
+
+#~ msgid "No Travels found"
+#~ msgstr "Nenašlo sa žiadne cestovanie"
+
+#~ msgid "No Travels Found in Trash"
+#~ msgstr "V koši sa nenašlo žiadne cestovanie"
+
+#~ msgctxt "URL slug"
+#~ msgid "travels"
+#~ msgstr "cestovanie"
+
+#~ msgid "Travel activities"
+#~ msgstr "Cestovné aktivity"
+
+#~ msgid "Image"
+#~ msgstr "Obrázok"
+
+#~ msgid "First name"
+#~ msgstr "Krstné meno"
+
+#~ msgid "Last name"
+#~ msgstr "Priezvisko"
+
+#~ msgid "Social Connections"
+#~ msgstr "Sociálne siete"
+
+#~ msgid "Profile has been successfully updated."
+#~ msgstr "Profil bol úspešne aktualizovaný."
+
+#~ msgid "All fields are required."
+#~ msgstr "Všetky polia sú povinné."
+
+#~ msgid "New and retyped password are not same."
+#~ msgstr "Nové a prepísané heslo nie sú rovnaké."
+
+#~ msgid "Your old password is not correct."
+#~ msgstr "Vaše staré heslo je nesprávne."
+
+#~ msgid "Your password has been successfully changed."
+#~ msgstr "Vaše heslo bolo úspešne zmenené."
+
+#~ msgid "Login and password are required."
+#~ msgstr "Login a heslo sú povinné."
+
+#~ msgid "You have been successfully logged in."
+#~ msgstr "Úspešne ste sa prihlásili."
+
+#~ msgid "Unable to send an e-mail."
+#~ msgstr "Nepodarilo sa odoslať e-mail."
+
+#~ msgid "Please check inbox for more information."
+#~ msgstr "Pre viac informácií si prosím skontrolujte došlú poštu."
+
+#~ msgid "Username and e-mail are required."
+#~ msgstr "Používateľské meno a e-mail sú povinné."
+
+#~ msgid "Username already exists."
+#~ msgstr "Používateľské meno už existuje."
+
+#~ msgid "Email already exists."
+#~ msgstr "Email už existuje."
+
+#~ msgid "Passwords must be same."
+#~ msgstr "Heslá musia byť zhodné."
+
+#~ msgid "You have been successfully registered."
+#~ msgstr "Úspešne ste sa zaregistrovali."
+
+#~ msgid "Car Body Styles"
+#~ msgstr "Typy karosérie"
+
+#~ msgid "Car Body Style"
+#~ msgstr "Typ karosérie"
+
+#~ msgid "Search Car Body Style"
+#~ msgstr "Vyhľadať karosériu"
+
+#~ msgid "All Car Body Styles"
+#~ msgstr "Všetky karosérie"
+
+#~ msgid "Parent Car Body Style"
+#~ msgstr "Nadradená karoséria"
+
+#~ msgid "Parent Car Body Style:"
+#~ msgstr "Nadradená karoséria:"
+
+#~ msgid "Edit Car Body Style"
+#~ msgstr "Upraviť karosériu"
+
+#~ msgid "Update Car Body Style"
+#~ msgstr "Aktualizovať karosériu"
+
+#~ msgid "Add New Car Body Style"
+#~ msgstr "Pridať novú karosériu"
+
+#~ msgid "New Car Body Style"
+#~ msgstr "Nová karoséria"
+
+#~ msgid "No car body styles found."
+#~ msgstr "Nenašli sa žiadne karosérie."
+
+#~ msgctxt "URL slug"
+#~ msgid "car-body-style"
+#~ msgstr "karoseria-automobilu"
+
+#~ msgid "Car Engine Types"
+#~ msgstr "Motorizácie"
+
+#~ msgid "Car Engine Type"
+#~ msgstr "Motorizácia"
+
+#~ msgid "Search Car Engine Type"
+#~ msgstr "Vyhľadať motorizáciu"
+
+#~ msgid "All Car Engine Types"
+#~ msgstr "Všetky motorizácie"
+
+#~ msgid "Parent Car Engine Type"
+#~ msgstr "Nadradená motorizácia"
+
+#~ msgid "Parent Car Engine Type:"
+#~ msgstr "Nadradená motorizácia:"
+
+#~ msgid "Edit Car Engine Type"
+#~ msgstr "Upraviť motorizáciu"
+
+#~ msgid "Update Car Engine Type"
+#~ msgstr "Aktualizovať motorizáciu"
+
+#~ msgid "Add New Car Engine Type"
+#~ msgstr "Pridať novú motorizáciu"
+
+#~ msgid "New Car Engine Type"
+#~ msgstr "Nová motorizácia"
+
+#~ msgid "No car engine types found."
+#~ msgstr "Nenašli sa žiadne motorizácie."
+
+#~ msgctxt "URL slug"
+#~ msgid "car-engine-type"
+#~ msgstr "motorizacia-automobilu"
+
+#~ msgid "Car Models"
+#~ msgstr "Modely automobilov"
+
+#~ msgid "Car Model"
+#~ msgstr "Model automobilu"
+
+#~ msgid "Search Car Model"
+#~ msgstr "Vyhľadať model automobilu"
+
+#~ msgid "All Car Models"
+#~ msgstr "Všetky modely automobilov"
+
+#~ msgid "Parent Car Model"
+#~ msgstr "Nadradený model automobilu"
+
+#~ msgid "Parent Car Model:"
+#~ msgstr "Nadradený model automobilu:"
+
+#~ msgid "Edit Car Model"
+#~ msgstr "Upraviť model automobilu"
+
+#~ msgid "Update Car Model"
+#~ msgstr "Aktualizovať model automobilu"
+
+#~ msgid "Add New Car Model"
+#~ msgstr "Pridať nový model automobilu"
+
+#~ msgid "New Car Model"
+#~ msgstr "Nový model automobilu"
+
+#~ msgid "No car models found."
+#~ msgstr "Nenašli sa žiadne modely automobilov"
+
+#~ msgctxt "URL slug"
+#~ msgid "car-model"
+#~ msgstr "model-automobilu"
+
+#~ msgid "Car Transmissions"
+#~ msgstr "Prevodovky"
+
+#~ msgid "Car Transmission"
+#~ msgstr "Prevodovka"
+
+#~ msgid "Search Car Transmission"
+#~ msgstr "Vyhľadať prevodovku"
+
+#~ msgid "All Car Transmissions"
+#~ msgstr "Všetky prevodovky"
+
+#~ msgid "Parent Car Transmission"
+#~ msgstr "Nadradená prevodovka"
+
+#~ msgid "Parent Car Transmission:"
+#~ msgstr "Nadradená prevodovka:"
+
+#~ msgid "Edit Car Transmission"
+#~ msgstr "Upraviť prevodovku"
+
+#~ msgid "Update Car Transmission"
+#~ msgstr "Aktualizovať prevodovku"
+
+#~ msgid "Add New Car Transmission"
+#~ msgstr "Pridať novú prevodovku"
+
+#~ msgid "New Car Transmission"
+#~ msgstr "Nová prevodovka"
+
+#~ msgid "No car transmissions found."
+#~ msgstr "Nenašli sa žiadne prevodovky."
+
+#~ msgctxt "URL slug"
+#~ msgid "car-transmission"
+#~ msgstr "prevodovka-automobilu"
+
+#~ msgid "Search Color"
+#~ msgstr "Vyhľadať farbu"
+
+#~ msgid "All Colors"
+#~ msgstr "Všetky farby"
+
+#~ msgid "Parent Color"
+#~ msgstr "Nadradená farba"
+
+#~ msgid "Parent Color:"
+#~ msgstr "Nadradená farba:"
+
+#~ msgid "Edit Color"
+#~ msgstr "Upraviť farbu"
+
+#~ msgid "Update Color"
+#~ msgstr "Aktualizovať farbu"
+
+#~ msgid "Add New Color"
+#~ msgstr "Pridať novú farbu"
+
+#~ msgid "New Color"
+#~ msgstr "Nová farba"
+
+#~ msgid "No colors found."
+#~ msgstr "Nenašli sa žiadne farby"
+
+#~ msgctxt "URL slug"
+#~ msgid "color"
+#~ msgstr "farba"
+
+#~ msgid "Dating Groups"
+#~ msgstr "Skupiny zoznamiek"
+
+#~ msgid "Dating Group"
+#~ msgstr "Skupina zoznamky"
+
+#~ msgid "Search Dating Group"
+#~ msgstr "Vyhľadať skupinu zoznamky"
+
+#~ msgid "All Dating Groups"
+#~ msgstr "Všetky skupiny zoznamky"
+
+#~ msgid "Parent Dating Group"
+#~ msgstr "Nadradená skupina zoznamky"
+
+#~ msgid "Parent Dating Group:"
+#~ msgstr "Nadradená skupina zoznamky:"
+
+#~ msgid "Edit Dating Group"
+#~ msgstr "Upraviť skupinu zoznamky"
+
+#~ msgid "Update Dating Group"
+#~ msgstr "Aktualizovať skupinu zoznamky"
+
+#~ msgid "Add New Dating Group"
+#~ msgstr "Pridať novú skupinu zoznamky"
+
+#~ msgid "New Dating Group"
+#~ msgstr "Nová skupina zoznamky"
+
+#~ msgid "No dating groups found."
+#~ msgstr "Nenašli sa žiadne skupiny zoznamky."
+
+#~ msgctxt "URL slug"
+#~ msgid "dating-group"
+#~ msgstr "skupina-zoznamky"
+
+#~ msgid "Dating Interests"
+#~ msgstr "Záujmy zoznamky"
+
+#~ msgid "Dating Status"
+#~ msgstr "Stav zoznamky"
+
+#~ msgid "Search Dating Status"
+#~ msgstr "Vyhľadať stav zoznamky"
+
+#~ msgid "All Dating Interests"
+#~ msgstr "Všetky záujmy zoznamky"
+
+#~ msgid "Parent Dating Status"
+#~ msgstr "Nadradený stav zoznamky"
+
+#~ msgid "Parent Dating Status:"
+#~ msgstr "Nadradený stav zoznamky:"
+
+#~ msgid "Edit Dating Status"
+#~ msgstr "Upraviť stav zoznamky"
+
+#~ msgid "Update Dating Status"
+#~ msgstr "Aktualizovať stav zoznamky"
+
+#~ msgid "Add New Dating Status"
+#~ msgstr "Pridať nový stav zoznamky"
+
+#~ msgid "New Dating Status"
+#~ msgstr "Nový stav zoznamky"
+
+#~ msgid "No dating interests found."
+#~ msgstr "Nenašli sa žiadne záujmy zoznamky."
+
+#~ msgctxt "URL slug"
+#~ msgid "dating-interest"
+#~ msgstr "zaujem-zoznamky"
+
+#~ msgid "Dating Statuses"
+#~ msgstr "Stavy zoznamky"
+
+#~ msgid "All Dating Statuses"
+#~ msgstr "Všetky stavy zoznamky"
+
+#~ msgid "No dating statuses found."
+#~ msgstr "Nenašli sa žiadne stavy zoznamky."
+
+#~ msgctxt "URL slug"
+#~ msgid "dating-status"
+#~ msgstr "stav-zoznamky"
+
+#~ msgid "Education Levels"
+#~ msgstr "Úrovne vzdelania"
+
+#~ msgid "Education Level"
+#~ msgstr "Úroveň vzdelania"
+
+#~ msgid "Search Education Level"
+#~ msgstr "Vyhľadať úroveň vzdelania"
+
+#~ msgid "All Education Levels"
+#~ msgstr "Všetky úrovne vzdelania"
+
+#~ msgid "Parent Education Level"
+#~ msgstr "Nadradená úroveň vzdelania"
+
+#~ msgid "Parent Education Level:"
+#~ msgstr "Nadradená úroveň vzdelania"
+
+#~ msgid "Edit Education Level"
+#~ msgstr "Upraviť úroveň vzdelania"
+
+#~ msgid "Update Education Level"
+#~ msgstr "Aktualizovať úroveň vzdelania"
+
+#~ msgid "Add New Education Level"
+#~ msgstr "Pridať novú úroveň vzdelania"
+
+#~ msgid "New Education Level"
+#~ msgstr "Nová úroveň vzdelania"
+
+#~ msgid "No education levels found."
+#~ msgstr "Nenašli sa žiadne úrovne vzdelania."
+
+#~ msgctxt "URL slug"
+#~ msgid "education-level"
+#~ msgstr "uroven-vzdelania"
+
+#~ msgid "Education Subjects"
+#~ msgstr "Predmety vzdelania"
+
+#~ msgid "Education Subject"
+#~ msgstr "Predmet vzdelania"
+
+#~ msgid "Search Education Subject"
+#~ msgstr "Vyhľadať predmet vzdelania"
+
+#~ msgid "All Education Subjects"
+#~ msgstr "Všetky predmety vzdelania"
+
+#~ msgid "Parent Education Subject"
+#~ msgstr "Nadradený predmet vzdelania"
+
+#~ msgid "Parent Education Subject:"
+#~ msgstr "Nadradený predmet vzdelania:"
+
+#~ msgid "Edit Education Subject"
+#~ msgstr "Upraviť predmet vzdelania"
+
+#~ msgid "Update Education Subject"
+#~ msgstr "Aktualizovať predmet vzdelania"
+
+#~ msgid "Add New Education Subject"
+#~ msgstr "Pridať nový predmet vzdelania"
+
+#~ msgid "New Education Subject"
+#~ msgstr "Nový predmet vzdelania"
+
+#~ msgid "No education subjects found."
+#~ msgstr "Nenašli sa žiadne predmety vzdelania."
+
+#~ msgctxt "URL slug"
+#~ msgid "education-subject"
+#~ msgstr "predmet-vzdelania"
+
+#~ msgid "Event Types"
+#~ msgstr "Typy podujatí"
+
+#~ msgid "Event Type"
+#~ msgstr "Typ podujatia"
+
+#~ msgid "Search Event Type"
+#~ msgstr "Vyhľadať typ podujatia"
+
+#~ msgid "All Event Types"
+#~ msgstr "Všetky typy podujatí"
+
+#~ msgid "Parent Event Type"
+#~ msgstr "Nadradený typ podujatia"
+
+#~ msgid "Parent Event Type:"
+#~ msgstr "Nadradený typ podujatia:"
+
+#~ msgid "Edit Event Type"
+#~ msgstr "Upraviť typ podujatia"
+
+#~ msgid "Update Event Type"
+#~ msgstr "Aktualizovať typ podujatia"
+
+#~ msgid "Add New Event Type"
+#~ msgstr "Pridať nový typ podujatia"
+
+#~ msgid "New Event Type"
+#~ msgstr "Nový typ podujatia"
+
+#~ msgid "No event types found."
+#~ msgstr "Nenašli sa žiadne typy podujatí"
+
+#~ msgctxt "URL slug"
+#~ msgid "event-type"
+#~ msgstr "typ-podujatia"
+
+#~ msgid "Food Kinds"
+#~ msgstr "Druhy jedál"
+
+#~ msgid "Food Kind"
+#~ msgstr "Druh jedla"
+
+#~ msgid "Search Food Kind"
+#~ msgstr "Vyhľadať druh jedál"
+
+#~ msgid "All Food Kinds"
+#~ msgstr "Všetky druhy jedál"
+
+#~ msgid "Parent Food Kind"
+#~ msgstr "Nadradený druh jedla"
+
+#~ msgid "Parent Food Kind:"
+#~ msgstr "Nadradený druh jedla:"
+
+#~ msgid "Edit Food Kind"
+#~ msgstr "Upraviť druh jedla"
+
+#~ msgid "Update Food Kind"
+#~ msgstr "Aktualizovať druh jedla"
+
+#~ msgid "Add New Food Kind"
+#~ msgstr "Pridať nový druh jedla"
+
+#~ msgid "New Food Kind"
+#~ msgstr "Nový druh jedla"
+
+#~ msgid "No food kinds found."
+#~ msgstr "Nenašli sa žiadne druhy jedál."
+
+#~ msgctxt "URL slug"
+#~ msgid "food-kind"
+#~ msgstr "druh-jedla"
+
+#~ msgid "Hotel Classes"
+#~ msgstr "Triedy hotelov"
+
+#~ msgid "Hotel Class"
+#~ msgstr "Trieda hotela"
+
+#~ msgid "Search Hotel Class"
+#~ msgstr "Vyhľadať triedu hotela"
+
+#~ msgid "All Hotel Classes"
+#~ msgstr "Všetky triedy hotelov"
+
+#~ msgid "Parent Hotel Class"
+#~ msgstr "Nadradená trieda hotela"
+
+#~ msgid "Parent Hotel Class:"
+#~ msgstr "Nadradená trieda hotela:"
+
+#~ msgid "Edit Hotel Class"
+#~ msgstr "Upraviť triedu hotela"
+
+#~ msgid "Update Hotel Class"
+#~ msgstr "Aktualizovať triedu hotela"
+
+#~ msgid "Add New Hotel Class"
+#~ msgstr "Pridať novú triedu hotela"
+
+#~ msgid "New Hotel Class"
+#~ msgstr "Nová trieda hotela"
+
+#~ msgid "No hotel classes found."
+#~ msgstr "Nenašli sa žiadne triedy hotela."
+
+#~ msgctxt "URL slug"
+#~ msgid "hotel-class"
+#~ msgstr "trieda-hotela"
+
+#~ msgid "Category"
+#~ msgstr "Kategória"
+
+#~ msgid "Search Categories"
+#~ msgstr "Vyhľadať kategórie"
+
+#~ msgid "All Categories"
+#~ msgstr "Všetky kategórie"
+
+#~ msgid "Parent Category"
+#~ msgstr "Nadradená kategória"
+
+#~ msgid "Parent Category:"
+#~ msgstr "Nadradená kategória:"
+
+#~ msgid "Edit Category"
+#~ msgstr "Upraviť kategóriu"
+
+#~ msgid "Update Category"
+#~ msgstr "Aktualizovať kategóriu"
+
+#~ msgid "Add New Category"
+#~ msgstr "Pridať novú kategóriu"
+
+#~ msgid "New Category"
+#~ msgstr "Nová kategória"
+
+#~ msgid "No categories found."
+#~ msgstr "Nenašli sa žiadne kategórie."
+
+#~ msgctxt "URL slug"
+#~ msgid "listing-category"
+#~ msgstr "kategoria-poloziek"
+
+#~ msgid "POI"
+#~ msgstr "POI"
+
+#~ msgid "Listing Category Options"
+#~ msgstr "Možnosti kategórie položiek"
+
+#~ msgid "Search Location"
+#~ msgstr "Vyhľadať umiestnenie"
+
+#~ msgid "All Locations"
+#~ msgstr "Všetky umiestnenia"
+
+#~ msgid "Parent Location"
+#~ msgstr "Nadradené umiestnenie"
+
+#~ msgid "Parent Location:"
+#~ msgstr "Nadradené umiestnenie:"
+
+#~ msgid "Edit Location"
+#~ msgstr "Upraviť umiestnenie"
+
+#~ msgid "Update Location"
+#~ msgstr "Aktualizovať umiestnenie"
+
+#~ msgid "Add New Location"
+#~ msgstr "Pridať nové umiestnenie"
+
+#~ msgid "New Location"
+#~ msgstr "Nové umiestnenie"
+
+#~ msgid "No locations found."
+#~ msgstr "Nenašli sa žiadne umiestnenia."
+
+#~ msgctxt "URL slug"
+#~ msgid "location"
+#~ msgstr "umiestnenie"
+
+#~ msgid "Music Genres"
+#~ msgstr "Hudobné žánre"
+
+#~ msgid "Music Genre"
+#~ msgstr "Hudobný žáner"
+
+#~ msgid "Search Music Genre"
+#~ msgstr "Vyhľadať hudobný žáner"
+
+#~ msgid "All Music Genres"
+#~ msgstr "Všetky hudobné žánre"
+
+#~ msgid "Parent Music Genre"
+#~ msgstr "Nadradený hudobný žáner"
+
+#~ msgid "Parent Music Genre:"
+#~ msgstr "Nadradený hudobný žáner:"
+
+#~ msgid "Edit Music Genre"
+#~ msgstr "Upraviť žáner hudby"
+
+#~ msgid "Update Music Genre"
+#~ msgstr "Aktualizovať hudobný žáner"
+
+#~ msgid "Add New Music Genre"
+#~ msgstr "Pridať nový hudobný žáner"
+
+#~ msgid "New Music Genre"
+#~ msgstr "Nový hudobný žáner"
+
+#~ msgid "No music genres found."
+#~ msgstr "Nenašli sa žiadne hudobné žánre."
+
+#~ msgctxt "URL slug"
+#~ msgid "music-genre"
+#~ msgstr "hudobny-zaner"
+
+#~ msgid "Pet Animals"
+#~ msgstr "Domáce zvieratá"
+
+#~ msgid "Pet Animal"
+#~ msgstr "Domáce zviera"
+
+#~ msgid "Search Pet Animal"
+#~ msgstr "Vyhľadať domáce zviera"
+
+#~ msgid "All Pet Animals"
+#~ msgstr "Všetky domáce zvieratá"
+
+#~ msgid "Parent Pet Animal"
+#~ msgstr "Nadradené domáce zviera"
+
+#~ msgid "Parent Pet Animal:"
+#~ msgstr "Nadradené domáce zviera:"
+
+#~ msgid "Edit Pet Animal"
+#~ msgstr "Upraviť domáce zviera"
+
+#~ msgid "Update Pet Animal"
+#~ msgstr "Aktualizovať domáce zviera"
+
+#~ msgid "Add New Pet Animal"
+#~ msgstr "Pridať nové domáce zviera"
+
+#~ msgid "New Pet Animal"
+#~ msgstr "Nové domáce zviera"
+
+#~ msgid "No pet animals found."
+#~ msgstr "Nenašli sa žiadne domáce zvieratá."
+
+#~ msgctxt "URL slug"
+#~ msgid "pet-animal"
+#~ msgstr "zviera"
+
+#~ msgid "Shopping Categories"
+#~ msgstr "Kategórie tovaru"
+
+#~ msgid "Shopping Category"
+#~ msgstr "Kategória tovaru"
+
+#~ msgid "Search Shopping Category"
+#~ msgstr "Vyhľadať kategóriu tovaru"
+
+#~ msgid "All Shopping Categories"
+#~ msgstr "Všetky kategórie tovaru"
+
+#~ msgid "Parent Shopping Category"
+#~ msgstr "Nadradená kategória tovaru"
+
+#~ msgid "Parent Shopping Category:"
+#~ msgstr "Nadradená kategória tovaru:"
+
+#~ msgid "Edit Shopping Category"
+#~ msgstr "Upraviť kategóriu tovaru"
+
+#~ msgid "Update Shopping Category"
+#~ msgstr "Aktualizovať kategóriu tovaru"
+
+#~ msgid "Add New Shopping Category"
+#~ msgstr "Pridať novú kategóriu tovaru"
+
+#~ msgid "New Shopping Category"
+#~ msgstr "Nová kategória tovaru"
+
+#~ msgid "No shopping categories found."
+#~ msgstr "Nenašli sa žiadne kategórie tovaru."
+
+#~ msgctxt "URL slug"
+#~ msgid "shopping-category"
+#~ msgstr "kategoria-tovaru"
+
+#~ msgid "Travel Activities"
+#~ msgstr "Aktivity cestovania"
+
+#~ msgid "Travel Activity"
+#~ msgstr "Aktivita cestovania"
+
+#~ msgid "Search Travel Activity"
+#~ msgstr "Vyhľadať aktivitu cestovania"
+
+#~ msgid "All Travel Activities"
+#~ msgstr "Všetky aktivity cestovania"
+
+#~ msgid "Parent Travel Activity"
+#~ msgstr "Nadradená aktivita cestovania"
+
+#~ msgid "Parent Travel Activity:"
+#~ msgstr "Nadradená aktivita cestovania:"
+
+#~ msgid "Edit Travel Activity"
+#~ msgstr "Upraviť aktivitu cestovania"
+
+#~ msgid "Update Travel Activity"
+#~ msgstr "Aktualizovať aktivitu cestovania"
+
+#~ msgid "Add New Travel Activity"
+#~ msgstr "Pridať novú aktivitu cestovania"
+
+#~ msgid "New Travel Activity"
+#~ msgstr "Nová aktivita cestovania"
+
+#~ msgid "No travel activities found."
+#~ msgstr "Nenašli sa žiadne aktivity cestovania"
+
+#~ msgctxt "URL slug"
+#~ msgid "travel-activity"
+#~ msgstr "aktivita-cestovania"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Filter for filtering listings."
+#~ msgstr "Filter pre vyhľadávanie položiek."
+
+#~ msgid "Listing Author"
+#~ msgstr "Autor položky"
+
+#~ msgid ""
+#~ "Listing author widget for displaying information about listing author."
+#~ msgstr "Widget s informáciami o autorovi položky."
+
+#~ msgid "Listing Categories Boxes"
+#~ msgstr "Boxy kategórií položiek"
+
+#~ msgid "Displays listing categories in boxes."
+#~ msgstr "Zobrazí kategórie položiek v boxoch."
+
+#~ msgid "Listing Categories"
+#~ msgstr "Kategórie položiek"
+
+#~ msgid "Displays listing categories."
+#~ msgstr "Zobrazí kategórie položiek."
+
+#~ msgid "Listing details"
+#~ msgstr "Detaily položky"
+
+#~ msgid "Displays listing details."
+#~ msgstr "Dobrazí detaily položky."
+
+#~ msgid "Listing Inquire"
+#~ msgstr "Žiadosť o položku"
+
+#~ msgid "Listing inquire widget for sending inquire messages."
+#~ msgstr "Widget pre odoslanie požiadavky."
+
+#~ msgid "Displays listings."
+#~ msgstr "Zobrazí položky."
+
+#~ msgid "Opening hours"
+#~ msgstr "Otváracie hodiny"
+
+#~ msgid "Displays opening hours for current listing."
+#~ msgstr "Zobrazí otváracie hodiny pre danú položku."
+
+#~ msgid "Username"
+#~ msgstr "Používateľské meno"
+
+#~ msgid "Password"
+#~ msgstr "Heslo"
+
+#~ msgid "Log in"
+#~ msgstr "Prihlásiť"
+
+#~ msgid "You are already logged in."
+#~ msgstr "Už ste prihlásený."
+
+#~ msgid "Old password"
+#~ msgstr "Staré heslo"
+
+#~ msgid "New password"
+#~ msgstr "Nové heslo"
+
+#~ msgid "Retype password"
+#~ msgstr "Prepísať heslo"
+
+#~ msgid "Change Password"
+#~ msgstr "Zmeniť heslo"
+
+#~ msgid "Retype Password"
+#~ msgstr "Prepísať heslo"
+
+#~ msgid "I agree with <a href=\"%s\">terms & conditions</a>"
+#~ msgstr "Súhlasím s <a href=\"%s\">obchodnými podmienkami</a>"
+
+#~ msgid "Sign Up"
+#~ msgstr "Zaregistrovať sa"
+
+#~ msgid "Registrations are not allowed."
+#~ msgstr "Registrácie nie sú povolené."
+
+#~ msgid "Username or E-mail:"
+#~ msgstr "Používateľské meno alebo e-mail."
+
+#~ msgid "Get New Password"
+#~ msgstr "Získať nové heslo"
+
+#~ msgid "Please enter valid purchase code to get an update"
+#~ msgstr "Na získanie aktualizácie prosím zadajte platný kód objednávky"
+
+#~ msgid "Confirm"
+#~ msgstr "Potvrdiť"
+
+#~ msgid "How to find purchase code."
+#~ msgstr "Ako získať kód objednávky."
+
+#~ msgid "Previous"
+#~ msgstr "Predchádzajúce"
+
+#~ msgid "Next"
+#~ msgstr "Nasledujúce"
+
+#~ msgid "Monday"
+#~ msgstr "Pondelok"
+
+#~ msgid "Tuesday"
+#~ msgstr "Utorok"
+
+#~ msgid "Wednesday"
+#~ msgstr "Streda"
+
+#~ msgid "Thursday"
+#~ msgstr "Štvrtok"
+
+#~ msgid "Friday"
+#~ msgstr "Piatok"
+
+#~ msgid "Saturday"
+#~ msgstr "Sobota"
+
+#~ msgid "Sunday"
+#~ msgstr "Nedeľa"
+
+#~ msgid "Day"
+#~ msgstr "Deň"
+
+#~ msgid "Custom text"
+#~ msgstr "Vlastný text"
+
+#~ msgid "Daily Menu"
+#~ msgstr "Denné menu"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Map"
+#~ msgstr "Mapa"
+
+#~ msgid "See Inside"
+#~ msgstr "Pozrieť dnu"
+
+#~ msgid "Directions"
+#~ msgstr "Smer"
+
+#~ msgid "Report spam, abuse, or inappropriate content"
+#~ msgstr "Nahlásiť spam, zneužitie alebo nevhodný obsah"
+
+#~ msgid "Report reason"
+#~ msgstr "Dôvod"
+
+#~ msgid "Home"
+#~ msgstr "Domov"
+
+#~ msgid "Page not found"
+#~ msgstr "Stránka sa nenašla"
+
+#~ msgid "Archive for"
+#~ msgstr "Archív pre"
+
+#~ msgid "Author Archive"
+#~ msgstr "Archív autorov"
+
+#~ msgid "Blog Archives"
+#~ msgstr "Archív blogu"
+
+#~ msgid "Search Results"
+#~ msgstr "Výsledky hľadania"
+
+#~ msgid "You need to log in at first."
+#~ msgstr "Najprv sa musíte prihlásiť"
+
+#~ msgid "Login"
+#~ msgstr "Prihlásenie"
+
+#~ msgid "Register"
+#~ msgstr "Registrácia"
+
+#~ msgid "Object does not exist."
+#~ msgstr "Objekt neexistuje."
+
+#~ msgid "Print"
+#~ msgstr "Vytlačiť"
+
+#~ msgid "What's wrong with %s?"
+#~ msgstr "Čo je zlé s %s?"
+
+#~ msgid "It is spam"
+#~ msgstr "Je to spam"
+
+#~ msgid "It is nudity or pornography"
+#~ msgstr "Je to nahota alebo pornografia"
+
+#~ msgid "It humiliates somebody"
+#~ msgstr "Niekoho ponižuje"
+
+#~ msgid "It is inappropriate"
+#~ msgstr "Je to nevhodné"
+
+#~ msgid ""
+#~ "It insults or attacks someone based on their religion, ethnicity or "
+#~ "sexual orientation"
+#~ msgstr ""
+#~ "Uráža alebo útočí na niekoho na základe ich náboženstva, etnického pôvodu "
+#~ "alebo sexuálnej orientácie"
+
+#~ msgid "It advocates violence or harm to a person or animal"
+#~ msgstr "Obhajuje násilie alebo ubližuje osobe alebo zvieraťu"
+
+#~ msgid "It displays someone harming themself or planning to harm themself"
+#~ msgstr "Zobrazuje ako niekto ubližuje sám sebe alebo si plánuje ublížiť"
+
+#~ msgid "It describes buying or selling drugs, guns or regulated products"
+#~ msgstr ""
+#~ "Popisuje nákup alebo predaj drog, zbraní alebo regulovaných výrobkov"
+
+#~ msgid "It is an unauthorized use of my intellectual property"
+#~ msgstr "Jedná sa o neoprávnené použitie môjho duševného vlastníctva"
+
+#~ msgid "Something else"
+#~ msgstr "Niečo iné"
+
+#~ msgid "Other reason or additional information"
+#~ msgstr "Iný dôvod alebo dodatočné informácie"
+
+#~ msgid "Contact to you"
+#~ msgstr "Kontakt na vás"
+
+#~ msgid "Submit to review"
+#~ msgstr "Poslať na kontrolu"
+
+#~ msgid "Share"
+#~ msgstr "Zdieľať"
+
+#~ msgid ""
+#~ "<strong>Welcome to Inventor</strong> - please read <a href=\"http://"
+#~ "inventorwp.com/documentation/\" target=\"_blank\">documentation</a> for "
+#~ "more information."
+#~ msgstr ""
+#~ "<strong>Inventor Vás víta</strong> - pre viac informácii si prosím "
+#~ "prečítajte <a href=\"http://inventorwp.com/documentation/\" target="
+#~ "\"_blank\">dokumentáciu</a>."
+
+#~ msgid ""
+#~ "All available features are listed at <a href=\"http://inventorwp.com\" "
+#~ "target=\"_blank\">inventorwp.com</a>."
+#~ msgstr ""
+#~ "Všetky dostupné vlastnosti a funkcie sú spísané na <a href=\"http://"
+#~ "inventorwp.com\" target=\"_blank\">inventorwp.com</a>."
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentácia"
+
+#~ msgid "Plugins"
+#~ msgstr "Moduly"
+
+#~ msgid "Hide"
+#~ msgstr "Schovať"
+
+#~ msgid "for package \"%s\""
+#~ msgstr "za balík \"%s\""
+
+#~ msgid "Beneficiary's account number"
+#~ msgstr "Číslo účtu príjemcu"
+
+#~ msgid "Bank code (SWIFT/BIC)"
+#~ msgstr "Kód banky (SWIFT/BIC)"
+
+#~ msgid "Variable symbol"
+#~ msgstr "Variabilný symbol"
+
+#~ msgid "Information / reference"
+#~ msgstr "Informácia / referencia"
+
+#~ msgid "Beneficiary's name"
+#~ msgstr "Meno príjemcu"
+
+#~ msgid "Postcode (ZIP)"
+#~ msgstr "Poštové smerovacie číslo (PSČ)"
+
+#~ msgid ""
+#~ "Your payment will be manually reviewed when transfer will be completed."
+#~ msgstr "Vaša platba bude manuálne overená po uskutočnení transakcie."
+
+#~ msgid "You are missing payment type."
+#~ msgstr "Chýba typ platby."
+
+#~ msgid "Invalid payment type."
+#~ msgstr "Neplatný typ platby."
+
+#~ msgid "Object is missing."
+#~ msgstr "Objekt neexistuje."
+
+#~ msgid "Payment gateway"
+#~ msgstr "Platobná brána"
+
+#~ msgid "Process payment"
+#~ msgstr "Pokračovať v platbe"
+
+#~ msgid "No payment gateways found."
+#~ msgstr "Nenašli sa žiadne platobné brány."
+
+#~ msgid "Back to"
+#~ msgstr "Späť na"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Payment Type"
+#~ msgstr "Typ platby"
+
+#~ msgid "Package"
+#~ msgstr "Balík"
+
+#~ msgid "No transactions found."
+#~ msgstr "Nenašli sa žiadne transakcie."
+
+#~ msgid "step"
+#~ msgstr "krok"
+
+#~ msgid "Custom post type does not have any metaboxes."
+#~ msgstr "Vlastný typ položky nemá žiadne metaboxy."
+
+#~ msgid "Advanced Options"
+#~ msgstr "Pokročilé možnosti"
+
+#~ msgid "Background Color"
+#~ msgstr "Farba pozadia"
+
+#~ msgid "Background Image (URL)"
+#~ msgstr "Obrázok na pozadí (URL)"
+
+#~ msgid "Padding Top"
+#~ msgstr "Odsadenie zhora"
+
+#~ msgid "Padding Bottom"
+#~ msgstr "Odsadenie dola"
+
+#~ msgid "Classes"
+#~ msgstr "Triedy"
+
+#~ msgid "Additional classes e.g. <i>background-gray</i>"
+#~ msgstr "Dodatočné triedy, napr. <i>background-gray</i>"
+
+#~ msgid "Button text"
+#~ msgstr "Text tlačidla"
+
+#~ msgid "Sorting Options"
+#~ msgstr "Možnosti zoradenia"
+
+#~ msgid "Input titles"
+#~ msgstr "Nadpisy vstupov"
+
+#~ msgid "Labels"
+#~ msgstr "Etiketa"
+
+#~ msgid "Placeholders"
+#~ msgstr "Text v poliach"
+
+#~ msgid "Result numbers"
+#~ msgstr "Čísla výsledkov"
+
+#~ msgid "Show result numbers"
+#~ msgstr "Zobrazí výsledky v číslach"
+
+#~ msgid "Show total count"
+#~ msgstr "Zobraziť celkový počet"
+
+#~ msgid "All categories"
+#~ msgstr "Všetky kategórie"
+
+#~ msgid "All listing types"
+#~ msgstr "Všetky typy položiek"
+
+#~ msgid "All locations"
+#~ msgstr "Všeky umiestnenia"
+
+#~ msgid "Price from"
+#~ msgstr "Od ceny"
+
+#~ msgid "Price to"
+#~ msgstr "Po cenu"
+
+#~ msgid "Sort"
+#~ msgstr "Zoskupiť"
+
+#~ msgid "Order"
+#~ msgstr "Zoradiť"
+
+#~ msgid "Asc"
+#~ msgstr "Vzostupne"
+
+#~ msgid "Desc"
+#~ msgstr "Zostupne"
+
+#~ msgid "Rows"
+#~ msgstr "Riadky"
+
+#~ msgid "Grid"
+#~ msgstr "Mriežka"
+
+#~ msgid ""
+#~ "<span class=\"match\">%d</span> listing from <span class=\"total\">%d</"
+#~ "span> matches your search criteria"
+#~ msgid_plural ""
+#~ "<span class=\"match\">%d</span> listings from <span class=\"total\">%d</"
+#~ "span> match your search criteria"
+#~ msgstr[0] ""
+#~ "<span class=\"match\">%d</span> položka z <span class=\"total\">%d</span> "
+#~ "sa zhoduje s vašimi vyhľadávacími kritériami"
+#~ msgstr[1] ""
+#~ "<span class=\"match\">%d</span> položiek z <span class=\"total\">%d</"
+#~ "span> sa zhoduje s vašimi vyhľadávacími kritériami"
+
+#~ msgid "<span class=\"match\">%d</span> listing matches your search criteria"
+#~ msgid_plural ""
+#~ "<span class=\"match\">%d</span> listings match your search criteria"
+#~ msgstr[0] ""
+#~ "<span class=\"match\">%d</span> položka sa zhoduje s vašimi vyhľadávacími "
+#~ "kritériami"
+#~ msgstr[1] ""
+#~ "<span class=\"match\">%d</span> položiek sa zhoduje s vašimi "
+#~ "vyhľadávacími kritériami"
+
+#~ msgid "Show count"
+#~ msgstr "Zobraziť počet."
+
+#~ msgid "Items per row"
+#~ msgstr "Položiek na riadok"
+
+#~ msgid "Form fields"
+#~ msgstr "Polia formulára"
+
+#~ msgid "Subject"
+#~ msgstr "Predmet"
+
+#~ msgid "Who will receive an e-mail?"
+#~ msgstr "Kto dostane e-mail?"
+
+#~ msgid "Site admin"
+#~ msgstr "Administrátor"
+
+#~ msgid "Listing author"
+#~ msgstr "Autor položky"
+
+#~ msgid "Listing email"
+#~ msgstr "Email položky"
+
+#~ msgid "If none selected, post author will receive an email by default."
+#~ msgstr "Štandardne bude správa odoslaná na email autora."
+
+#~ msgid "Send Message"
+#~ msgstr "Odoslať správu"
+
+#~ msgid "Count"
+#~ msgstr "Počet"
+
+#~ msgid "IDs"
+#~ msgstr "Identifikátory"
+
+#~ msgid ""
+#~ "For specific listings please insert post ids, separated by comma. "
+#~ "Example: 1,2,3"
+#~ msgstr ""
+#~ "Pre špecifické položky zadajte ID príspevkov, oddelené čiarkami. "
+#~ "Napríklad: 1,2,3"
+
+#~ msgid "Default"
+#~ msgstr "Štandardné"
+
+#~ msgid "Random"
+#~ msgstr "Náhodne"
+
+#~ msgid "Choose attribute"
+#~ msgstr "Zvoľte atribút"
+
+#~ msgid "None"
+#~ msgstr "Žiaden"
+
+#~ msgid "Featured only"
+#~ msgstr "Iba významné"
+
+#~ msgid "Reduced only"
+#~ msgstr "Iba zlacnené"
+
+#~ msgid "Display as"
+#~ msgstr "Zobraziť ako"
+
+#~ msgid "Small"
+#~ msgstr "Malé"
+
+#~ msgid "Box"
+#~ msgstr "Box"
+
+#~ msgid "Row"
+#~ msgstr "Riadok"
+
+#~ msgid "Masonry"
+#~ msgstr "Masonry"
+
+#~ msgid "Types"
+#~ msgstr "Typy"
+
+#~ msgid "Mon"
+#~ msgstr "Po"
+
+#~ msgid "Tue"
+#~ msgstr "Ut"
+
+#~ msgid "Wed"
+#~ msgstr "St"
+
+#~ msgid "Thu"
+#~ msgstr "Št"
+
+#~ msgid "Fri"
+#~ msgstr "Pi"
+
+#~ msgid "Sat"
+#~ msgstr "So"
+
+#~ msgid "Sun"
+#~ msgstr "Ne"
+
+#~ msgid "It is <span class=\"open\">open</span>."
+#~ msgstr "Je <span class=\"open\">otvorené</span>."
+
+#~ msgid "It is <span class=\"closed\">closed</span>."
+#~ msgstr "Je <span class=\"closed\">zatvorené</span>."
+
+#~ msgid "businesses"
+#~ msgstr "biznisy"
+
+#~ msgid "cars"
+#~ msgstr "automobily"
+
+#~ msgid "datings"
+#~ msgstr "zoznamky"
+
+#~ msgid "educations"
+#~ msgstr "vzdelania"
+
+#~ msgid "events"
+#~ msgstr "podujatia"
+
+#~ msgid "foods"
+#~ msgstr "jedla"
+
+#~ msgid "hotels"
+#~ msgstr "hotely"
+
+#~ msgid "listings"
+#~ msgstr "položky"
+
+#~ msgid "musics"
+#~ msgstr "hudby"
+
+#~ msgid "pets"
+#~ msgstr "domácezvieratá"
+
+#~ msgid "shoppings"
+#~ msgstr "tovar"
+
+#~ msgid "travels"
+#~ msgstr "cestovanie"
+
+#~ msgid "car-body-style"
+#~ msgstr "karoseria"
+
+#~ msgid "car-engine-type"
+#~ msgstr "motorizacia"
+
+#~ msgid "car-model"
+#~ msgstr "model-automobilu"
+
+#~ msgid "car-transmission"
+#~ msgstr "prevodovka"
+
+#~ msgid "color"
+#~ msgstr "farba"
+
+#~ msgid "dating-group"
+#~ msgstr "skupiny-zoznamky"
+
+#~ msgid "dating-interest"
+#~ msgstr "zaujem-zoznamky"
+
+#~ msgid "dating-status"
+#~ msgstr "stav-zoznamky"
+
+#~ msgid "education-level"
+#~ msgstr "uroven-vzdelania"
+
+#~ msgid "education-subject"
+#~ msgstr "predmet-vzdelania"
+
+#~ msgid "event-type"
+#~ msgstr "typ-podujatia"
+
+#~ msgid "food-kind"
+#~ msgstr "druh-jedla"
+
+#~ msgid "hotel-class"
+#~ msgstr "trieda-hotela"
+
+#~ msgid "listing-category"
+#~ msgstr "kategoria-poloziek"
+
+#~ msgid "location"
+#~ msgstr "umiestnenie"
+
+#~ msgid "music-genre"
+#~ msgstr "zaner-hudby"
+
+#~ msgid "pet-animal"
+#~ msgstr "domace-zviera"
+
+#~ msgid "shopping-category"
+#~ msgstr "kategoria-tovaru"
+
+#~ msgid "travel-activity"
+#~ msgstr "aktivita-cestovania"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid ""
+#~ "Any text instead of price (for example \"by agreement\"). Prefix and "
+#~ "Suffix will be ignored."
+#~ msgstr ""
+#~ "Ľubovoľný text zobrazený namiesto číselnej ceny (napríklad “za noc”)"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"

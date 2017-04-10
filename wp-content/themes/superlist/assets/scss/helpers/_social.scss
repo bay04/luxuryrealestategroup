@@ -1,0 +1,129 @@
+i, a {
+    transition: all linear .15s;
+
+    &.fa-behance {
+        background-color: $color-behance !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-behance, 5%) !important;
+        }
+    }
+
+    &.fa-foursquare {
+        background-color: $color-foursquare !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-foursquare, 5%) !important;
+        }
+    }
+
+    &.fa-skype {
+        background-color: $color-skype !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-skype, 5%) !important;
+        }
+    }
+
+    &.fa-google {
+        background-color: $color-google-plus !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-google-plus, 5%) !important;
+        }
+    }
+
+    &.fa-vimeo {
+        background-color: $color-vimeo !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-vimeo, 5%) !important;
+        }
+    }
+
+    &.fa-facebook {
+        background-color: $color-facebook !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-facebook, 5%) !important;
+        }
+    }
+
+    &.fa-twitter {
+        background-color: $color-twitter !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-twitter, 5%) !important;
+        }
+    }
+
+    &.fa-youtube, &.fa-youtube-play {
+        background-color: $color-youtube !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-youtube, 5%) !important;
+        }
+    }
+
+    &.fa-google-plus {
+        background-color: $color-google-plus !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-google-plus, 5%) !important;
+        }
+    }
+
+    &.fa-dribbble {
+        background-color: $color-dribbble !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-dribbble, 5%) !important;
+        }
+    }
+
+    &.fa-linkedin {
+        background-color: $color-linkedin !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-linkedin, 5%) !important;
+        }
+    }
+
+    &.fa-instagram {
+        background-color: $color-instagram !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-instagram, 5%) !important;
+        }
+    }
+
+    &.fa-pinterest-p, &.fa-pinterest {
+        background-color: $color-pinterest !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-pinterest, 5%) !important;
+        }
+    }
+
+    &.fa-tripadvisor {
+        background-color: $color-tripadvisor !important;
+        color: #fff;
+
+        &:hover {
+            background-color: darken($color-tripadvisor, 5%) !important;
+        }
+    }
+}

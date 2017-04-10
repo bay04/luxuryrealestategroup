@@ -1,0 +1,12 @@
+{
+  "blogname": "Superlist",
+  "blogdescription": "Directory WordPress Theme",
+  "show_on_front": "page",
+  "permalink_structure": "/%postname%/",
+  "page_on_front": "521",
+  "locations": {
+    "main": "main-menu",
+    "topbar-authenticated": "authenticated",
+    "topbar-anonymous": "anonymous"
+  }
+}

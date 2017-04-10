@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor-fields\n"
+"POT-Creation-Date: 2016-06-03 22:45+0300\n"
+"PO-Revision-Date: 2016-06-03 23:24+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:57
+#: includes/post-types/class-inventor-fields-post-type-field.php:63
+#: includes/post-types/class-inventor-fields-post-type-field.php:69
+msgid "Fields"
+msgstr "Alanlar"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:58
+msgid "Field"
+msgstr "Alan"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:59
+#: includes/post-types/class-inventor-fields-post-type-field.php:60
+msgid "Add New Field"
+msgstr "Yeni Alan Ekle"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:61
+msgid "Edit Field"
+msgstr "Alan düzenle"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:62
+msgid "New Field"
+msgstr "Yeni Alan"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:64
+msgid "View Field"
+msgstr "Alan gör"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:65
+msgid "Search Field"
+msgstr "Alan ara"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:66
+msgid "No Fields found"
+msgstr "Hiçbir alan bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:67
+msgid "No Fields found in Trash"
+msgstr "Çöplükte hiçbir alan bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:95
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:75
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:206
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:95
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:103
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:94
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:225
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:103
+msgid "Identifier"
+msgstr "Tanımlayıcı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:104
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:95
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:226
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:104
+msgid "Unique identifier (Slug with lowercase characters)."
+msgstr "Benzersiz tanımlayıcı (Küçük harflerle tanımlayıcı)."
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:107
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:106
+#, php-format
+msgid "Final ID will be <b>%s$listing_type_$identifier</b>"
+msgstr "Son ID <b>%s$listeleme_tipi_$tanımlayıcı</b> olacak"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:117
+msgid "Required"
+msgstr "Gereken"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:124
+msgid "Skip"
+msgstr "Atla"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:125
+msgid "From attributes section on listing detail"
+msgstr "Listeleme detayındaki özellikler bölümünden"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:132
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:117
+msgid "Description"
+msgstr "Tanım"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:139
+msgid "Label position"
+msgstr "Etiket pozisyonu"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:144
+msgid "Top"
+msgstr "Üst"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:145
+msgid "Left"
+msgstr "Sol"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:146
+msgid "Hidden"
+msgstr "Gizli"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:152
+msgid "Type"
+msgstr "Tür"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:157
+msgid "Text"
+msgstr "Yazı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:158
+msgid "Small text"
+msgstr "Küçük Yazı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:159
+msgid "Medium text"
+msgstr "Orta büyüklükte yazı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:160
+msgid "Email address"
+msgstr "E-Posta adresi"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:161
+msgid "URL"
+msgstr "URL"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:162
+msgid "Money"
+msgstr "Para"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:163
+msgid "Textarea"
+msgstr "Yazı alanı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:164
+msgid "Smaller textarea"
+msgstr "Daha küçük yazı alanı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:165
+msgid "Code textarea"
+msgstr "Kod yazı alanı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:166
+msgid "TinyMCE wysiwyg editor"
+msgstr "KüçükMCE wysiwyg editörü"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:167
+msgid "Time picker"
+msgstr "Zaman toplayıcısı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:168
+msgid "Timezone"
+msgstr "Saat dilimi"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:169
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:281
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:170
+msgid "Date and time"
+msgstr "Tarih ve zaman"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:171
+msgid "Date, time and timezone"
+msgstr "Tarih, zaman ve saat dilimi"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:173
+msgid "Colorpicker"
+msgstr "Renk toplyıcısı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:174
+msgid "Checkbox"
+msgstr "Kontrol kutusu"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:175
+msgid "Multicheck"
+msgstr "Çoklu kontrol"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:176
+msgid "Multicheck inline"
+msgstr "Çoklu kontrol sıralı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:177
+msgid "Radio"
+msgstr "Radyo"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:178
+msgid "Radio inline"
+msgstr "Radyo sıralı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:179
+msgid "Select"
+msgstr "Seç"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:180
+msgid "File uploader"
+msgstr "Dosya yükleyicis"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:181
+msgid "Files uploader"
+msgstr "Dosyaların yükleyicisi"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:182
+msgid "Embed media"
+msgstr "Gömülü medya"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:183
+msgid "Taxonomy radio"
+msgstr "Taksonomi radyosu"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:184
+msgid "Taxonomy radio inline"
+msgstr "Taksonomi radyo sıralı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:185
+msgid "Taxonomy select"
+msgstr "Taksonomi seç"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:186
+msgid "Taxonomy multicheck"
+msgstr "Taksonomi çoklu kontrolü"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:187
+msgid "Taxonomy multicheck inline"
+msgstr "Taksonomi çoklu kontrolü sıralı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:193
+msgid "Value Type"
+msgstr "Değer Türü"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:197
+msgid "Characters"
+msgstr "Karakterler"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:198
+msgid "Integer"
+msgstr "Tam Sayı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:199
+msgid "Positive integer"
+msgstr "Pozitif Tam Sayı"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:200
+msgid "Decimal"
+msgstr "Ondalık"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:201
+msgid "Positive decimal"
+msgstr "Pozitif Ondalık"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:207
+msgid "Options"
+msgstr "Seçenekler"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:210
+msgid "Comma separated options if type support choices"
+msgstr "Tür tercihi desteklerse seçenekler virgülle ayrılmış"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:226
+msgid "Taxonomy"
+msgstr "Taksonomi"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:229
+msgid "Choose lexicon"
+msgstr "Sözlük seç"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:249
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:58
+msgid "Metabox"
+msgstr "Metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:37
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:43
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:49
+msgid "Lexicons"
+msgstr "Sözlükler"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:38
+msgid "Lexicon"
+msgstr "Sözlük"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:39
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:40
+msgid "Add New Lexicon"
+msgstr "Yeni Sözlük Ekle"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:41
+msgid "Edit Lexicon"
+msgstr "Sözlüğü düzenle"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:42
+msgid "New Lexicon"
+msgstr "Yeni Sözlük"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:44
+msgid "View Lexicon"
+msgstr "Sözlüğü gör"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:45
+msgid "Search Lexicon"
+msgstr "Sözlük ara"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:46
+msgid "No Lexicons found"
+msgstr "Hiçbir Sözlük bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:47
+msgid "No Lexicons found in Trash"
+msgstr "Çöpte Hiçbir Sözlük bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:83
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:214
+msgid "Singular name"
+msgstr "Tekil ad"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:84
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:215
+msgid "Name for one object of this post type (Set title to plural name)."
+msgstr "Bu post türünden bir isim (Çoğul isim için başlık seçin)."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:107
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:238
+msgid "URL Slug"
+msgstr "URL Slug"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:108
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:239
+msgid "Don't forget to resave permalinks in Settings > Permalinks."
+msgstr "Ayarlarda permalinkleri tekrar kaydetmeyi unutmayın > Permalinkler."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:129
+msgid "Listing types"
+msgstr "Listeleme türleri"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:130
+msgid "Specify for which listing types will be this lexicon available for."
+msgstr ""
+"Hangi listeleme türlerinin bu sözlük için uygun olduğunu özelleştirin."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:159
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:160
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:312
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:313
+#, php-format
+msgid "Add New %s"
+msgstr "Yeni %s Ekle"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:161
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:314
+#, php-format
+msgid "Edit %s"
+msgstr "%s düzenle"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:162
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:315
+#, php-format
+msgid "New %s"
+msgstr "Yeni %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:164
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:317
+#, php-format
+msgid "View %s"
+msgstr "%s gör"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:165
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:318
+#, php-format
+msgid "Search %s"
+msgstr "%s ara"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:166
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:319
+#, php-format
+msgid "No %s found"
+msgstr "Hiçbir %s bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:167
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:320
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Çöpte Hiçbir %s bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:168
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:174
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:180
+msgid "Listing Types"
+msgstr "Listeleme türleri"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:169
+msgid "Listing Type"
+msgstr "Listeleme türü"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:170
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:171
+msgid "Add New Listing Type"
+msgstr "Yeni Listeleme Türü Ekle"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:172
+msgid "Edit Listing Type"
+msgstr "Listeleme Türünü düzenle"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:173
+msgid "New Listing Type"
+msgstr "Yeni Listeleme Türü"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:175
+msgid "View Listing Type"
+msgstr "Listeleme Türünü gör"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:176
+msgid "Search Listing Type"
+msgstr "Listeleme Türü ara"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:177
+msgid "No Listing Types found"
+msgstr "Hiçbir Listeleme Türü bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:178
+msgid "No Listing Types found in Trash"
+msgstr "Çöpte Hiçbir Listeleme Türü bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:249
+msgid "Allowed purchasing"
+msgstr "İzin verilmiş satın almalar"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:256
+msgid "Allowed claiming"
+msgstr "İzin verilmiş talep etmeler"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:263
+msgid "Predefined metaboxes"
+msgstr "Önceden tanımlanmış metaboxlar"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:264
+msgid ""
+"For custom metaboxes and fields, go to Inventor > Metaboxes or Inventor > "
+"Fields"
+msgstr ""
+"Ismarlama metaboxlar ve alanlar için, Envantere gidin > Metabox veya "
+"Envanter > Alanlar"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:269
+msgid "Branding: slogan, brand color, logo"
+msgstr "Markalaşma: slogan, marka rengi, logo"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:270
+msgid "Banner"
+msgstr "Afiş"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:271
+msgid "Gallery"
+msgstr "Galeri"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:272
+msgid "Video"
+msgstr "Vidyo"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:273
+msgid "Price"
+msgstr "Fiyat"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:274
+msgid "Color"
+msgstr "Renk"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:275
+msgid "Listing category"
+msgstr "Listeleme kategorisi"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:276
+msgid "Location"
+msgstr "Konum"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:277
+msgid "Contact: email, phone, website, address"
+msgstr "İletişim: e-posta, telefon, internet sitesi, adres"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:278
+msgid "Social connection"
+msgstr "Sosyal medya iletişimi"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:279
+msgid "Opening hours"
+msgstr "Açılış zamanları"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:280
+msgid "Flags: featured, reduced, verified"
+msgstr "Bayraklar: özellikli, azaltılmış, çeşitlendirilmiş"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:282
+msgid "Time"
+msgstr "Zaman"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:283
+msgid "Date interval: date from, date to"
+msgstr "Tarih aralığı: tarihinden beri, tarihine kadar"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:284
+msgid "Datetime interval: date and time from, date and time to"
+msgstr ""
+"Tarih-Saat aralığı: tarihinden ve saatinden beri, tarihine ve saatine "
+"kadar"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:285
+msgid "Time interval: time from, time to"
+msgstr "Saat aralığı: Saatinden beri, saatine kadar"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:286
+msgid "Date and time interval: date, time from, time to"
+msgstr "Tarih ve zaman aralığı: tarih, saatinden beri, saatine kadar"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:57
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:63
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:69
+msgid "Metaboxes"
+msgstr "Metaboxlar"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:59
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:60
+msgid "Add New Metabox"
+msgstr "Yeni Metabox ekle"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:61
+msgid "Edit Metabox"
+msgstr "Metaboxu düzenle"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:62
+msgid "New Metabox"
+msgstr "Yeni Metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:64
+msgid "View Metabox"
+msgstr "Metaboxu gör"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:65
+msgid "Search Metabox"
+msgstr "Metabox ara"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:66
+msgid "No Metaboxes found"
+msgstr "Hiçbir metabox bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:67
+msgid "No Metaboxes found in Trash"
+msgstr "Çöpte Hiçbir Metabox bulunamadı"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:124
+msgid "Section"
+msgstr "Bölüm"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:125
+msgid "Show as a section in the listing detail page."
+msgstr "Listeleme detayı sayfasında bölüm olarak göster."
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:145
+msgid "Listing type"
+msgstr "Listeleme türü"

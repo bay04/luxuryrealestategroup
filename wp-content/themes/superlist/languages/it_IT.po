@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superlist\n"
+"POT-Creation-Date: 2016-04-28 13:42+0200\n"
+"PO-Revision-Date: 2016-04-28 13:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/libraries/class-tgm-plugin-activation."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: 404.php:21
+msgid "Page does not exist."
+msgstr "La pagina non esiste."
+
+#: comments.php:21
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri su &ldquo;%2$s&rdquo;"
+
+#: comments.php:27 comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti meno recenti"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:56
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"È possibile utilizzare questi <abbr title=\\\"HyperText Markup Language\\"
+"\">HTML</abbr> tag e gli attributi: %s"
+
+#: comments.php:57
+msgid "Write a Comment"
+msgstr "Scrivi un commento"
+
+#: comments.php:59
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:61
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:62
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+msgid "Website"
+msgstr "Sito Web"
+
+#: functions.php:104
+msgid "Main"
+msgstr "Principale"
+
+#: functions.php:115
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:116
+msgid "Dashboard Sidebar"
+msgstr ""
+
+#: functions.php:117
+msgid "Header Topbar Left"
+msgstr "Header Topbar Sinistra"
+
+#: functions.php:118
+msgid "Header Topbar Right"
+msgstr "Header Topbar Destra"
+
+#: functions.php:119
+msgid "Top Fullwidth"
+msgstr "Larghezza Piena in Alto"
+
+#: functions.php:120
+msgid "Top"
+msgstr "Alto"
+
+#: functions.php:121
+msgid "Content Top"
+msgstr "Contenuto in Alto"
+
+#: functions.php:122
+msgid "Content Bottom"
+msgstr "Contenuto in Basso"
+
+#: functions.php:123
+msgid "Bottom"
+msgstr "Basso"
+
+#: functions.php:124
+msgid "Footer Top First"
+msgstr "Footer in Alto Primo"
+
+#: functions.php:125
+msgid "Footer Top Second"
+msgstr "Footer in Alto Secondo"
+
+#: functions.php:126
+msgid "Footer Top Third"
+msgstr "Footer in Alto Terzo"
+
+#: functions.php:127
+msgid "Footer Top Fourth"
+msgstr "Footer in Alto Quarto"
+
+#: functions.php:128
+msgid "Footer First"
+msgstr "Footer Primo"
+
+#: functions.php:129
+msgid "Footer Second"
+msgstr "Footer Secondo"
+
+#: functions.php:130
+msgid "Footer Bottom First"
+msgstr "Footer in Basso Primo"
+
+#: functions.php:131
+msgid "Footer Bottom Second"
+msgstr "Footer in Basso Secondo"
+
+#: functions.php:381
+msgid "Superlist General"
+msgstr "Superlist Generale"
+
+#: functions.php:386
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:389
+msgid "Logo displayed in header."
+msgstr "Logo visualizzato in Header."
+
+#: functions.php:401
+msgid "Customizer"
+msgstr "Personalizzare"
+
+#: functions.php:415 widgets/templates/widget-simple-map-admin.php:76
+msgid "Style"
+msgstr "Stile"
+
+#: functions.php:420 templates/action-bar.php:46
+msgid "Blue Light"
+msgstr "Blu chiaro"
+
+#: functions.php:421 templates/action-bar.php:47
+msgid "Blue"
+msgstr "Blu"
+
+#: functions.php:422
+msgid "Blue dark"
+msgstr "Blu scuro"
+
+#: functions.php:423
+msgid "Blue gray"
+msgstr "Grigio blu"
+
+#: functions.php:424 templates/action-bar.php:49
+msgid "Brown"
+msgstr "Castani"
+
+#: functions.php:425 templates/action-bar.php:53
+msgid "Green"
+msgstr "Verde"
+
+#: functions.php:426
+msgid "Green dark"
+msgstr "Verde scuro"
+
+#: functions.php:427 templates/action-bar.php:67
+msgid "Lime"
+msgstr "Lime"
+
+#: functions.php:428 templates/action-bar.php:55
+msgid "Magenta"
+msgstr "Magenta"
+
+#: functions.php:429 templates/action-bar.php:56
+msgid "Orange"
+msgstr "Arancione"
+
+#: functions.php:430 templates/action-bar.php:68
+msgid "Pink"
+msgstr "Rosa"
+
+#: functions.php:431 templates/action-bar.php:60
+msgid "Purple"
+msgstr "Porpora"
+
+#: functions.php:432 templates/action-bar.php:70
+msgid "Purple Dark"
+msgstr "Porpora Scuro"
+
+#: functions.php:433
+msgid "Mint"
+msgstr "Menta"
+
+#: functions.php:434 templates/action-bar.php:61 templates/action-bar.php:62
+msgid "Red"
+msgstr "Rosso"
+
+#: functions.php:435 templates/action-bar.php:63
+msgid "Turquoise"
+msgstr "Turchese"
+
+#: functions.php:437
+msgid "Check the documentation to learn how to compile custom color."
+msgstr ""
+"Consultare la documentazione per informazioni su come compilare il colore "
+"personalizzato."
+
+#: functions.php:448
+msgid "Layout"
+msgstr "Layout"
+
+#: functions.php:453 templates/action-bar.php:17
+msgid "Wide"
+msgstr "Largo"
+
+#: functions.php:454 templates/action-bar.php:18
+msgid "Boxed"
+msgstr "Boxed"
+
+#: functions.php:466
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:471 templates/action-bar.php:27
+msgid "Sticky"
+msgstr "Sticky"
+
+#: functions.php:472 templates/action-bar.php:26
+msgid "Fixed"
+msgstr "Fissato"
+
+#: functions.php:484
+msgid "Submenu"
+msgstr "Sottomenu"
+
+#: functions.php:489 templates/action-bar.php:35
+msgid "Dark"
+msgstr "Scuro"
+
+#: functions.php:490 templates/action-bar.php:36
+msgid "Light"
+msgstr "Chiaro"
+
+#: functions.php:501
+msgid "Action Button Text"
+msgstr "Testo Pulsante Azione"
+
+#: functions.php:504
+msgid "Text is displayed when button is hovered."
+msgstr "Il testo viene visualizzato quando il pulsante viene aleggiava."
+
+#: functions.php:510
+msgid "Action Button Page"
+msgstr "Pagina Pulsante Azione"
+
+#: functions.php:515
+msgid "Page where the action button will point to."
+msgstr "Pagina in cui il pulsante di azione punterà."
+
+#: functions.php:527
+msgid "Show print button in listing detail"
+msgstr "Mostra pulsante di stampa in dettaglio lista"
+
+#: functions.php:555
+msgid "Not set"
+msgstr "Non impostato"
+
+#: functions.php:716
+msgid "Previous"
+msgstr "Precedente"
+
+#: functions.php:717
+msgid "Next"
+msgstr "Avanti"
+
+#: header.php:89
+msgid "Toggle navigation"
+msgstr "Attivare o Disattivare Navigazione"
+
+#: searchform.php:15
+msgid "Search ..."
+msgstr "Ricerca…"
+
+#: templates/action-bar.php:14
+msgid "Choose Page Layout"
+msgstr "Scegliere Layout di pagina"
+
+#: templates/action-bar.php:23
+msgid "Header Position"
+msgstr "Posizione Header"
+
+#: templates/action-bar.php:32
+msgid "Submenu Style"
+msgstr "Stile di sottomenu"
+
+#: templates/action-bar.php:41
+msgid "Color combination"
+msgstr "Combinazione di colori"
+
+#: templates/action-bar.php:48
+msgid "Blue Dark"
+msgstr "Blu scuro"
+
+#: templates/action-bar.php:54
+msgid "Green Dark"
+msgstr "Verde scuro"
+
+#: templates/action-bar.php:69
+msgid "Blue Gray"
+msgstr "Grigio blu"
+
+#: templates/content-listing-banner.php:32
+msgid "Your browser does not support the video html tag."
+msgstr "Il tuo browser non supporta i video html tag."
+
+#: templates/content-listing-banner.php:123
+msgid "Reduced Price"
+msgstr "Prezzo ridotto"
+
+#: templates/content-listing-banner.php:123
+msgid "Price"
+msgstr "Prezzo"
+
+#: templates/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Spiacenti, la tua ricerca non ha prodotto risultati. Riprova con parole "
+"chiave differenti."
+
+#: templates/content-post.php:17 templates/content.php:25
+msgid "By"
+msgstr "Di"
+
+#: templates/content-post.php:34
+msgid "Post Pages:"
+msgstr "Pagine dell'articolo:"
+
+#: templates/content-post.php:43
+msgid "Tags"
+msgstr "Tags"
+
+#: templates/content.php:15
+msgid "View"
+msgstr "Visualizza"
+
+#: templates/content.php:31
+msgid "Read more"
+msgstr "Leggi di più"
+
+#: templates/document-title.php:18
+msgid "Page Not Found"
+msgstr "Pagina non trovata"
+
+#: templates/document-title.php:20
+msgid "Search for"
+msgstr "Cerca…"
+
+#: templates/misc/comment.php:25
+msgid "Reply"
+msgstr "Rispondi"
+
+#: templates/misc/comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di essere approvato."
+
+#: widgets/templates/widget-call-to-action-admin.php:17
+msgid "Text"
+msgstr "Testo"
+
+#: widgets/templates/widget-call-to-action-admin.php:30
+msgid "Button Text"
+msgstr "Testo del pulsante"
+
+#: widgets/templates/widget-call-to-action-admin.php:43
+msgid "Button Link"
+msgstr "Link del Pulsnate"
+
+#: widgets/templates/widget-simple-map-admin.php:19
+msgid "Latitude"
+msgstr "Latitudine"
+
+#: widgets/templates/widget-simple-map-admin.php:32
+msgid "Longitude"
+msgstr "Longitudine"
+
+#: widgets/templates/widget-simple-map-admin.php:45
+msgid "Zoom"
+msgstr "Zoom"
+
+#: widgets/templates/widget-simple-map-admin.php:60
+msgid "Height in pixels"
+msgstr "Altezza in pixel"
+
+#: widgets/templates/widget-simple-map-admin.php:80
+msgid "Default"
+msgstr "Predefinito"
+
+#: widgets/templates/widget-video-cover-admin.php:25
+msgid "Title"
+msgstr "Titolo"
+
+#: widgets/templates/widget-video-cover-admin.php:39
+msgid "Subtitle"
+msgstr "Sottotitolo"
+
+#: widgets/templates/widget-video-cover-admin.php:53
+msgid "Height"
+msgstr "Altezza"
+
+#: widgets/templates/widget-video-cover-admin.php:67
+msgid "Preset Image URL"
+msgstr "URL immagine preimpostata"
+
+#: widgets/templates/widget-video-cover-admin.php:81
+msgid "Overlay opacity"
+msgstr "Opacità della copertura"
+
+#: widgets/templates/widget-video-cover-admin.php:95
+msgid "Video MP4"
+msgstr "Video Mp4"
+
+#: widgets/templates/widget-video-cover-admin.php:109
+msgid "Video OGG"
+msgstr "Video Ogg"
+
+#: widgets/templates/widget-video-cover-admin.php:129
+msgid "Filter"
+msgstr "Filtro"
+
+#: widgets/templates/widget-video-cover-admin.php:136
+msgid "Filter Button Text"
+msgstr "Testo Pulsante Filtro"
+
+#: widgets/templates/widget-video-cover-admin.php:147
+msgid "Input titles"
+msgstr "I titoli di input"
+
+#: widgets/templates/widget-video-cover-admin.php:158
+msgid "Labels"
+msgstr "Etichette"
+
+#: widgets/templates/widget-video-cover-admin.php:170
+msgid "Placeholders"
+msgstr "Placeholders"
+
+#: widgets/templates/widget-video-cover-admin.php:175
+msgid "Filter Fields"
+msgstr "Filtro di campi"
+
+#: widgets/widget-call-to-action.php:29
+msgid "Call to action"
+msgstr "Invito all’azione"
+
+#: widgets/widget-call-to-action.php:31
+msgid "Call to action widget."
+msgstr "Widget invito all’azione."
+
+#: widgets/widget-simple-map.php:29
+msgid "Simple Map"
+msgstr "Mappa Semplice"
+
+#: widgets/widget-simple-map.php:31
+msgid "Displays 1 place in the map."
+msgstr "Visualizza 1 posto nella mappa."
+
+#: widgets/widget-video-cover.php:29
+msgid "Video Cover"
+msgstr "Video Cover"
+
+#: widgets/widget-video-cover.php:31
+msgid "Displays small filter with video or image background."
+msgstr "Visualizza piccolo filtro con video o immagine di sfondo."
+
+#~ msgid "Dashboard Sidebar Top"
+#~ msgstr "Sidebar Superiore della Bacheca"
+
+#~ msgid "Dashboard Sidebar Bottom"
+#~ msgstr "Sidebar Inferiore della Bacheca"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigazione"
+
+#~ msgid "Read More"
+#~ msgstr "Leggi di più"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Location"
+#~ msgstr "Posizione"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Title:"
+#~ msgstr "Titolo:"
+
+#~ msgid "Content:"
+#~ msgstr "Contenuto:"
+
+#~ msgid "Icon Class:"
+#~ msgstr "Classe dell’icona"
+
+#~ msgid "Read More Link:"
+#~ msgstr "Per saperne di più:"
+
+#~ msgid "Boxes"
+#~ msgstr "Boxes"
+
+#~ msgid "Text boxes with icons."
+#~ msgstr "Caselle di testo con icone."

@@ -1,0 +1,105 @@
+.invoice {
+    background-color: #fff;
+    font-size: 13px;
+    margin: 60px 0 0 0;
+    padding: 30px;
+
+    h1 {
+        margin: 0 0 40px 0;
+        padding: 0
+    }
+
+    section {
+        border: 1px solid $color-gray;
+        margin: 0 0 30px 0;
+        padding: 20px;
+
+        dl {
+            margin: 0;
+            padding: 0;
+        }
+
+        dt {
+            color: $color-gray-darker;
+            float: left;
+            font-weight: 500;
+            line-height: 28px;
+            min-width: 170px;
+        }
+
+        dd {
+            color: $color-black-light;
+            display: table-cell;
+            line-height: 28px;
+        }
+    }
+
+    #general {
+        float: left;
+        width: 32%;
+    }
+
+    #details {
+        float: right;
+        width: 64%;
+    }
+
+    #supplier, #customer {
+        float: left;
+        width: 48%;
+
+        h2 {
+            font-size: 18px;
+            font-weight: 500;
+            margin: 0 0 30px 0;
+            padding: 0;
+        }
+    }
+
+    #supplier {
+        clear: left;
+    }
+
+    #customer {
+        float: right;
+    }
+
+    #items {
+        clear: both;
+
+        table {
+            margin: 0;
+        }
+    }
+
+    #total {
+        background-color: $color-gray;
+        border: 0;
+        color: $color-black-light;
+        font-size: 30px;
+        font-weight: 500;
+        margin: 0;
+        text-align: right;
+
+        label {
+            color: $color-gray-darker;
+            font-weight: 500;
+            margin: 0 30px 0 0;
+            text-transform: uppercase;
+            vertical-align: middle;
+        }
+    }
+
+    @media print {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+.invoices-table {
+    @extend .box-shadow;
+}
+
+.transactions-table {
+    @extend .box-shadow;
+}

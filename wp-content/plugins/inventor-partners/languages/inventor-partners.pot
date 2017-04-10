@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Partners\n"
+"POT-Creation-Date: 2016-04-06 09:07+0200\n"
+"PO-Revision-Date: 2015-11-26 11:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;"
+"_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:34
+#: includes/post-types/class-inventor-partners-post-type-partner.php:40
+#: includes/post-types/class-inventor-partners-post-type-partner.php:46
+#: includes/widgets/class-inventor-partners-widget-partners.php:23
+msgid "Partners"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:35
+msgid "Partner"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:36
+#: includes/post-types/class-inventor-partners-post-type-partner.php:37
+msgid "Add New Partner"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:38
+msgid "Edit Partner"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:39
+msgid "New Partner"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:41
+msgid "View Partner"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:42
+msgid "Search Partner"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:43
+msgid "No Partners found"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:44
+msgid "No Partners found in Trash"
+msgstr ""
+
+#: includes/post-types/class-inventor-partners-post-type-partner.php:71
+#: includes/post-types/class-inventor-partners-post-type-partner.php:78
+msgid "URL"
+msgstr ""
+
+#: includes/widgets/class-inventor-partners-widget-partners.php:25
+msgid "Displays partners widget"
+msgstr ""
+
+#: templates/widgets/partners-admin.php:19
+msgid "Title"
+msgstr ""
+
+#: templates/widgets/partners-admin.php:32
+msgid "Description"
+msgstr ""
+
+#: templates/widgets/partners-admin.php:44
+msgid "Count"
+msgstr ""
+
+#: templates/widgets/partners-admin.php:58
+msgid "IDs"
+msgstr ""
+
+#: templates/widgets/partners-admin.php:66
+msgid "For specific partners please insert post ids, separated by comma. Example: 1,2,3"
+msgstr ""
+
+#: templates/widgets/partners-admin.php:72
+msgid "Items per row"
+msgstr ""
+
+#: templates/widgets/partners.php:52
+msgid "Featured image not found."
+msgstr ""
+
+#: templates/widgets/partners.php:70
+msgid "No partners found."
+msgstr ""

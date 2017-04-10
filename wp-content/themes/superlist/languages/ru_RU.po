@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superlist\n"
+"POT-Creation-Date: 2016-08-05 16:03+0600\n"
+"PO-Revision-Date: 2016-08-15 02:53+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/libraries/class-tgm-plugin-activation."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: 404.php:21
+msgid "Page does not exist."
+msgstr "Страница не существует."
+
+#: comments.php:21
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев на &ldquo;%2$s&rdquo;"
+
+#: comments.php:27 comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr;  Старые Комментарии"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:56
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Вы можете использовать эти <abbr title=\"HyperText Markup Language\">HTML</"
+"abbr> теги и атрибуты: %s"
+
+#: comments.php:57
+msgid "Write a Comment"
+msgstr "Написать Комментарий"
+
+#: comments.php:59
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments.php:61
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:62
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+msgid "Website"
+msgstr "Вебсайт"
+
+#: functions.php:104
+msgid "Main"
+msgstr "Главная"
+
+#: functions.php:115
+msgid "Primary"
+msgstr "Основное"
+
+#: functions.php:116
+msgid "Dashboard Sidebar"
+msgstr "Сайдбар Панели Управления"
+
+#: functions.php:117
+msgid "Header Topbar Left"
+msgstr "Левая Верхняя Панель Шапки"
+
+#: functions.php:118
+msgid "Header Topbar Right"
+msgstr "Правая Верхняя Панель Шапки"
+
+#: functions.php:119
+msgid "Top Fullwidth"
+msgstr "Полная Ширина Топа"
+
+#: functions.php:120
+msgid "Top"
+msgstr "Топ (Верх)"
+
+#: functions.php:121
+msgid "Content Top"
+msgstr "Контент Сверху"
+
+#: functions.php:122
+msgid "Content Bottom"
+msgstr "Контент Снизу"
+
+#: functions.php:123
+msgid "Bottom"
+msgstr "Низ"
+
+#: functions.php:124
+msgid "Footer Top First"
+msgstr "Первый Топ Подвала"
+
+#: functions.php:125
+msgid "Footer Top Second"
+msgstr "Второй Топ Подвала"
+
+#: functions.php:126
+msgid "Footer Top Third"
+msgstr "Третий Топ Подвала"
+
+#: functions.php:127
+msgid "Footer Top Fourth"
+msgstr "Четвертый Топ Подвала"
+
+#: functions.php:128
+msgid "Footer First"
+msgstr "Первый Подвал"
+
+#: functions.php:129
+msgid "Footer Second"
+msgstr "Второй Подвал"
+
+#: functions.php:130
+msgid "Footer Bottom First"
+msgstr "Первый Низ Подвала"
+
+#: functions.php:131
+msgid "Footer Bottom Second"
+msgstr "Второй Низ Подвала"
+
+#: functions.php:381
+msgid "Superlist General"
+msgstr "Superlist Общее"
+
+#: functions.php:386
+msgid "Logo"
+msgstr "Логотип"
+
+#: functions.php:389
+msgid "Logo displayed in header."
+msgstr "Логотип отображаемый в шапке."
+
+#: functions.php:401
+msgid "Customizer"
+msgstr "Настройщик"
+
+#: functions.php:415 widgets/templates/widget-simple-map-admin.php:76
+msgid "Style"
+msgstr "Стиль"
+
+#: functions.php:420 templates/action-bar.php:46
+msgid "Blue Light"
+msgstr "Голубой"
+
+#: functions.php:421 templates/action-bar.php:47
+msgid "Blue"
+msgstr "Синий"
+
+#: functions.php:422
+msgid "Blue dark"
+msgstr "Темно-синий"
+
+#: functions.php:423
+msgid "Blue gray"
+msgstr "Серо-голубой"
+
+#: functions.php:424 templates/action-bar.php:49
+msgid "Brown"
+msgstr "Коричневый"
+
+#: functions.php:425 templates/action-bar.php:53
+msgid "Green"
+msgstr "Зеленый"
+
+#: functions.php:426
+msgid "Green dark"
+msgstr "Темно-зеленый"
+
+#: functions.php:427 templates/action-bar.php:67
+msgid "Lime"
+msgstr "Лайм"
+
+#: functions.php:428 templates/action-bar.php:55
+msgid "Magenta"
+msgstr "Пурпурный"
+
+#: functions.php:429 templates/action-bar.php:56
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: functions.php:430 templates/action-bar.php:68
+msgid "Pink"
+msgstr "Розовый"
+
+#: functions.php:431 templates/action-bar.php:60
+msgid "Purple"
+msgstr "Фиолетовый"
+
+#: functions.php:432 templates/action-bar.php:70
+msgid "Purple Dark"
+msgstr "Темно-фиолетовый"
+
+#: functions.php:433
+msgid "Mint"
+msgstr "Мятный"
+
+#: functions.php:434 templates/action-bar.php:61 templates/action-bar.php:62
+msgid "Red"
+msgstr "Красный"
+
+#: functions.php:435 templates/action-bar.php:63
+msgid "Turquoise"
+msgstr "Бирюзовый"
+
+#: functions.php:437
+msgid "Check the documentation to learn how to compile custom color."
+msgstr "Проверьте документацию, чтобы узнать как составить собственный цвет."
+
+#: functions.php:448
+msgid "Layout"
+msgstr "Макет"
+
+#: functions.php:453 templates/action-bar.php:17
+msgid "Wide"
+msgstr "Широкий"
+
+#: functions.php:454 templates/action-bar.php:18
+msgid "Boxed"
+msgstr "В виде бокса"
+
+#: functions.php:466
+msgid "Header"
+msgstr "Шапка"
+
+#: functions.php:471 templates/action-bar.php:27
+msgid "Sticky"
+msgstr "Липкая"
+
+#: functions.php:472 templates/action-bar.php:26
+msgid "Fixed"
+msgstr "Фиксированная"
+
+#: functions.php:484
+msgid "Submenu"
+msgstr "Подменю"
+
+#: functions.php:489 templates/action-bar.php:35
+msgid "Dark"
+msgstr "Темный"
+
+#: functions.php:490 templates/action-bar.php:36
+msgid "Light"
+msgstr "Светлый"
+
+#: functions.php:501
+msgid "Action Button Text"
+msgstr "Текст Кнопки Действия"
+
+#: functions.php:504
+msgid "Text is displayed when button is hovered."
+msgstr "Текст отображается при наведении курсора"
+
+#: functions.php:510
+msgid "Action Button Page"
+msgstr "Страница Кнопки Действия"
+
+#: functions.php:515
+msgid "Page where the action button will point to."
+msgstr "Страница на которую кнопка действия будет указывать"
+
+#: functions.php:527
+msgid "Show print button in listing detail"
+msgstr "Показать кнопку печати в деталях листинга"
+
+#: functions.php:555
+msgid "Not set"
+msgstr "Не задано"
+
+#: functions.php:717
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: functions.php:718
+msgid "Next"
+msgstr "Следующий"
+
+#: header.php:89
+msgid "Toggle navigation"
+msgstr "Переключение навигации"
+
+#: searchform.php:15
+msgid "Search ..."
+msgstr "Поиск ..."
+
+#: templates/action-bar.php:14
+msgid "Choose Page Layout"
+msgstr "Выбрать Макет Страницы"
+
+#: templates/action-bar.php:23
+msgid "Header Position"
+msgstr "Позиция Шапки"
+
+#: templates/action-bar.php:32
+msgid "Submenu Style"
+msgstr "Стиль Подменю"
+
+#: templates/action-bar.php:41
+msgid "Color combination"
+msgstr "Комбинация цветов"
+
+#: templates/action-bar.php:48
+msgid "Blue Dark"
+msgstr "Темно-синий"
+
+#: templates/action-bar.php:54
+msgid "Green Dark"
+msgstr "Темно-зеленый"
+
+#: templates/action-bar.php:69
+msgid "Blue Gray"
+msgstr "Серо-голубой"
+
+#: templates/banner-types/video.php:6
+msgid "Your browser does not support the video html tag."
+msgstr "Ваш браузер не поддерживает видео  тег."
+
+#: templates/content-listing-banner-info.php:40
+msgid "Reduced Price"
+msgstr "Сниженная Цена"
+
+#: templates/content-listing-banner-info.php:40
+msgid "Price"
+msgstr "Цена"
+
+#: templates/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего подходящего вашему поисковому запросу. пожалуйста "
+"попробуйте снова с другими ключевыми словами."
+
+#: templates/content-post.php:17 templates/content.php:25
+msgid "By"
+msgstr "От"
+
+#: templates/content-post.php:36
+msgid "Post Pages:"
+msgstr "Страницы Поста:"
+
+#: templates/content-post.php:45
+msgid "Tags"
+msgstr "Теги"
+
+#: templates/content.php:15
+msgid "View"
+msgstr "Просмотр"
+
+#: templates/content.php:33
+msgid "Read more"
+msgstr "Читать дальше"
+
+#: templates/document-title.php:18
+msgid "Page Not Found"
+msgstr "Страница Не Найдена"
+
+#: templates/document-title.php:20
+msgid "Search for"
+msgstr "Искать"
+
+#: templates/misc/comment.php:25
+msgid "Reply"
+msgstr "Ответить"
+
+#: templates/misc/comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: widgets/templates/widget-call-to-action-admin.php:17
+msgid "Text"
+msgstr "Текст"
+
+#: widgets/templates/widget-call-to-action-admin.php:30
+msgid "Button Text"
+msgstr "Текст Кнопки"
+
+#: widgets/templates/widget-call-to-action-admin.php:43
+msgid "Button Link"
+msgstr "Ссылка кнопки "
+
+#: widgets/templates/widget-simple-map-admin.php:19
+msgid "Latitude"
+msgstr "Широта"
+
+#: widgets/templates/widget-simple-map-admin.php:32
+msgid "Longitude"
+msgstr "Долгота"
+
+#: widgets/templates/widget-simple-map-admin.php:45
+msgid "Zoom"
+msgstr "Увеличить"
+
+#: widgets/templates/widget-simple-map-admin.php:60
+msgid "Height in pixels"
+msgstr "Высота в пикселях"
+
+#: widgets/templates/widget-simple-map-admin.php:80
+msgid "Default"
+msgstr "По умолчанию"
+
+#: widgets/templates/widget-video-cover-admin.php:26
+msgid "Title"
+msgstr "Заголовок"
+
+#: widgets/templates/widget-video-cover-admin.php:40
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: widgets/templates/widget-video-cover-admin.php:54
+msgid "Height"
+msgstr "Высота"
+
+#: widgets/templates/widget-video-cover-admin.php:68
+msgid "Preset Image URL"
+msgstr "Ссылка Предустановленного Изображения"
+
+#: widgets/templates/widget-video-cover-admin.php:82
+msgid "Overlay opacity"
+msgstr "Непрозрачность Оверлейа"
+
+#: widgets/templates/widget-video-cover-admin.php:96
+msgid "Video MP4"
+msgstr "MP4 Видео"
+
+#: widgets/templates/widget-video-cover-admin.php:110
+msgid "Video OGG"
+msgstr "OGG Видео"
+
+#: widgets/templates/widget-video-cover-admin.php:124
+msgid "Classes"
+msgstr "Классы"
+
+#: widgets/templates/widget-video-cover-admin.php:133
+msgid ""
+"Additional classes appended to body class and separated by , e.g. <i>header-"
+"transparent, listing-slider-append-top</i>"
+msgstr ""
+"Дополнительные классы добавленные к классу тела и разделенные, например, "
+"<i>header-transparent, listing-slider-append-top</i>"
+
+#: widgets/templates/widget-video-cover-admin.php:145
+msgid "Filter"
+msgstr "Фильтр"
+
+#: widgets/templates/widget-video-cover-admin.php:152
+msgid "Filter Button Text"
+msgstr "Текст Кнопки Фильтра"
+
+#: widgets/templates/widget-video-cover-admin.php:163
+msgid "Input titles"
+msgstr "Ставить загаловки"
+
+#: widgets/templates/widget-video-cover-admin.php:174
+msgid "Labels"
+msgstr "Ярлыки"
+
+#: widgets/templates/widget-video-cover-admin.php:186
+msgid "Placeholders"
+msgstr "Заполнители"
+
+#: widgets/templates/widget-video-cover-admin.php:191
+msgid "Filter Fields"
+msgstr "Поля Фильтра"
+
+#: widgets/widget-call-to-action.php:29
+msgid "Call to action"
+msgstr "Призыв к действию"
+
+#: widgets/widget-call-to-action.php:31
+msgid "Call to action widget."
+msgstr "Виджет призыва к действию."
+
+#: widgets/widget-simple-map.php:29
+msgid "Simple Map"
+msgstr "Простая Карта"
+
+#: widgets/widget-simple-map.php:31
+msgid "Displays 1 place in the map."
+msgstr "Отображает 1 место на карте."
+
+#: widgets/widget-video-cover.php:29
+msgid "Video Cover"
+msgstr "Видео Обложка"
+
+#: widgets/widget-video-cover.php:31
+msgid "Displays small filter with video or image background."
+msgstr ""
+"Отображает маленький фильтр вместе с видео или задний фон с изображением."

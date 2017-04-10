@@ -1,0 +1,96 @@
+.modal-inner {
+    display: none;
+}
+
+.modal-screen {
+    transition: all linear .2s;
+    visibility: hidden;
+
+    &.open {
+        background-color: rgba(black, .9);
+        bottom: 0;
+        visibility: visible;
+        left: 0;
+        position: fixed;
+        right: 0;
+        top: 0;
+        z-index: 9999;
+    }
+
+    .modal-close {
+        color: rgba(#fff, .8);
+        cursor: pointer;
+        font-size: 32px;
+        position: absolute;
+        right: 6%;
+        top: 10%;
+        transition: color .15s linear;
+
+        &:hover {
+            color: #fff;
+        }
+    }
+
+    .modal-inner {
+        background-color: transparent;
+        display: block;
+        left: 50%;
+        position: absolute;
+        top: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translateX(-50%) translateY(-50%);
+
+        h2 {
+            color: #fff;
+            font-size: 52px;
+            font-weight: 400;
+            margin: 0 0 120px 0;
+            text-align: center;
+
+            @media (max-width: $screen-sm-max) {
+                font-size: 26px;
+                margin: 0 0 50px 0;
+            }
+        }
+
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+
+            @media (min-width: $screen-lg-min) {
+                width: 815px;
+            }
+
+            li {
+                display: inline-block;
+                margin: 5px 30px;
+            }
+
+            .fa {
+                background-color: rgba(#fff, .8) !important;
+                border-radius: 50%;
+                color: rgba(black, .8) !important;
+                display: block;
+                font-size: 60px;
+                height: 140px;
+                line-height: 140px;
+                text-align: center;
+                width: 140px;
+
+                &:active, &:hover, &:focus {
+                    background-color: #fff !important;
+                    border: 0;
+                    color: rgba(black, .8) !important;
+                }
+
+                @media (max-width: $screen-sm-max) {
+                    font-size: 30px;
+                    height: 70px;
+                    line-height: 70px;
+                    width: 70px;
+                }
+            }
+        }
+    }
+}

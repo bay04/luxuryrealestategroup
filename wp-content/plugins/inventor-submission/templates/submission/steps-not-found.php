@@ -1,0 +1,1 @@
+<?php echo __( 'Listing type does not have any metaboxes.', 'inventor-submission' ); ?>

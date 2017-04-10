@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Packages\n"
+"POT-Creation-Date: 2016-08-02 09:28+0200\n"
+"PO-Revision-Date: 2016-08-02 09:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-packages-logic.php:55
+#: includes/post-types/class-inventor-packages-post-type-package.php:37
+#: includes/post-types/class-inventor-packages-post-type-package.php:43
+#: includes/post-types/class-inventor-packages-post-type-package.php:49
+#: includes/widgets/class-inventor-packages-widget-packages.php:23
+msgid "Packages"
+msgstr "Pachete"
+
+#: includes/class-inventor-packages-logic.php:204
+#: templates/widgets/packages.php:83
+msgid "Unlimited"
+msgstr "Nelimitat"
+
+#: includes/class-inventor-packages-logic.php:208
+#: includes/post-types/class-inventor-packages-post-type-package.php:107
+#: includes/post-types/class-inventor-packages-post-type-package.php:212
+#: templates/widgets/packages.php:80
+msgid "Max Listings"
+msgstr "Număr maxim de listări"
+
+#: includes/class-inventor-packages-logic.php:259
+msgid "Listing details"
+msgstr "Detalii listări"
+
+#: includes/class-inventor-packages-logic.php:282
+msgid "week"
+msgstr "săptămână"
+
+#: includes/class-inventor-packages-logic.php:283
+msgid "month"
+msgstr "lună"
+
+#: includes/class-inventor-packages-logic.php:284
+msgid "year"
+msgstr "an"
+
+#: includes/class-inventor-packages-logic.php:301
+msgid "Purchase package"
+msgstr "Cumpără pachet"
+
+#: includes/class-inventor-packages-logic.php:302
+#, php-format
+msgid "Upgrade package to %s"
+msgstr "Upgradează pachet la %s"
+
+#: includes/class-inventor-packages-logic.php:320
+msgid "Not set"
+msgstr "Nu s-a setat"
+
+#: includes/class-inventor-packages-logic.php:469
+msgid "Infinite"
+msgstr "Infinit"
+
+#: includes/class-inventor-packages-logic.php:510
+#: includes/class-inventor-packages-logic.php:525
+#: includes/class-inventor-packages-logic.php:572
+#: includes/post-types/class-inventor-packages-post-type-package.php:38
+msgid "Package"
+msgstr "Pachet"
+
+#: includes/class-inventor-packages-logic.php:519
+msgid "Package Information"
+msgstr "Informații pachet"
+
+#: includes/class-inventor-packages-logic.php:542
+msgid "Infinite duration"
+msgstr "Durată infinită"
+
+#: includes/class-inventor-packages-logic.php:549
+msgid "Validity"
+msgstr "Validitate"
+
+#: includes/class-inventor-packages-logic.php:575
+msgid ""
+"Button will be linked to the purchase page. You must create payment page "
+"(containing [inventor_payment]) which must be set up in customizer."
+msgstr ""
+"Butonul va fi linkuit că pagina de cumpărare. Trebuie să creezi o pagină de "
+"plată (care să conțină [inventor_payment]) care trebuie să fie setată în "
+"customizator."
+
+#: includes/class-inventor-packages-logic.php:1031
+msgid "Package is not free."
+msgstr "Pachetul nu este gratis."
+
+#: includes/class-inventor-packages-logic.php:1036
+msgid "Package has been set."
+msgstr "Pachetul a fost setat."
+
+#: includes/class-inventor-packages-logic.php:1038
+msgid "Could not set package for user."
+msgstr "Nu s-a putut seta pachetul pentru utilizator"
+
+#: includes/class-inventor-packages-logic.php:1059
+msgid "Package has been upgraded."
+msgstr "Pachetul a fost upgradat."
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:34
+msgid "Inventor Packages"
+msgstr "Pachete Inventor"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:49
+msgid "Default package"
+msgstr "Pachet implicit"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:53
+msgid "For newly registered user"
+msgstr "Pentru utilizatorii noi"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:39
+#: includes/post-types/class-inventor-packages-post-type-package.php:40
+msgid "Add New Package"
+msgstr "Adaugă pachet nou"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:41
+msgid "Edit Package"
+msgstr "Editează pachet"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:42
+msgid "New Package"
+msgstr "Pachet nou"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:44
+msgid "View Package"
+msgstr "Vezi pachet"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:45
+msgid "Search Package"
+msgstr "Caută pachet"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:46
+msgid "No Packages found"
+msgstr "Nu s-au găsit pachete"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:47
+msgid "No Packages Found in Trash"
+msgstr "Nu s-au găsit pachete în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:76
+msgid "General"
+msgstr "General"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:85
+#: includes/post-types/class-inventor-packages-post-type-package.php:210
+#: templates/widgets/packages.php:64
+msgid "Price"
+msgstr "Preț"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:88
+#, php-format
+msgid "In %s."
+msgstr "în %s."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:100
+#: includes/post-types/class-inventor-packages-post-type-package.php:211
+#: templates/widgets/packages.php:72
+msgid "Duration"
+msgstr "Durată"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:109
+msgid ""
+"If submission type is 'packages'. Use -1 for unlimited amount of listings."
+msgstr "Dacă tipul este pachete folosește -1 pentru număr nelimitat de listări"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:119
+#: includes/post-types/class-inventor-packages-post-type-package.php:214
+msgid "Private"
+msgstr "Privat"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:121
+msgid ""
+"If checked, package won't be visible in the pricing. Suitable for VIP users "
+"or admins."
+msgstr ""
+"Dacă este selectat, pachetul nu va fi vizibil în pagina de prețuri. Este "
+"doar pentru useri VIP și administratori."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:126
+msgid "Permissions"
+msgstr "Permisiuni"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:135
+msgid "Video"
+msgstr "Video"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:141
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:147
+msgid "Reviews"
+msgstr "Recenzie"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:159
+msgid "Location"
+msgstr "Locație"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:165
+msgid "Opening hours"
+msgstr "Pogram de lucru "
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:171
+msgid "Contact"
+msgstr "Contact"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:177
+msgid "Listing types restrictions"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:186
+msgid "Use restriction"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:192
+msgid "Listing types"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:209
+#: templates/widgets/packages-admin.php:12
+msgid "Title"
+msgstr "Ttitlu"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:213
+msgid "Type"
+msgstr "Tip"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:215
+msgid "Date"
+msgstr "Dată"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:262
+msgid "Yes"
+msgstr "Da"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:262
+msgid "No"
+msgstr "Nu"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:267
+msgid "free"
+msgstr "gratis"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:269
+msgid "regular"
+msgstr "normal"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:271
+msgid "simple"
+msgstr "simplu"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:273
+msgid "trial"
+msgstr "probă"
+
+#: includes/widgets/class-inventor-packages-widget-packages.php:25
+msgid "Displays available packages."
+msgstr "Afișare pachete disponibile"
+
+#: templates/package-info.php:13
+msgid ""
+"Site is using packages. Before you can post listing, please upgrade your "
+"package."
+msgstr ""
+"Siteul folosește pachete, înainte de a posta trebuie să achiziționezi un "
+"pachet plătit."
+
+#: templates/package-info.php:17
+msgid "You don't have any package."
+msgstr "Nu ai nici un pachet."
+
+#: templates/package-info.php:22
+#, php-format
+msgid "You are using <strong>%s</strong> package."
+msgstr "Folosești pachetul <strong>%s</strong>"
+
+#: templates/package-info.php:29
+#, php-format
+msgid "Your membership is valid until <strong>%s</strong>."
+msgstr "Pachetul tău este valabil până la <strong>%s</strong>."
+
+#: templates/package-info.php:38
+msgid "You can add <strong>unlimited</strong> amount of items"
+msgstr "Poți să adaugi un număr <strong>nelimitat</strong> de articole."
+
+#: templates/package-info.php:40
+#, php-format
+msgid ""
+"You can not add new listings because you spent all of your available "
+"listings. Change your package. First <strong>%s</strong> items has been "
+"disabled from listing."
+msgstr ""
+"Nu mai poți adăuga listări noi deoarece ai depășit limita de listări "
+"disponibilă. Schimbă-ți pacjetul. Primele  <strong>%s</strong> articole au "
+"fost dezactivare de la listare."
+
+#: templates/package-info.php:42
+#, php-format
+msgid "You can add <strong>%s</strong> items."
+msgstr "Poți adăuga <strong>%s</strong> articole."
+
+#: templates/package-info.php:49
+#, php-format
+msgid "Your membership already expired at <strong>%s</strong>."
+msgstr "Pachetul tău a expirat la <strong>%s</strong>."
+
+#: templates/package-info.php:51
+msgid "All your items has been deactivated until you pay for new membership."
+msgstr ""
+"Toate listările tale au fost dezactivate până la reînnoirea pachetului."
+
+#: templates/package-info.php:67
+msgid "Select Package"
+msgstr "Alege pachet"
+
+#: templates/package-info.php:77 templates/widgets/packages.php:55
+msgid "Change"
+msgstr "Schimbă"
+
+#: templates/payment-form-before.php:9
+msgid "You can't choose trial package."
+msgstr "Nu poți alege pachetul de probă."
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You chose package <strong>\"%s\"</strong>."
+msgstr "Ai ales pachetul <strong>\"%s\"</strong>."
+
+#: templates/payment-form-before.php:17
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for package <strong>\"%s\"</strong>."
+msgstr ""
+"Trebuie să plătești <strong>%s</strong> pentru pachetul <strong>\"%s\"</"
+"strong>."
+
+#: templates/payment-form-before.php:23 templates/payment-form-fields.php:23
+msgid "Missing package."
+msgstr "Lipsă pachete"
+
+#: templates/payment-form-fields.php:8
+msgid ""
+"Trial packages can only be used as a default package. They cannot be "
+"purchased or chosen."
+msgstr ""
+"Pachetele de probă pot fi folosite doar ca pachet implicit, nu pot fi "
+"cumpărate sau alese."
+
+#: templates/payment-form-fields.php:16
+msgid "Confirm"
+msgstr "Confirmă"
+
+#: templates/widgets/packages.php:53
+msgid "Purchase"
+msgstr "Cumpără"
+
+#: templates/widgets/packages.php:95
+msgid "No packages found."
+msgstr "Nu s-au găsit pachete."

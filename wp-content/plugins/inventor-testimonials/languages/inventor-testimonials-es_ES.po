@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Testimonials\n"
+"POT-Creation-Date: 2016-04-28 13:26+0200\n"
+"PO-Revision-Date: 2016-04-28 13:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:35
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:41
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:47
+#: includes/widgets/class-inventor-testimonials-widget-testimonials.php:22
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:36
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:37
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:38
+msgid "Add New Testimonial"
+msgstr "Añadir nuevo testimonio"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:39
+msgid "Edit Testimonial"
+msgstr "Editar testimonio"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:40
+msgid "New Testimonial"
+msgstr "Nuevo testimonio"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:42
+msgid "View Testimonial"
+msgstr "Ver testimonio"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:43
+msgid "Search Testimonials"
+msgstr "Buscar testimonios"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:44
+msgid "No Testimonials found"
+msgstr "No se encontraron testimonios"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:45
+msgid "No Testimonials found in Trash"
+msgstr "No se han encontrado testimonios en la papelera"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:56
+msgctxt "URL slug"
+msgid "testimonials"
+msgstr "testimonios"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:73
+msgid "Details"
+msgstr "Detalles"
+
+#: includes/post-types/class-inventor-testimonials-post-type-testimonial.php:80
+msgid "Author"
+msgstr "Autor"
+
+#: includes/widgets/class-inventor-testimonials-widget-testimonials.php:24
+msgid "Displays Testimonials."
+msgstr "Mostrar testimonies."
+
+#: templates/widgets/testimonials-admin.php:18
+msgid "Title"
+msgstr "Título"
+
+#: templates/widgets/testimonials-admin.php:31
+msgid "Description"
+msgstr "Descripción"
+
+#: templates/widgets/testimonials-admin.php:43
+msgid "Count"
+msgstr "Contar"
+
+#: templates/widgets/testimonials.php:82
+msgid "No Testimonials found."
+msgstr "No se encontraron testimonies."

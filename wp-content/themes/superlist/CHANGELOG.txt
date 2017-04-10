@@ -1,0 +1,213 @@
+Version: 1.0.0
+Release date: 2015-11-11
+What's new:
+- First release
+
+
+Version: 1.0.1
+Release date: 2015-11-13
+
+
+Version: 1.0.2
+Release date: 2015-11-16
+
+
+Version: 1.0.3
+Release date: 2015-11-19
+
+
+Version: 1.1.0
+Release date: 2015-11-26
+
+
+Version: 1.2.0
+Release date: 2015-12-02
+
+
+Version: 1.3.0
+Release date: 2015-12-04
+
+
+Version: 1.4.0
+Release date: 2015-12-09
+
+
+Version: 1.4.1
+Release date: 2015-12-12
+
+
+Version: 1.4.2
+Release date: 2015-12-15
+
+
+Version: 1.5.0
+Release date: 2016-01-18
+
+
+Version: 1.6.0
+Release date: 2016-03-18
+
+
+Version: 1.6.1
+Release date: 2016-03-24
+
+
+Version: 1.7.0
+Release date: 2016-03-29
+What's new:
+- Italian translation
+- ...
+
+
+Version: 1.8.0
+Release date: 2016-04-08
+What's new:
+- switching to child theme will not deactivate inventor plugins
+- minor CSS fixes and some improvements
+- version in enqueue styles and scripts
+- archive-pricing_table.php moved to inventor-pricing plugin
+- Spanish translation
+- removed gap between filter fields in image/video cover
+
+
+Version: 1.9.0
+Release date: 2016-04-18
+What's new:
+- Hungarian translation
+- Danish translation
+- French translation
+- header redesign
+- minor CSS fixes and some improvements
+- removed redundant templates and are inherited from inventor plugin now
+- removed superlist_before_card_box_detail WP action
+- removed superlist_after_card_box_detail WP action
+- used inventor_listing_actions WP action
+- returned gap between filter fields in image/video cover
+
+
+Version: 1.9.5
+Release date: 2016-05-01
+What's new:
+- minor CSS fixes and some improvements
+- map filter is hidden if map is closed on mobile devices
+- fixed share modal on mobile devices
+
+
+Version: 2.0.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- minor CSS fixes and some improvements
+- simple banner type
+- CSS for listing authors list
+- CSS for monetization options
+- support for inventor_submission_allowed_listing_post_types
+- support for body classes for Image Cover Widget
+- new demo content
+
+
+Version: 2.1.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- refactored banner template file
+- listing title at detail page changed from h2 to h1
+- responsive users templates
+- minor CSS fixes and some improvements
+
+
+Version: 2.2.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- fixed listing slider in boxed layout
+- improvements in responsive navigation and for overflown submenus
+- minor CSS fixes and some improvements
+- comments count are not shown for blog posts with disabled comments
+
+
+Version: 2.2.1
+Release date: 2016-07-02
+What's new:
+- most recent TGMPA plugin version
+
+
+Version: 2.3.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- fixed video cover width for boxed layout
+- support for custom empty labels of selectpickers
+- fix of stretched partners logos
+- improved design of listing type pickup in submission
+- minor CSS fixes and some improvements
+- removed taxonomy-listing.php page template
+- fixed missing property in the supported listing types
+
+
+Version: 2.4.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- new header type: complex (menu in separate row)
+- new widget area: "Header"
+- support for bootstrap chained selects
+- minor CSS fixes and some improvements
+- support for YouTube and Vimeo URLs in the Video Cover Widget
+- fixed responsive of author detail page
+- support for new listing type: Resume
+
+- WARNING for developers: header template was heavily refactored. You will need to rebuild your stylesheet if you are using custom CSS.
+
+
+Version: 2.5.0
+Release date: 2016-10-07
+What's new:
+- minor CSS fixes and some improvements
+- fixed fullwidth components of boxed layout
+- fixed listing video banner of custom files
+- video banner is hidden on small mobile devices
+- font-awesome 4.6.3
+
+
+Version: 2.6.0
+Release date: 2016-11-04
+What's new:
+- column items in listing detail attributes are ordered from top to bottom instead from left to right
+- CSS for single step submission
+- fixed vertical align of logos in partners widget
+- minor CSS fixes and some improvements
+- deprecated Video Cover widget
+- cover color option in Cover widget settings
+- fixed listing video section of mp4 files
+- masonry blog display
+- masonry display in recent posts widget
+- values of taxonomy multicheck field are rendered as tags in generic section template
+- font-awesome 4.7
+- support for one-level menu widget in complex header area
+- new demo content
+- removed demo content of 1.6.1
+- removed demo content of 1.9.5
+- automatically set Unlimited package to the admin after One-Click Installation process
+- WARNING: Video Cover widget is deprecated, replace it with new Cover widget from inventor-ui-kit plugin
+
+
+Version: 2.7.0
+Release date: 2016-12-13
+What's new:
+- minor CSS fixes and some improvements
+- support for inventor-compare plugin
+- responsive improvement
+- all listing categories displayed in the listing banner title
+- IE11 fix
+- updated .pot catalog
+- updated Slovak translation
+- new demo content data
+
+
+Version: 2.8.0
+Release date: 2017-01-31
+What's new:
+- minor CSS fixes and some improvements
+- fixed listing title and buttons visibility above map banner
+- new demo content

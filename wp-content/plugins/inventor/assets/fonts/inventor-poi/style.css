@@ -1,0 +1,304 @@
+@font-face {
+	font-family: 'Inventor-POI';
+	src:url('fonts/Inventor-POI.eot?-x4jhyl');
+	src:url('fonts/Inventor-POI.eot?#iefix-x4jhyl') format('embedded-opentype'),
+		url('fonts/Inventor-POI.ttf?-x4jhyl') format('truetype'),
+		url('fonts/Inventor-POI.woff?-x4jhyl') format('woff'),
+		url('fonts/Inventor-POI.svg?-x4jhyl#Inventor-POI') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.inventor-poi {
+	font-family: 'Inventor-POI';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.inventor-poi-airport:before {
+	content: "\e600";
+}
+.inventor-poi-apartment:before {
+	content: "\e601";
+}
+.inventor-poi-atm:before {
+	content: "\e602";
+}
+.inventor-poi-bank:before {
+	content: "\e603";
+}
+.inventor-poi-bookcase:before {
+	content: "\e604";
+}
+.inventor-poi-bus:before {
+	content: "\e605";
+}
+.inventor-poi-camera:before {
+	content: "\e606";
+}
+.inventor-poi-camping:before {
+	content: "\e607";
+}
+.inventor-poi-car-service:before {
+	content: "\e608";
+}
+.inventor-poi-car:before {
+	content: "\e609";
+}
+.inventor-poi-cart:before {
+	content: "\e60a";
+}
+.inventor-poi-casino:before {
+	content: "\e60b";
+}
+.inventor-poi-castle:before {
+	content: "\e60c";
+}
+.inventor-poi-cemetery:before {
+	content: "\e60d";
+}
+.inventor-poi-church:before {
+	content: "\e60e";
+}
+.inventor-poi-cinema:before {
+	content: "\e60f";
+}
+.inventor-poi-clock:before {
+	content: "\e610";
+}
+.inventor-poi-cocktail:before {
+	content: "\e611";
+}
+.inventor-poi-coffee:before {
+	content: "\e612";
+}
+.inventor-poi-cog-wheel:before {
+	content: "\e613";
+}
+.inventor-poi-coins:before {
+	content: "\e614";
+}
+.inventor-poi-compass:before {
+	content: "\e615";
+}
+.inventor-poi-computer-screen:before {
+	content: "\e616";
+}
+.inventor-poi-condominium:before {
+	content: "\e617";
+}
+.inventor-poi-cottage:before {
+	content: "\e618";
+}
+.inventor-poi-divider:before {
+	content: "\e619";
+}
+.inventor-poi-entertainment:before {
+	content: "\e61a";
+}
+.inventor-poi-exchange:before {
+	content: "\e61b";
+}
+.inventor-poi-eye:before {
+	content: "\e61c";
+}
+.inventor-poi-factory:before {
+	content: "\e61d";
+}
+.inventor-poi-family-home:before {
+	content: "\e61e";
+}
+.inventor-poi-female:before {
+	content: "\e61f";
+}
+.inventor-poi-fruit:before {
+	content: "\e620";
+}
+.inventor-poi-gamepad:before {
+	content: "\e621";
+}
+.inventor-poi-gas:before {
+	content: "\e622";
+}
+.inventor-poi-glass:before {
+	content: "\e623";
+}
+.inventor-poi-glasses:before {
+	content: "\e624";
+}
+.inventor-poi-globe:before {
+	content: "\e625";
+}
+.inventor-poi-guitar:before {
+	content: "\e626";
+}
+.inventor-poi-hamburger:before {
+	content: "\e627";
+}
+.inventor-poi-heart:before {
+	content: "\e628";
+}
+.inventor-poi-hospital:before {
+	content: "\e629";
+}
+.inventor-poi-hotel:before {
+	content: "\e62a";
+}
+.inventor-poi-house:before {
+	content: "\e62b";
+}
+.inventor-poi-information:before {
+	content: "\e62c";
+}
+.inventor-poi-key:before {
+	content: "\e62d";
+}
+.inventor-poi-lcd:before {
+	content: "\e62e";
+}
+.inventor-poi-leaf:before {
+	content: "\e62f";
+}
+.inventor-poi-library:before {
+	content: "\e630";
+}
+.inventor-poi-lunch:before {
+	content: "\e631";
+}
+.inventor-poi-mail:before {
+	content: "\e632";
+}
+.inventor-poi-male:before {
+	content: "\e633";
+}
+.inventor-poi-map:before {
+	content: "\e634";
+}
+.inventor-poi-mic:before {
+	content: "\e635";
+}
+.inventor-poi-mountain:before {
+	content: "\e636";
+}
+.inventor-poi-music:before {
+	content: "\e637";
+}
+.inventor-poi-palms:before {
+	content: "\e638";
+}
+.inventor-poi-parking:before {
+	content: "\e639";
+}
+.inventor-poi-pastry:before {
+	content: "\e63a";
+}
+.inventor-poi-pencil:before {
+	content: "\e63b";
+}
+.inventor-poi-pharmacy:before {
+	content: "\e63c";
+}
+.inventor-poi-phone:before {
+	content: "\e63d";
+}
+.inventor-poi-picture:before {
+	content: "\e63e";
+}
+.inventor-poi-pin:before {
+	content: "\e63f";
+}
+.inventor-poi-play:before {
+	content: "\e640";
+}
+.inventor-poi-plug:before {
+	content: "\e641";
+}
+.inventor-poi-printer:before {
+	content: "\e642";
+}
+.inventor-poi-pub:before {
+	content: "\e643";
+}
+.inventor-poi-pushchair:before {
+	content: "\e644";
+}
+.inventor-poi-radio:before {
+	content: "\e645";
+}
+.inventor-poi-scissors:before {
+	content: "\e646";
+}
+.inventor-poi-shield:before {
+	content: "\e647";
+}
+.inventor-poi-ship:before {
+	content: "\e648";
+}
+.inventor-poi-shirt:before {
+	content: "\e649";
+}
+.inventor-poi-single-house:before {
+	content: "\e64a";
+}
+.inventor-poi-snowflake:before {
+	content: "\e64b";
+}
+.inventor-poi-speaker:before {
+	content: "\e64c";
+}
+.inventor-poi-star:before {
+	content: "\e64d";
+}
+.inventor-poi-steak:before {
+	content: "\e64e";
+}
+.inventor-poi-theatre:before {
+	content: "\e64f";
+}
+.inventor-poi-train:before {
+	content: "\e650";
+}
+.inventor-poi-trash:before {
+	content: "\e651";
+}
+.inventor-poi-tree:before {
+	content: "\e652";
+}
+.inventor-poi-trousers:before {
+	content: "\e653";
+}
+.inventor-poi-truck:before {
+	content: "\e654";
+}
+.inventor-poi-umbrella:before {
+	content: "\e655";
+}
+.inventor-poi-university:before {
+	content: "\e656";
+}
+.inventor-poi-villa:before {
+	content: "\e657";
+}
+.inventor-poi-warehouse:before {
+	content: "\e658";
+}
+.inventor-poi-warning:before {
+	content: "\e659";
+}
+.inventor-poi-wi-fi:before {
+	content: "\e65a";
+}
+.inventor-poi-winery:before {
+	content: "\e65b";
+}
+.inventor-poi-zoo:before {
+	content: "\e65c";
+}

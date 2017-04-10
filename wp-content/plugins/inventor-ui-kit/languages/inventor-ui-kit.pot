@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor UI Kit\n"
+"POT-Creation-Date: 2016-12-13 18:21+0100\n"
+"PO-Revision-Date: 2015-12-08 11:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;"
+"_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/widgets/class-inventor-ui-kit-widget-cover.php:29
+msgid "Cover"
+msgstr ""
+
+#: includes/widgets/class-inventor-ui-kit-widget-cover.php:31
+msgid "Displays headings with video or image background."
+msgstr ""
+
+#: includes/widgets/class-inventor-ui-kit-widget-slider.php:23
+msgid "Slider"
+msgstr ""
+
+#: includes/widgets/class-inventor-ui-kit-widget-slider.php:25
+msgid "Displays slider."
+msgstr ""
+
+#: templates/widgets/cover-admin.php:25 templates/widgets/slider-admin.php:166
+msgid "Title"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:39
+msgid "Subtitle"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:52 templates/widgets/slider-admin.php:30
+msgid "Height"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:65 templates/widgets/slider-admin.php:205
+msgid "Overlay color"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:78 templates/widgets/slider-admin.php:218
+msgid "Overlay opacity"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:91
+msgid "Preset Image URL"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:104
+msgid "Video MP4"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:117
+msgid "Video OGG"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:130
+msgid "Video URL"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:138
+msgid "Enter a youtube or vimeo URL."
+msgstr ""
+
+#: templates/widgets/cover-admin.php:144
+msgid "Classes"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:153
+msgid ""
+"Additional classes appended to body class and separated by , e.g. <i>header-transparent, cover-"
+"widget-append-top</i>"
+msgstr ""
+
+#: templates/widgets/cover-admin.php:166
+msgid "Filter"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:15
+msgid "Body classes"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:24
+msgid ""
+"Additional classes appended to body class and separated by , e.g. <i>header-transparent, "
+"inventor-slider-append-top, inventor-slider-fullscreen</i>"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:39
+msgid "For example: 500px, 75vh ..."
+msgstr ""
+
+#: templates/widgets/slider-admin.php:45
+msgid "Navigation style"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:49
+msgid "None"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:50
+msgid "Arrows"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:51 templates/widgets/slider-admin.php:171
+msgid "Text"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:64
+msgid "Navigation counter"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:77
+msgid "Dots"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:90
+msgid "Autoplay"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:97
+msgid "Autoplay timeout"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:107
+msgid "In miliseconds"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:113
+msgid "Number of slides"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:123
+msgid "Reload page after value changed."
+msgstr ""
+
+#: templates/widgets/slider-admin.php:161
+msgid "Headline"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:176
+msgid "Button label"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:181
+msgid "Button link"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:186
+msgid "Alignment"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:189
+msgid "Left"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:190
+msgid "Center"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:191
+msgid "Right"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:196
+msgid "Background"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:199
+msgid "Absolute path to image"
+msgstr ""
+
+#: templates/widgets/slider-admin.php:231
+msgid "CSS class"
+msgstr ""

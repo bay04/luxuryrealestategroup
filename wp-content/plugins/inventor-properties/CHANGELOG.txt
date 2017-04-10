@@ -1,0 +1,145 @@
+Version: 0.1.0
+Release date: 2015-11-13
+What's new:
+- First release
+
+
+Version: 0.2.0
+Release date: 2015-11-13
+What's new:
+- taxonomies moved from core inventor plugin
+- new fields: reference, year built, garages, parking lots, home area, lot area, lot dimensions
+- new groups: valuation, public facilities
+- option to hide unassigned amenities
+
+
+Version: 0.2.1
+Release date: 2015-11-16
+What's new:
+- custom post type loading priority fix
+- listing category metabox
+
+
+Version: 0.2.2
+Release date: 2015-11-19
+What's new:
+- deleted custom table columns to unify listing interface
+- validation of positive number fields
+
+
+Version: 0.3.0
+Release date: 2015-11-26
+What's new:
+- support for inventor-shop (enables listing purchasing)
+
+
+Version: 0.3.1
+Release date: 2015-12-02
+What's new:
+- inventor_claims_allowed_listing_post_types filter
+
+
+Version: 0.3.2
+Release date: 2015-12-12
+What's new:
+- WordPress 4.4 taxonomies fix
+
+
+Version: 0.3.3
+Release date: 2015-12-15
+What's new:
+- WordPress 4.4 taxonomies fix
+
+
+Version: 0.3.4
+Release date: 2016-01-18
+What's new:
+- textdomain fix
+
+
+Version: 0.3.5
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- refactoring taxonomies
+- Slovak translation
+
+
+Version: 0.4.0
+Release date: 2016-03-29
+What's new:
+- Italian translation
+
+
+Version: 0.5.0
+Release date: 2016-04-07
+What's new:
+- support for inventor-submission plugin
+- Spanish translation
+
+
+Version: 0.6.0
+Release date: 2016-04-15
+What's new:
+- French translation
+- Danish translation
+
+
+Version: 0.7.0
+Release date: 2016-05-20
+What's new:
+- German translation
+
+
+Version: 0.8.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- public facilities and valuation in own metaboxes
+- floor plans
+
+
+Version: 0.9.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- calculated field: price per area unit
+- calculated field: average price per area unit
+- calculated field: difference between average price per area unit
+- fix of hidden amenities
+- option to override translation files more easily
+
+
+Version: 1.0.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- fixed missing phrases in .pot file
+- empty public facilities or valuation is not shown at detail page
+- listing type icon
+
+
+Version: 1.1.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- fixed plugin dependency
+
+
+Version: 1.1.1
+Release date: 2016-11-04
+What's new:
+- updated Slovak translation
+- fixed some German translations or URLs (resave your permalinks!)
+- post type argument in inventor_listing_type_icon WP filter
+
+
+Version 1.2.0
+Release date: 2016-12-13
+What's new:
+- inventor_compare_metaboxes WP filter applied to property listing type
+- Inventor_Properties_Logic::get_price_comparison() takes optional $post_id argument
+- WP filter inventor_metabox_title takes $post_type argument
+- WP filter inventor_metabox_description takes $post_type argument
+- endpoints for WordPress JSON REST API
+- inventor_metabox_field_enabled WP filter applied for property fields

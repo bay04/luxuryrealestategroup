@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Notifications\n"
+"POT-Creation-Date: 2016-08-16 10:12+0200\n"
+"PO-Revision-Date: 2016-09-01 14:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-notifications-logic.php:46
+msgid "Package will expire"
+msgstr "Balík vyexpiruje"
+
+#: includes/class-inventor-notifications-logic.php:47
+msgid "Package expired"
+msgstr "Platnosť balíka vypršala"
+
+#: includes/class-inventor-notifications-logic.php:48
+msgid "Package purchased - for admin"
+msgstr "Zakúpený balík - pre admina"
+
+#: includes/class-inventor-notifications-logic.php:51
+msgid "Submission waiting for review - for admin"
+msgstr "Podanie čaká na schválenie - pre admina"
+
+#: includes/class-inventor-notifications-logic.php:52
+msgid "Submission waiting for review - for user"
+msgstr "Podanie čaká na schválenie - pre používateľa"
+
+#: includes/class-inventor-notifications-logic.php:53
+msgid "Submission published - for admin"
+msgstr "Podanie publikované - pre admina"
+
+#: includes/class-inventor-notifications-logic.php:54
+msgid "Submission published - for user"
+msgstr "Podanie publikované - pre používateľa"
+
+#: includes/class-inventor-notifications-logic.php:227
+msgid "Your package will expire soon"
+msgstr "Váš balík čoskoro vyexpiruje"
+
+#: includes/class-inventor-notifications-logic.php:231
+msgid "Your package expired"
+msgstr "Platnosť Vášho balíka vypršala"
+
+#: includes/class-inventor-notifications-logic.php:236
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:95
+msgid "Package purchased"
+msgstr "Zakúpený balík - pre admina"
+
+#: includes/class-inventor-notifications-logic.php:240
+msgid "New submission waiting for review"
+msgstr "Nové podanie čaká na kontrolu"
+
+#: includes/class-inventor-notifications-logic.php:244
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:110
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:125
+msgid "Submission waiting for review"
+msgstr "Podanie čaká na kontrolu"
+
+#: includes/class-inventor-notifications-logic.php:248
+msgid "New submission was published"
+msgstr "Nové podanie bolo publikované"
+
+#: includes/class-inventor-notifications-logic.php:252
+msgid "Your submission was published"
+msgstr "Vaše podanie bolo publikované"
+
+#: includes/class-inventor-notifications-logic.php:296
+#, php-format
+msgid "Your package %s will expire in %d days."
+msgstr "Váš balík %s vyexpiruje za %d dní."
+
+#: includes/class-inventor-notifications-logic.php:300
+#, php-format
+msgid "Your package %s expired."
+msgstr "Platnosť Vášho balíka %s vypršala."
+
+#: includes/class-inventor-notifications-logic.php:305
+#, php-format
+msgid "User %s purchased package %s (%s)."
+msgstr "Užívateľ %s si zakúpil balík %s (%s)."
+
+#: includes/class-inventor-notifications-logic.php:309
+#, php-format
+msgid "New pending submission %s is waiting for admin review."
+msgstr "Nové podanie %s čaká na kontrolu administrátora."
+
+#: includes/class-inventor-notifications-logic.php:313
+#, php-format
+msgid ""
+"Your submission %s is waiting for admin review. Until then, it will be not "
+"published."
+msgstr ""
+"Vaše podanie %s čaká na kontrolu administrátorom. Dovtedy ostáva "
+"nezverejnené."
+
+#: includes/class-inventor-notifications-logic.php:317
+#, php-format
+msgid "New submission %s was published."
+msgstr "Nové podanie %s bolo publikované."
+
+#: includes/class-inventor-notifications-logic.php:321
+#, php-format
+msgid "Your submission %s was published."
+msgstr "Vaše podanie %s bolo publikované."
+
+#: includes/class-inventor-notifications-post-type-notification.php:37
+#: includes/class-inventor-notifications-post-type-notification.php:43
+#: includes/class-inventor-notifications-post-type-notification.php:49
+msgid "Notifications"
+msgstr "Notifikácie"
+
+#: includes/class-inventor-notifications-post-type-notification.php:38
+msgid "Notification"
+msgstr "Notifikácia"
+
+#: includes/class-inventor-notifications-post-type-notification.php:39
+#: includes/class-inventor-notifications-post-type-notification.php:40
+msgid "Add New Notification"
+msgstr "Pridať novú notifikáciu"
+
+#: includes/class-inventor-notifications-post-type-notification.php:41
+msgid "Edit Notification"
+msgstr "Nová notifikácia"
+
+#: includes/class-inventor-notifications-post-type-notification.php:42
+msgid "New Notification"
+msgstr "Nová notifikácia"
+
+#: includes/class-inventor-notifications-post-type-notification.php:44
+msgid "View Notification"
+msgstr "Zobraziť notifikáciu"
+
+#: includes/class-inventor-notifications-post-type-notification.php:45
+msgid "Search Notification"
+msgstr "Vyhľadať notifikáciu"
+
+#: includes/class-inventor-notifications-post-type-notification.php:46
+msgid "No Notifications found"
+msgstr "Nenašli sa žiadne notifikácie"
+
+#: includes/class-inventor-notifications-post-type-notification.php:47
+msgid "No Notifications Found in Trash"
+msgstr "V koši sa nenašli žiadne notifikácie"
+
+#: includes/class-inventor-notifications-post-type-notification.php:77
+msgid "General"
+msgstr "Všeobecné"
+
+#: includes/class-inventor-notifications-post-type-notification.php:85
+#: includes/class-inventor-notifications-post-type-notification.php:102
+msgid "Action"
+msgstr "Akcia"
+
+#: includes/class-inventor-notifications-post-type-notification.php:101
+msgid "Title"
+msgstr "Nadpis"
+
+#: includes/class-inventor-notifications-post-type-notification.php:103
+msgid "Author"
+msgstr "Autor"
+
+#: includes/class-inventor-notifications-post-type-notification.php:104
+msgid "Date and status"
+msgstr "Dátum a stav"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:34
+msgid "Inventor Notifications"
+msgstr "Inventor notifikácie"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:46
+msgid "Package expiration warning"
+msgstr "Upozornenie o expirácii balíka"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:59
+msgid "Package expiration warning threshold"
+msgstr "Prah upozornenia"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:64
+msgid "3 days"
+msgstr "3 dni"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:65
+msgid "7 days"
+msgstr "7 dní"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:66
+msgid "14 days"
+msgstr "14 dni"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:67
+msgid "30 days"
+msgstr "30 dní"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:69
+msgid "Set threshold in days."
+msgstr "Nastavte prah v dňoch."
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:80
+msgid "Package expiration announcement"
+msgstr "Oznámenie o vypršaní platnosti balíka"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:84
+msgid "One day before package expiration."
+msgstr "Jeden deň pred expiráciou balíka."
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:99
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:114
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:144
+msgid "For admin"
+msgstr "Pre admina"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:129
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:159
+msgid "For user"
+msgstr "Pre používateľa"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:140
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:155
+msgid "Submission published"
+msgstr "Podanie publikované"

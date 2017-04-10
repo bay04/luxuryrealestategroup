@@ -1,0 +1,4 @@
+[01-Apr-2017 09:22:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/luxuryu1/public_html/wp-content/themes/superlist-child/functions.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/luxuryu1/public_html/wp-content/themes/superlist-child/functions.php on line 13

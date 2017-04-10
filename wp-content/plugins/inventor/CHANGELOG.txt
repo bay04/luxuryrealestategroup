@@ -1,0 +1,571 @@
+Version: 0.1.0
+Release date: 2015-11-03
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2015-11-12
+What's new:
+- default currency description
+
+
+Version: 0.2.0
+Release date: 2015-11-13
+What's new:
+- property post type moved to separated plugin inventor-properties
+
+
+Version: 0.2.1
+Release date: 2015-11-16
+What's new:
+- listing categories widget show count option
+- property taxonomies moved to inventor-properties
+- possibility to set google map as a banner for listing
+- inventor_attribute_value filter
+- new admin icons
+- listing detail actions
+- fixed small template bug
+- proper display of email and URL in listing attributes
+- non existing plugin update fix
+- link to login page for anonymous users in not allowed message
+- listing categories metabox for all listing types
+- contact metabox for event and shopping post type
+- video metabox for education post type
+
+
+Version: 0.2.2
+Release date: 2015-11-19
+What's new:
+- improved packages performance
+- hidden unpublished listings at archive page
+- custom fields
+- "Site is not using packages." message removed
+- contact section in listing detail
+- required attribute for listing title field
+- login and register form in "not-allowed" template
+- option to automatically log user in after registration
+- messages template
+- verified field definition moved to inventor-claims plugin
+- some minor bugfixes
+- watchdogs price field fix
+
+
+Version: 0.3.0
+Release date: 2015-11-26
+What's new:
+- support for listing purchases
+- removed show_front attribute from metabox definition
+- price metabox for food & drinks listing post type
+- price value validation
+- max listings value validation
+- option to add polygon into google map at listing detail
+- fixed payment form javascript issue when there was any form error
+- terms and conditions in payment form
+- new package type definition: simple package / one-time fee
+- listing post types admin metaboxes refactored into tabs
+- inventor_package_durations filter
+- cmb2_meta_boxes hook changed to cmb2_init for report and transaction post types
+- all page settings moved to Inventor Pages section in WP customize
+- when adding metaboxes to post type it is possible to add class like "Inventor_Coupons::general"
+- WARNING: backward incompatible update: renamed customization setting inventor_submission_payment_page to inventor_general_payment_page
+- WARNING: backward incompatible update: renamed customization setting inventor_submission_transactions_page to inventor_general_transactions_page
+- WARNING: backward incompatible update: renamed customization setting inventor_submission_terms to inventor_general_terms_and_conditions_page
+
+
+Version: 0.4.0
+Release date: 2015-12-02
+What's new:
+- social links for listings
+- reset password form shortcode ([inventor_reset_password])
+- packages moved to separated plugin inventor-packages
+- package metabox permissions
+- social metabox
+- jumping in submission steps (for existing listing)
+- billing details in payment form
+- text_money cmb2 field for price listing field
+- using inventor_claims_allowed_listing_post_types filter
+- WARNING: backward incompatible update: renamed shortcode inventor_submission_payment to inventor_payment
+- WARNING: backward incompatible update: renamed shortcode inventor_submission_package_info to inventor_package_info
+
+
+Version: 0.5.0
+Release date: 2015-12-04
+What's new:
+- fixed text_money sanitation callback
+- number of listings in admin menu counts draft and pending posts from now too
+
+
+Version: 0.6.0
+Release date: 2015-12-09
+What's new:
+- opening hours field changed to table layout
+- disable_post_types priority fix
+- listing categories third level support
+- WordPress 4.4 taxonomies fix in admin
+- field types refactoring
+
+
+Version: 0.6.1
+Release date: 2015-12-12
+What's new:
+- user registration notification
+
+
+Version: 0.6.2
+Release date: 2015-12-15
+What's new:
+- WordPress 4.4 taxonomies fix in admin
+
+
+Version: 0.7.0
+Release date: 2016-01-18
+What's new:
+- several templates adjustments
+- better archive templates
+- multicheck and multicheck_inline fields representation fix
+- opening hours in widget are hidden if not defined
+- branding logo prepends listing title in detail view
+- front end WYSIWYG saves HTML elements
+- fixed remove listing action
+- fixed gallery css in frontend submission
+- preserving listing comment status fix
+- fixed general metabox values edited by admin
+- registration of already existing email fix
+- fixed redirection after new submission if review by admin is enabled
+- inventor_inquire_message_sent action after inquire form submission
+- opening hours fixes (timezone mismatch, undefined index, preserving WordPress time format and first day of week)
+- content-listing.php was split into section templates
+- listing type filter field
+- listing_type_supported filter
+- jobs moved to own plugin
+- small breadcrumb improvements
+- settings for default listing archives sorting and ordering: inventor_general_default_listing_sort, inventor_general_default_listing_order
+
+
+Version: 0.8.0
+Release date: 2016-03-16
+What's new:
+- refactored listing detail sections with option to override section title
+- taxonomies of disabled listing types are hidden from menu
+- displayed listing type in submission creation and edit and list page
+- submission works only for enabled listing post types
+- removed .po and .mo files and created .pot file
+- google map when signed in performance fix
+- hide empty description
+- payment gateway header radio button fix
+- listing types support for listings widget
+- breadcrumb improvements
+- fixed missing translation strings and phrases
+- Slovak translation
+- improved selection of location
+- location filter field supports infinite children hierarchy now
+- after payment page redirection setting
+- phone in inquire form
+- Google Browser API Key setting
+- login and registration form responsiveness fix
+- inventor_listing_detail_sections filter takes post type argument
+
+- New WP actions:
+- inventor_listing_details_before
+- inventor_listing_details_after
+- inventor_submission_listing_created
+- inventor_submission_listing_updated
+- inventor_submission_list_row_actions
+
+- New WP filters:
+- inventor_metabox_location_polygon_enabled
+- inventor_metabox_location_street_view_enabled
+- inventor_metabox_location_inside_view_enabled
+- inventor_listing_detail_section_root_dir
+
+
+Version: 0.8.1
+Release date: 2016-03-24
+What's new:
+- fixed quotes in Slovak translation
+- automatic updates fix
+- date and time field representation fix
+- typo fix
+
+
+Version: 0.9.0
+Release date: 2016-03-29
+What's new:
+- fixed missing translation strings and phrases
+- PHP 7 support
+- option to hide user billing details
+- option to show featured image of listing in its gallery
+- option to enable/disable listing banner types
+- option to set default banner type
+- new user registration notifications are send only to admin
+- fixed missing category name
+- helper function for listing type name
+- Italian translation
+
+
+Version: 1.0.0
+Release date: 2016-04-08
+What's new:
+- metabox description in submission steps
+- submission system moved to own plugin inventor-submission
+- build_hierarchical_taxonomy_select_options moved to Inventor_Utilities class
+- automatic theme updates
+- person in contact metabox
+- listing categories, locations and colors moved from Inventor to Lexicon menu in WP admin
+- fixed default value of hierarchical select
+- Google reCAPTCHA support in inquire form
+- editing existing listing redirects to same page, not to list of user listings
+- support for rendering custom metabox using generic section template
+- label of submit button in the last step of submission is "Done"
+- Spanish translation
+- default location of the map field is whole Earth
+
+- New WP filters:
+- inventor_metabox_assigned
+- inventor_metabox_title
+- inventor_metabox_description
+- inventor_metabox_field_default
+- inventor_metabox_field_type for location field
+- inventor_metabox_location_map_enabled
+- inventor_metabox_social_networks
+- inventor_submission_steps
+- inventor_poi_icons
+
+- WARNING: update all inventor-* plugins at first and then main inventor plugin as the last one
+- WARNING: backward incompatible update: WP filter inventor_submission_listing_metabox_allowed renamed to inventor_metabox_allowed
+
+
+Version: 1.0.1
+Release date: 2016-04-10
+What's new:
+- classes for filter sorting options
+- Google reCAPTCHA support in report form
+
+- New WP actions:
+- inventor_listing_actions
+
+
+Version: 1.1.0
+Release date: 2016-04-18
+What's new:
+- column listing display
+- listing carousel
+- reordered user address fields
+- reordered user billing fields
+- Danish translation
+- French translation
+- option to save sessions to database
+- Google reCAPTCHA support in register form
+- helper function Inventor_Post_Types::is_featured_listing()
+- helper function Inventor_Post_Types::is_reduced_listing()
+- fixed output of file and file list field types
+- breadcrumb fix for taxonomy archive page
+- category and location filter fields show only children items at taxonomy archive page
+- listing type in report notification mail template
+- inventor_metabox_social_networks WP filter applies for user profile too
+
+- New WP filters:
+- inventor_filter_query_taxonomies
+- inventor_metabox_field_enabled
+- inventor_metabox_field_attributes
+- inventor_database_session_handler_enabled
+- inventor_listing_special_label
+
+- WARNING: backward incompatible update: WP filter inventor_metabox_location_map_enabled removed prior to new filter inventor_metabox_field_enabled
+- WARNING: backward incompatible update: WP filter inventor_metabox_location_polygon_enabled removed prior to new filter inventor_metabox_field_enabled
+- WARNING: backward incompatible update: WP filter inventor_metabox_location_street_view_enabled removed prior to new filter inventor_metabox_field_enabled
+- WARNING: backward incompatible update: WP filter inventor_metabox_location_inside_view_enabled removed prior to new filter inventor_metabox_field_enabled
+
+
+Version 1.2.0
+Release date: 2016-05-01
+What's new:
+- no more complicated widget logic conditions, use widget visibility options
+- sessions are disabled by default
+- inventor_metabox_field_enabled filter applies to listing_locations field too
+- opening hours for manual offset fix
+- if filtering by distance (on map for example), closest listings have bigger order priority
+- reCAPTCHA toggle fix in inquire form widget
+- fixed missing date placeholder in inquire form
+- removed filter- prefix from filter fields
+- price filter field use single value instead of 2
+- register, inquire and claim forms preserve data if form is invalid
+- listing author widget is hidden if author profile is not set
+- inquire form fix
+- banner type fix
+
+- New WP filters
+- inventor_visitor_data_storage (options: COOKIE/SESSION, default = COOKIE)
+- inventor_metabox_field_name
+- inventor_metabox_field_description
+- inventor_asynchronous_scripts
+
+
+Version 1.3.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- simple banner type
+- default zoom of listing location at its detail page is 15
+- fixed empty value of some taxonomy fields
+- empty form values are not submitted (better SEO)
+- slug is used for location and listing category filter values instead of their IDs (better SEO)
+- currency in price filter fields
+- list of listing authors ([inventor_users] shortcode)
+- author detail page
+- link to author detail page from listing author widget
+- more social networks in listing author widget
+- social metabox has icons of social networks
+
+New WP filters:
+- inventor_filter_params
+
+
+Version 1.4.0
+Release date: 2016-06-08
+What's new:
+- Portuguese translation
+- default location field type changed to chained selects (taxonomy_select_chain)
+- users widget
+- colorbox for all images
+- link to skype:username?call for Skype social network
+- link to tel: for phone field value
+- added http:// prefix for website in listing author widget (if not set)
+- fallback to generic filter field template
+- Stripe button visibility changes according to agreed terms and conditions
+- WP admin logout fix
+- new helper method Inventor_Utilities:get_site_admins()
+- improved payment UX for anonymous users
+- Inventor_Utilities:get_after_payment_url() helper
+
+New WP filters:
+- inventor_listing_attributes
+- inventor_social_network_url
+
+New WP actions:
+- inventor_before_listing_detail
+- inventor_after_listing_detail
+
+
+Version 1.4.1
+Release date: 2016-06-09
+What's new:
+- fix of initial chained select field value
+
+
+Version 1.5.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- Portuguese translation fix
+- youngest taxonomy child displayed in the filter while browsing its archive page
+- terms and conditions in registration form open in new tab
+- support for custom payment gateway action
+- meals in food and groups have own metabox function
+- users can delete their own media files
+- option to override translation files more easily
+- food menu image opens in popup
+- billing details are not shown in payment form if they are disabled
+- support of shortcodes in custom filter fields of wysiwyg and textarea types
+- reset password page
+- translation fixes
+- fixed social section title at listing detail page
+- car details and car color in own metabox functions
+- Inventor_Utilities::build_hierarchical_taxonomy_select_options() recognizes array as selected value
+- support for CMB2 2.2.2.1
+- updated Danish translations
+
+New WP filters:
+- inventor_filter_query_meta
+
+
+Version 1.5.1
+Release date: 2016-07-06
+What's new:
+- Turkish translation fix
+- Google Map Widget intercepts taxonomy term
+- fix of dropdowns duplicates
+
+
+Version 1.6.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- removed cmb_taxonomy_metadata library
+- map field saves address now too instead of GPS coordinates only
+- option to set listing category for specific listing types only
+- listing category color
+- listing type icon
+- alt attribute for gallery thumbnails at listing detail page
+- Inventor_Utilities::generate_hash() helper function
+- Inventor_Post_Types::is_post_author() helper function
+- option to sort listings by date (disabled by default)
+- option to filter listings by date
+- social connections title is not shown in user profile if there are no social networks defined
+- SSL and cookie fix
+- new strings in .pot catalog
+- INVENTOR_FIELD_TYPE_TAXONOMY_SELECT_CHAIN_DEPTH constant
+- listing category icon in the box listing template
+- listing category icon in the masonry listing template
+- new listing categories widget appearance option (cards)
+- listings counts dashboard widget in the WP admin
+- listing directions link opens in new window
+- pricing table user redirection fix
+- fixed empty FAQs
+- user avatar in listing author widget is a link to user profile
+
+New WP filters:
+- inventor_order_query_field
+- inventor_filter_query_field
+- inventor_widget_listings_query
+- inventor_widget_listings_order_options
+
+
+Version 1.6.1
+Release date: 2016-08-02
+What's new:
+- pricing table redirection fix
+
+
+Version 1.7.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- WP All Import add-on ready (https://wordpress.org/plugins/import-xml-csv-listings-to-inventor-wp/)
+- option to set map type in the listing detail page
+- settings shortcut in the inventor menu
+- lost password URL redirection to frontend page
+- location / region field moved from the bottom to top in the metabox
+- fixed German translation
+- fixed edge cases of chain selects
+- support for YouTube and Vimeo URLs in the Listing Video Banner
+- metabox and field filters applied for dating listing type fields
+- metabox and field filters applied for travel listing type fields
+- fixed listing type without icon in admin dashboard listings counts table
+- selected Inventor POI icon in admin has different color and is easier to find
+- opening hours status is not set for custom values
+- link of the taxonomy custom fields in the listing overview
+- custom Meals and Drinks menu sections
+- Inventor_Query::get_taxonomy_tree_value() helper
+- Inventor_Utilities::get_term_options() helper
+- site_url() replaced with home_url()
+- rebuilded .pot catalogue
+- address title is not visible if each user address field is disabled
+- fixed active sorting and order by filter button
+- filter sorting options in own template
+- fixed sidebar in author detail page
+- pricing table redirection fix
+- inventor_listing_attributes filter takes optional $post_id attribute from now
+- improved documentation regarding predefined fields and metaboxes (developer guide)
+- improved documentation regarding custom fields and metaboxes (user guide)
+- Inventor_Query::get_listings_by_user() takes new post type argument
+- alt text for listing logo
+- removed condition for Terms of Service
+
+New WP filters:
+- inventor_field_type_taxonomy_select_chain_depth
+
+
+Version 1.8.0
+Release date: 2016-10-07
+What's new:
+- new helper Inventor_Post_Type_Listing::get_icon()
+- Inventor_Post_Type_Listing::get_inventor_poi() is deprecated
+- meals and drinks menu sections lexicon is not visible in the menu if food listing type is disabled
+- zeros are shown after decimal point in the meals and drinks menu
+- new customizations section: Inventor Users
+- option to show user address field as a country dropdown list
+- Inventor_Utilities::get_countries() helper function
+- Inventor_Post_Types::get_max_listing_categories() helper function
+- Inventor_Utilities::excerpt() helper function
+- option to set maximum allowed number of categories per listing
+- new strings in .pot catalog
+- dynamic meals and drinks metabox ID
+- author social networks in author detail page
+- automatic Facebook, Twitter and Google+ user URLs from user nickname
+- message about maximum allowed categories before field
+- rebuilded catalog
+- new shortcode: [inventor_public_profile_link]
+- "Select/Deselect All" buttons are disabled for listing categories and location
+- fixed taxonomy separator
+- .term-tree, .has-children, .children-wrapper and .children classes for taxonomy hierarchical multicheck field
+- added class .listing-detail-section-subtitle to h3 element in listing sections
+- lost password URL fix
+- new URL to Google Polyline Utility
+- max categories message is hidden in backend
+- excerpt of the listing title in the listing archive
+- custom fields of contact metabox are shown in listing detail
+- empty generic sections of custom metaboxes are not shown in listing detail
+- option to deselect icon of listing category
+- Inventor_Metaboxes::get_for_post_type() helper
+- fixed accent in the Spanish translation
+- custom section fields allows post tags in their values
+
+New WP filters:
+- inventor_notify_about_new_user
+
+
+Version 1.9.0
+Release date: 2016-11-04
+What's new:
+- The Open Graph Protocol title and image
+- granted upload_files permission to the contributor role
+- option to define chained select depth using 'chain_depth' field attribute
+- WP filter inventor_metabox_title used for user metaboxes
+- WP filter inventor_metabox_social_networks takes $post_type argument
+- WP filter inventor_metabox_field_enabled applied to user fields and general metabox fields
+- default WordPress user profile fields updates when user edits his profile on frontend
+- checking of empty contact section in listing detail
+- phone field type
+- fixed accent in the Spanish translation
+- Inventor_Metaboxes::get_for_post_type() can take array as an argument
+- helper function Inventor_Post_Types::get_icon()
+- Inventor_Post_Types::count_post_types() renamed to Inventor_Post_Types::count_posts()
+- Listing Types widget
+- fixed rows/grid listing display
+- post type argument in inventor_listing_type_icon WP filter
+- fixed icon anchor in the listing categories and listing types widgets
+- field ID in the custom metabox section field title and content wrapper classes
+- single payment gateway is automatically checked as default
+- .mp4 class for video-embed-wrapper
+- added anchor to listing title in box display
+- option to set "per row" option in the "Listing Categories" widget settings
+- automatic Instagram user URL from user nickname
+- field ID in generic section template
+- form group class for each filter field
+- support of image field in generic section template
+- refactored filter form widget fields
+- Inventor_Utilities::remove_special_characters()
+- escapes and sanitizes user's first and last name
+- forced Reply-To in inquire mail header
+- WP filter: inventor_inquire_form_subject
+
+
+Version 2.0.0
+Release date: 2016-12-13
+What's new:
+- similar listings option in the "Listings" widget
+- nightly opening hours (for example from 10:00 – 01:00 next day).
+- Inventor_Post_Types::get_attributes() takes ignore_skipped argument
+- inventor_compare_metaboxes WP filter applied to hotel listing type
+- WP filter inventor_filter_query renamed to inventor_filter_query_ids
+- WP filter inventor_metabox_title takes $post_type argument
+- WP filter inventor_metabox_description takes $post_type argument
+- refactored filter form template
+- fixed row/box filter switcher
+- Inventor_Post_Types::opening_hours_for_day() helper
+- escaping field value moved from generic template to core inventor functionality
+- helper function Inventor_Post_Types::opening_hours_day_names()
+- helper function Inventor_Price::format_price() takes $currency argument
+- refactored opening hours
+- address in map at listing detail page
+- endpoints for WordPress JSON REST API
+- Geolocation filter field works outside map too
+- new WP action: inventor_register_form_fields_before
+- new WP action: inventor_register_form_fields_after
+- new WP filter: inventor_listing_category_name
+- .listing-column-bottom-title changed from <span> to <div> to prevent validation errors
+- pagination in author detail page
+- updated .pot catalog
+- updated Slovak translation

@@ -1,0 +1,8 @@
+[18-Mar-2017 06:08:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/luxuryu1/public_html/wp-content/themes/superlist/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/luxuryu1/public_html/wp-content/themes/superlist/404.php on line 9
+[23-Mar-2017 18:23:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/luxuryu1/public_html/wp-content/themes/superlist/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/luxuryu1/public_html/wp-content/themes/superlist/404.php on line 9

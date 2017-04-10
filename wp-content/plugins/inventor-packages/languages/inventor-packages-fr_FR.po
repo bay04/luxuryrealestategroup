@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Packages\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-06-28 09:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-packages-logic.php:54
+#: includes/post-types/class-inventor-packages-post-type-package.php:37
+#: includes/post-types/class-inventor-packages-post-type-package.php:43
+#: includes/post-types/class-inventor-packages-post-type-package.php:49
+#: includes/widgets/class-inventor-packages-widget-packages.php:23
+msgid "Packages"
+msgstr "Forfaits"
+
+#: includes/class-inventor-packages-logic.php:203
+#: templates/widgets/packages.php:83
+msgid "Unlimited"
+msgstr "Illimité"
+
+#: includes/class-inventor-packages-logic.php:207
+#: includes/post-types/class-inventor-packages-post-type-package.php:107
+#: includes/post-types/class-inventor-packages-post-type-package.php:188
+#: templates/widgets/packages.php:80
+msgid "Max Listings"
+msgstr "Annonces Max"
+
+#: includes/class-inventor-packages-logic.php:258
+msgid "Listing details"
+msgstr "Détails de l'annonce"
+
+#: includes/class-inventor-packages-logic.php:281
+msgid "week"
+msgstr "semaine"
+
+#: includes/class-inventor-packages-logic.php:282
+msgid "month"
+msgstr "mois"
+
+#: includes/class-inventor-packages-logic.php:283
+msgid "year"
+msgstr "année"
+
+#: includes/class-inventor-packages-logic.php:300
+msgid "Purchase package"
+msgstr "Choisissez un forfait"
+
+#: includes/class-inventor-packages-logic.php:301
+#, php-format
+msgid "Upgrade package to %s"
+msgstr "Passez au forfait %s"
+
+#: includes/class-inventor-packages-logic.php:319
+msgid "Not set"
+msgstr "Non réglé"
+
+#: includes/class-inventor-packages-logic.php:466
+msgid "Infinite"
+msgstr "Infini"
+
+#: includes/class-inventor-packages-logic.php:506
+#: includes/class-inventor-packages-logic.php:521
+#: includes/class-inventor-packages-logic.php:567
+#: includes/post-types/class-inventor-packages-post-type-package.php:38
+msgid "Package"
+msgstr "Forfait"
+
+#: includes/class-inventor-packages-logic.php:515
+msgid "Package Information"
+msgstr "Information du Forfait"
+
+#: includes/class-inventor-packages-logic.php:537
+msgid "Infinite duration"
+msgstr "Durée infinie"
+
+#: includes/class-inventor-packages-logic.php:544
+msgid "Validity"
+msgstr "Validité"
+
+#: includes/class-inventor-packages-logic.php:570
+msgid ""
+"Button will be linked to the purchase page. You must create payment page "
+"(containing [inventor_payment]) which must be set up in customizer."
+msgstr ""
+"Bouton sera lié à la page d'achat. Vous devez créer la page de paiement "
+"(contenant [inventor_payment]) qui doit être mis en place en clientèle."
+
+#: includes/class-inventor-packages-logic.php:1026
+msgid "Package is not free."
+msgstr "Package est pas gratuit."
+
+#: includes/class-inventor-packages-logic.php:1032
+msgid "Package has been set."
+msgstr "Le forfait a été défini."
+
+#: includes/class-inventor-packages-logic.php:1034
+msgid "Could not set package for user."
+msgstr "Le forfait n'a pu être définit pour l'utilisateur."
+
+#: includes/class-inventor-packages-logic.php:1055
+msgid "Package has been upgraded."
+msgstr "Le forfait a été mis à jour."
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:34
+msgid "Inventor Packages"
+msgstr "Inventor forfaits"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:49
+msgid "Default package"
+msgstr "Forfait par défaut"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:53
+msgid "For newly registered user"
+msgstr "Pour utilisateur nouvellement enregistré"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:39
+#: includes/post-types/class-inventor-packages-post-type-package.php:40
+msgid "Add New Package"
+msgstr "Ajouter un nouveau forfait"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:41
+msgid "Edit Package"
+msgstr "Modifier le forfait"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:42
+msgid "New Package"
+msgstr "Nouveau forfait"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:44
+msgid "View Package"
+msgstr "Voir le forfait"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:45
+msgid "Search Package"
+msgstr "Rechercher un forfait"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:46
+msgid "No Packages found"
+msgstr "Pas de forfait trouvé"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:47
+msgid "No Packages Found in Trash"
+msgstr "Aucun document trouvé dans la corbeille"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:76
+msgid "General"
+msgstr "Géneral"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:85
+#: includes/post-types/class-inventor-packages-post-type-package.php:186
+#: templates/widgets/packages.php:64
+msgid "Price"
+msgstr "Prix"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:88
+#, php-format
+msgid "In %s."
+msgstr "En %s."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:100
+#: includes/post-types/class-inventor-packages-post-type-package.php:187
+#: templates/widgets/packages.php:72
+msgid "Duration"
+msgstr "Durée"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:109
+msgid ""
+"If submission type is 'packages'. Use -1 for unlimited amount of listings."
+msgstr ""
+"Si le type de soumission est «forfaits». Utilisez -1 pour un nombre illimité "
+"d'annonces."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:119
+#: includes/post-types/class-inventor-packages-post-type-package.php:190
+msgid "Private"
+msgstr "Privé"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:121
+msgid ""
+"If checked, package won't be visible in the pricing. Suitable for VIP users "
+"or admins."
+msgstr ""
+"Si coché, le paquet ne sera pas visible dans la tarification. Adapté aux "
+"utilisateurs VIP ou admins."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:126
+msgid "Permissions"
+msgstr "Permissions"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:135
+msgid "Video"
+msgstr "Vidéo"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:141
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:147
+msgid "Reviews"
+msgstr "Avis"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:159
+msgid "Location"
+msgstr "Emplacement"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:165
+msgid "Opening hours"
+msgstr "Horaires d’ouverture"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:171
+msgid "Contact"
+msgstr "Contact"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:185
+#: templates/widgets/packages-admin.php:12
+msgid "Title"
+msgstr "Titre"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:189
+msgid "Type"
+msgstr "Type"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:191
+msgid "Date"
+msgstr "Date"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:238
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:238
+msgid "No"
+msgstr "Non"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:243
+msgid "free"
+msgstr "gratuit"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:245
+msgid "regular"
+msgstr "normal"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:247
+msgid "simple"
+msgstr "simple"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:249
+msgid "trial"
+msgstr "essai"
+
+#: includes/widgets/class-inventor-packages-widget-packages.php:25
+msgid "Displays available packages."
+msgstr "Affiche les forfaits disponibles."
+
+#: templates/package-info.php:13
+msgid ""
+"Site is using packages. Before you can post listing, please upgrade your "
+"package."
+msgstr ""
+"Le site utilise des forfaits. Avant de pouvoir poster des biens, vous devez "
+"mettre à jour votre forfait."
+
+#: templates/package-info.php:17
+msgid "You don't have any package."
+msgstr "Vous ne disposez pas de tout forfait."
+
+#: templates/package-info.php:22
+#, php-format
+msgid "You are using <strong>%s</strong> package."
+msgstr "Vous utilisez le forfait <strong>%s</strong>."
+
+#: templates/package-info.php:29
+#, php-format
+msgid "Your membership is valid until <strong>%s</strong>."
+msgstr "Votre adhésion est valable jusqu'à <strong>%s</strong>."
+
+#: templates/package-info.php:38
+msgid "You can add <strong>unlimited</strong> amount of items"
+msgstr "Vous pouvez ajouter un nombre d'article <strong>illimité</strong>"
+
+#: templates/package-info.php:40
+#, php-format
+msgid ""
+"You can not add new listings because you spent all of your available "
+"listings. Change your package. First <strong>%s</strong> items has been "
+"disabled from listing."
+msgstr ""
+"Vous ne pouvez plus ajouter aucun bien, vous n'en avez plus de disponible. "
+"Changer votre package. Le premier <strong>%s</strong> articles a été "
+"désactivé de votre liste."
+
+#: templates/package-info.php:42
+#, php-format
+msgid "You can add <strong>%s</strong> items."
+msgstr "Vous pouvez ajouter <strong>%s</strong> articles."
+
+#: templates/package-info.php:49
+#, php-format
+msgid "Your membership already expired at <strong>%s</strong>."
+msgstr "Votre adhésion est déjà expiré à <strong>%s</strong>."
+
+#: templates/package-info.php:51
+msgid "All your items has been deactivated until you pay for new membership."
+msgstr ""
+"Tous vos articles ont été désactivé jusqu'à ce que vous payez pour un nouvel "
+"abonnement."
+
+#: templates/package-info.php:67
+msgid "Select Package"
+msgstr "Choisissez un Forfait"
+
+#: templates/package-info.php:77 templates/widgets/packages.php:55
+msgid "Change"
+msgstr "Changement"
+
+#: templates/payment-form-before.php:9
+msgid "You can't choose trial package."
+msgstr "Vous ne pouvez pas choisir de forfait d'essai."
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You chose package <strong>\"%s\"</strong>."
+msgstr ""
+
+#: templates/payment-form-before.php:17
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for package <strong>\"%s\"</strong>."
+msgstr ""
+"Vous allez payer <strong>%s</strong>pour le forfait <strong>\"%s\"</strong>."
+
+#: templates/payment-form-before.php:23 templates/payment-form-fields.php:23
+msgid "Missing package."
+msgstr "Forfait manquant."
+
+#: templates/payment-form-fields.php:8
+msgid ""
+"Trial packages can only be used as a default package. They cannot be "
+"purchased or chosen."
+msgstr ""
+"Ces forfaits d'essai peut seulement être utilisés comme forfait par défaut. "
+"Ils peuvent être vendu ou choisi"
+
+#: templates/payment-form-fields.php:16
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: templates/widgets/packages.php:53
+msgid "Purchase"
+msgstr "Acheter"
+
+#: templates/widgets/packages.php:95
+msgid "No packages found."
+msgstr "Pas de forfait trouvé."
+
+#~ msgid "You choosed package <strong>\"%s\"</strong>."
+#~ msgstr "Vous avez choisi le forfait <strong>\"%s\"</strong>."

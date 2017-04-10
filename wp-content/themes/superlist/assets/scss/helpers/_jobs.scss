@@ -1,0 +1,269 @@
+.applicants-list {
+  @extend .row;
+}
+
+.applicants-row {
+  clear: both;
+  margin-bottom: 30px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.applicants-row:last-of-type {
+  margin-bottom: 0;
+}
+
+.applicants-row:before, .applicants-row:after {
+  content: " ";
+  display: table;
+}
+
+.applicants-row:after {
+  clear: both;
+}
+
+.applicant-container {
+  @extend .item-container;
+
+  float: left;
+  margin-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  position: relative;
+  transition: all linear 0.2s;
+
+  .items-per-row-2 & {
+    &:nth-child(odd) {
+      clear: left;
+      float: left;
+    }
+
+    &:nth-child(even) {
+      clear: right;
+      float: right;
+    }
+  }
+
+  &:before {
+    background-color: $color-primary;
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all cubic-bezier(0.2, 0, 0, 1) 0.3s;
+    width: 3px;
+  }
+
+  &:hover {
+    @media (min-width: $screen-md-min) {
+      &:before {
+        width: 68px;
+
+        #secondary & {
+          width: 50px;
+        }
+      }
+    }
+
+    .applicant {
+      box-shadow: 0 0 25px 0 rgba(black, .05);
+    }
+  }
+
+  @media (max-width: $screen-xs-max) {
+    margin-bottom: 30px;
+    width: 100% !important;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+/******************************************************************
+ * Applicant
+ ******************************************************************/
+
+.applicant {
+  background-color: #fff;
+  box-shadow: 0 0 5px 0 rgba(black, .1);
+  overflow: hidden;
+  transition: all linear 0.2s;
+
+  a {
+    border-bottom: 0 !important;
+  }
+
+  dl {
+    margin-bottom: 0;
+  }
+
+  dt {
+    color: $color-gray-darker;
+    float: left;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 26px;
+    text-transform: uppercase;
+    width: 130px;
+
+    @media (max-width: $screen-sm-max) {
+      text-align: center;
+      width: 100%;
+    }
+  }
+
+  dd {
+    border-bottom: 5px solid transparent;
+    display: table-cell;
+    font-size: 12px;
+    line-height: 24px;
+
+    @media (max-width: $screen-sm-max) {
+      display: inline-block;
+      text-align: center;
+      width: 100%;
+    }
+  }
+}
+
+.applicant-image {
+  background-color: #fff;
+  background-size: cover;
+  -webkit-background-size: cover;
+  background-position: center center;
+  border: 4px solid $color-gray;
+  border-radius: 50%;
+  float: left;
+  height: 95px;
+  margin: 30px 0 0 20px;
+  overflow: hidden;
+  position: relative;
+  transition: all linear .15s;
+  width: 95px;
+  z-index: 10;
+
+  img {
+    height: auto;
+    max-width: 100%;
+    visibility: hidden;
+  }
+}
+
+.applicant-image {
+  @media (max-width: $screen-sm-max) {
+    float: none;
+    margin: 30px auto 0 auto;
+  }
+}
+
+.applicant-title {
+  border-bottom: solid 1px $color-gray;
+  margin-bottom: 10px;
+
+  @media (max-width: $screen-sm-max) {
+    text-align: center;
+  }
+}
+
+.applicant-resume-title {
+  color: $color-gray-dark;
+  font-size: 12px;
+  //font-weight: 600;
+
+  &:before {
+    color: $color-primary;
+    content: '\f129';
+    font-family: 'FontAwesome';
+    margin-right: 4px;
+  }
+}
+
+.applicant-user-name {
+  margin-bottom: 10px !important;
+  margin-top: 8px !important;
+
+  a {
+    color: $color-black-light;
+    font-size: 22px;
+
+    &:hover {
+      color: $color-primary;
+      text-decoration: none;
+    }
+  }
+}
+
+.applicant-email, .applicant-phone, .applicant-website {
+  line-height: 20px;
+
+  &:before {
+    color: $color-gray-darker;
+    font-family: FontAwesome;
+    font-size: 12px;
+    margin-right: 8px;
+  }
+}
+
+.applicant-email:before {
+  content: "\f003";
+}
+
+.applicant-phone:before {
+  content: "\f095";
+}
+
+.applicant-website:before {
+  content: "\f0ac";
+}
+
+.applicant-content {
+  margin-left: 115px;
+  overflow: hidden;
+
+  @media (max-width: $screen-sm-max) {
+    margin-left: 0;
+  }
+}
+
+.applicant-resume {
+  float: left;
+  padding: 30px 20px;
+
+  @media (max-width: $screen-sm-max) {
+    width: 100%;
+  }
+}
+
+.applicant-job {
+  background-color: $color-gray-light;
+  float: left;
+  padding: 25px 20px 16px 20px;
+  height: 100%;
+  width: 100%;
+
+  .applicant-message {
+    color: $color-gray-darker;
+
+    @media (max-width: $screen-sm-max) {
+      text-align: center;
+    }
+  }
+}
+
+.applicant-job-title {
+  color: $color-gray-darkest;
+
+  &:before {
+    color: $color-gray-darker;
+    content: '\f0f2';
+    font-family: 'FontAwesome';
+    margin-right: 10px;
+  }
+
+  @media (max-width: $screen-sm-max) {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+  }
+}

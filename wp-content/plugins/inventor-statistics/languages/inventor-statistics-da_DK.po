@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Statistics\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-statistics-logic.php:54
+msgid "Popularity"
+msgstr "popularitet"
+
+#: includes/class-inventor-statistics-logic.php:212
+msgid "Price from"
+msgstr "Pris fra"
+
+#: includes/class-inventor-statistics-logic.php:216
+msgid "Price to"
+msgstr "Pris til"
+
+#: includes/class-inventor-statistics-logic.php:265
+#: includes/class-inventor-statistics-logic.php:371
+msgid "Per day"
+msgstr "Per dag"
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:34
+msgid "Inventor Statistics"
+msgstr "Opfinder statistik"
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:47
+msgid "Enable Search Query Logging"
+msgstr "Aktivere søgning forespørge logføring"
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:61
+msgid "Enable Listing Views Logging"
+msgstr "Aktiver oversigt Views logning"
+
+#: inventor-statistics.php:53 templates/admin/listing-views.php:2
+msgid "Listing Views"
+msgstr "Lister visninger"
+
+#: inventor-statistics.php:53
+msgid "Listing views"
+msgstr "Notering visninger"
+
+#: inventor-statistics.php:54
+msgid "Search Queries"
+msgstr "Søgeforespørgsler"
+
+#: templates/admin/listing-views.php:8
+msgid ""
+"Listing views logging is disabled. If you want to collect stats, plase "
+"enable under \"Appearance - Customize\"."
+msgstr ""
+"Notering synspunkter logning er slået fra. Hvis du ønsker at indsamle "
+"statistik, plase muligt under \"Udseende - Tilpas\"."
+
+#: templates/admin/listing-views.php:14
+msgid "Overall listing views for last two weeks"
+msgstr "Samlet udsigt notering for sidste to uger"
+
+#: templates/admin/listing-views.php:30
+msgid "10 most popular listings"
+msgstr "10 mest populære lister"
+
+#: templates/admin/listing-views.php:46 templates/admin/listing-views.php:72
+msgid "views"
+msgstr "set"
+
+#: templates/admin/listing-views.php:61
+msgid "10 most popular locations"
+msgstr "10 mest populære beliggenheder"
+
+#: templates/admin/search-queries.php:2
+msgid "Search Query Statistics"
+msgstr "Søg Query Statistik"
+
+#: templates/admin/search-queries.php:8
+msgid ""
+"Query logging is disabled. If you want to collect queries, plase enable "
+"under \"Appearance - Customize\"."
+msgstr ""
+"Query logning er deaktiveret. Hvis du ønsker at indsamle forespørgsler, "
+"plase muligt under \"Udseende - Tilpas\"."
+
+#: templates/admin/search-queries.php:14
+msgid "Filters per day in the last two weeks"
+msgstr "Filtre om dagen i de sidste to uger"
+
+#: templates/admin/search-queries.php:26
+msgid "Price searches"
+msgstr "Pris søgninger"
+
+#: templates/admin/search-queries.php:40
+msgid "Locations"
+msgstr "Placeringer"
+
+#: templates/admin/search-queries.php:52
+msgid "Categories"
+msgstr "Kategorier"
+
+#: templates/listing-archive-views.php:5
+msgid "Views"
+msgstr "Visninger"
+
+#: templates/post-total-views.php:5
+#, php-format
+msgid "<strong>%d</strong> view"
+msgid_plural "<strong>%d</strong> views"
+msgstr[0] "<strong>%d</strong> visning"
+msgstr[1] "<strong>%d</strong> visninger"

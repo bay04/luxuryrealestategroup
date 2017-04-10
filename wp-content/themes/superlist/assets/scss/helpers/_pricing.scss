@@ -1,0 +1,117 @@
+.pricing-container {
+    @media (max-width: $screen-xs-max) {
+        margin: 0 0 30px 0;
+        width: 100% !important;
+    }
+}
+
+.pricing-inner {
+    background-color: #fff;
+    border: 2px solid $color-gray-medium;
+    color: $color-black;
+    text-align: center;
+
+    @media (max-width: $screen-xs-max) {
+        margin-bottom: 30px;
+    }
+
+    .btn {
+        margin: 20px 0 20px 0;
+    }
+
+    small {
+        color: $color-black;
+        font-size: 16px;
+    }
+
+    &.highlighted {
+        border-color: $color-primary;
+
+        .pricing-header {
+            background-color: $color-primary;
+            color: #fff;
+
+            .pricing-title, .pricing-price {
+                color: #fff;
+            }
+
+            .pricing-description, .pricing-price small {
+                color: rgba(255, 255, 255, 0.5);
+            }
+        }
+    }
+}
+
+.pricing-header {
+    //background-color: $color-gray-light;
+    background-color: lighten($color-black-dark, 10%);
+    color: #fff;
+    padding: 20px;
+}
+
+.pricing-title {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1.4;
+    margin: 0;
+}
+
+.pricing-description {
+    //color: rgba($color-black-light, .5);
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-top: 0;
+}
+
+.pricing-price {
+    //color: $color-primary;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin: 12px 0 0 0;
+
+    sup {
+        padding-right: 3px;
+        top: -4px;
+    }
+
+    small {
+        color: rgba(255, 255, 255, 0.5);
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+}
+
+ul.pricing-list {
+    list-style: none;
+    padding: 20px 20px 0 20px;
+
+    li {
+        font-size: 17px;
+        font-weight: bold;
+        border-bottom: none;
+        padding: 5px 0;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    small {
+        color: $color-gray-dark;
+        display: block;
+        font-size: 13px;
+        font-weight: 400;
+        margin-bottom: 3px;
+        margin-top: 5px;
+    }
+
+    s {
+        color: $color-gray-medium;
+        font-weight: normal;
+    }
+}

@@ -1,0 +1,376 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Packages\n"
+"POT-Creation-Date: 2016-12-13 18:15+0100\n"
+"PO-Revision-Date: 2015-11-30 10:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;"
+"_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-packages-logic.php:62
+#: includes/post-types/class-inventor-packages-post-type-package.php:39
+#: includes/post-types/class-inventor-packages-post-type-package.php:45
+#: includes/post-types/class-inventor-packages-post-type-package.php:51
+#: includes/widgets/class-inventor-packages-widget-packages.php:23
+msgid "Packages"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:211 includes/class-inventor-packages-logic.php:244
+#: templates/widgets/packages.php:83
+msgid "Unlimited"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:215
+#: includes/post-types/class-inventor-packages-post-type-package.php:109
+#: includes/post-types/class-inventor-packages-post-type-package.php:206
+#: templates/widgets/packages.php:80
+msgid "Max Listings"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:248
+#: includes/post-types/class-inventor-packages-post-type-package.php:121
+#: includes/post-types/class-inventor-packages-post-type-package.php:207
+msgid "Max Categories"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:299
+msgid "Listing details"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:322
+msgid "week"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:323
+msgid "month"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:324
+msgid "year"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:341
+msgid "Purchase package"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:342
+#, php-format
+msgid "Upgrade package to %s"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:363
+msgid "Not set"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:512
+msgid "Infinite"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:552 includes/class-inventor-packages-logic.php:567
+#: includes/class-inventor-packages-logic.php:672
+#: includes/post-types/class-inventor-packages-post-type-package.php:40
+msgid "Package"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:561
+msgid "Package Information"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:584
+msgid "Infinite duration"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:591
+msgid "Validity"
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:612
+#, php-format
+msgid "Your package %s allows you to set unlimited number of categories."
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:614
+#, php-format
+msgid "Your package %s allows you to set at most %d category."
+msgid_plural "Your package %s allows you to set at most %d categories."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-inventor-packages-logic.php:647
+#, php-format
+msgid "Your package \"%s\" does not allow you to public this information."
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:675
+msgid ""
+"Button will be linked to the purchase page. You must create payment page (containing "
+"[inventor_payment]) which must be set up in customizer."
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:1154
+msgid "Package is not free."
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:1159
+msgid "Package has been set."
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:1161
+msgid "Could not set package for user."
+msgstr ""
+
+#: includes/class-inventor-packages-logic.php:1182
+msgid "Package has been upgraded."
+msgstr ""
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:34
+msgid "Inventor Packages"
+msgstr ""
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:49
+msgid "Default package"
+msgstr ""
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:53
+msgid "For newly registered user"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:41
+#: includes/post-types/class-inventor-packages-post-type-package.php:42
+msgid "Add New Package"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:43
+msgid "Edit Package"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:44
+msgid "New Package"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:46
+msgid "View Package"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:47
+msgid "Search Package"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:48
+msgid "No Packages found"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:49
+msgid "No Packages Found in Trash"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:78
+msgid "General"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:87
+#: includes/post-types/class-inventor-packages-post-type-package.php:204
+#: templates/widgets/packages.php:64
+msgid "Price"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:90
+#, php-format
+msgid "In %s."
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:102
+#: includes/post-types/class-inventor-packages-post-type-package.php:205
+#: templates/widgets/packages.php:72
+msgid "Duration"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:111
+msgid "If submission type is 'packages'. Use -1 for unlimited amount of listings."
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:122
+msgid "Per listing. Keep blank for unlimited"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:133
+#: includes/post-types/class-inventor-packages-post-type-package.php:209
+msgid "Private"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:135
+msgid "If checked, package won't be visible in the pricing. Suitable for VIP users or admins."
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:140
+msgid "Permissions"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:148
+msgid "Video"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:149
+msgid "Gallery"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:150
+msgid "Reviews"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:151
+msgid "Location"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:153
+msgid "Opening hours"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:154
+msgid "Contact"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:171
+msgid "Listing types restrictions"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:180
+msgid "Use restriction"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:186
+msgid "Listing types"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:203
+#: templates/widgets/packages-admin.php:12
+msgid "Title"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:208
+msgid "Type"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:266
+msgid "Yes"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:266
+msgid "No"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:271
+msgid "free"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:273
+msgid "regular"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:275
+msgid "simple"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:277
+msgid "trial"
+msgstr ""
+
+#: includes/widgets/class-inventor-packages-widget-packages.php:25
+msgid "Displays available packages."
+msgstr ""
+
+#: templates/package-info.php:13
+msgid "Site is using packages. Before you can post listing, please upgrade your package."
+msgstr ""
+
+#: templates/package-info.php:17
+msgid "You don't have any package."
+msgstr ""
+
+#: templates/package-info.php:22
+#, php-format
+msgid "You are using <strong>%s</strong> package."
+msgstr ""
+
+#: templates/package-info.php:29
+#, php-format
+msgid "Your membership is valid until <strong>%s</strong>."
+msgstr ""
+
+#: templates/package-info.php:38
+msgid "You can add <strong>unlimited</strong> amount of items"
+msgstr ""
+
+#: templates/package-info.php:40
+#, php-format
+msgid ""
+"You can not add new listings because you spent all of your available listings. Change your "
+"package. First <strong>%s</strong> items has been disabled from listing."
+msgstr ""
+
+#: templates/package-info.php:42
+#, php-format
+msgid "You can add <strong>%s</strong> items."
+msgstr ""
+
+#: templates/package-info.php:49
+#, php-format
+msgid "Your membership already expired at <strong>%s</strong>."
+msgstr ""
+
+#: templates/package-info.php:51
+msgid "All your items has been deactivated until you pay for new membership."
+msgstr ""
+
+#: templates/package-info.php:67
+msgid "Select Package"
+msgstr ""
+
+#: templates/package-info.php:77 templates/widgets/packages.php:55
+msgid "Change"
+msgstr ""
+
+#: templates/payment-form-before.php:9
+msgid "You can't choose trial package."
+msgstr ""
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You chose package <strong>\"%s\"</strong>."
+msgstr ""
+
+#: templates/payment-form-before.php:17
+#, php-format
+msgid "You are going to pay <strong>%s</strong> for package <strong>\"%s\"</strong>."
+msgstr ""
+
+#: templates/payment-form-before.php:23 templates/payment-form-fields.php:23
+msgid "Missing package."
+msgstr ""
+
+#: templates/payment-form-fields.php:8
+msgid "Trial packages can only be used as a default package. They cannot be purchased or chosen."
+msgstr ""
+
+#: templates/payment-form-fields.php:16
+msgid "Confirm"
+msgstr ""
+
+#: templates/widgets/packages.php:53
+msgid "Purchase"
+msgstr ""
+
+#: templates/widgets/packages.php:95
+msgid "No packages found."
+msgstr ""

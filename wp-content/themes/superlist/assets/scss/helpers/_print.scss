@@ -1,0 +1,46 @@
+@media print {
+    body {
+        -webkit-print-color-adjust: exact;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .header,
+    .action-bar,
+    .detail-banner-after a,
+    .listing-detail-menu-wrapper,
+    .listing-report-btn,
+    .secondary.sidebar,
+    .listing-detail-location-wrapper .nav,
+    #listing-detail-section-video,
+    #listing-detail-section-reviews,
+    .widget.widget_call_to_action,
+    footer, .footer {
+        display: none;
+    }
+
+    .page-wrapper {
+        background-color: #fff;
+    }
+
+    .detail-banner {
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 270px;
+    }
+
+    .detail-label {
+        background-color: $color-primary;
+        display: inline-block;
+        font-size: 13px;
+        padding: 3px 15px;
+    }
+
+    #listing-detail-section-gallery {
+        .page-header {
+            display: block;
+        }
+    }
+}

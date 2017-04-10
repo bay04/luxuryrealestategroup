@@ -1,0 +1,712 @@
+.mapescape-map-wrapper { overflow: visible !important; }  /* To show toggle button */
+.map-inner.closed .mapescape-scroll { display: none; }
+
+#map {
+    background-color: rgba(black, .02);
+    background-image: url('../img/map.jpg');
+    background-position: center center;
+    height: 100%;
+}
+
+.marker-inventor-poi {
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 2px 3px rgba(black, .25);
+    color: $color-black;
+    font-weight: 700;
+    height: 40px;
+    text-align: center;
+    transition: all ease .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    width: 40px;
+
+    &:hover {
+        margin-left: -4px;
+        margin-top: -4px;
+        height: 48px;
+        width: 48px;
+
+        .marker-inventor-poi-inner {
+            height: 48px;
+            width: 48px;
+
+            .inventor-poi {
+                margin-top: -3px;
+                font-size: 19px;
+            }
+        }
+    }
+}
+
+.marker-inventor-poi-inner {
+    border: 3px solid $color-primary;
+    border-radius: 50%;
+    color: $color-black;
+    height: 40px;
+    font-size: 11px;
+    line-height: 30px;
+    width: 40px;
+    transition: all ease .15s;
+    text-align: center;
+
+    .inventor-poi {
+        color: $color-black-dark;
+        font-size: 14px;
+        opacity: .6;
+        position: absolute;
+        top: 50%;
+        transition: all ease .15s;
+        transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translateX(-50%) translateY(-50%);
+    }
+}
+
+.marker-thumbnail {
+    @extend .box-shadow;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center center;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    display: inline-block;
+    height: 60px;
+    margin-bottom: 10px;
+    width: 60px;
+    position: relative;
+    transform: translateX(-32%) translateY(-5%);
+    -webkit-transform: translateX(-32%) translateY(-5%);
+
+    img {
+        border-radius: 50%;
+        overflow: hidden;
+        visibility: hidden;
+        height: 60px;
+        width: 60px;
+    }
+}
+
+.marker {
+    background-image: url('../img/marker.png');
+    background-size: cover;
+    height: 38px;
+    display: block;
+    left: 0;
+    position: relative;
+    top: 0;
+    transition: all ease .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    width: 24px;
+
+    &:after {
+        background-color: $color-primary;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        content: '';
+        display: block;
+        height: 12px;
+        left: 6px;
+        position: relative;
+        top: -20px;
+        width: 12px;
+    }
+
+    &:before {
+        background-color: rgba(0, 0, 0, 0.5);
+        border-radius: 50%;
+        bottom: 1px;
+        box-shadow: 0 0 0 0 black;
+        content: '';
+        display: block;
+        height: 1px;
+        left: 50%;
+        position: absolute;
+        transition: all ease .15s;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        width: 1px;
+        z-index: -1;
+    }
+
+    &:hover {
+        margin-top: -6px;
+
+        &:before {
+            background-color: rgba(0, 0, 0, 0.14);
+            bottom: -5px;
+            box-shadow: 0 0 7px 1px rgba(0, 0, 0, .4);
+            width: 16px;
+        }
+    }
+}
+
+.marker-inner {
+    color: #fff;
+    display: block;
+    font-size: 16px;
+    height: 26px;
+    line-height: 27px;
+    margin: 0 0 0 6px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    top: 6px;
+    width: 26px;
+}
+
+.clusterer {
+    background-color: $color-black-light;
+    border: 2px solid $color-primary;
+    border-radius: 50%;
+    box-shadow: 0 2px 3px rgba(black, .25);
+    color: $color-black;
+    font-size: 10px;
+    font-weight: 700;
+    height: 40px;
+    text-align: center;
+    width: 40px;
+}
+
+.clusterer-inner {
+    border-radius: 50%;
+    color: #fff;
+    height: 34px;
+    font-size: 11px;
+    line-height: 34px;
+    width: 34px;
+}
+
+.infobox {
+    background-color: transparent;
+    bottom: 20px;
+    left: 1px;
+    position: relative;
+
+    &:after {
+        border-color: transparent;
+        border-style: solid;
+        border-width: 10px;
+        border-top-color: #fff;
+        bottom: -20px;
+        content: '';
+        display: block;
+        height: 0;
+        left: 50%;
+        position: absolute;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        width: 0;
+    }
+}
+
+.infobox-inner {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(black, .2);
+    height: 228px;
+    padding: 15px;
+    position: relative;
+    width: 260px;
+
+    .close {
+        background-color: transparentize($color-black-light, 0.75);
+        border: 0;
+        border-top-right-radius: 3px;
+        color: #fff;
+        cursor: pointer;
+        font-size: 0;
+        height: 26px;
+        line-height: 18px;
+        opacity: 1;
+        padding: 3px;
+        position: absolute;
+        right: 0;
+        text-align: center;
+        text-shadow: none;
+        top: 0;
+        transition: all linear .12s;
+        width: 26px;
+        z-index: 999;
+
+        &:before {
+            content: '\f00d';
+            font-family: FontAwesome;
+            font-size: 10px;
+        }
+        
+        i {
+            color: #fff;
+            display: block;
+            font-size: 11px;
+            line-height: 20px;
+        }
+
+        &:hover {
+            background-color: #fff;
+            color: $color-black;
+
+            i {
+                color: $color-primary;
+            }
+        }
+    }
+}
+
+.infobox-image {
+    background-size: cover;
+    background-position: center center;
+    border-radius: 3px 3px 0 0;
+    display: block;
+    height: 170px;
+    margin: -15px -15px 0 -15px;
+    position: relative;
+
+    &:after {
+        background-image: linear-gradient(to top, rgba(black, .5), transparent 55px);
+        bottom: 0;
+        content: '';
+        display: block;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 10;
+    }
+}
+
+.infobox-item {
+    @extend .clearfix;
+
+    border-bottom: 1px solid $color-gray-medium;
+    margin: 0 0 12px 0;
+    padding: 0 0 12px 0;
+
+    &:last-child {
+        border-bottom: 0;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+}
+
+.infobox-item-title {
+    color: $color-black-light;
+    display: block;
+    font-size: 14px;
+    margin: 12px 0 0 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    a {
+        color: $color-black-light;
+    }
+}
+
+.infobox-item-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    height: 45px;
+    margin: 0 13px 0 0;
+    position: relative;
+    width: 60px;
+
+    a {
+        bottom: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+}
+
+.infobox {
+    &.multiple {
+        .infobox-inner {
+            overflow: auto;
+        }
+    }
+
+    .inventor-favorites-btn-toggle {
+        bottom: 27px;
+        color: $color-red;
+        font-size: 14px;
+        right: 15px;
+        position: absolute;
+        z-index: 11;
+
+        &:hover {
+            cursor: pointer;
+
+            i:before {
+                content: "\f004";
+            }
+        }
+
+        &.marked {
+            i:before {
+                content: "\f004";
+                color: $color-red;
+            }
+        }
+
+        span {
+            display: none;
+        }
+    }
+}
+
+.infobox-title {
+    position: relative;
+
+    h2 {
+        color: $color-black;
+        font-size: 14px;
+        font-weight: 500;
+        margin: 13px 0 3px 0;
+        padding: 0 20px 0 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+
+        a {
+            color: $color-black;
+
+            &:hover {
+                color: $color-primary;
+            }
+        }
+    }
+}
+
+.infobox-rating {
+    color: $color-yellow;
+    font-size: 12px;
+    position: absolute;
+    right: 0;
+    top: 2px;
+
+    .fa {
+        margin: 0 0 0 4px;
+    }
+}
+
+.infobox-category {
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    i {
+        margin-right: 8px;
+        vertical-align: -1px;
+    }
+
+    a {
+        color: $color-gray-dark;
+
+        &:hover {
+            color: $color-gray-darkest;
+        }
+    }
+}
+
+.map-wrapper {
+    position: relative;
+}
+
+.map-inner {
+    border-bottom: 2px solid #fff;
+    position: relative;
+
+    @media (max-width: $screen-xs-max) {
+        height: auto !important;
+        overflow: visible;
+    }
+
+    &.closed {
+        border-bottom: 2px solid transparent;
+    }
+}
+
+.map-google {
+    position: relative;
+}
+
+.map-google-inner {
+    overflow: hidden;
+    transition: height .5s ease;
+
+    .fa-spinner {
+        color: rgba(black, .6);
+        display: block;
+        font-size: 40px;
+        left: 50%;
+        margin-left: -20px;
+        margin-top: -20px;
+        position: absolute;
+        top: 50%;
+    }
+
+    .map-inner.closed & {
+        .fa-spinner {
+            display: none;
+        }
+    }
+}
+
+.map-switch {
+    background-color: $color-primary;
+    bottom: 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: 700;
+    left: 50%;
+    padding: 4px 8px;
+    position: absolute;
+    transform: translateX(-50%) translateY(50%);
+    transition: background-color .15s linear;
+    z-index: 1000;
+
+    &:hover {
+        background-color: darken($color-primary, 5%);
+    }
+
+    .map-inner.closed & {
+        z-index: 2001;
+    }
+}
+
+.map-content {
+    form {
+        @extend .clearfix;
+    }
+
+    .map-inner.closed & {
+        display: none;
+    }
+
+    @media (min-width: $screen-sm-min) {
+        .form-group {
+            float: left;
+            padding: 0 15px;
+            width: 20%;
+        }
+
+        .button {
+            display: block;
+            margin: 0 !important;
+            width: 100%;
+        }
+
+        left: 50%;
+        padding: 20px;
+        position: absolute;
+        top: 0;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+
+        .form-control {
+            border-color: #fff;
+            box-shadow: 0 2px 2px rgba(black, .2) !important;
+        }
+
+        .dropdown-toggle {
+            border-color: #fff !important;
+
+            &:active, &:hover, &:focus {
+                border-color: #fff !important;
+            }
+        }
+
+        .input-group-addon {
+            border: 0;
+            box-shadow: 0 2px 2px rgba(black, .2) !important;
+            color: $color-gray-darker !important;
+            font-size: 12px;
+        }
+
+        .dropdown-menu {
+            border-color: #fff !important;
+        }
+
+        div.dropdown-menu {
+            margin-top: 2px !important;
+        }
+    }
+
+    @media (min-width: $screen-sm-min) {
+        .row {
+            margin-right: 40px;
+        }
+    }
+
+    @media (max-width: $screen-xs-max) {
+        margin: 40px 30px;
+
+        .button {
+            display: block;
+            margin: 0 !important;
+            width: 100%;
+        }
+    }
+}
+
+.widget_google-map .map-content {
+    pointer-events: none;
+
+    .form-group, .map-actions-group {
+        pointer-events: auto;
+    }
+}
+
+.map-actions {
+    user-select: none;
+    -webkit-user-select: none;
+
+    @media (max-width: $screen-xs-max) {
+        margin: 0 -15px;
+
+        a span {
+            padding: 0 10px !important;
+        }
+    }
+
+    a {
+        background-color: $color-black-light;
+        color: #fff;
+        cursor: pointer;
+        display: inline-block;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 -4px 0 0;
+        min-width: 30px;
+        text-align: center;
+
+        &:hover {
+            color: #fff;
+        }
+
+        .fa {
+            font-size: 13px;
+        }
+
+        span {
+            font-size: 13px;
+            padding: 0 15px;
+        }
+    }
+
+    a:hover {
+        background-color: lighten($color-black-light, 10%);
+    }
+
+    a:first-of-type:before {
+        content: none;
+    }
+
+    a:before {
+        content: "";
+        display: block;
+        position: absolute;
+        height: 20px;
+        margin-top: 5px;
+        border-left: 1px solid lighten($color-black-light, 10%);
+    }
+}
+
+.map-actions-group {
+    display: inline-block;
+    margin: 0 12px 0 0;
+
+    &:hover a:before {
+        height: 30px;
+        margin-top: 0;
+    }
+
+    @media (max-width: $screen-xs-max) {
+        margin-bottom: 8px;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}
+
+#map-canvas {
+    height: 300px;
+    margin: 0 0 30px 0;
+
+    .form-control {
+        right: 42px !important;
+        top: 20px !important;
+        width: 300px !important;
+    }
+}
+
+.simple-marker {
+    @extend .marker;
+
+    &:after {
+        top: 6px;
+    }
+}
+
+.simple-marker-primary {
+    @extend .simple-marker;
+    background-image: url('../img/marker-primary.png');
+}
+
+#simple-map {
+    img {
+        max-width: inherit;
+    }
+}
+
+#banner-map, #banner-street-view, #banner-inside-view {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+
+    .banner-marker {
+        @extend .marker;
+    }
+
+    img {
+        max-width: inherit;
+    }
+}
+
+.marker-content {
+    background-color: #fff;
+    border: solid 1px transparentize(#000, 0.8);
+    color: $color-gray-darkest;
+    font-size: 13px;
+    left: 21px;
+    padding: 8px 10px;
+    position: absolute;
+    text-align: center;
+    top: -75px;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    width: 250px;
+
+    &:after {
+        border-color: transparent;
+        border-style: solid;
+        border-width: 10px;
+        border-top-color: #fff;
+        bottom: -20px;
+        content: '';
+        display: block;
+        height: 0;
+        left: 50%;
+        position: absolute;
+        width: 0;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+    }
+}

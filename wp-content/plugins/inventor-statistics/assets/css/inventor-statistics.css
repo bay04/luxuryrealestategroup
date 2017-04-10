@@ -1,0 +1,161 @@
+.subtitle {
+    color: rgba(0, 0, 0, .7);
+    font-style: italic;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.chart-block {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .08);
+    margin: 30px 0px 0px 0px;
+    padding: 20px;
+}
+
+.chart-title {
+    border-bottom: 1px solid rgba(0, 0, 0, .08);
+    font-size: 18px;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding: 0px 20px 20px 20px;
+}
+
+.warning {
+    border-color: #FFF200;
+}
+
+.attachment-thumbnail-small {
+    height: 55px;
+    width: 55px;
+}
+
+.one-half {
+    box-sizing: border-box;
+    float: left;
+    padding: 0px 15px;
+    width: 50%;
+}
+
+.row {
+    margin: 0px -15px;
+}
+
+.min-width {
+    width: 1px;
+}
+
+.no-wrap {
+    white-space: nowrap;
+}
+
+.center {
+    text-align: center;
+}
+
+.table {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+    margin: 30px 0px;
+    width: 100%;
+}
+
+.table th {
+    border-bottom: 1px solid #e5e5e5;
+    color: #333;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 9px;
+    text-align: left;
+}
+
+.table td {
+    font-size: 13px;
+    padding: 9px;
+}
+
+.table .width33 {
+    width: 33%;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, .02);
+}
+
+.table-small-image {
+    display: inline-block;
+    margin: -5px 20px -5px 0px;
+    vertical-align: middle;
+}
+
+.import-wrapper {
+    border: 2px dashed rgba(0, 0, 0, .2);
+    display: inline-block;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+#chart-contract svg,
+#chart-property-type svg,
+#chart-price svg,
+#chart-statistics-daily svg,
+#chart-daily-filters svg {
+    height: 300px;
+    width: 100%;
+}
+
+#chart-statistics-daily .nv-area {
+    fill: #e6f3f9;
+}
+
+#chart-daily-filters .nv-area {
+    fill: #f3b869;
+}
+
+#chart-statistics-daily .nv-line {
+    stroke: #57b2d9;
+    stroke-width: 3px;
+}
+
+#chart-daily-filters .nv-line {
+    stroke: #f78a28;
+}
+
+#chart-statistics-daily .nvd3 .nv-axis line,
+#chart-daily-filters .nvd3 .nv-axis line {
+    stroke: #f0f0f0;
+}
+
+#chart-statistics-daily .nvd3.nv-line .nvd3.nv-scatter .nv-groups .nv-point,
+#chart-daily-filters .nvd3.nv-line .nvd3.nv-scatter .nv-groups .nv-point {
+    stroke: #57b2d9;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+    stroke-width: 5px;
+}
+
+#chart-daily-filters .nvd3.nv-line .nvd3.nv-scatter .nv-groups .nv-point {
+    stroke: #f78a28;
+}
+
+#chart-statistics-daily .nv-y text,
+#chart-daily-filters .nv-y text, #daily-filters .nv-x text {
+    fill: rgba(0, 0, 0, .7);
+}
+
+#chart-statistics-daily .nvd3 .nv-axis path.domain,
+#chart-daily-filters .nvd3 .nv-axis path.domain {
+    display: none;
+}

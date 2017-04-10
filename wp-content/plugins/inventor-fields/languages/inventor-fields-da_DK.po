@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Fields v0.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-01 11:48+0200\n"
+"PO-Revision-Date: 2016-07-01 11:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:57
+#: includes/post-types/class-inventor-fields-post-type-field.php:63
+#: includes/post-types/class-inventor-fields-post-type-field.php:69
+msgid "Fields"
+msgstr "Felter"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:58
+msgid "Field"
+msgstr "Felt"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:59
+#: includes/post-types/class-inventor-fields-post-type-field.php:60
+msgid "Add New Field"
+msgstr "Tilføj felt"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:61
+msgid "Edit Field"
+msgstr "Rediger felt."
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:62
+msgid "New Field"
+msgstr "Nyt felt"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:64
+msgid "View Field"
+msgstr "Vis felt"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:65
+msgid "Search Field"
+msgstr "Søg felt"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:66
+msgid "No Fields found"
+msgstr "Ingen felter fundet"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:67
+msgid "No Fields found in Trash"
+msgstr "Ingen Felter fundet i papirkurven"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:95
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:75
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:206
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:95
+msgid "Settings"
+msgstr "Indstillinger"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:103
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:94
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:225
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:103
+msgid "Identifier"
+msgstr "Identifikator"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:104
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:95
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:226
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:104
+msgid "Unique identifier (Slug with lowercase characters)."
+msgstr "Entydigt id (Slug med små bogstaver)."
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:107
+#, php-format
+msgid "Final ID will be <b>%s$identifier</b>"
+msgstr ""
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:117
+msgid "Required"
+msgstr "Påkrævet"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:124
+msgid "Skip"
+msgstr "Spring over"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:125
+msgid "From attributes section on listing detail"
+msgstr "Fra attributter afsnit om notering detaljer"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:132
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:117
+msgid "Description"
+msgstr "Beskrivelse"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:139
+msgid "Label position"
+msgstr "Label placering"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:144
+msgid "Top"
+msgstr "Top"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:145
+msgid "Left"
+msgstr "Venstre"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:146
+msgid "Hidden"
+msgstr "Skjult"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:152
+msgid "Type"
+msgstr "Type"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:156
+msgid "Text"
+msgstr "Tekst"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:157
+msgid "Small text"
+msgstr "Lille Tekst"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:158
+msgid "Medium text"
+msgstr "Medium tekst"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:159
+msgid "Email address"
+msgstr "E-mail adresse"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:160
+msgid "URL"
+msgstr "URL"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:161
+msgid "Money"
+msgstr "Penge"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:162
+msgid "Textarea"
+msgstr "Tekstområde"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:163
+msgid "Smaller textarea"
+msgstr "Mindre textarea"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:164
+msgid "Code textarea"
+msgstr "Kode textarea"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:165
+msgid "TinyMCE wysiwyg editor"
+msgstr "TinyMCE wysiwyg editor"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:166
+msgid "Time picker"
+msgstr "Tid vælger"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:167
+msgid "Timezone"
+msgstr "Tidszone"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:168
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:281
+msgid "Date"
+msgstr "Dato"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:169
+msgid "Date and time"
+msgstr "Dato og tid"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:170
+msgid "Date, time and timezone"
+msgstr "Dato, klokkeslæt og tidszone"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:172
+msgid "Colorpicker"
+msgstr "Farvevælger"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:173
+msgid "Checkbox"
+msgstr "Afkrydsningsfelt"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:174
+msgid "Multicheck"
+msgstr "Multicheck"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:175
+msgid "Multicheck inline"
+msgstr "Multicheck inline"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:176
+msgid "Radio"
+msgstr "Radioknap"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:177
+msgid "Radio inline"
+msgstr "Radio inline"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:178
+msgid "Select"
+msgstr "Vælg"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:179
+msgid "File uploader"
+msgstr "Fil uploader"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:180
+msgid "Files uploader"
+msgstr "Fil uploader"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:181
+msgid "Embed media"
+msgstr "Indlejre Medie"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:182
+msgid "Taxonomy radio"
+msgstr "Taksonomi radio"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:183
+msgid "Taxonomy radio inline"
+msgstr "Taksonomi radio inline"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:184
+msgid "Taxonomy select"
+msgstr "Taksonomi Vælg"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:185
+msgid "Taxonomy multicheck"
+msgstr "Taksonomi multicheck"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:186
+msgid "Taxonomy multicheck inline"
+msgstr "Taksonomi multicheck inline"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:187
+msgid ""
+"Title (A large title useful for breaking up sections of fields in metabox)."
+msgstr ""
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:193
+msgid "Value Type"
+msgstr "værditype"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:197
+msgid "Characters"
+msgstr "Karakterer"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:198
+msgid "Integer"
+msgstr "Heltal"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:199
+msgid "Positive integer"
+msgstr "Positivt heltal"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:200
+msgid "Decimal"
+msgstr "Decimal"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:201
+msgid "Positive decimal"
+msgstr "Positivt decimaltal"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:207
+msgid "Options"
+msgstr "Indstillinger"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:210
+msgid "Comma separated options if type support choices"
+msgstr "Semikolonseparerede muligheder hvis type støtte valg"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:226
+msgid "Taxonomy"
+msgstr "Taksonomi"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:229
+msgid "Choose lexicon"
+msgstr "Vælg leksikon"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:235
+msgid "Filter field"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:236
+msgid "Check if you want to enable this field in listing filter"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:243
+msgid "Filter lookup"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:245
+msgid "Specifies how to compare searched value with listing attribute"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:248
+msgid "equals"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:249
+msgid "differs"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:250
+msgid "lower"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:251
+msgid "lower or equal"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:252
+msgid "greater"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:253
+msgid "greater or equal"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:254
+msgid "contains"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:255
+msgid "does not contain"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:261
+msgid "Target"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:266
+msgid "Listing"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:267
+#: includes/post-types/class-inventor-fields-post-type-field.php:282
+msgid "User"
+msgstr ""
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-field.php:294
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:58
+msgid "Metabox"
+msgstr "Metabox"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:37
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:43
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:49
+msgid "Lexicons"
+msgstr "Lexicon"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:38
+msgid "Lexicon"
+msgstr "Lexicon"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:39
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:40
+msgid "Add New Lexicon"
+msgstr "Tilføje nye Lexicon"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:41
+msgid "Edit Lexicon"
+msgstr "Redigere Lexicon"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:42
+msgid "New Lexicon"
+msgstr "Ny Lexicon"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:44
+msgid "View Lexicon"
+msgstr "Vis Lexicon"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:45
+msgid "Search Lexicon"
+msgstr "Søg Lexicon"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:46
+msgid "No Lexicons found"
+msgstr "Ingen Lexicon fundet"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:47
+msgid "No Lexicons found in Trash"
+msgstr "Ingen Lexicon findes i papirkurven"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:83
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:214
+msgid "Singular name"
+msgstr "Ental navn"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:84
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:215
+msgid "Name for one object of this post type (Set title to plural name)."
+msgstr "Navn for et objekt af denne post type (sæt titel til flertalsnavn)."
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:107
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:238
+msgid "URL Slug"
+msgstr "URL Slug"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:108
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:239
+msgid "Don't forget to resave permalinks in Settings > Permalinks."
+msgstr "Glem ikke at gemme permalinks indstillinger > Permalinks."
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:129
+msgid "Listing types"
+msgstr "Restauranter typer"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:130
+msgid "Specify for which listing types will be this lexicon available for."
+msgstr "Angiv hvilken restaurant type vil være denne tilgængelig for Lexicon."
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:159
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:160
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:312
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:313
+#, php-format
+msgid "Add New %s"
+msgstr "Tilføj ny %s"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:161
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:314
+#, php-format
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:162
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:315
+#, php-format
+msgid "New %s"
+msgstr "Ny %s"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:164
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:317
+#, php-format
+msgid "View %s"
+msgstr "Vis %s"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:165
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:318
+#, php-format
+msgid "Search %s"
+msgstr "Søg %s"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:166
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:319
+#, php-format
+msgid "No %s found"
+msgstr "Ingen %s fundet"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:167
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:320
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Ingen %s fundet i papirkurven"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:168
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:174
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:180
+msgid "Listing Types"
+msgstr "Restauranter typer"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:169
+msgid "Listing Type"
+msgstr "Restaurant type"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:170
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:171
+msgid "Add New Listing Type"
+msgstr "Tilføje nye restaurant Type"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:172
+msgid "Edit Listing Type"
+msgstr "Ret Restaurant type"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:173
+msgid "New Listing Type"
+msgstr "Tilføje nye restaurant Type"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:175
+msgid "View Listing Type"
+msgstr "Vis restaurant type"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:176
+msgid "Search Listing Type"
+msgstr "Søg restaurant type\t"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:177
+msgid "No Listing Types found"
+msgstr "Ingen restaurant typer fundet"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:178
+msgid "No Listing Types found in Trash"
+msgstr "Ingen restaurant typer findes i papirkurven"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:249
+msgid "Allowed purchasing"
+msgstr "Tillad køb"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:256
+msgid "Allowed claiming"
+msgstr "Tilladt overdragelser"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:263
+msgid "Predefined metaboxes"
+msgstr "Foruddefinerede metaboxes"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:264
+msgid ""
+"For custom metaboxes and fields, go to Inventor > Metaboxes or Inventor > "
+"Fields"
+msgstr ""
+"Brugerdefinerede metaboxes og felter, gå til Inventor > Metaboxes eller "
+"opfinder > felter"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:269
+msgid "Branding: slogan, brand color, logo"
+msgstr "Branding: slogan, mærke farve, logo"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:270
+msgid "Banner"
+msgstr "Banner"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:271
+msgid "Gallery"
+msgstr "Galleri"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:272
+msgid "Video"
+msgstr "Video"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:273
+msgid "Price"
+msgstr "Pris"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:274
+msgid "Color"
+msgstr "Farve"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:275
+msgid "Listing category"
+msgstr "Restaurant kategori"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:276
+msgid "Location"
+msgstr "Placering"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:277
+msgid "Contact: email, phone, website, address"
+msgstr "Kontakt: e-mail, telefon, hjemmeside, adressen"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:278
+msgid "Social connection"
+msgstr "Social forbindelse"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:279
+msgid "Opening hours"
+msgstr "Åbningstider"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:280
+msgid "Flags: featured, reduced, verified"
+msgstr "Flag: featured, reduceret, kontrolleret"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:282
+msgid "Time"
+msgstr "Tid"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:283
+msgid "Date interval: date from, date to"
+msgstr "Datointerval: dato fra, dato til"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:284
+msgid "Datetime interval: date and time from, date and time to"
+msgstr "DateTime interval: dato og klokkeslæt fra, dato og tid til"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:285
+msgid "Time interval: time from, time to"
+msgstr "Tidsinterval: tid fra tid til"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:286
+msgid "Date and time interval: date, time from, time to"
+msgstr "Dato og klokkeslæt interval: dato, time fra, tid til at"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:57
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:63
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:69
+msgid "Metaboxes"
+msgstr "Metaboxes"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:59
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:60
+msgid "Add New Metabox"
+msgstr "Tilføje nye Metabox"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:61
+msgid "Edit Metabox"
+msgstr "Redigere Metabox"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:62
+msgid "New Metabox"
+msgstr "Ny Metabox"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:64
+msgid "View Metabox"
+msgstr "Se Metabox"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:65
+msgid "Search Metabox"
+msgstr "Søg Metabox"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:66
+msgid "No Metaboxes found"
+msgstr "Ingen Metaboxes fundet"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:67
+msgid "No Metaboxes found in Trash"
+msgstr "Ingen Metaboxes fundet i papirkurven"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:106
+#, php-format
+msgid "Final ID will be <b>%s$listing_type_$identifier</b>"
+msgstr "Final ID vil være <b>%s$listing_type_$id</b>"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:124
+msgid "Section"
+msgstr "Afsnit"
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:125
+msgid "Show as a section in the listing detail page."
+msgstr "Vis som en sektion på restaurant detaljer."
+
+# @ inventor-fields
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:145
+msgid "Listing type"
+msgstr "Annonce type"
+
+#: templates/widgets/filter-fields/multicheck.php:19
+#: templates/widgets/filter-fields/select.php:19
+#: templates/widgets/filter-fields/taxonomy-multicheck.php:21
+#: templates/widgets/filter-fields/taxonomy.php:21
+msgid "All values"
+msgstr ""

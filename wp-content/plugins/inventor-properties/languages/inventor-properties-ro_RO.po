@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor-properties\n"
+"POT-Creation-Date: 2016-08-02 09:29+0200\n"
+"PO-Revision-Date: 2016-08-02 09:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/customizations/class-inventor-properties-customizations-properties.php:34
+msgid "Inventor Properties"
+msgstr "Proprietăți Inventor"
+
+#: includes/customizations/class-inventor-properties-customizations-properties.php:47
+msgid "Hide unasigned amenities"
+msgstr "Ascunde facilitățile neatribuite"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:60
+#: includes/post-types/class-inventor-properties-post-type-property.php:66
+#: includes/post-types/class-inventor-properties-post-type-property.php:72
+msgid "Properties"
+msgstr "Proprietăți"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:61
+msgid "Property"
+msgstr "Proprietate"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:62
+#: includes/post-types/class-inventor-properties-post-type-property.php:63
+msgid "Add New Property"
+msgstr "Adaugă proprietate nouă"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:64
+msgid "Edit Property"
+msgstr "Editează proprietate"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:65
+msgid "New Property"
+msgstr "Proprietate nouă"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:67
+msgid "View Property"
+msgstr "Vezi proprietate"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:68
+msgid "Search Property"
+msgstr "Caută proprietate"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:69
+msgid "No Properties found"
+msgstr "Nu s-au găsit proprietăți"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:70
+msgid "No Properties Found in Trash"
+msgstr "Nu s-au găsit proprietăți în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:82
+msgctxt "URL slug"
+msgid "properties"
+msgstr "proprietati"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:99
+msgid "Rent"
+msgstr "De închiriat"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:100
+msgid "Sale"
+msgstr "De vânzare"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:133
+msgid "Details"
+msgstr "Detalii"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:140
+msgid "Property type"
+msgstr "Tip proprietate"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:147
+msgid "Reference"
+msgstr "Referință"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:153
+msgid "Year built"
+msgstr "Anul construcției"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:164
+msgid "Contract type"
+msgstr "Tip contract"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:174
+msgid "Attributes"
+msgstr "Atribute"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:181
+msgid "Rooms"
+msgstr "Camere"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:192
+msgid "Beds"
+msgstr "Paturi"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:203
+msgid "Baths"
+msgstr "Băi"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:214
+msgid "Garages"
+msgstr "Garaje"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:225
+msgid "Parking lots"
+msgstr "Locuri de parcare"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:236
+msgid "Home area"
+msgstr "Spațiul casei"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:238
+#: includes/post-types/class-inventor-properties-post-type-property.php:251
+#, php-format
+msgid "In %s. (Enter value without unit)"
+msgstr "În %s. (introdu valoarea fără unitate)"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:249
+msgid "Lot area"
+msgstr "Arie teren"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:262
+msgid "Lot dimensions"
+msgstr "Dimensiuni teren"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:265
+msgid "e.g. 20x30, 20x30x40, 20x30x40x50"
+msgstr "exemplu: 20x30, 20x30x40, 20x30x40x50"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:269
+#: templates/amenities.php:10
+msgid "Amenities"
+msgstr "Facilități"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:295
+#: includes/post-types/class-inventor-properties-post-type-property.php:303
+#: templates/floor-plans.php:8
+msgid "Floor plans"
+msgstr "Planurile etajelor"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:296
+msgid "Upload some floor plans images."
+msgstr "Încarcă imaginile planurilor etajelor."
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:334
+#: templates/public-facilities.php:8
+msgid "Public facilities"
+msgstr "Facilități publice"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:348
+msgid "Public Facility"
+msgstr "Facilitate publică"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:349
+msgid "Add Another Public Facility"
+msgstr "Adaugă altă facilitate publică"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:350
+msgid "Remove Public Facility"
+msgstr "Șterge facilitate publică"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:356
+#: includes/post-types/class-inventor-properties-post-type-property.php:413
+msgid "Key"
+msgstr "Cheie"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:362
+#: includes/post-types/class-inventor-properties-post-type-property.php:419
+msgid "Value"
+msgstr "Valoare"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:391
+#: includes/post-types/class-inventor-properties-post-type-property.php:405
+#: templates/valuation.php:8
+msgid "Valuation"
+msgstr "Evaluare"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:406
+msgid "Add Another Valuation"
+msgstr "Adaugă o altă evaluare"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:407
+msgid "Remove Valuation"
+msgstr "Șterge evaluare"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:34
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:44
+msgid "Property Amenities"
+msgstr "Facilitățile proprietății"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:35
+msgid "Property Amenity"
+msgstr "Facilitate proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:36
+msgid "Search Property Amenity"
+msgstr "Caută facilitate proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:37
+msgid "All Property Amenities"
+msgstr "Toate facilitățile proprietății"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:38
+msgid "Parent Property Amenity"
+msgstr "Părinte facilitate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:39
+msgid "Parent Property Amenity:"
+msgstr "Părinte facilitate:"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:40
+msgid "Edit Property Amenity"
+msgstr "Editează facilitate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:41
+msgid "Update Property Amenity"
+msgstr "Actualizează facilitatea"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:42
+msgid "Add New Property Amenity"
+msgstr "Adaugă facilitate nouă"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:43
+msgid "New Property Amenity"
+msgstr "Facilitate nouă"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:45
+msgid "No property amenities found."
+msgstr "Nu s-au găsit facilități pentru proprietate."
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:52
+msgctxt "URL slug"
+msgid "property-amenity"
+msgstr "faciliatate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:34
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:44
+msgid "Property Types"
+msgstr "Tipuri proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:35
+msgid "Property Type"
+msgstr "Tip proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:36
+msgid "Search Property Type"
+msgstr "Caută tip proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:37
+msgid "All Property Types"
+msgstr "Toate tipurile de proprietăți"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:38
+msgid "Parent Property Type"
+msgstr "Părinte tip proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:39
+msgid "Parent Property Type:"
+msgstr "Părinte tip proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:40
+msgid "Edit Property Type"
+msgstr "Editează tip proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:41
+msgid "Update Property Type"
+msgstr "Actualizează tip proprietate"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:42
+msgid "Add New Property Type"
+msgstr "Adaugă tip proprietate nouă"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:43
+msgid "New Property Type"
+msgstr "Tip proprietate nouă"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:45
+msgid "No property types found."
+msgstr "Nu s-au găsit tipuri de proprietați."
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:52
+msgctxt "URL slug"
+msgid "property-type"
+msgstr "proprietate"
+
+#: templates/price-comparison.php:14
+#, php-format
+msgid "Price comparison per %s (%s)"
+msgstr ""
+
+#: templates/price-comparison.php:19
+msgid "This property"
+msgstr ""
+
+#: templates/price-comparison.php:23
+msgid "Average"
+msgstr ""
+
+#: templates/price-comparison.php:27
+msgid "Difference"
+msgstr ""

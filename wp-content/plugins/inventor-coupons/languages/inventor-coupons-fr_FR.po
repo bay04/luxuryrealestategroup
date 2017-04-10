@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Coupons\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/class-inventor-coupons-ajax.php:41
+msgid "Missing coupon ID."
+msgstr "ID de coupon manquant."
+
+#: includes/class-inventor-coupons-ajax.php:52
+msgid "Coupon does not exists."
+msgstr "Ce coupon n’existe pas"
+
+#: includes/class-inventor-coupons-ajax.php:73
+msgid "Max number of coupons exceeded."
+msgstr "Nombre max de coupons dépassé."
+
+#: includes/class-inventor-coupons-metaboxes.php:23
+msgid "Coupon details"
+msgstr "Détails du coupon"
+
+#: includes/class-inventor-coupons-metaboxes.php:33
+msgid "Discount"
+msgstr "Réduction"
+
+#: includes/class-inventor-coupons-metaboxes.php:35
+msgid "Insert integer number like: 30. It will be outputted as 30%."
+msgstr "Insérer nombre entier comme: 30. Il sera émis 30%."
+
+#: includes/class-inventor-coupons-metaboxes.php:40
+msgid "Variant"
+msgstr "Variante"
+
+#: includes/class-inventor-coupons-metaboxes.php:44
+#: includes/class-inventor-coupons-metaboxes.php:52
+msgid "Image"
+msgstr "Image"
+
+#: includes/class-inventor-coupons-metaboxes.php:45
+#: includes/class-inventor-coupons-metaboxes.php:119
+msgid "Code"
+msgstr "Code"
+
+#: includes/class-inventor-coupons-metaboxes.php:46
+msgid "Generated code"
+msgstr "Code généré"
+
+#: includes/class-inventor-coupons-metaboxes.php:58
+msgid "Max. number"
+msgstr "Nombre maximum"
+
+#: includes/class-inventor-coupons-metaboxes.php:60
+msgid "Insert integer for max. number of codes which can be generated."
+msgstr "Insérez entier pour max. nombre de codes qui peuvent être générés."
+
+#: includes/class-inventor-coupons-metaboxes.php:65
+msgid "Coupon code"
+msgstr "Code promotionnel"
+
+#: includes/class-inventor-coupons-metaboxes.php:71
+msgid "Coupon Valid"
+msgstr "Coupon valide"
+
+#: includes/class-inventor-coupons-metaboxes.php:77
+msgid "Conditions"
+msgstr "Conditions"
+
+#: includes/class-inventor-coupons-metaboxes.php:92
+msgid "Generated Code"
+msgstr "Le code généré"
+
+#: includes/class-inventor-coupons-metaboxes.php:105
+msgid "Generated Codes"
+msgstr "Codes générés"
+
+#: includes/class-inventor-coupons-metaboxes.php:106
+msgid "Add Another Code"
+msgstr "Ajouter un autre code"
+
+#: includes/class-inventor-coupons-metaboxes.php:107
+msgid "Remove Code"
+msgstr "Retirer code"
+
+#: includes/class-inventor-coupons-metaboxes.php:113
+msgid "User ID"
+msgstr "ID d’utilisateur"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:34
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:40
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:46
+msgid "Coupons"
+msgstr "Coupons"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:35
+msgid "Coupon"
+msgstr "Coupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:36
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:37
+msgid "Add New Coupon"
+msgstr "Ajouter un nouveau coupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:38
+msgid "Edit Coupon"
+msgstr "Modifier le coupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:39
+msgid "New Coupon"
+msgstr "Nouveau coupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:41
+#: templates/coupons/box.php:56
+msgid "View Coupon"
+msgstr "Voir le coupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:42
+msgid "Search Coupon"
+msgstr "Rechercher de coupon"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:43
+msgid "No Coupons found"
+msgstr "Aucun coupon trouvé"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:44
+msgid "No Coupons Found in Trash"
+msgstr "Aucun coupons trouvé dans la corbeille"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:56
+msgctxt "URL slug"
+msgid "coupons"
+msgstr "coupons"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:23
+msgid "Coupon Detail"
+msgstr "Détail du coupon"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:25
+msgid "Coupon Detail."
+msgstr "Détail du coupon."
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:23
+msgid "Coupon Listing"
+msgstr "Liste coupon"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:25
+msgid "Coupon listing."
+msgstr "Liste coupon."
+
+#: templates/coupons/box.php:49
+msgid "Expiration"
+msgstr "Expiration"
+
+#: templates/coupons/box.php:51
+msgid "Coupon does not expire."
+msgstr "Coupon n'expire pas."
+
+#: templates/widgets/coupon-detail-admin.php:12
+#: templates/widgets/coupon-listings-admin.php:13
+msgid "Title"
+msgstr "Titre"
+
+#: templates/widgets/coupon-detail.php:34
+msgid "Print Coupon"
+msgstr "Imprimer le coupon"
+
+#: templates/widgets/coupon-detail.php:40
+msgid "Get the Code"
+msgstr "Récupérer le code"
+
+#: templates/widgets/coupon-detail.php:58
+msgid "Generate Code"
+msgstr "Générer un code"
+
+#: templates/widgets/coupon-detail.php:64
+msgid "Available codes"
+msgstr "Codes disponibles"
+
+#: templates/widgets/coupon-detail.php:74
+msgid "You must be logged in to get the coupon code."
+msgstr "Vous devez être connecté pour obtenir le code de coupon."
+
+#: templates/widgets/coupon-detail.php:82
+msgid "Expires"
+msgstr "Expire"
+
+#: templates/widgets/coupon-detail.php:89
+msgid "Voucher valid"
+msgstr "Coupon valide"
+
+#: templates/widgets/coupon-detail.php:97
+msgid "Conditions of application"
+msgstr "Conditions d’utilisation"
+
+#: templates/widgets/coupon-listings-admin.php:26
+msgid "Count"
+msgstr "Compter"

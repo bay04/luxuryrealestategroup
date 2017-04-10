@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Listing Slider\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-jobs-logic.php:55
+msgid "New job application"
+msgstr "Nueva solicitud de empleo"
+
+#: includes/class-inventor-jobs-logic.php:75
+msgid "Job was already assigned to user."
+msgstr "Trabajo ya fue asignado al usuario."
+
+#: includes/class-inventor-jobs-logic.php:83
+#: includes/class-inventor-jobs-logic.php:259
+msgid "You already applied for this job."
+msgstr "Ya has enviado solicitud a este empleo."
+
+#: includes/class-inventor-jobs-logic.php:94
+msgid "Job ID is missing."
+msgstr "No se ha introducido la ID de empleo"
+
+#: includes/class-inventor-jobs-logic.php:246
+msgid "reCAPTCHA is not valid."
+msgstr ""
+
+#: includes/class-inventor-jobs-logic.php:312
+msgid "Message has been successfully sent."
+msgstr "El mensaje ha sido enviado correctamente."
+
+#: includes/class-inventor-jobs-logic.php:314
+msgid "Unable to send a message."
+msgstr "No se pudo enviar el mensaje."
+
+#: includes/class-inventor-jobs-shortcodes.php:42
+msgid "Listing is not a job."
+msgstr "Anuncio no es un empleo."
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:45
+msgid "Apply for job"
+msgstr "Solicitar un empleo"
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:60
+msgid "Job applicants"
+msgstr "Solicitantes de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:37
+#: includes/post-types/class-inventor-jobs-post-type-application.php:43
+#: includes/post-types/class-inventor-jobs-post-type-application.php:49
+msgid "Applications"
+msgstr "Solicitudes de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:38
+msgid "Application"
+msgstr "Solicitud de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:39
+#: includes/post-types/class-inventor-jobs-post-type-application.php:40
+msgid "Add New Application"
+msgstr "Añadir nueva solicitud de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:41
+msgid "Edit Application"
+msgstr "Editar la solicitud de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:42
+msgid "New Application"
+msgstr "Nueva solicitud de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:44
+msgid "View Application"
+msgstr "Ver solicitud de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:45
+msgid "Search Application"
+msgstr "Buscar solicitud de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:46
+msgid "No Applications found"
+msgstr "No se encontraron solicitudes de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:47
+msgid "No Applications Found in Trash"
+msgstr "No se encontraron solicitudes de empleo en la papelera"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:74
+msgid "General"
+msgstr "General"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:83
+msgid "Job ID"
+msgstr "ID del empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:93
+msgid "Resume ID"
+msgstr "ID del CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:111
+#: templates/jobs-apply-mail.php:8
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:112
+#: includes/post-types/class-inventor-jobs-post-type-job.php:101
+#: templates/jobs-apply-mail.php:16
+msgid "Job"
+msgstr "Empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:113
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:52
+#: templates/jobs-apply-mail.php:20
+msgid "Resume"
+msgstr "Currículum"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:114
+msgid "Author"
+msgstr "Autor"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:115
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:53
+#: includes/post-types/class-inventor-jobs-post-type-job.php:199
+msgid "Required skills"
+msgstr "Habilidades requeridas"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:100
+#: includes/post-types/class-inventor-jobs-post-type-job.php:106
+#: includes/post-types/class-inventor-jobs-post-type-job.php:112
+msgid "Jobs"
+msgstr "Empleos"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:102
+#: includes/post-types/class-inventor-jobs-post-type-job.php:103
+msgid "Add New Job"
+msgstr "Añadir nuevo empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:104
+msgid "Edit Job"
+msgstr "Editar empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:105
+msgid "New Job"
+msgstr "Nuevo empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:107
+msgid "View Job"
+msgstr "Ver empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:108
+msgid "Search Job"
+msgstr "Buscar empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:109
+msgid "No Jobs found"
+msgstr "No se han encontrado empleos"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:110
+msgid "No Jobs Found in Trash"
+msgstr "No se han encontrado empleos en la papelera"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:121
+msgctxt "URL slug"
+msgid "jobs"
+msgstr "empleos"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:141
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:93
+msgid "Details"
+msgstr "Detalles"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:159
+msgid "Employer"
+msgstr "Empleador"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:170
+msgid "Starting date"
+msgstr "Fecha de ingreso"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:177
+msgid "Job position"
+msgstr "Puesto de empleo"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:185
+msgid "Contract type"
+msgstr "Tipo de Contrato"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:189
+msgid "Full-time"
+msgstr "Jornada completa"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:190
+msgid "Part-time"
+msgstr "Tiempo parcial"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:191
+msgid "Brigade"
+msgstr "Brigada"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:192
+msgid "Agreement"
+msgstr "Acuerdo"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:193
+msgid "Self-employed persons"
+msgstr "Trabajadores por cuenta propia"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:51
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:57
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:63
+msgid "Resumes"
+msgstr "Currículums"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:53
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:54
+msgid "Add New Resume"
+msgstr "Añadir un nuevo CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:55
+msgid "Edit Resume"
+msgstr "Editar CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:56
+msgid "New Resume"
+msgstr "Nuevo CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:58
+msgid "View Resume"
+msgstr "Ver CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:59
+msgid "Search Resume"
+msgstr "Buscar CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:60
+msgid "No Resumes found"
+msgstr "No se han encontrado Currículums"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:61
+msgid "No Resumes Found in Trash"
+msgstr "No se han encontrado Currículums en la papelera"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:72
+msgctxt "URL slug"
+msgid "resumes"
+msgstr "curriculums"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:102
+msgid "Working history"
+msgstr "Historial de trabajo"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:112
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:159
+msgid "Item"
+msgstr "Elemento"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:113
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:160
+msgid "Add Another"
+msgstr "Añadir otra"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:114
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:161
+msgid "Remove"
+msgstr "Eliminar"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:121
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:168
+msgid "Title"
+msgstr "Título"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:130
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:136
+msgid "Date from"
+msgstr "Fecha de"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:142
+msgid "Date to"
+msgstr "Fecha hasta"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:149
+msgid "Experience"
+msgstr "Experiencia"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:177
+msgid "Since"
+msgstr "Desde"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:182
+msgid "Beginner"
+msgstr "Principiante"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:183
+msgid "Intermediate"
+msgstr "Intermedio"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:184
+msgid "Professional"
+msgstr "Profesional"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:189
+msgid "Level"
+msgstr "Nivel"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:44
+msgid "Job Positions"
+msgstr "Puestos de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:35
+msgid "Job Position"
+msgstr "Puesto de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:36
+msgid "Search Job Position"
+msgstr "Buscar puesto de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:37
+msgid "All Job Positions"
+msgstr "Todos los puestos de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:38
+msgid "Parent Job Position"
+msgstr "Padre del puesto de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:39
+msgid "Parent Job Position:"
+msgstr "Padre del puesto de empleo:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:40
+msgid "Edit Job Position"
+msgstr "Editar puesto de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:41
+msgid "Update Job Position"
+msgstr "Actualizar puesto de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:42
+msgid "Add New Job Position"
+msgstr "Añadir nuevo puesto de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:43
+msgid "New Job Position"
+msgstr "Nuevo puesto de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:45
+msgid "No job positions found."
+msgstr "No se han encontrado puestos de empleo."
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:52
+msgctxt "URL slug"
+msgid "job-position"
+msgstr "puesto-de-empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:44
+msgid "Job Skills"
+msgstr "Habilidades de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:35
+msgid "Job Skill"
+msgstr "Habilidad de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:36
+msgid "Search Job Skill"
+msgstr "Buscar habilidad de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:37
+msgid "All Job Skills"
+msgstr "Todas las habilidades de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:38
+msgid "Parent Job Skill"
+msgstr "Padre del habilidad de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:39
+msgid "Parent Job Skill:"
+msgstr "Padre del habilidad de empleo:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:40
+msgid "Edit Job Skill"
+msgstr "Editar habilidad de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:41
+msgid "Update Job Skill"
+msgstr "Actualizar habilidad de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:42
+msgid "Add New Job Skill"
+msgstr "Añadir nuevo habilidad de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:43
+msgid "New Job Skill"
+msgstr "Nuevo habilidad de empleo"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:45
+msgid "No job skills found."
+msgstr "No se han encontrado habilidades de empleo."
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:52
+msgctxt "URL slug"
+msgid "job-skill"
+msgstr "habilidad-de-empleo"
+
+#: templates/jobs-apply-button.php:4
+msgid "I applied"
+msgstr "He aplicado"
+
+#: templates/jobs-apply-button.php:8
+msgid "Apply"
+msgstr "Aplicar"
+
+#: templates/jobs-apply-form.php:3
+msgid "You have to specify listing!"
+msgstr "Tiene que especificar anuncio!"
+
+#: templates/jobs-apply-form.php:7
+msgid "You have already applied for this job."
+msgstr "Ya has enviado solicitud a este empleo."
+
+#: templates/jobs-apply-form.php:13
+msgid "Choose a resume you want to apply with"
+msgstr "Elija un currículum para solicitar empleo"
+
+#: templates/jobs-apply-form.php:29
+msgid "Message"
+msgstr "Mensaje"
+
+#: templates/jobs-apply-mail.php:12
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templates/jobs-apply-mail.php:24
+msgid "URL"
+msgstr "URL"

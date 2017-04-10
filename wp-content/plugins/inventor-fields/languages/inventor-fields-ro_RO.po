@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor-fields\n"
+"POT-Creation-Date: 2016-08-02 09:26+0200\n"
+"PO-Revision-Date: 2016-08-02 09:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:57
+#: includes/post-types/class-inventor-fields-post-type-field.php:63
+#: includes/post-types/class-inventor-fields-post-type-field.php:69
+msgid "Fields"
+msgstr "Câmpuri"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:58
+msgid "Field"
+msgstr "Câmp"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:59
+#: includes/post-types/class-inventor-fields-post-type-field.php:60
+msgid "Add New Field"
+msgstr "Adaugă câmp nou"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:61
+msgid "Edit Field"
+msgstr "Editează câmp"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:62
+msgid "New Field"
+msgstr "Câmp nou"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:64
+msgid "View Field"
+msgstr "Vezi câmp"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:65
+msgid "Search Field"
+msgstr "Caută câmp"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:66
+msgid "No Fields found"
+msgstr "Nu s-au găsit câmpuri"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:67
+msgid "No Fields found in Trash"
+msgstr "Nu s-au găsit câmpuri în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:95
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:75
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:206
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:95
+msgid "Settings"
+msgstr "Setări"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:103
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:94
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:225
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:103
+msgid "Identifier"
+msgstr "Identificator"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:104
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:95
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:226
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:104
+msgid "Unique identifier (Slug with lowercase characters)."
+msgstr "Identificator unic (slug cu caractere mici)."
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:107
+#, php-format
+msgid "Final ID will be <b>%s$identifier</b>"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:117
+msgid "Required"
+msgstr "Obligatoriu"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:124
+msgid "Skip"
+msgstr "Sari"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:125
+msgid "From attributes section on listing detail"
+msgstr "De la atributele secțiunii în detaliile listării"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:132
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:117
+msgid "Description"
+msgstr "Descriere"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:139
+msgid "Label position"
+msgstr "Poziție etichetă"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:144
+msgid "Top"
+msgstr "Sus"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:145
+msgid "Left"
+msgstr "Stânga"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:146
+msgid "Hidden"
+msgstr "Ascuns"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:151
+msgid "Text"
+msgstr "Text"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:152
+msgid "Small text"
+msgstr "Text mic"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:153
+msgid "Medium text"
+msgstr "Text mediu"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:154
+msgid "Email address"
+msgstr "Adresă email"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:155
+msgid "URL"
+msgstr "URL"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:156
+msgid "Money"
+msgstr "Sumă"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:157
+msgid "Textarea"
+msgstr "Câmp text"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:158
+msgid "Smaller textarea"
+msgstr "Câmp text mic"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:159
+msgid "Code textarea"
+msgstr "Câmp pentru cod"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:160
+msgid "TinyMCE wysiwyg editor"
+msgstr "Editor TinyMCE wysiwyg"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:161
+msgid "Time picker"
+msgstr "Selectare oră"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:162
+msgid "Timezone"
+msgstr "Fus orar"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:163
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:281
+msgid "Date"
+msgstr "Dată"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:164
+msgid "Date and time"
+msgstr "Dată și oră"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:165
+msgid "Date, time and timezone"
+msgstr "Dată, oră și fus orar"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:167
+msgid "Colorpicker"
+msgstr "Selector culoare"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:168
+msgid "Checkbox"
+msgstr "Casetă de bifat"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:169
+msgid "Multicheck"
+msgstr "Casete de bifat multiple"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:170
+msgid "Multicheck inline"
+msgstr "Casete de bifat multiple în linie"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:171
+msgid "Radio"
+msgstr "Catetă radio"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:172
+msgid "Radio inline"
+msgstr "Casetă radio în linie"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:173
+msgid "Select"
+msgstr "Selector"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:174
+msgid "File uploader"
+msgstr "Încarcare fișier"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:175
+msgid "Files uploader"
+msgstr "Încarcare fișiere"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:176
+msgid "Embed media"
+msgstr "Încorporare media"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:177
+msgid "Taxonomy radio"
+msgstr "Taxonomie casetă radio"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:178
+msgid "Taxonomy radio inline"
+msgstr "Taxonomie casetă radio în linie"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:179
+msgid "Taxonomy select"
+msgstr "Taxonomie selector"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:180
+msgid "Taxonomy multicheck"
+msgstr "Taxonomie casetă de bifat"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:181
+msgid "Taxonomy multicheck inline"
+msgstr "Taxonomie casetă de bifat în linie"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:182
+msgid ""
+"Title (A large title useful for breaking up sections of fields in metabox)."
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:187
+msgid "Type"
+msgstr "Tip"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:195
+msgid "Value Type"
+msgstr "Tip valori"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:199
+msgid "Characters"
+msgstr "Caractere"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:200
+msgid "Integer"
+msgstr "Număr"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:201
+msgid "Positive integer"
+msgstr "Număr pozitiv"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:202
+msgid "Decimal"
+msgstr "Zecimală"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:203
+msgid "Positive decimal"
+msgstr "Zecimală pozitivă"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:209
+msgid "Options"
+msgstr "Opțiuni"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:212
+msgid "Comma separated options if type support choices"
+msgstr "Opțiuni separate de virgulă dacă tipul ales permite"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:228
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:231
+msgid "Choose lexicon"
+msgstr "Alege lexicon"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:237
+msgid "Filter field"
+msgstr "Filtru câmp"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:238
+msgid "Check if you want to enable this field in listing filter"
+msgstr "Selectează dacă vrei să activezi acest câmp ca opțiune de filtru"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:245
+msgid "Filter lookup"
+msgstr "Filtru de căutare"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:247
+msgid "Specifies how to compare searched value with listing attribute"
+msgstr "Specifică cum să comparăm valorile căutate cu atributele listării"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:250
+msgid "equals"
+msgstr "egal"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:251
+msgid "differs"
+msgstr "diferit"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:252
+msgid "lower"
+msgstr "mai mic"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:253
+msgid "lower or equal"
+msgstr "mai mic sau egal"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:254
+msgid "greater"
+msgstr "mai mare"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:255
+msgid "greater or equal"
+msgstr "mai mare sau egal"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:256
+msgid "contains"
+msgstr "conține"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:257
+msgid "does not contain"
+msgstr "nu conține"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:263
+msgid "Target"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:268
+msgid "Listing"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:269
+#: includes/post-types/class-inventor-fields-post-type-field.php:284
+msgid "User"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:296
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:58
+msgid "Metabox"
+msgstr "Metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:37
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:43
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:49
+msgid "Lexicons"
+msgstr "Lexicons"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:38
+msgid "Lexicon"
+msgstr "Lexicon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:39
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:40
+msgid "Add New Lexicon"
+msgstr "Adaugă Lexicon nou"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:41
+msgid "Edit Lexicon"
+msgstr "Editează Lexicon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:42
+msgid "New Lexicon"
+msgstr "Lexicon nou"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:44
+msgid "View Lexicon"
+msgstr "Vezi Lexicon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:45
+msgid "Search Lexicon"
+msgstr "Caută Lexicon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:46
+msgid "No Lexicons found"
+msgstr "Nu s-a găsit Lexicon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:47
+msgid "No Lexicons found in Trash"
+msgstr "Nu s-a găsit Lexicon în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:83
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:214
+msgid "Singular name"
+msgstr "Nume singular"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:84
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:215
+msgid "Name for one object of this post type (Set title to plural name)."
+msgstr ""
+"Numele pentru singularul acestui tip de postare (setează titlul pentru "
+"plural)."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:107
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:238
+msgid "URL Slug"
+msgstr "Slug URL"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:108
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:239
+msgid "Don't forget to resave permalinks in Settings > Permalinks."
+msgstr ""
+"Nu uita să salvezi din nou legăturile permanente în Setări > Legături "
+"permanente."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:129
+msgid "Listing types"
+msgstr "Tipuri listare"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:130
+msgid "Specify for which listing types will be this lexicon available for."
+msgstr "Specifică pentru ce timp de listări va fi disponibil acest lexicon."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:159
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:160
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:320
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:321
+#, php-format
+msgid "Add New %s"
+msgstr "Adaugă %s nou"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:161
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:322
+#, php-format
+msgid "Edit %s"
+msgstr "Editează %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:162
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:323
+#, php-format
+msgid "New %s"
+msgstr "%s nou"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:164
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:325
+#, php-format
+msgid "View %s"
+msgstr "Vezi %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:165
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:326
+#, php-format
+msgid "Search %s"
+msgstr "Caută %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:166
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:327
+#, php-format
+msgid "No %s found"
+msgstr "Nu s-a găsit %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:167
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:328
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Nu s-a găsit %s în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:168
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:174
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:180
+msgid "Listing Types"
+msgstr "Tipuri listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:169
+msgid "Listing Type"
+msgstr "Tip listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:170
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:171
+msgid "Add New Listing Type"
+msgstr "Adaugă un nou tip de listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:172
+msgid "Edit Listing Type"
+msgstr "Editează tip de listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:173
+msgid "New Listing Type"
+msgstr "Tip nou de listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:175
+msgid "View Listing Type"
+msgstr "Vezi tipul de listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:176
+msgid "Search Listing Type"
+msgstr "Caută tip de listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:177
+msgid "No Listing Types found"
+msgstr "Nu s-a găsit tip de listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:178
+msgid "No Listing Types found in Trash"
+msgstr "Nu s-a găsit tip de listare în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:249
+msgid "Allowed purchasing"
+msgstr "Achiziție permisă"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:256
+msgid "Allowed claiming"
+msgstr "Revendicare permisă"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:263
+msgid "Predefined metaboxes"
+msgstr "Metaboxe-uri predefinite"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:264
+msgid ""
+"For custom metaboxes and fields, go to Inventor > Metaboxes or Inventor > "
+"Fields"
+msgstr ""
+"Pentru metaboxe-uri și câmpuri mergi la Inventor > Metaboxe-uri sau Inventor "
+"> Câmpuri"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:269
+msgid "Branding: slogan, brand color, logo"
+msgstr "Branding: slogan, culoare brand, logo"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:270
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:271
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:272
+msgid "Video"
+msgstr "Video"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:273
+msgid "Price"
+msgstr "Preț"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:274
+msgid "Color"
+msgstr "Culoare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:275
+msgid "Listing category"
+msgstr "Categorie listare"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:276
+msgid "Location"
+msgstr "Locație"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:277
+msgid "Contact: email, phone, website, address"
+msgstr "Contact: email, telefon, website, adresă"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:278
+msgid "Social connection"
+msgstr "Conturi sociale"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:279
+msgid "Opening hours"
+msgstr "Program de lucru"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:280
+msgid "Flags: featured, reduced, verified"
+msgstr "Steaguri: promovat, redus, verificat"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:282
+msgid "Time"
+msgstr "Timp"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:283
+msgid "Date interval: date from, date to"
+msgstr "Interval dată: de la, până la"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:284
+msgid "Datetime interval: date and time from, date and time to"
+msgstr "Interval dată și oră: de la, până la"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:285
+msgid "Time interval: time from, time to"
+msgstr "Interval timp: de la, până la"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:286
+msgid "Date and time interval: date, time from, time to"
+msgstr "Interval dată și oră: de la, până la"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:291
+msgid "Icon"
+msgstr ""
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:57
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:63
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:69
+msgid "Metaboxes"
+msgstr "Metaboxe-uri"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:59
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:60
+msgid "Add New Metabox"
+msgstr "Adaugă metabox nou"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:61
+msgid "Edit Metabox"
+msgstr "Editează metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:62
+msgid "New Metabox"
+msgstr "Metabox nou"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:64
+msgid "View Metabox"
+msgstr "Vezi metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:65
+msgid "Search Metabox"
+msgstr "Caută metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:66
+msgid "No Metaboxes found"
+msgstr "Nu s-a găsit metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:67
+msgid "No Metaboxes found in Trash"
+msgstr "Nu s-a găsit metabox în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:106
+#, php-format
+msgid "Final ID will be <b>%s$listing_type_$identifier</b>"
+msgstr "ID-ul final va fi <b>%s$listing_type_$identifier</b>"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:124
+msgid "Section"
+msgstr "Secțiune"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:125
+msgid "Show as a section in the listing detail page."
+msgstr "Afișează ca secțiune în pagina de detalii"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:145
+msgid "Listing type"
+msgstr "Tip listare"
+
+#: templates/widgets/filter-fields/multicheck.php:9
+#: templates/widgets/filter-fields/select.php:19
+#: templates/widgets/filter-fields/taxonomy-multicheck.php:8
+#: templates/widgets/filter-fields/taxonomy.php:21
+msgid "All values"
+msgstr "Toate valorile"

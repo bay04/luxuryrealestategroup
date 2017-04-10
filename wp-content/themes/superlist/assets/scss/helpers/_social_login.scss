@@ -1,0 +1,100 @@
+.wp-social-login-provider-list {
+    margin: 0;
+    padding: 0;
+}
+
+.wp-social-login-provider {
+    background-color: $color-gray-medium;
+    border: 0 !important;
+    color: $color-black;
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 0 5px 0;
+    min-height: 40px;
+    padding: 8px 15px;
+    text-align: center;
+    position: relative;
+
+    &:after, &:focus, &:hover {
+        color: $color-black;
+        text-decoration: none;
+    }
+
+    img {
+        display: none;
+    }
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+
+    &:before {
+        position: absolute;
+        left: 15px;
+    }
+}
+
+.wp-social-login-provider-facebook {
+    background-color: $color-facebook;
+    color: #fff;
+
+    &:hover {
+        background-color: darken($color-facebook,5%);
+    }
+
+    &:before {
+        content: '\f09a';
+        font-family: 'FontAwesome';
+        margin: 0 10px 0 0;
+    }
+
+    &:after, &:focus, &:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.wp-social-login-provider-twitter {
+    background-color: $color-twitter;
+    color: #fff;
+
+    &:hover {
+        background-color: darken($color-twitter,5%);
+    }
+
+    &:before {
+        content: '\f099';
+        font-family: 'FontAwesome';
+        margin: 0 10px 0 0;
+    }
+
+    &:after, &:focus, &:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.wp-social-login-provider-google {
+    background-color: $color-google-plus;
+    color: #fff;
+
+    &:hover {
+        background-color: darken($color-google-plus,5%);
+    }
+
+    &:before {
+        content: '\f1a0';
+        font-family: 'FontAwesome';
+        margin: 0 10px 0 0;
+    }
+
+    &:after, &:focus, &:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.wp-social-login-connect-with {
+    margin-bottom: 5px;
+}

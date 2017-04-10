@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Shop\n"
+"POT-Creation-Date: 2016-08-04 14:08+0600\n"
+"PO-Revision-Date: 2016-08-12 07:59+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+
+#: includes/class-inventor-shop-logic.php:77
+msgid "Purchase listing"
+msgstr "Купить перечень (listing)"
+
+#: includes/class-inventor-shop-logic.php:102
+msgid "Listing successfully purchased."
+msgstr "Перечень (listing) успешна куплена."
+
+#: includes/class-inventor-shop-logic.php:129
+msgid "Shop configuration"
+msgstr "Конфигурации магазина"
+
+#: includes/class-inventor-shop-logic.php:136
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/class-inventor-shop-logic.php:137
+msgid "Allow/disallow listing purchasing (also price needs to be set)."
+msgstr "Разрешить/запретить покупку перечни (listing) (также цена должна быть установлена)"
+
+#: includes/class-inventor-shop-logic.php:143
+msgid "Quantity"
+msgstr "Количество"
+
+#: includes/class-inventor-shop-logic.php:144
+msgid "In stock"
+msgstr "В наличии"
+
+#: templates/buy-button.php:8
+msgid "Buy"
+msgstr "Купить"
+
+#: templates/payment-form-before.php:9
+msgid "Listing price is not set."
+msgstr "Прейскурантная (listing) цена не установлена."
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You are going to pay <strong>%s</strong> for listing <strong>\"%s\"</strong>."
+msgstr "Вы собираетесь заплатить <strong>%s</strong> за перечень (listing) <strong>\"%s\"</strong>."
+
+#: templates/payment-form-before.php:19
+msgid "Missing listing."
+msgstr "Отсутствует перечень (listing)."

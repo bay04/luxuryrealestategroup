@@ -1,0 +1,633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor-fields\n"
+"POT-Creation-Date: 2016-06-03 21:49+0200\n"
+"PO-Revision-Date: 2016-06-03 21:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:57
+#: includes/post-types/class-inventor-fields-post-type-field.php:63
+#: includes/post-types/class-inventor-fields-post-type-field.php:69
+msgid "Fields"
+msgstr "Felder"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:58
+msgid "Field"
+msgstr "Feld"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:59
+#: includes/post-types/class-inventor-fields-post-type-field.php:60
+msgid "Add New Field"
+msgstr "Neues Feld hinzufügen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:61
+msgid "Edit Field"
+msgstr "Feld bearbeiten"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:62
+msgid "New Field"
+msgstr "Neues Feld hinzufügen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:64
+msgid "View Field"
+msgstr "Feld ansehen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:65
+msgid "Search Field"
+msgstr "Suchfeld"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:66
+msgid "No Fields found"
+msgstr "Keine Felder gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:67
+msgid "No Fields found in Trash"
+msgstr "Keine im Papierkorb gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:95
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:75
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:206
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:95
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:103
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:94
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:225
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:103
+msgid "Identifier"
+msgstr "Bezeichner"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:104
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:95
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:226
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:104
+msgid "Unique identifier (Slug with lowercase characters)."
+msgstr "Einzigartiger Bezeichner (Slug mit Kleinbuchstaben.)"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:107
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:106
+#, php-format
+msgid "Final ID will be <b>%s$listing_type_$identifier</b>"
+msgstr "Endgültige ID wird sein <b>%s$listing_type_$identifier</b>"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:117
+msgid "Required"
+msgstr "Erforderlich"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:124
+msgid "Skip"
+msgstr "Überspringen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:125
+msgid "From attributes section on listing detail"
+msgstr "Von Attribute Abschnitt auf Anzeigen Details"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:132
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:117
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:139
+msgid "Label position"
+msgstr "Beschriftung Position"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:144
+msgid "Top"
+msgstr "Oben"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:145
+msgid "Left"
+msgstr "Links"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:146
+msgid "Hidden"
+msgstr "verborgen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:152
+msgid "Type"
+msgstr "Typ"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:157
+msgid "Text"
+msgstr "Text"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:158
+msgid "Small text"
+msgstr "Kleiner Text"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:159
+msgid "Medium text"
+msgstr "Medium Text"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:160
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:161
+msgid "URL"
+msgstr "URL"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:162
+msgid "Money"
+msgstr "Geld"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:163
+msgid "Textarea"
+msgstr "Textfeld"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:164
+msgid "Smaller textarea"
+msgstr "Kleinere TextArea"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:165
+msgid "Code textarea"
+msgstr "Code TextArea"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:166
+msgid "TinyMCE wysiwyg editor"
+msgstr "TinyMCE WYSIWYG-Editor"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:167
+msgid "Time picker"
+msgstr "Zeit Picker"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:168
+msgid "Timezone"
+msgstr "Zeitzone"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:169
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:281
+msgid "Date"
+msgstr "Datum"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:170
+msgid "Date and time"
+msgstr "Datum und Uhrzeit"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:171
+msgid "Date, time and timezone"
+msgstr "Datum, Uhrzeit und Zeitzone"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:173
+msgid "Colorpicker"
+msgstr "Farben Auswahl"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:174
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:175
+msgid "Multicheck"
+msgstr "Multicheck"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:176
+msgid "Multicheck inline"
+msgstr "Multicheck Inline"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:177
+msgid "Radio"
+msgstr "Radio Button"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:178
+msgid "Radio inline"
+msgstr "Radio Inline"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:179
+msgid "Select"
+msgstr "Auswählen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:180
+msgid "File uploader"
+msgstr "File Uploader"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:181
+msgid "Files uploader"
+msgstr "Dateien Uploader"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:182
+msgid "Embed media"
+msgstr "Erbet Medien"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:183
+msgid "Taxonomy radio"
+msgstr "Taxonomy Radio"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:184
+msgid "Taxonomy radio inline"
+msgstr "Taxonomie Radio Inline"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:185
+msgid "Taxonomy select"
+msgstr "Taxonomie Auswahl"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:186
+msgid "Taxonomy multicheck"
+msgstr "Taxonomie Multicheck"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:187
+msgid "Taxonomy multicheck inline"
+msgstr "Taxonomie Multicheck Inline"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:193
+msgid "Value Type"
+msgstr "Werttyp"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:197
+msgid "Characters"
+msgstr "Buchstaben"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:198
+msgid "Integer"
+msgstr "Ganzzahlig"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:199
+msgid "Positive integer"
+msgstr "Positive Ganzzahl"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:200
+msgid "Decimal"
+msgstr "Dezimal"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:201
+msgid "Positive decimal"
+msgstr "Positive Dezimalzahl"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:207
+msgid "Options"
+msgstr "Optionen"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:210
+msgid "Comma separated options if type support choices"
+msgstr "Kommagetrennte Optionen, wenn dies unterstützt wird"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:226
+msgid "Taxonomy"
+msgstr "Klassifizierung"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:229
+msgid "Choose lexicon"
+msgstr "wählen Sie Lexikon"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:235
+msgid "Filter field"
+msgstr "Feld „Filter“"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:236
+msgid "Check if you want to enable this field in listing filter"
+msgstr ""
+"Überprüfen Sie, ob Sie dieses Feld in der Liste Filter aktivieren möchten"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:243
+msgid "Filter lookup"
+msgstr "Filter-Suche"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:245
+msgid "Specifies how to compare searched value with listing attribute"
+msgstr ""
+"Gibt an, wie der gesuchte Wert mit den Anzeigen vergleichen werden soll."
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:248
+msgid "equals"
+msgstr "ist gleich"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:249
+msgid "differs"
+msgstr "unterscheidet sich"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:250
+msgid "lower"
+msgstr "kleiner"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:251
+msgid "lower or equal"
+msgstr "kleiner oder gleich"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:252
+msgid "greater"
+msgstr "größer"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:253
+msgid "greater or equal"
+msgstr "größer oder gleich"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:254
+msgid "contains"
+msgstr "enthält"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:255
+msgid "does not contain"
+msgstr "enthält nicht"
+
+#: includes/post-types/class-inventor-fields-post-type-field.php:275
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:58
+msgid "Metabox"
+msgstr "Metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:37
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:43
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:49
+msgid "Lexicons"
+msgstr "Lexicons"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:38
+msgid "Lexicon"
+msgstr "Lexikon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:39
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:40
+msgid "Add New Lexicon"
+msgstr "Neu hinzufügen"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:41
+msgid "Edit Lexicon"
+msgstr "Bearbeiten Lexikon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:42
+msgid "New Lexicon"
+msgstr "Neues Lexikon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:44
+msgid "View Lexicon"
+msgstr "Ansicht Lexikon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:45
+msgid "Search Lexicon"
+msgstr "Suchen Lexikon"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:46
+msgid "No Lexicons found"
+msgstr "Keine Lexicons gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:47
+msgid "No Lexicons found in Trash"
+msgstr "Keine Lexikons in Crash gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:83
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:214
+msgid "Singular name"
+msgstr "Singular Name"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:84
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:215
+msgid "Name for one object of this post type (Set title to plural name)."
+msgstr ""
+"Name für ein Objekt dieses Post Typs. (Im Titel bitte Mehrzahl verwenden)."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:107
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:238
+msgid "URL Slug"
+msgstr "URL Bezeichnung"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:108
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:239
+msgid "Don't forget to resave permalinks in Settings > Permalinks."
+msgstr ""
+"Vergessen Sie nicht, Permalink in den Einstellungen erneut zu speichern > "
+"Permalink."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:129
+msgid "Listing types"
+msgstr "Inserats Typ"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:130
+msgid "Specify for which listing types will be this lexicon available for."
+msgstr "Geben Sie für die Inserats Arten dieses Lexikon verfügbar sein wird."
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:159
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:160
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:312
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:313
+#, php-format
+msgid "Add New %s"
+msgstr " Hinzufügen %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:161
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:314
+#, php-format
+msgid "Edit %s"
+msgstr "Bearbeite %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:162
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:315
+#, php-format
+msgid "New %s"
+msgstr "Neu %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:164
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:317
+#, php-format
+msgid "View %s"
+msgstr "Zeige %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:165
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:318
+#, php-format
+msgid "Search %s"
+msgstr "Suche %s"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:166
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:319
+#, php-format
+msgid "No %s found"
+msgstr "Kein %s gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-lexicon.php:167
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:320
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Keine %s im Papierkorb gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:168
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:174
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:180
+msgid "Listing Types"
+msgstr "Inserats Typ"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:169
+msgid "Listing Type"
+msgstr "Inseratstyp"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:170
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:171
+msgid "Add New Listing Type"
+msgstr "Neuen Inserats Typ hinzufügen"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:172
+msgid "Edit Listing Type"
+msgstr "Inserats Typ bearbeiten"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:173
+msgid "New Listing Type"
+msgstr "Neuen Inserats Typ hinzufügen"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:175
+msgid "View Listing Type"
+msgstr "Zeige Inserats Typ"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:176
+msgid "Search Listing Type"
+msgstr "Inserats Typ suchen"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:177
+msgid "No Listing Types found"
+msgstr "Kein Inserats Typ gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:178
+msgid "No Listing Types found in Trash"
+msgstr "Kein Inserats Typen im Papierkorb gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:249
+msgid "Allowed purchasing"
+msgstr "erlaubt Einkauf"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:256
+msgid "Allowed claiming"
+msgstr "erlaubt reklamieren"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:263
+msgid "Predefined metaboxes"
+msgstr "vordefinierte Metaboxen"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:264
+msgid ""
+"For custom metaboxes and fields, go to Inventor > Metaboxes or Inventor > "
+"Fields"
+msgstr ""
+"Für benutzerdefinierte Metaboxen und Felder, auf Inventor > Metaboxes or "
+"Inventor > Fields"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:269
+msgid "Branding: slogan, brand color, logo"
+msgstr "Branding: Slogan, Markenfarbe, Logo"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:270
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:271
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:272
+msgid "Video"
+msgstr "Video"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:273
+msgid "Price"
+msgstr "Preis"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:274
+msgid "Color"
+msgstr "Farbe"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:275
+msgid "Listing category"
+msgstr "Inserat Kategorie"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:276
+msgid "Location"
+msgstr "Standort"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:277
+msgid "Contact: email, phone, website, address"
+msgstr "Kontakt: E-Mail, Telefon, Website, Adresse"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:278
+msgid "Social connection"
+msgstr "Soziale Netzwerke"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:279
+msgid "Opening hours"
+msgstr "Öffnungszeiten"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:280
+msgid "Flags: featured, reduced, verified"
+msgstr "Markierungen: Favoriten, reduziert, überprüften"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:282
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:283
+msgid "Date interval: date from, date to"
+msgstr "Den gewünschten Zeitraum: von, Datum zu"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:284
+msgid "Datetime interval: date and time from, date and time to"
+msgstr "Datetime Intervall: Datum und Uhrzeit aus, Datum und Uhrzeit"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:285
+msgid "Time interval: time from, time to"
+msgstr "Zeitintervall: Zeit, Zeit zum"
+
+#: includes/post-types/class-inventor-fields-post-type-listing-type.php:286
+msgid "Date and time interval: date, time from, time to"
+msgstr "Datum und Zeitintervall: Datum, Uhrzeit aus, um Zeit zu"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:57
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:63
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:69
+msgid "Metaboxes"
+msgstr "Metaboxen"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:59
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:60
+msgid "Add New Metabox"
+msgstr "Neue Metabox hinzufügen"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:61
+msgid "Edit Metabox"
+msgstr "Bearbeiten Metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:62
+msgid "New Metabox"
+msgstr "Neue Metabol hinzufügen"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:64
+msgid "View Metabox"
+msgstr "Ansehen Metabol"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:65
+msgid "Search Metabox"
+msgstr "Suchen Metabox"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:66
+msgid "No Metaboxes found"
+msgstr "Keine Metabolen gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:67
+msgid "No Metaboxes found in Trash"
+msgstr "Keine Metabolen im Papierkorb gefunden"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:124
+msgid "Section"
+msgstr "Abschnitt"
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:125
+msgid "Show as a section in the listing detail page."
+msgstr "Als einen Abschnitt in der Inserats-Detailseite anzeigen."
+
+#: includes/post-types/class-inventor-fields-post-type-metabox.php:145
+msgid "Listing type"
+msgstr "Inseratstyp"
+
+#: templates/widgets/filter-fields/select.php:19
+#: templates/widgets/filter-fields/taxonomy.php:21
+msgid "All values"
+msgstr "Alle Kategorien"

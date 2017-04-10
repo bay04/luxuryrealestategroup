@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Coupons\n"
+"POT-Creation-Date: 2016-08-05 00:41+0600\n"
+"PO-Revision-Date: 2016-08-05 00:52+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/class-inventor-coupons-ajax.php:41
+msgid "Missing coupon ID."
+msgstr "Отсутствует ID купона."
+
+#: includes/class-inventor-coupons-ajax.php:52
+msgid "Coupon does not exists."
+msgstr "Купон не существует."
+
+#: includes/class-inventor-coupons-ajax.php:73
+msgid "Max number of coupons exceeded."
+msgstr "Максимальное количество просроченных купонов."
+
+#: includes/class-inventor-coupons-metaboxes.php:23
+msgid "Coupon details"
+msgstr "Детали купона"
+
+#: includes/class-inventor-coupons-metaboxes.php:33
+msgid "Discount"
+msgstr "Дисконт"
+
+#: includes/class-inventor-coupons-metaboxes.php:35
+msgid "Insert integer number like: 30. It will be outputted as 30%."
+msgstr "Вставьте целое число как: 30. Оно будет выводиться в виде 30%."
+
+#: includes/class-inventor-coupons-metaboxes.php:40
+msgid "Variant"
+msgstr "Вариант"
+
+#: includes/class-inventor-coupons-metaboxes.php:44
+#: includes/class-inventor-coupons-metaboxes.php:52
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/class-inventor-coupons-metaboxes.php:45
+#: includes/class-inventor-coupons-metaboxes.php:119
+msgid "Code"
+msgstr "Код"
+
+#: includes/class-inventor-coupons-metaboxes.php:46
+msgid "Generated code"
+msgstr "Сгенерированный код"
+
+#: includes/class-inventor-coupons-metaboxes.php:58
+msgid "Max. number"
+msgstr "Макс. количество"
+
+#: includes/class-inventor-coupons-metaboxes.php:60
+msgid "Insert integer for max. number of codes which can be generated."
+msgstr "Вставьте целое число для макс. количества кодов которые могут быть сгенерированы."
+
+#: includes/class-inventor-coupons-metaboxes.php:65
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: includes/class-inventor-coupons-metaboxes.php:71
+msgid "Coupon Valid"
+msgstr "Купон Действителен"
+
+#: includes/class-inventor-coupons-metaboxes.php:77
+msgid "Conditions"
+msgstr "Условия"
+
+#: includes/class-inventor-coupons-metaboxes.php:92
+msgid "Generated Code"
+msgstr "Сгенерированный Код"
+
+#: includes/class-inventor-coupons-metaboxes.php:105
+msgid "Generated Codes"
+msgstr "Сгенерированные Коды"
+
+#: includes/class-inventor-coupons-metaboxes.php:106
+msgid "Add Another Code"
+msgstr "Добавить Другой Код"
+
+#: includes/class-inventor-coupons-metaboxes.php:107
+msgid "Remove Code"
+msgstr "Удалить Код"
+
+#: includes/class-inventor-coupons-metaboxes.php:113
+msgid "User ID"
+msgstr "ID Пользователя"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:34
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:40
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:46
+msgid "Coupons"
+msgstr "Купоны"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:35
+msgid "Coupon"
+msgstr "Купон"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:36
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:37
+msgid "Add New Coupon"
+msgstr "Добавить Новый Купон"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:38
+msgid "Edit Coupon"
+msgstr "Редактировать Купон"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:39
+msgid "New Coupon"
+msgstr "Новый Купон"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:41
+#: templates/coupons/box.php:56
+msgid "View Coupon"
+msgstr "Просмотр Купона"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:42
+msgid "Search Coupon"
+msgstr "Поиск Купона"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:43
+msgid "No Coupons found"
+msgstr "Купоны не найдены"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:44
+msgid "No Coupons Found in Trash"
+msgstr "Купоны не найдены в Корзине"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:56
+msgctxt "URL slug"
+msgid "coupons"
+msgstr "coupons"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:23
+msgid "Coupon Detail"
+msgstr "Детали Купона"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:25
+msgid "Coupon Detail."
+msgstr "Детали Купона."
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:23
+msgid "Coupon Listing"
+msgstr "Листинг Купона"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:25
+msgid "Coupon listing."
+msgstr "Листинг Купона."
+
+#: templates/coupons/box.php:49
+msgid "Expiration"
+msgstr "Истечение"
+
+#: templates/coupons/box.php:51
+msgid "Coupon does not expire."
+msgstr "Купон не истекает."
+
+#: templates/widgets/coupon-detail-admin.php:12
+#: templates/widgets/coupon-listings-admin.php:13
+msgid "Title"
+msgstr "Название"
+
+#: templates/widgets/coupon-detail.php:34
+msgid "Print Coupon"
+msgstr "Печать Купона"
+
+#: templates/widgets/coupon-detail.php:40
+msgid "Get the Code"
+msgstr "Получить Код"
+
+#: templates/widgets/coupon-detail.php:58
+msgid "Generate Code"
+msgstr "Сгенерировать Код"
+
+#: templates/widgets/coupon-detail.php:64
+msgid "Available codes"
+msgstr "Доступные Коды"
+
+#: templates/widgets/coupon-detail.php:74
+msgid "You must be logged in to get the coupon code."
+msgstr "Вы должны войти чтобы получить код купона."
+
+#: templates/widgets/coupon-detail.php:82
+msgid "Expires"
+msgstr "Истекает"
+
+#: templates/widgets/coupon-detail.php:89
+msgid "Voucher valid"
+msgstr "Ваучер действителен"
+
+#: templates/widgets/coupon-detail.php:97
+msgid "Conditions of application"
+msgstr "Условия подачи заявки"
+
+#: templates/widgets/coupon-listings-admin.php:26
+msgid "Count"
+msgstr "Счет"

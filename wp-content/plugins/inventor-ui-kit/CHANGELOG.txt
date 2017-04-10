@@ -1,0 +1,10 @@
+Version: 1.0.0
+Release date: 2016-11-04
+What's new:
+- First release
+
+
+Version: 1.0.1
+Release date: 2016-12-13
+What's new:
+- video embed script is not loading if not necessary

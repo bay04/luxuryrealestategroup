@@ -1,0 +1,145 @@
+.faq-item {
+    @extend .box-shadow;
+    background-color: #fff;
+    margin: 0 0 30px 60px;
+    padding: 20px;
+    position: relative;
+
+    &:before {
+        background-color: $color-primary;
+        color: #fff;
+        content: 'Q';
+        display: block;
+        font-size: 20px;
+        font-weight: 400;
+        height: 44px;
+        left: -60px;
+        line-height: 46px;
+        position: absolute;
+        text-align: center;
+        top: 0;
+        width: 44px;
+    }
+
+    &:after {
+        border: 5px solid transparent;
+        border-bottom-color: $color-primary;
+        content: '';
+        display: block;
+        height: 0;
+        left: -21px;
+        position: absolute;
+        top: -5px;
+        transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+        width: 0;
+    }
+
+    &:last-of-type {
+        margin-bottom: 0;
+    }
+}
+
+.faq-item-question {
+    border-bottom: 1px solid $color-gray;
+    margin: 0 0 15px 0;
+    padding: 0 0 15px 0;
+
+    h2 {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+.widget_faq {
+    .faq {
+        @extend .row;
+    }
+
+    .condensed {
+        .faq-item-wrapper {
+            .faq-item {
+                margin-bottom: 0;
+            }
+
+            &:nth-child(even) {
+                clear:right;
+            }
+
+            &:nth-child(odd) {
+                clear:left;
+            }
+        }
+    }
+
+    .faq-item-wrapper {
+        @extend .col-md-6;
+
+        .faq-item {
+            border-bottom: 1px solid #f7f7f7;
+            margin: 0 0 30px 0;
+            padding-top: 4px;
+            padding-bottom: 4px;
+
+            &:before {
+                content: initial;
+            }
+
+            &:after {
+                content: initial;
+            }
+
+            .faq-item-question {
+                border-bottom: 0;
+                margin-bottom: 0;
+                padding-bottom: 0;
+
+                h2 {
+                    font-size: 16px;
+                    font-weight: bold;
+                    padding: 15px 15px 15px 0;
+                    text-decoration: none;
+                    width: 100%;
+
+                    a {
+                        color: $color-primary;
+                        display: inline-block;
+                        width: 100%;
+
+                        &.collapsed {
+                            color: $color-black-light;
+
+                            &:after {
+                                color: silver;
+                                content: '+';
+                            }
+                        }
+
+                        &:focus {
+                            text-decoration: none;
+                        }
+
+                        &:hover {
+                            color: $color-primary;
+                        }
+
+                        &:after {
+                            color: $color-primary;
+                            content: '-';
+                            font-size: 25px;
+                            position: absolute;
+                            right: 19px;
+                            top: 14px;
+                        }
+                    }
+                }
+            }
+
+            .faq-item-answer {
+                p {
+                    margin: 5px 0 10px 0;
+                }
+            }
+        }
+    }
+}

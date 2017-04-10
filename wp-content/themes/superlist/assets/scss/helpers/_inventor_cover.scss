@@ -1,0 +1,240 @@
+body.layout-boxed {
+  #inventor-cover-wrap, #inventor-cover {
+    width: auto !important;
+  }
+}
+
+@media screen and (min-width:907px) {
+  .layout-boxed #inventor-cover { width:100% !important }
+}
+
+.widget_inventor_cover {
+  position: relative;
+
+  .cover-widget-append-top & {
+    //margin-top: -106px;
+    margin-top: -135px;
+  }
+}
+
+.inventor-cover {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+  position: relative;
+  overflow: hidden;
+
+  video {
+    position: absolute;
+    width: 100%;
+  }
+
+  .embed-video {
+    position: relative;
+    height: 100%;
+
+    iframe {
+      width: 100%;
+      transform: translateY(-50%);
+      top: 50%;
+      position: absolute;
+    }
+  }
+}
+
+.video-wrapper-overlay {
+  background-color: $color-black-dark;
+  bottom: 0;
+  content: '';
+  display: block;
+  left: 0;
+  position: absolute;
+  opacity: 0.4;
+  right: 0;
+  top: 0;
+  z-index: 10;
+}
+
+.inventor-cover-title {
+  color: #fff;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  z-index: 91;
+
+  .filter-vertical & {
+    width: 80%;
+  }
+
+  .cover-widget-append-top & {
+    margin-top: 62px;
+  }
+
+  h1 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 60px;
+    padding: 0 15px;
+    text-shadow: 2px 2px 1px rgba(black, .4);
+
+    .filter-vertical & {
+      clear: both;
+      font-size: 40px;
+      width: 48%;
+
+      @media (max-width: $screen-sm-max) {
+        width: 100%;
+      }
+    }
+  }
+
+  h2 {
+    color: rgba(white, .9);
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0 15px;
+    text-shadow: 1px 1px 1px rgba(black, .4);
+
+    .filter-vertical & {
+      float: left;
+      width: 48%;
+
+      @media (max-width: $screen-sm-max) {
+        width: 100%;
+      }
+    }
+  }
+
+  @media (max-width: $screen-sm-max) {
+    h1 {
+      font-size: 40px;
+    }
+
+    h2 {
+      font-size: 20px;
+    }
+  }
+
+  @media (max-width: $screen-xs-max) {
+    width: 100%;
+
+    h1 {
+      font-size: 30px;
+    }
+
+    h2 {
+      font-size: 16px;
+    }
+  }
+}
+
+.inventor-cover-filter {
+  .filter-vertical & {
+    background-color: transparentize($color-primary, 0.5);
+    width: 38%;
+
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+
+    @media (max-width: $screen-sm-max) {
+      float: left;
+      position: initial;
+      transform: initial;
+      -webkit-transform: initial;
+      width: 100%;
+    }
+
+    form {
+      margin-top: 40px;
+    }
+  }
+
+  form {
+    @extend .row;
+
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .dropdown-menu {
+    border-color: #fff;
+  }
+
+  .form-group {
+    @extend .col-md-4;
+
+    .filter-vertical & {
+      @extend .col-md-12;
+    }
+
+    .form-control {
+      -webkit-appearance: initial;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+      height: 49px;
+    }
+
+    .dropdown-toggle, > input {
+      border-color: #fff !important;
+    }
+
+    button {
+      &.button {
+        font-size: 15px;
+        font-weight: 500;
+        padding: 14px;
+        width: 100%;
+
+        &:after {
+          content: none;
+        }
+      }
+    }
+
+    input, select {
+      padding: 11px 20px;
+    }
+
+    .bootstrap-select .dropdown-toggle, input {
+      height: 49px;
+    }
+
+    .bootstrap-select {
+      .btn, button {
+        padding: 9px 20px;
+      }
+
+      .bs-searchbox {
+        padding: 4px;
+
+        &:before {
+          margin-top: 13px;
+        }
+
+        .form-control {
+          box-shadow: none;
+          padding: 6px 40px;
+        }
+      }
+    }
+  }
+}
+
+#video-wrap {
+  height:100%;
+
+  iframe {
+    width: 100%;
+    position: relative;
+    transform: translateY(-50%);
+    top: 50%;
+  }
+}

@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor PayPal\n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../libraries\n"
+
+#: ../includes/class-inventor-paypal-logic.php:57
+msgid "PayPal Credit Card"
+msgstr "PayPal kreditkort"
+
+#: ../includes/class-inventor-paypal-logic.php:65
+msgid "PayPal Account"
+msgstr "PayPal Account"
+
+#: ../includes/class-inventor-paypal-logic.php:105
+msgid "First name is required."
+msgstr "Fornavn er påkrævet."
+
+#: ../includes/class-inventor-paypal-logic.php:110
+msgid "Last name is required."
+msgstr "Efternavn er påkrævet."
+
+#: ../includes/class-inventor-paypal-logic.php:115
+msgid "Card number is required."
+msgstr "Kortnummeret er påkrævet."
+
+#: ../includes/class-inventor-paypal-logic.php:120
+msgid "CVV is required."
+msgstr "CVV er påkrævet."
+
+#: ../includes/class-inventor-paypal-logic.php:125
+msgid "Expires month is required."
+msgstr "Udløber måned er påkrævet."
+
+#: ../includes/class-inventor-paypal-logic.php:130
+msgid "Expires year is required."
+msgstr "Udløber år er påkrævet."
+
+#: ../includes/class-inventor-paypal-logic.php:135
+msgid "Credit card number is not valid."
+msgstr "Kreditkort-nummer er ikke gyldig."
+
+#: ../includes/class-inventor-paypal-logic.php:140
+msgid "CVV number is not valid."
+msgstr "CVV nummer er ikke gyldig."
+
+#: ../includes/class-inventor-paypal-logic.php:145
+#: ../includes/class-inventor-paypal-logic.php:173
+msgid "You must agree terms &amp; conditions."
+msgstr "Du skal acceptere vilkår og betingelser."
+
+#: ../includes/class-inventor-paypal-logic.php:264
+msgid "Payment is invalid."
+msgstr "Betaling er ugyldig."
+
+#: ../includes/class-inventor-paypal-logic.php:266
+msgid "Undefined payment type."
+msgstr "Udefineret betalingstype."
+
+#: ../includes/class-inventor-paypal-logic.php:268
+#: ../includes/class-inventor-paypal-logic.php:475
+msgid "Payment has been successful."
+msgstr "Betaling har været vellykket."
+
+#: ../includes/class-inventor-paypal-logic.php:271
+msgid "Payment failed, canceled or is invalid."
+msgstr "Betaling mislykkedes, annulleret eller er ugyldig."
+
+#: ../includes/class-inventor-paypal-logic.php:479
+msgid "There was an error processing payment."
+msgstr "Der opstod en fejl under behandling af betaling."
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:34
+msgid "Inventor PayPal"
+msgstr "Opfinder PayPal"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:46
+msgid "Client ID"
+msgstr "Kundens ID"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:60
+msgid "Client Secret"
+msgstr "Kundens hemmelige nøgle"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:73
+msgid "Live Mode"
+msgstr "Live-Mode"
+
+#: ../includes/customizations/class-inventor-paypal-customizations-paypal.php:87
+msgid "Credit Card"
+msgstr "Kreditkort"
+
+#: ../templates/paypal/credit-card-form.php:7
+msgid "First Name"
+msgstr "Fornavn"
+
+#: ../templates/paypal/credit-card-form.php:12
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: ../templates/paypal/credit-card-form.php:17
+msgid "Credit Card Number"
+msgstr "Kreditkort nummer"
+
+#: ../templates/paypal/credit-card-form.php:22
+msgid "CVV"
+msgstr "CVV (bagpå kort)"
+
+#: ../templates/paypal/credit-card-form.php:27
+msgid "Expires"
+msgstr "Udløber"
+
+#: ../templates/paypal/credit-card-form.php:30
+msgid "Month"
+msgstr "måned"
+
+#: ../templates/paypal/credit-card-form.php:38
+msgid "Year"
+msgstr "år"

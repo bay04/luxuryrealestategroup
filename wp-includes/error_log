@@ -1,0 +1,8 @@
+[09-Mar-2017 18:36:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/luxuryu1/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/luxuryu1/public_html/wp-includes/rss-functions.php on line 8
+[23-Mar-2017 21:43:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/luxuryu1/public_html/wp-includes/registration-functions.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/luxuryu1/public_html/wp-includes/registration-functions.php on line 7

@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superlist\n"
+"POT-Creation-Date: 2016-08-02 09:31+0200\n"
+"PO-Revision-Date: 2016-08-02 09:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/libraries/class-tgm-plugin-activation."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: 404.php:21
+msgid "Page does not exist."
+msgstr "Pagina accesată nu există."
+
+#: comments.php:21
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentariu pentru &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarii pentru &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s comentarii pentru &ldquo;%2$s&rdquo;"
+
+#: comments.php:27 comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarii mai vechi"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Comentariile sunt dezactivate."
+
+#: comments.php:56
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Poți folosi următoarele taguri și atribute <abbr title=\"HyperText Markup "
+"Language\">HTML</abbr>: %s"
+
+#: comments.php:57
+msgid "Write a Comment"
+msgstr "Scrie comentariul tău"
+
+#: comments.php:59
+msgid "Comment"
+msgstr "Comentariu"
+
+#: comments.php:61
+msgid "Name"
+msgstr "Nume"
+
+#: comments.php:62
+msgid "Email"
+msgstr "Adresă email"
+
+#: comments.php:63
+msgid "Website"
+msgstr "Site"
+
+#: functions.php:104
+msgid "Main"
+msgstr "Primar"
+
+#: functions.php:115
+msgid "Primary"
+msgstr "Primar"
+
+#: functions.php:116
+msgid "Dashboard Sidebar"
+msgstr "Bară laterală dashboard"
+
+#: functions.php:117
+msgid "Header Topbar Left"
+msgstr "Bară sus antet stânga"
+
+#: functions.php:118
+msgid "Header Topbar Right"
+msgstr "Bară sus antet dreapta"
+
+#: functions.php:119
+msgid "Top Fullwidth"
+msgstr "Sus lățime completă"
+
+#: functions.php:120
+msgid "Top"
+msgstr "Sus"
+
+#: functions.php:121
+msgid "Content Top"
+msgstr "Conținut sus"
+
+#: functions.php:122
+msgid "Content Bottom"
+msgstr "Conținut jos"
+
+#: functions.php:123
+msgid "Bottom"
+msgstr "Jos"
+
+#: functions.php:124
+msgid "Footer Top First"
+msgstr "Subsol sus - primul"
+
+#: functions.php:125
+msgid "Footer Top Second"
+msgstr "Subsol sus - al doilea"
+
+#: functions.php:126
+msgid "Footer Top Third"
+msgstr "Subsol sus - al treilea"
+
+#: functions.php:127
+msgid "Footer Top Fourth"
+msgstr "Subsol sus - al patrulea"
+
+#: functions.php:128
+msgid "Footer First"
+msgstr "Subsol - primul"
+
+#: functions.php:129
+msgid "Footer Second"
+msgstr "Subsol - al doilea"
+
+#: functions.php:130
+msgid "Footer Bottom First"
+msgstr "Subsol jos - primul "
+
+#: functions.php:131
+msgid "Footer Bottom Second"
+msgstr "Subsol jos - al doilea"
+
+#: functions.php:381
+msgid "Superlist General"
+msgstr "Superlist General"
+
+#: functions.php:386
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:389
+msgid "Logo displayed in header."
+msgstr "Logo afișat în header"
+
+#: functions.php:401
+msgid "Customizer"
+msgstr "Customizator"
+
+#: functions.php:415 widgets/templates/widget-simple-map-admin.php:76
+msgid "Style"
+msgstr "Stil"
+
+#: functions.php:420 templates/action-bar.php:46
+msgid "Blue Light"
+msgstr "Albastru deschis"
+
+#: functions.php:421 templates/action-bar.php:47
+msgid "Blue"
+msgstr "Albastru"
+
+#: functions.php:422
+msgid "Blue dark"
+msgstr "Albastru închis"
+
+#: functions.php:423
+msgid "Blue gray"
+msgstr "Albastru-gri"
+
+#: functions.php:424 templates/action-bar.php:49
+msgid "Brown"
+msgstr "Maro"
+
+#: functions.php:425 templates/action-bar.php:53
+msgid "Green"
+msgstr "Verde"
+
+#: functions.php:426
+msgid "Green dark"
+msgstr "Verde închis"
+
+#: functions.php:427 templates/action-bar.php:67
+msgid "Lime"
+msgstr "Lămâie"
+
+#: functions.php:428 templates/action-bar.php:55
+msgid "Magenta"
+msgstr "Magenta"
+
+#: functions.php:429 templates/action-bar.php:56
+msgid "Orange"
+msgstr "Portocaliu"
+
+#: functions.php:430 templates/action-bar.php:68
+msgid "Pink"
+msgstr "Roz"
+
+#: functions.php:431 templates/action-bar.php:60
+msgid "Purple"
+msgstr "Violet"
+
+#: functions.php:432 templates/action-bar.php:70
+msgid "Purple Dark"
+msgstr "Violet închis"
+
+#: functions.php:433
+msgid "Mint"
+msgstr "Mentă"
+
+#: functions.php:434 templates/action-bar.php:61 templates/action-bar.php:62
+msgid "Red"
+msgstr "Roșu"
+
+#: functions.php:435 templates/action-bar.php:63
+msgid "Turquoise"
+msgstr "Turcoaz"
+
+#: functions.php:437
+msgid "Check the documentation to learn how to compile custom color."
+msgstr ""
+"Verifică documentația pentru a învăța cum să alegi culoare personalizată."
+
+#: functions.php:448
+msgid "Layout"
+msgstr "Aranjare"
+
+#: functions.php:453 templates/action-bar.php:17
+msgid "Wide"
+msgstr "Larg"
+
+#: functions.php:454 templates/action-bar.php:18
+msgid "Boxed"
+msgstr "În căsuță"
+
+#: functions.php:466
+msgid "Header"
+msgstr "Antet"
+
+#: functions.php:471 templates/action-bar.php:27
+msgid "Sticky"
+msgstr "Lipicios"
+
+#: functions.php:472 templates/action-bar.php:26
+msgid "Fixed"
+msgstr "Fix"
+
+#: functions.php:484
+msgid "Submenu"
+msgstr "Submeniu"
+
+#: functions.php:489 templates/action-bar.php:35
+msgid "Dark"
+msgstr "Închis"
+
+#: functions.php:490 templates/action-bar.php:36
+msgid "Light"
+msgstr "Deschis"
+
+#: functions.php:501
+msgid "Action Button Text"
+msgstr "Text buton acțiune"
+
+#: functions.php:504
+msgid "Text is displayed when button is hovered."
+msgstr "Textul este afișat când butonul este acoperit cu mouseul."
+
+#: functions.php:510
+msgid "Action Button Page"
+msgstr "Pagina buton acțiune"
+
+#: functions.php:515
+msgid "Page where the action button will point to."
+msgstr "Butonul de acțiune va trimite utilizatorul către această pagină"
+
+#: functions.php:527
+msgid "Show print button in listing detail"
+msgstr "Afilșează butonul de printare în detaliile listării"
+
+#: functions.php:555
+msgid "Not set"
+msgstr "Nu s-a setat"
+
+#: functions.php:717
+msgid "Previous"
+msgstr "Înapoi"
+
+#: functions.php:718
+msgid "Next"
+msgstr "Înainte"
+
+#: header.php:89
+msgid "Toggle navigation"
+msgstr "Comutare navigare"
+
+#: searchform.php:15
+msgid "Search ..."
+msgstr "Caută…"
+
+#: templates/action-bar.php:14
+msgid "Choose Page Layout"
+msgstr "Alege modul de aranjare a paginii"
+
+#: templates/action-bar.php:23
+msgid "Header Position"
+msgstr "Poziție antet"
+
+#: templates/action-bar.php:32
+msgid "Submenu Style"
+msgstr "Stil submeniu"
+
+#: templates/action-bar.php:41
+msgid "Color combination"
+msgstr "Combinație culoare"
+
+#: templates/action-bar.php:48
+msgid "Blue Dark"
+msgstr "Albastru închis"
+
+#: templates/action-bar.php:54
+msgid "Green Dark"
+msgstr "Verde închis"
+
+#: templates/action-bar.php:69
+msgid "Blue Gray"
+msgstr "Albastru-gri"
+
+#: templates/banner-types/video.php:6
+msgid "Your browser does not support the video html tag."
+msgstr "Browserul tău nu suportă tagul HTML pentru video."
+
+#: templates/content-listing-banner-info.php:40
+msgid "Reduced Price"
+msgstr "Preț redus"
+
+#: templates/content-listing-banner-info.php:40
+msgid "Price"
+msgstr "Preț"
+
+#: templates/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ne pare rău, nu am găsit nimic relevant pentru căutarea ta. Te rugăm să "
+"încerci cu alte cuvinte cheie."
+
+#: templates/content-post.php:17 templates/content.php:25
+msgid "By"
+msgstr "de"
+
+#: templates/content-post.php:36
+msgid "Post Pages:"
+msgstr "Pagini postare:"
+
+#: templates/content-post.php:45
+msgid "Tags"
+msgstr "Etichete"
+
+#: templates/content.php:15
+msgid "View"
+msgstr "vizualizări"
+
+#: templates/content.php:33
+msgid "Read more"
+msgstr "Mai mult"
+
+#: templates/document-title.php:18
+msgid "Page Not Found"
+msgstr "Pagina solicitată nu a fost găsită"
+
+#: templates/document-title.php:20
+msgid "Search for"
+msgstr "Caută"
+
+#: templates/misc/comment.php:25
+msgid "Reply"
+msgstr "Răspunde"
+
+#: templates/misc/comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul tău așteaptă aprobare."
+
+#: widgets/templates/widget-call-to-action-admin.php:17
+msgid "Text"
+msgstr "Text"
+
+#: widgets/templates/widget-call-to-action-admin.php:30
+msgid "Button Text"
+msgstr "Text buton"
+
+#: widgets/templates/widget-call-to-action-admin.php:43
+msgid "Button Link"
+msgstr "Link buton"
+
+#: widgets/templates/widget-simple-map-admin.php:19
+msgid "Latitude"
+msgstr "Altitudine"
+
+#: widgets/templates/widget-simple-map-admin.php:32
+msgid "Longitude"
+msgstr "Longitudine"
+
+#: widgets/templates/widget-simple-map-admin.php:45
+msgid "Zoom"
+msgstr "Mărire"
+
+#: widgets/templates/widget-simple-map-admin.php:60
+msgid "Height in pixels"
+msgstr "Înălţime în pixeli"
+
+#: widgets/templates/widget-simple-map-admin.php:80
+msgid "Default"
+msgstr "Prestabilit"
+
+#: widgets/templates/widget-video-cover-admin.php:26
+msgid "Title"
+msgstr "Titlu"
+
+#: widgets/templates/widget-video-cover-admin.php:40
+msgid "Subtitle"
+msgstr "Subtitlu"
+
+#: widgets/templates/widget-video-cover-admin.php:54
+msgid "Height"
+msgstr "Înălţime"
+
+#: widgets/templates/widget-video-cover-admin.php:68
+msgid "Preset Image URL"
+msgstr "Adresa URL a imaginii presetate"
+
+#: widgets/templates/widget-video-cover-admin.php:82
+msgid "Overlay opacity"
+msgstr "Opacitate"
+
+#: widgets/templates/widget-video-cover-admin.php:96
+msgid "Video MP4"
+msgstr "Video MP4"
+
+#: widgets/templates/widget-video-cover-admin.php:110
+msgid "Video OGG"
+msgstr "Video OGG"
+
+#: widgets/templates/widget-video-cover-admin.php:124
+msgid "Classes"
+msgstr ""
+
+#: widgets/templates/widget-video-cover-admin.php:133
+msgid ""
+"Additional classes appended to body class and separated by , e.g. <i>header-"
+"transparent, listing-slider-append-top</i>"
+msgstr ""
+
+#: widgets/templates/widget-video-cover-admin.php:145
+msgid "Filter"
+msgstr "Filtru"
+
+#: widgets/templates/widget-video-cover-admin.php:152
+msgid "Filter Button Text"
+msgstr "Text buton filtru"
+
+#: widgets/templates/widget-video-cover-admin.php:163
+msgid "Input titles"
+msgstr "Inserează titluri"
+
+#: widgets/templates/widget-video-cover-admin.php:174
+msgid "Labels"
+msgstr "Etichete"
+
+#: widgets/templates/widget-video-cover-admin.php:186
+msgid "Placeholders"
+msgstr "Substituenți"
+
+#: widgets/templates/widget-video-cover-admin.php:191
+msgid "Filter Fields"
+msgstr "Filtreză câmpuri"
+
+#: widgets/widget-call-to-action.php:29
+msgid "Call to action"
+msgstr "CTA"
+
+#: widgets/widget-call-to-action.php:31
+msgid "Call to action widget."
+msgstr "Piesă CTA"
+
+#: widgets/widget-simple-map.php:29
+msgid "Simple Map"
+msgstr "Hartă simplă"
+
+#: widgets/widget-simple-map.php:31
+msgid "Displays 1 place in the map."
+msgstr "Afișează un loc pe hartă."
+
+#: widgets/widget-video-cover.php:29
+msgid "Video Cover"
+msgstr "Copertă video"
+
+#: widgets/widget-video-cover.php:31
+msgid "Displays small filter with video or image background."
+msgstr "Afișează filtru mic cu video sau imagine de fundal."

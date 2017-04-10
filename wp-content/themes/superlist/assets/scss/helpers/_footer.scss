@@ -1,0 +1,211 @@
+.footer {
+    color: #fff;
+    display: table-row;
+    font-size: 13px;
+    height: 1px;
+}
+
+.footer-area {
+    border-bottom: 1px solid rgba(white, .08);
+    padding: 0 0 30px 0;
+
+    dl {
+        padding-left: 35px;
+        position: relative;
+
+        dt {
+            color: transparentize(#fff, 0.4);
+            border-top: 1px solid rgba(white, .1);
+            margin-top: 15px;
+            padding-top: 15px;
+        }
+
+        dd {
+            color: transparentize(#fff, 0.7);
+            font-size: 12px;
+            margin-top: 5px;
+        }
+
+        .fa {
+            color: $color-primary;
+            font-size: 22px;
+            position: absolute;
+            left: 0;
+            margin-top: 8px;
+            vertical-align: top;
+        }
+    }
+}
+
+.footer-top {
+    background-color: lighten($color-black-dark, 1.5%);
+
+    @media (max-width: $screen-xs-max) {
+        .widget.widget_nav_menu ul.menu {
+            li {
+                border-bottom: 1px solid rgba(#fff, .05);
+                display: block;
+                float: none;
+                margin: 0;
+
+                a {
+                    display: block;
+                    padding: 3px 0;
+                }
+            }
+        }
+    }
+
+    h2 {
+        color: #fff !important;
+        font-size: 20px !important;
+        font-weight: 300;
+        margin: 0 0 30px 0;
+
+        &.widgettitle {
+            margin: 45px 0 !important;
+        }
+    }
+
+    a {
+        color: #fff !important;
+
+        &:hover {
+            color: lighten($color-primary, 10%) !important;
+        }
+    }
+
+    li {
+        margin-right: 20px;
+
+        a {
+            line-height: 40px !important;
+
+        }
+    }
+
+    p {
+        margin: 0;
+    }
+
+    form {
+        margin: 0;
+    }
+
+    .input-group {
+        margin: 0;
+        max-width: 263px;
+    }
+
+    .form-control {
+        border: 0;
+    }
+}
+
+.footer-top-inner {
+    @extend .clearfix;
+    padding: 20px 0;
+}
+
+.footer-first {
+    float: left;
+
+    @media (max-width: $screen-xs-max) {
+        float: none;
+    }
+}
+
+.footer-second {
+    float: right;
+
+    @media (max-width: $screen-xs-max) {
+        float: none;
+        width: 100%;
+    }
+
+    @media (min-width: $screen-sm-min) and (max-width: $screen-md-max) {
+        width: 27%;
+    }
+}
+
+.footer-bottom {
+    @extend .clearfix;
+
+    background-color: $color-black-dark;
+    color: #fff;
+    font-size: 13px;
+    padding: 25px 0;
+    text-align: center;
+
+    a {
+        border-bottom: 1px solid #fff;
+        color: #fff;
+
+        &:hover {
+            border-bottom-color: lighten($color-primary, 10%);
+            color: lighten($color-primary, 10%);
+        }
+    }
+
+    .widget {
+        margin: 0;
+    }
+
+    .nav {
+        .sub-menu {
+            display: none;
+        }
+
+        > li {
+            display: inline-block;
+            float: none;
+            margin: 0;
+
+            > a {
+                border-radius: 0;
+                color: #fff;
+                padding: 0 10px !important;
+
+                &:hover {
+                    background-color: transparent;
+
+                    i {
+                        color: lighten($color-primary, 10%);
+                    }
+                }
+
+                i {
+                    background-color: transparent !important;
+                    border-radius: 50%;
+                    font-size: 16px;
+                    height: 32px;
+                    line-height: 30px;
+                    text-align: center;
+                    width: 32px;
+                }
+
+                &:active, &:focus, &:hover {
+                    background-color: transparent;
+                }
+            }
+        }
+    }
+}
+
+.footer-bottom-second {
+    margin: 15px 0 0 0;
+    padding: 15px 0 0 0;
+    position: relative;
+
+    &:after {
+        background-color: rgba(#fff, .2);
+        content: '';
+        display: block;
+        height: 1px;
+        left: 50%;
+        position: absolute;
+        top: 0;
+        transform: translateX(-50%);
+        width: 30px;
+    }
+}

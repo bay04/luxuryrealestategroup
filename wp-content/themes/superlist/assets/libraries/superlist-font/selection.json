@@ -1,0 +1,72 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M833.072 403.44l188.012-108.56-509.084-293.948-509.084 293.944 188.016 108.56-188.016 108.564 188.016 108.56-188.016 108.56 509.084 293.948 509.080-293.944-188.012-108.56 188.016-108.564-188.012-108.56zM512 56.408l413.004 238.472-413.004 238.468-413.008-238.472 413.008-238.468zM238.976 431.168l273.024 157.656 273.024-157.656 139.984 80.832-413.008 238.472-413.008-238.472 139.984-80.832zM925.008 729.124l-413.008 238.468-413.008-238.472 139.984-80.832 273.024 157.656 273.024-157.656 139.984 80.836z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"grid": 0,
+				"tags": [
+					"logo"
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"order": 1,
+				"id": 0,
+				"prevSize": 32,
+				"code": 58880,
+				"name": "logo"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 0
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "superlist"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "superlist-",
+			"metadata": {
+				"fontFamily": "superlist",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 15,
+				"whitespace": 50
+			},
+			"embed": false,
+			"showSelector": false,
+			"showMetrics": false,
+			"showMetadata": false,
+			"showVersion": false,
+			"selector": "",
+			"classSelector": ".icon",
+			"resetPoint": 58880
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215
+		},
+		"historySize": 100,
+		"showCodes": false,
+		"gridSize": 16,
+		"showGrid": true,
+		"showLiga": false
+	}
+}

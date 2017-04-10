@@ -1,0 +1,145 @@
+Version: 0.1.0
+Release date: 2015-12-02
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2015-12-04
+- fixed text_money sanitation callback
+
+
+Version: 0.1.2
+Release date: 2015-12-12
+- package valid fix
+
+
+Version: 0.2.0
+Release date: 2016-01-18
+- private packages
+- pricing table with empty rows fix
+- price of free packages is shown as 0 instead of empty string
+
+
+Version: 0.3.0
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- performance improvement (user package validation is checked every hour and when package is changed instead of at every page refresh)
+- security fix
+- better UX
+- fixed missing translation strings and phrases
+- Slovak translation
+
+
+Version: 0.3.1
+Release date: 2016-03-18
+What's new:
+- fixed infinite package validation
+
+
+Version: 0.4.0
+Release date: 2016-03-29
+What's new:
+- fixed missing translation strings and phrases
+- PHP 7 support
+- hidden message in package info widget if payment page not set
+- max listings in pricing table
+- Italian translation
+- disallowed package permissions are shown in pricing table
+- option to assign trial package to pricing table
+
+
+Version: 0.5.0
+Release date: 2016-04-07
+What's new:
+- support for inventor_metabox_allowed filter
+- Spanish translation
+
+
+Version: 0.6.0
+Release date: 2016-04-16
+What's new:
+- French translation
+- Danish translation
+
+
+Version: 0.7.0
+Release date: 2016-05-01
+What's new:
+- support for widget visibility
+- support for cookie storage
+- fixed translation for package expiration date
+- packages widget
+
+
+Version: 0.8.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- listing types restrictions
+
+
+Version: 0.9.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+
+
+Version: 1.0.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- updated Danish translations
+- Portugal translation fix
+- French translation fix
+- option to override translation files more easily
+
+
+Version: 1.1.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- added package column into user list in the WP admin
+
+
+Version: 1.2.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- fixed plugin dependency
+- site_url() replaced with home_url()
+- fixed condition in default package settlement
+
+New WP filters:
+- inventor_package_of_user
+
+
+Version: 1.3.0
+Release date: 2016-10-07
+What's new:
+- shown only enabled listing types in package restrictions
+- option to set maximum allowed number of categories per package
+- message about maximum allowed categories before field
+- rebuilded catalog
+
+
+Version: 1.4.0
+Release date: 2016-11-04
+What's new:
+- fixed Warning message for package listing types
+- WP filter: inventor_packages_metabox_permissions
+
+
+Version: 1.4.1
+Release date: 2016-11-07
+What's new:
+- is_empty() fix (changed to empty())
+
+
+Version: 1.5.0
+Release date: 2016-12-13
+What's new:
+- information about missing package permissions in the metabox description
+- updated .pot catalog
+- updated Slovak translation

@@ -1,0 +1,186 @@
+Version: 0.1.0
+Release date: 2015-11-19
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2015-11-20
+What's new:
+- validation fixes
+
+
+Version: 0.2.0
+Release date: 2015-12-04
+What's new:
+- custom metaboxes
+- custom listing post types
+- text_money field type
+- skip attribute for custom fields
+
+
+Version: 0.3.0
+Release date: 2015-12-09
+What's new:
+- predefined opening hours metabox
+- new listing type is automatically allowed
+
+
+Version: 0.3.1
+Release date: 2016-01-18
+What's new:
+- post type identifier has to be slug with lowercase characters
+- fixed missing general metabox in submission steps for listings without any metaboxes
+- multicheck and multicheck_inline fields representation fix
+- listing_type_supported filter
+
+
+Version: 0.3.2
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- Slovak translation
+
+
+Version: 0.4.0
+Release date: 2016-03-29
+What's new:
+- Italian translation
+- max length of any identifier is 20 characters
+
+
+Version: 0.5.0
+Release date: 2016-04-07
+What's new:
+- support for inventor-submission plugin
+- option to set metabox description
+- option to set metabox as a listing section
+- option to set field label position
+- taxonomy field types
+- custom lexicon manager
+- custom fields ordering
+- custom metaboxes ordering
+- fixed default values of fields with options
+- Spanish translation
+- support for inventor_metabox_field_id WP filter
+
+
+Version: 0.5.1
+Release date: 2016-04-08
+What's new:
+- support for inventor_metabox_title filter
+- support for inventor_metabox_description filter
+- support for inventor_metabox_field_name filter
+
+
+Version: 0.6.0
+Release date: 2016-04-16
+What's new:
+- French translation
+- Danish translation
+- support for inventor_metabox_field_default filter
+- support for inventor_metabox_field_enabled filter
+- support for inventor_metabox_field_attributes filter
+
+
+Version: 0.7.0
+Release date: 2016-05-01
+What's new:
+- support for inventor_metabox_field_description filter
+- updated language catalog
+
+
+Version: 0.8.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- if field with options is required, "None" option is hidden
+
+New WP filters:
+- inventor_metabox_field_before_row
+- inventor_metabox_field_before
+- inventor_metabox_field_before_field
+- inventor_metabox_field_after_field
+- inventor_metabox_field_after
+- inventor_metabox_field_after_row
+
+
+Version: 0.9.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- support for custom filter fields of taxonomy type
+- support for custom filter fields of radio, radio_inline and select type
+
+
+Version: 1.0.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- custom user fields
+- new custom field type: title
+- updated Danish translations
+- Portugal translation fix
+- support for custom filter fields of multicheck type
+- support for custom filter fields of taxonomy multicheck type
+- support for custom filter fields of checkbox type
+- removed listing type prefix from field ID
+- option to override translation files more easily
+
+
+Version: 1.1.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- changed empty label for multicheck fields
+
+New WP filters:
+- inventor_metabox_field_types
+- inventor_listing_type_icon
+
+
+Version: 1.2.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- support for custom filter fields of text type
+- fixed plugin dependency
+- show_option_none is set to true if field is not required
+- applied inventor_metabox_field_options WP filter
+- field ID and metaboxes in the fields list admin table
+- metabox ID and listing type in metaboxes list admin table
+- listing type ID, URL slug and icon in the listing types list admin table
+- field order applies to position in predefined metaboxes
+
+New WP filters:
+- inventor_metabox_field_position
+
+
+Version: 1.3.0
+Release date: 2016-10-07
+What's new:
+- lexicon ID and listing types in the lexicon list admin table
+- fixed option "1" in non-required fields
+- fixed slug identifier regex for new internet browser versions
+- fixed missing placeholder of custom text filter fields
+- Inventor_Fields_Logic::get_field_settings() helper
+- settings of number field types applied in filters
+- option to deselect icon of listing type
+
+
+Version: 1.4.0
+Release date: 2016-11-04
+What's new:
+- post type argument in inventor_listing_type_icon WP filter
+- updated Slovak translation
+- money filter field
+- fixed sanitization and escape callbacks of filter lookup
+- package permissions of custom metaboxes
+
+
+Version: 1.5.0
+Release date: 2016-12-13
+What's new:
+- support for inventor_filter_query_ids
+- endpoints for WordPress JSON REST API
+- fixed notice while filtering by taxonomy multicheck filter fields

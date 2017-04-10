@@ -1,0 +1,122 @@
+Version: 0.1.0
+Release date: 2016-01-18
+What's new:
+- First release
+
+
+Version: 0.2.0
+Release date: 2016-03-18
+What's new:
+- fixed dependency for business post type
+- updated resume post type
+- updated job post type
+- inventor_jobs_experience_levels filter
+- disabled street view, inside view and polygon location fields for resume
+- job required skills in own listing detail section
+- .pot file
+- Slovak translation
+
+
+Version: 0.3.0
+Release date: 2016-04-06
+What's new:
+- Italian translation
+- support for inventor-submission plugin
+- Spanish translation
+
+
+Version: 0.3.1
+Release date: 2016-04-09
+What's new:
+- removed cached dependency on old inventor submission system
+
+
+Version: 0.3.2
+Release date: 2016-04-10
+What's new:
+- support for Google reCAPTCHA
+
+
+Version: 0.4.0
+Release date: 2016-04-18
+What's new:
+- French translation
+
+
+Version: 0.4.1
+Release date: 2016-05-01
+What's new:
+- support for cookie storage
+- form preserves data if form is invalid
+- updated language catalogs
+
+
+Version: 0.5.0
+Release date: 2016-05-20
+What's new:
+- German translation
+
+
+Version: 0.6.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+
+
+Version: 0.7.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- Portugal translation fix
+- option to override translation files more easily
+- job details metabox in own function
+
+
+Version: 0.8.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- listing type icon
+
+
+Version: 0.9.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- fixed plugin dependency
+- job applicants
+- updated fields of resume listing type
+
+
+Version: 1.0.0
+Release date: 2016-10-07
+What's new:
+- working history and experience in resume detail
+
+
+Version: 1.0.1
+Release date: 2016-11-04
+What's new:
+- post type argument in inventor_listing_type_icon WP filter
+
+
+Version: 1.0.2
+Release date: 2016-11-04
+What's new:
+- inventor_metabox_field_enabled WP filter applied to job details fields
+
+
+Version: 1.0.3
+Release date: 2016-11-16
+What's new:
+- updated .pot catalog
+
+
+Version: 1.1.0
+Release date: 2016-12-13
+What's new:
+- WP filter inventor_metabox_title takes $post_type argument
+- WP filter inventor_metabox_description takes $post_type argument
+- endpoints for WordPress JSON REST API
+- updated .pot catalog
+- updated Slovak translation

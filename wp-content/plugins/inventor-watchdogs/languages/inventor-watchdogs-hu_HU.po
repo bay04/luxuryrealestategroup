@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Watchdogs\n"
+"POT-Creation-Date: 2016-08-16 11:51+0200\n"
+"PO-Revision-Date: 2016-08-16 11:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-watchdogs-logic.php:162
+#: includes/class-inventor-watchdogs-logic.php:192 templates/watchdogs.php:20
+msgid "You need to log in at first."
+msgstr "Előbb be kel jelentkeznije."
+
+#: includes/class-inventor-watchdogs-logic.php:201
+msgid "Watchdog does not exist!"
+msgstr "A Watchdog nem létezik!"
+
+#: includes/class-inventor-watchdogs-logic.php:203
+msgid "It is not your watchdog!"
+msgstr "Ez a watchdog nem az öné!"
+
+#: includes/class-inventor-watchdogs-logic.php:206
+#: includes/class-inventor-watchdogs-logic.php:298
+msgid "Watchdog deleted."
+msgstr "A Watchdog törölt."
+
+#: includes/class-inventor-watchdogs-logic.php:242
+msgid "Search query watchdogs are disabled."
+msgstr "A  watchdog kereső kérdések deaktiválva vannak."
+
+#: includes/class-inventor-watchdogs-logic.php:251
+msgid "You can't watch empty search query."
+msgstr "Nemkövetheti az üres kereső kérdést."
+
+#: includes/class-inventor-watchdogs-logic.php:257
+msgid "You already watch this search query."
+msgstr "Ezt a kereső kérdést már követi."
+
+#: includes/class-inventor-watchdogs-logic.php:267
+msgid "Watchdog saved."
+msgstr "A Watchdog mentett."
+
+#: includes/class-inventor-watchdogs-logic.php:290
+msgid "You don't watch this search query."
+msgstr "Ezt a kereső kérdést nemköveti."
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:36
+msgid "Inventor Watchdogs"
+msgstr "A Watchdogs feltaláló"
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:49
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:37
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:43
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:49
+msgid "Watchdogs"
+msgstr "Watchdogs"
+
+#: includes/customizations/class-inventor-watchdogs-customizations-watchdogs.php:64
+msgid "Enable Search Queries Watchdogs"
+msgstr "Engedélyezi a watchdog kereső kérdéseket"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:38
+msgid "Watchdog"
+msgstr "Watchdog"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:39
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:40
+msgid "Add New Watchdog"
+msgstr "Hozzáadni új Watchdogot"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:41
+msgid "Edit Watchdog"
+msgstr "Watchdog módosítása"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:42
+msgid "New Watchdog"
+msgstr "Új Watchdog"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:44
+msgid "View Watchdog"
+msgstr "Watchdog ábrázol"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:45
+msgid "Search Watchdog"
+msgstr "Kikeresni a Watchdogot"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:46
+msgid "No Watchdogs found"
+msgstr "Nemlelt semmi Watchdogot"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:47
+msgid "No Watchdogs Found in Trash"
+msgstr "A kosárban nemlelt semmi Watchdogot"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:77
+msgid "General"
+msgstr "Általános"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:86
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:109
+#: templates/watchdogs-lookup.php:5
+msgid "Type"
+msgstr "Típus"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:89
+msgid "Search query"
+msgstr "Kereső kérdés"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:95
+msgid "Data"
+msgstr "Adatok"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:110
+msgid "Lookup"
+msgstr "Kikeresés"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:111
+msgid "Value"
+msgstr "Érték"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:112
+msgid "Author"
+msgstr "Szerző"
+
+#: includes/post-types/class-inventor-watchdogs-post-type-watchdog.php:113
+msgid "Date"
+msgstr "Dátum"
+
+#: templates/watchdogs-button.php:4
+msgid "Unwatch this search query"
+msgstr ""
+
+#: templates/watchdogs-button.php:8
+msgid "Watch this search query"
+msgstr ""
+
+#: templates/watchdogs-row.php:11
+#, php-format
+msgid "<span class=\"match\">%d</span> listing matches your search query"
+msgid_plural "<span class=\"match\">%d</span> listings match your search query"
+msgstr[0] ""
+"<span class=\"match\">%d</span> A tétel egyezik a maga keresési feltételeivel"
+msgstr[1] ""
+"<span class=\"match\">%d</span> tétel egyezik a maga keresési feltételeivel"
+
+#: templates/watchdogs-row.php:19
+msgid "Watched value"
+msgstr "Figyelő érték"
+
+#: templates/watchdogs-row.php:25
+msgid "Record created"
+msgstr ""
+
+#: templates/watchdogs.php:11
+msgid "Previous"
+msgstr "Előző"
+
+#: templates/watchdogs.php:12
+msgid "Next"
+msgstr "Következő"
+
+#: templates/watchdogs.php:18
+msgid "You don't have any watchdogs, yet. Start by adding some."
+msgstr "Még nincsen semmi watchdogja. Kezdje azzal, hogy hozzáad egyet."

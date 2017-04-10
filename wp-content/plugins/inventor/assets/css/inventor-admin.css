@@ -1,0 +1,339 @@
+/********************************************************************************
+ * CMB2 Tabs
+ ********************************************************************************/
+h2.inventor-tabs.nav-tab-wrapper {
+    border-bottom: 1px solid #ccc !important;
+    padding: 0 0 0 10px !important;
+}
+
+h2.inventor-tabs.nav-tab-wrapper .nav-tab {
+    border-bottom: 1px solid #ccc;
+    box-shadow: none;
+    outline: 0;
+}
+
+h2.inventor-tabs.nav-tab-wrapper a.nav-tab-active {
+    border-bottom: 1px solid #f1f1f1;
+    box-shadow: none;
+    outline: 0;
+}
+
+h2.inventor-tabs.nav-tab-wrapper a.nav-tab-active:focus, h2.inventor-tabs.nav-tab-wrapper a.nav-tab-active:active {
+    box-shadow: none !important;
+    outline: 0 !important;
+}
+
+/********************************************************************************
+ * POI
+ ********************************************************************************/
+.cmb2-id-poi.cmb-inline li {
+    background-color: rgba(0, 0, 0, .02);
+    border: 1px solid rgba(0, 0, 0, .07);
+    margin: 0 0 4px 0;
+    padding: 6px 8px;
+    text-align: center;
+}
+
+.cmb2-id-poi.cmb-inline li:hover {
+    background-color: rgba(0, 0, 0, .06);
+    border: 1px solid rgba(0, 0, 0, .1);
+}
+
+.cmb2-id-poi.cmb-inline li i {
+    font-size: 15px;
+}
+
+.cmb2-id-poi.cmb-inline li input {
+    margin: 0 0 5px 0;
+}
+
+.cmb2-id-poi.cmb-inline .cmb-td {
+    padding: 0 0 20px 0;
+}
+
+.cmb2-id-poi input[checked="checked"] ~ label > i.inventor-poi {
+    color: #1e8cbe;
+}
+
+/********************************************************************************
+ * LISTING CATEGORY LISTING TYPES
+ ********************************************************************************/
+.cmb2-id-listing-category-listing-types label { display: initial; }
+
+/********************************************************************************
+ * Week availability table
+ ********************************************************************************/
+.cmb-type-week-availability td {
+    padding: 2px 30px 2px 0;
+    white-space: nowrap;
+}
+
+.cmb-type-week-availability td.day {
+    padding-top: 15px;
+}
+
+.cmb-type-week-availability td.closed {
+    padding-bottom: 15px;
+}
+
+/********************************************************************************
+ * User Profile
+ ********************************************************************************/
+#cmb2-metabox-user_profile, #cmb2-metabox-user_package {
+    background-color: rgba(0, 0, 0, .025);
+    border: 1px solid rgba(0, 0, 0, .06);
+    margin: 0 0 40px 0;
+    padding: 20px 40px 30px 40px;
+}
+
+/********************************************************************************
+ * Menu
+ ********************************************************************************/
+ .toplevel_page_inventor .wp-menu-image:before {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    content: '\e900';
+    font-family: 'inventor-basic';
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.toplevel_page_listings .wp-menu-image:before {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    content: '\e902';
+    font-family: 'inventor-basic';
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.toplevel_page_lexicon .wp-menu-image:before {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    content: '\e901';
+    font-family: 'inventor-basic';
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.inventor-menu-count {
+    float: right;
+}
+
+/********************************************************************************
+ * Widget Filter Fields
+ ********************************************************************************/
+.inventor-filter-fields li {
+    background: #fafafa;
+    border: 1px solid #dfdfdf;
+    cursor: move;
+}
+
+.inventor-filter-fields li.invisible {
+    opacity: .4;
+}
+
+.inventor-filter-fields li p {
+    font-size: 12px;
+    margin: 7px 15px;
+}
+
+.inventor-filter-fields li i {
+    font-size: 10px;
+    margin: 0 5px 0 0;
+}
+
+.inventor-filter-fields li .visibility {
+    cursor: pointer;
+    float: right;
+    position: relative;
+}
+
+.inventor-filter-fields li .visibility i {
+    cursor: pointer;
+    font-size: 15px;
+    left: 0;
+    position: absolute;
+    pointer-events: none;
+    top: 2px;
+}
+
+.inventor-filter-fields li .visibility .field-visibility {
+    background-color: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.inventor-filter-fields li .visibility .field-visibility:before {
+    display: none;
+}
+
+
+/********************************************************************************
+ * Widget Filter Fields
+ ********************************************************************************/
+.inventor-listing-types li {
+    background: #fafafa;
+    border: 1px solid #dfdfdf;
+    cursor: move;
+}
+
+.inventor-listing-types li.invisible {
+    opacity: .4;
+}
+
+.inventor-listing-types li p {
+    font-size: 12px;
+    margin: 7px 15px;
+}
+
+.inventor-listing-types li i {
+    font-size: 10px;
+    margin: 0 5px 0 0;
+}
+
+.inventor-listing-types li .visibility {
+    cursor: pointer;
+    float: right;
+    position: relative;
+}
+
+.inventor-listing-types li .visibility i {
+    cursor: pointer;
+    font-size: 15px;
+    left: 0;
+    position: absolute;
+    pointer-events: none;
+    top: 2px;
+}
+
+.inventor-listing-types li .visibility .field-visibility {
+    background-color: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.inventor-listing-types li .visibility .field-visibility:before {
+    display: none;
+}
+
+.inventor-listing-types li .appearance {
+    padding: 10px 0;
+    display: block;
+}
+
+.inventor-listing-types li .appearance label {
+    display: block;
+}
+
+/********************************************************************************
+ * Widget Advanced Options
+ ********************************************************************************/
+.widget-advanced-options, .widget-advanced-options .widget-inside {
+    background-color: #fafafa;
+}
+
+/********************************************************************************
+ * TGM
+ ********************************************************************************/
+#setting-error-tgmpa {
+    display: block;
+}
+
+/********************************************************************************
+ * Submission - Banner type selection
+ ********************************************************************************/
+.cmb-row-banner {
+    border-bottom: none !important;
+    margin-bottom: 0 !important;
+}
+
+.cmb-row-banner:not(:first-of-type) {
+    border-top: 1px solid #e9e9e9;
+    margin-top: 10px !important;
+}
+
+.cmb-row-banner.inactive {
+    display: none;
+}
+
+.cmb-row-banner span.inactive {
+    display: none;
+}
+
+.cmb-row-banner span {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.cmb-type-street-view {
+    transition: all linear .15s;
+}
+
+.cmb-type-street-view.inactive {
+    pointer-events: none;
+    opacity: .3;
+}
+
+/********************************************************************************
+ * Plugin Update Message
+ ********************************************************************************/
+.inventor-update-plugin-message .update-message {
+    padding-left: 14px;
+}
+
+.inventor-update-plugin-message .update-message:before {
+    margin-left: 0;
+    margin-top: 5px;
+}
+
+.inventor-update-plugin-message-purchase-code {
+    display: inline-block;
+}
+
+.inventor-update-plugin-message-submit img {
+    float: left;
+    margin: 5px 7px 0 0;
+    width: 15px;
+}
+
+.inventor-update-plugin-message-how-to {
+    float: right;
+    line-height: 30px;
+}
+
+/********************************************************************************
+ * Dashboard
+ ********************************************************************************/
+.inventor-dashboard-listings-counts {
+    width: 100%
+}
+
+.inventor-dashboard-listings-counts td.listing-type i {
+    margin-right: 5px;
+}
+
+.inventor-dashboard-listings-counts th,
+.inventor-dashboard-listings-counts td {
+    text-align: center;
+}
+
+.inventor-dashboard-listings-counts th.pending {
+    color: #FFDE00;
+}
+
+.inventor-dashboard-listings-counts th.draft {
+    color: red;
+}
+
+.inventor-dashboard-listings-counts th.publish {
+    color: green;
+}
+
+.inventor-dashboard-listings-counts th.listing-type,
+.inventor-dashboard-listings-counts td.listing-type {
+    text-align: left;
+}

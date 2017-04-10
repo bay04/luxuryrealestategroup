@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Shop\n"
+"POT-Creation-Date: 2016-08-02 09:29+0200\n"
+"PO-Revision-Date: 2016-08-02 09:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+
+#: includes/class-inventor-shop-logic.php:77
+msgid "Purchase listing"
+msgstr "Cumpără listare"
+
+#: includes/class-inventor-shop-logic.php:102
+msgid "Listing successfully purchased."
+msgstr "Listare achiziționată cu succes."
+
+#: includes/class-inventor-shop-logic.php:129
+msgid "Shop configuration"
+msgstr "Configurare magazin"
+
+#: includes/class-inventor-shop-logic.php:136
+msgid "Enabled"
+msgstr "Activat"
+
+#: includes/class-inventor-shop-logic.php:137
+msgid "Allow/disallow listing purchasing (also price needs to be set)."
+msgstr ""
+"Activează/dezactivează achiziționarea listărilor (prețurile trebuie să fie "
+"setate)."
+
+#: includes/class-inventor-shop-logic.php:143
+msgid "Quantity"
+msgstr "Cantitate"
+
+#: includes/class-inventor-shop-logic.php:144
+msgid "In stock"
+msgstr "În stoc"
+
+#: templates/buy-button.php:8
+msgid "Buy"
+msgstr "Cumpără"
+
+#: templates/payment-form-before.php:9
+msgid "Listing price is not set."
+msgstr "Prețul listării nu este setat."
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for listing <strong>\"%s\"</strong>."
+msgstr ""
+"Trebuie să plătești <strong>%s</strong> pentru <strong>\"%s\"</strong>."
+
+#: templates/payment-form-before.php:19
+msgid "Missing listing."
+msgstr "Lipsă listare"

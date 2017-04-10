@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Statistics\n"
+"POT-Creation-Date: 2016-12-13 18:20+0100\n"
+"PO-Revision-Date: 2015-11-26 11:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-statistics-logic.php:56
+msgid "Popularity"
+msgstr ""
+
+#: includes/class-inventor-statistics-logic.php:273
+msgid "Price from"
+msgstr ""
+
+#: includes/class-inventor-statistics-logic.php:277
+msgid "Price to"
+msgstr ""
+
+#: includes/class-inventor-statistics-logic.php:326
+#: includes/class-inventor-statistics-logic.php:432
+msgid "Per day"
+msgstr ""
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:34
+msgid "Inventor Statistics"
+msgstr ""
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:47
+msgid "Enable Search Query Logging"
+msgstr ""
+
+#: includes/customizations/class-inventor-statistics-customizations-statistics.php:61
+msgid "Enable Listing Views Logging"
+msgstr ""
+
+#: inventor-statistics.php:57 templates/admin/listing-views.php:2
+msgid "Listing Views"
+msgstr ""
+
+#: inventor-statistics.php:57
+msgid "Listing views"
+msgstr ""
+
+#: inventor-statistics.php:58
+msgid "Search Queries"
+msgstr ""
+
+#: templates/admin/listing-views.php:8
+msgid ""
+"Listing views logging is disabled. If you want to collect stats, plase "
+"enable under \"Appearance - Customize\"."
+msgstr ""
+
+#: templates/admin/listing-views.php:14
+msgid "Overall listing views for last two weeks"
+msgstr ""
+
+#: templates/admin/listing-views.php:30
+msgid "10 most popular listings"
+msgstr ""
+
+#: templates/admin/listing-views.php:46 templates/admin/listing-views.php:72
+msgid "views"
+msgstr ""
+
+#: templates/admin/listing-views.php:61
+msgid "10 most popular locations"
+msgstr ""
+
+#: templates/admin/search-queries.php:2
+msgid "Search Query Statistics"
+msgstr ""
+
+#: templates/admin/search-queries.php:8
+msgid ""
+"Query logging is disabled. If you want to collect queries, plase enable "
+"under \"Appearance - Customize\"."
+msgstr ""
+
+#: templates/admin/search-queries.php:14
+msgid "Filters per day in the last two weeks"
+msgstr ""
+
+#: templates/admin/search-queries.php:26
+msgid "Price searches"
+msgstr ""
+
+#: templates/admin/search-queries.php:40
+msgid "Locations"
+msgstr ""
+
+#: templates/admin/search-queries.php:52
+msgid "Categories"
+msgstr ""
+
+#: templates/listing-archive-views.php:5
+msgid "Views"
+msgstr ""
+
+#: templates/post-total-views.php:5
+#, php-format
+msgid "<strong>%d</strong> view"
+msgid_plural "<strong>%d</strong> views"
+msgstr[0] ""
+msgstr[1] ""

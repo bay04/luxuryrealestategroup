@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Invoices\n"
+"POT-Creation-Date: 2016-08-02 09:26+0200\n"
+"PO-Revision-Date: 2016-08-02 09:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-invoices-logic.php:39
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:37
+msgid "Invoice"
+msgstr "Factură"
+
+#: includes/class-inventor-invoices-logic.php:40
+msgid "Advance invoice"
+msgstr "Factură avans"
+
+#: includes/class-inventor-invoices-logic.php:41
+msgid "Proforma invoice"
+msgstr "Factură proformă"
+
+#: includes/class-inventor-invoices-logic.php:42
+msgid "VAT credit note"
+msgstr "Notă de credit TVA"
+
+#: includes/class-inventor-invoices-logic.php:114
+msgid "It is not your invoice."
+msgstr "Nu este factura ta."
+
+#: includes/class-inventor-invoices-logic.php:359
+msgid "Bank details"
+msgstr "Detalii bancare"
+
+#: includes/class-inventor-invoices-logic.php:381
+msgid "Advance invoice was created."
+msgstr "Factura de avans a fost creată"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:34
+msgid "Inventor Invoices"
+msgstr "Facturi Inventor"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:49
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:36
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:42
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:48
+msgid "Invoices"
+msgstr "Facturi"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:63
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:161
+#: templates/content-invoice.php:27
+msgid "Payment term"
+msgstr "Termeni de plată"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:66
+msgid "In days"
+msgstr "în zile"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:77
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:292
+#: templates/content-invoice.php:67
+msgid "Tax rate"
+msgstr "Taxă TVA"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:80
+msgid "In %"
+msgstr "în procente"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:91
+msgid "Billing name"
+msgstr "Nume facturare"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:104
+#: templates/content-invoice.php:44 templates/content-invoice.php:54
+msgid "Reg. No."
+msgstr "Registrul Comerțului"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:117
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:199
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:233
+#: templates/content-invoice.php:45 templates/content-invoice.php:55
+msgid "VAT No."
+msgstr "Număr TVA"
+
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:130
+msgid "Billing details"
+msgstr "Detalii facturare"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:38
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:39
+msgid "Add New Invoice"
+msgstr "Adaugă factură nouă"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:40
+msgid "Edit Invoice"
+msgstr "Editează factură"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:41
+msgid "New Invoice"
+msgstr "Factură nouă"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:43
+msgid "View Invoice"
+msgstr "Vezi factura"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:44
+msgid "Search Invoice"
+msgstr "Caută factura"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:45
+msgid "No Invoices found"
+msgstr "Nu s-au găsit facturi"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:46
+msgid "No Invoices found in Trash"
+msgstr "Nu s-au găsit facturi în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:74
+#: templates/invoices.php:11
+msgid "Number"
+msgstr "Număr"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:75
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:133
+#: templates/invoices.php:12
+msgid "Type"
+msgstr "Tip"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:76
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:214
+#: templates/content-invoice.php:51
+msgid "Customer"
+msgstr "Client"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:77
+#: templates/content-invoice.php:99 templates/invoices.php:14
+msgid "Total"
+msgstr "Total"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:78
+#: templates/content-invoice.php:69 templates/invoices.php:15
+msgid "Currency"
+msgstr "Valută"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:79
+#: templates/content-invoice.php:26 templates/invoices.php:16
+msgid "Issue date"
+msgstr "Dată emitere"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:126
+msgid "General information"
+msgstr "Informații generale"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:142
+msgid "Payment information"
+msgstr "Informații plată"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:149
+msgid "Currency code"
+msgstr "Cod valută"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:155
+#: templates/content-invoice.php:28
+msgid "Reference"
+msgstr "Referință"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:164
+msgid "days"
+msgstr "zile"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:172
+#: templates/content-invoice.php:35
+msgid "Details / Instructions"
+msgstr "Detalii / Instrucțiuni"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:180
+#: templates/content-invoice.php:41
+msgid "Supplier"
+msgstr "Vânzător"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:187
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:221
+#: templates/content-invoice.php:43 templates/content-invoice.php:53
+msgid "Name"
+msgstr "Nume"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:193
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:227
+msgid "Registration No."
+msgstr "Număr înregistrare"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:205
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:239
+#: templates/content-invoice.php:46 templates/content-invoice.php:56
+msgid "Details"
+msgstr "Detalii"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:206
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:240
+msgid "for example address or any additional information"
+msgstr "de exemplu adresa sau alte informații adiționale"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:248
+#: templates/invoices.php:13
+msgid "Items"
+msgstr "articole"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:260
+#: templates/content-invoice.php:64
+msgid "Item"
+msgstr "articol"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:261
+msgid "Add Another Item"
+msgstr "Adaugă alt articol"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:262
+msgid "Remove Item"
+msgstr "Șterge articol"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:268
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:274
+#: templates/content-invoice.php:65
+msgid "Quantity"
+msgstr "Cantitate"
+
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:283
+#: templates/content-invoice.php:66
+msgid "Unit price"
+msgstr "Preț unitar"
+
+#: templates/content-invoice.php:68
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: templates/content-invoice.php:94
+msgid "No invoice items found."
+msgstr "Nu s-au găsit facturi"
+
+#: templates/invoices.php:53
+msgid "Previous page"
+msgstr "Pagina anterioară"
+
+#: templates/invoices.php:54
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: templates/invoices.php:55 templates/single-invoice.php:19
+msgid "Page"
+msgstr "Pagina"
+
+#: templates/invoices.php:58
+msgid "No Invoices found."
+msgstr "Nu s-au găsit facturi."
+
+#: templates/single-invoice.php:17
+msgid "Previous"
+msgstr "Înapoi"
+
+#: templates/single-invoice.php:18
+msgid "Next"
+msgstr "Înainte"

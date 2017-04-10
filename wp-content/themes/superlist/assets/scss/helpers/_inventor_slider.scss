@@ -1,0 +1,319 @@
+.widget_inventor_slider {
+  position: relative;
+
+  .inventor-slider-append-top & {
+    margin-top: -106px;
+  }
+
+  .owl-carousel .owl-stage:after {
+    display: none;
+  }
+
+  .layout-boxed & {
+    .owl-carousel {
+      .owl-stage-outer{
+        &:first-child {
+          position:absolute;
+        }
+      }
+    }
+  }
+
+  .owl-controls {
+    height: 100%;
+    pointer-events: none;
+
+    .owl-dots {
+      bottom: 0;
+      position: absolute;
+      text-align: center;
+      transform: translateY(-50%);
+      -webkit-transform: translateY(-50%);
+      width: 100%;
+      z-index: 10;
+    }
+    
+    .owl-dot {
+      display: inline-block;
+      pointer-events: auto;
+
+      &.active span {
+        opacity: 1;
+      }
+
+      span {
+        background: none repeat scroll 0 0 #fff;
+        border-radius: 20px;
+        display: block;
+        height: 12px;
+        margin: 5px 7px;
+        opacity: 0.5;
+        width: 12px;
+
+        .active & {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+.inventor-slider-list {
+  overflow: hidden;
+
+  &.inventor-slider-fullscreen {
+    height: 100vh !important;
+
+    .admin-bar & {
+      height: calc(100vh - 32px) !important;
+    }
+
+    .owl-stage {
+      height: 100vh;
+
+      .admin-bar & {
+        height: calc(100vh - 32px) !important;
+      }
+    }
+  }
+
+  .owl-controls {
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+  }
+
+  .owl-prev, .owl-next {
+    @extend .box-shadow;
+    background-color: #fff;
+    color: $color-black;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 13px 0;
+    pointer-events: auto;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transition: background-color .15s linear;
+    width: 70px;
+    z-index: 10;
+
+    @media (max-width: $screen-sm-max) {
+      display: none !important;
+    }
+
+    span {
+      color: rgba($color-black, .8);
+      display: block;
+      font-size: 11px;
+      font-weight: 400;
+      margin: 0 0 10px 0;
+      text-transform: none;
+    }
+
+    &:hover {
+      background-color: $color-gray;
+    }
+  }
+
+  .owl-next {
+    right: 0;
+    top: 50%;
+  }
+
+  &.navigation-arrows {
+    .owl-prev, .owl-next  {
+      font-size: 0;
+      width: 50px;
+
+      &:before {
+        color: $color-black;
+        content: '\f053';
+        font-family: FontAwesome;
+        font-size: 20px;
+      }
+    }
+
+    .owl-next {
+      &:before {
+        content: '\f054';
+      }
+    }
+
+    span {
+      margin: 10px 0 0 0;
+    }
+  }
+}
+
+.inventor-slider-item {
+  position: relative;
+}
+
+.inventor-slider-item-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .inventor-slider-fullscreen & {
+    height: 100vh !important;
+
+    .admin-bar & {
+      height: calc(100vh - 32px) !important;
+    }
+  }
+}
+
+.inventor-slider-item-overlay {
+  background-color: rgba($color-black, .55);
+  bottom: 0;
+  content: '';
+  display: block;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1;
+}
+
+.inventor-slider-item-info-wrapper {
+  left: 50%;
+  padding: 0 150px 0 150px;
+  position: absolute;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  width: 100%;
+  z-index: 2;
+
+  @media (max-width: $screen-sm-max) {
+    padding: 0 20px 0 20px;
+  }
+}
+
+.inventor-slider-item-info {
+  text-align: center;
+
+  .alignment-left & {
+    text-align: left;
+    width: 45%;
+
+    @media (max-width: $screen-sm-max) {
+      width: 100%;
+    }
+  }
+
+  .alignment-right & {
+    float: right;
+    text-align: right;
+    width: 45%;
+
+    @media (max-width: $screen-sm-max) {
+      width: 100%;
+    }
+  }
+}
+
+.inventor-slider-item-info-headline {
+  color: #fff;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 5px;
+  margin: 0 0 10px 0;
+  padding: 0;
+  text-shadow: 1px 1px 1px rgba(black, .45);
+  text-transform: uppercase;
+
+  .text-dark & {
+    color: $color-gray-dark;
+    text-shadow: none;
+  }
+
+  a {
+    color: #fff;
+
+    .text-dark & {
+      color: $color-gray-dark;
+      text-shadow: none;
+    }
+  }
+
+  @media (max-width: $screen-sm-max) {
+    font-size: 18px;
+  }
+}
+
+.inventor-slider-item-info-title {
+  h1 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 500;
+    margin: 10px 0 20px 0;
+    text-shadow: 1px 1px 1px rgba(black, .45);
+
+    .text-dark & {
+      color: $color-black;
+      text-shadow: none;
+    }
+
+    @media (max-width: $screen-sm-max) {
+      font-size: 38px;
+    }
+  }
+}
+
+.inventor-slider-item-info-text {
+  font-size: 18px;
+
+  p {
+    color: #fff;
+    font-weight: 200;
+
+    .text-dark & {
+      color: $color-gray-darker;
+      text-shadow: none;
+    }
+  }
+
+  img {
+    display: inline-block !important;
+  }
+}
+
+.inventor-slider-item-info-button {
+  margin: 50px 0 0 0;
+
+  a {
+    @extend .btn, .btn-primary;
+    font-size: 15px;
+    padding: 14px 44px;
+  }
+}
+
+.inventor-slider-dot {
+  background-color: $color-black-light;
+  background-size: cover;
+  background-position: center center;
+  cursor: pointer;
+  display: block;
+  float: left;
+  height: 80px;
+  margin: 0 4px 0 0;
+  opacity: .7;
+  width: 120px;
+
+  &:last-child {
+    margin: 0;
+  }
+
+  &.active {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Listing Slider\n"
+"POT-Creation-Date: 2016-12-13 18:15+0100\n"
+"PO-Revision-Date: 2016-12-13 18:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-jobs-logic.php:55
+msgid "New job application"
+msgstr "Nová žiadosť o prácu"
+
+#: includes/class-inventor-jobs-logic.php:75
+msgid "Job was already assigned to user."
+msgstr "Práca už bola priradená používateľovi."
+
+#: includes/class-inventor-jobs-logic.php:83
+#: includes/class-inventor-jobs-logic.php:287 templates/jobs-apply-form.php:7
+msgid "You have already applied for this job."
+msgstr "O túto prácu ste sa už uchádzali."
+
+#: includes/class-inventor-jobs-logic.php:94
+msgid "Job ID is missing."
+msgstr "Chýba ID práce."
+
+#: includes/class-inventor-jobs-logic.php:278
+msgid "reCAPTCHA is not valid."
+msgstr "reCAPTCHA je neplatná."
+
+#: includes/class-inventor-jobs-logic.php:340
+msgid "Message has been successfully sent."
+msgstr "Správa bola úspešne odoslaná."
+
+#: includes/class-inventor-jobs-logic.php:342
+msgid "Unable to send a message."
+msgstr "Nepodarilo sa odoslať prácu."
+
+#: includes/class-inventor-jobs-shortcodes.php:42
+msgid "Listing is not a job."
+msgstr "Položka nie je prácou."
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:45
+msgid "Apply for job"
+msgstr "Uchádzať sa o prácu"
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:60
+msgid "Job applicants"
+msgstr "Žiadatelia o prácu"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:36
+#: includes/post-types/class-inventor-jobs-post-type-application.php:42
+#: includes/post-types/class-inventor-jobs-post-type-application.php:48
+msgid "Applications"
+msgstr "Žiadosti"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:37
+msgid "Application"
+msgstr "Žiadosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:38
+#: includes/post-types/class-inventor-jobs-post-type-application.php:39
+msgid "Add New Application"
+msgstr "Pridať novú žiadosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:40
+msgid "Edit Application"
+msgstr "Upraviť žiadosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:41
+msgid "New Application"
+msgstr "Nová žiadosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:43
+msgid "View Application"
+msgstr "Zobraziť žiadosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:44
+msgid "Search Application"
+msgstr "Vyhľadať žiadosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:45
+msgid "No Applications found"
+msgstr "Nenašli sa žiadne žiadosti"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:46
+msgid "No Applications Found in Trash"
+msgstr "V koši sa nenašli žiadne žiadosti"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:73
+#: templates/jobs-apply-mail.php:8
+msgid "Name"
+msgstr "Meno"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:74
+#: includes/post-types/class-inventor-jobs-post-type-job.php:88
+#: templates/jobs-apply-mail.php:16
+msgid "Job"
+msgstr "Práca"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:75
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:40
+#: templates/jobs-apply-mail.php:20
+msgid "Resume"
+msgstr "Životopis"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:76
+msgid "Author"
+msgstr "Autor"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:77
+msgid "Date"
+msgstr "Dátum"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:40
+#: includes/post-types/class-inventor-jobs-post-type-job.php:221
+msgid "Required skills"
+msgstr "Požadované znalosti"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:87
+#: includes/post-types/class-inventor-jobs-post-type-job.php:93
+#: includes/post-types/class-inventor-jobs-post-type-job.php:99
+msgid "Jobs"
+msgstr "Práce"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:89
+#: includes/post-types/class-inventor-jobs-post-type-job.php:90
+msgid "Add New Job"
+msgstr "Pridať novú prácu"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:91
+msgid "Edit Job"
+msgstr "Upraviť prácu"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:92
+msgid "New Job"
+msgstr "Nová práca"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:94
+msgid "View Job"
+msgstr "Zobraziť prácu"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:95
+msgid "Search Job"
+msgstr "Vyhľadať prácu"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:96
+msgid "No Jobs found"
+msgstr "Nenašli sa žiadne práce"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:97
+msgid "No Jobs Found in Trash"
+msgstr "V koši sa nenašli žiadne práce"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:109
+msgctxt "URL slug"
+msgid "jobs"
+msgstr "prace"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:130
+msgid "Details"
+msgstr "Detaily"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:149
+msgid "Employer"
+msgstr "Zamestnávateľ"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:168
+msgid "Starting date"
+msgstr "Dátum nástupu"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:183
+msgid "Job position"
+msgstr "Pozícia práce"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:199
+msgid "Contract type"
+msgstr "Typ zmluvy"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:211
+msgid "Full-time"
+msgstr "Trvalý pracovný pomer"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:212
+msgid "Part-time"
+msgstr "Polovičný úväzok"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:213
+msgid "Brigade"
+msgstr "Brigáda"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:214
+msgid "Agreement"
+msgstr "Dohoda"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:215
+msgid "Self-employed persons"
+msgstr "SZČO"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:39
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:45
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:51
+msgid "Resumes"
+msgstr "Životopisy"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:41
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:42
+msgid "Add New Resume"
+msgstr "Pridať nový životopis"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:43
+msgid "Edit Resume"
+msgstr "Upraviť životopis"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:44
+msgid "New Resume"
+msgstr "Nový životopis"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:46
+msgid "View Resume"
+msgstr "Zobraziť životopis"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:47
+msgid "Search Resume"
+msgstr "Vyhľadať životopis"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:48
+msgid "No Resumes found"
+msgstr "Nenašli sa žiadne životopisy"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:49
+msgid "No Resumes Found in Trash"
+msgstr "V koši sa nenašli žiadne životopisy"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:61
+msgctxt "URL slug"
+msgid "resumes"
+msgstr "zivotopisy"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:83
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:240
+msgid "Working history"
+msgstr "Pracovná minulosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:93
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:140
+msgid "Item"
+msgstr "Položka"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:94
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:141
+msgid "Add Another"
+msgstr "Pridať ďalšiu"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:95
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:142
+msgid "Remove"
+msgstr "Zmazať"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:102
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:149
+msgid "Title"
+msgstr "Nadpis"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:111
+msgid "Description"
+msgstr "Opis"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:117
+msgid "Date from"
+msgstr "Od dátumu"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:123
+msgid "Date to"
+msgstr "Po dátum"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:130
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:237
+msgid "Experience"
+msgstr "Skúsenosť"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:158
+msgid "Since"
+msgstr "Od"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:164
+msgid "Level"
+msgstr "Úroveň"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:180
+msgid "Beginner"
+msgstr "Začiatočník"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:181
+msgid "Intermediate"
+msgstr "Pokročilý"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:182
+msgid "Professional"
+msgstr "Profesionál"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:44
+msgid "Job Positions"
+msgstr "Pracovné pozície"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:35
+msgid "Job Position"
+msgstr "Pracovná pozícia"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:36
+msgid "Search Job Position"
+msgstr "Vyhľadať pracovnú pozíciu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:37
+msgid "All Job Positions"
+msgstr "Všetky pracovné pozície"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:38
+msgid "Parent Job Position"
+msgstr "Nadradená pracovná pozícia"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:39
+msgid "Parent Job Position:"
+msgstr "Nadradená pracovná pozícia:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:40
+msgid "Edit Job Position"
+msgstr "Upraviť pracovnú pozíciu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:41
+msgid "Update Job Position"
+msgstr "Aktualizovať pracovnú pozíciu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:42
+msgid "Add New Job Position"
+msgstr "Pridať novú pracovnú pozíciu"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:43
+msgid "New Job Position"
+msgstr "Nová pracovná pozícia"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:45
+msgid "No job positions found."
+msgstr "Nenašli sa žiadne pracovné pozície"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:52
+msgctxt "URL slug"
+msgid "job-position"
+msgstr "pracovna-pozicia"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:44
+msgid "Job Skills"
+msgstr "Pracovné skúsenosti"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:35
+msgid "Job Skill"
+msgstr "Pracovná skúsenosť"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:36
+msgid "Search Job Skill"
+msgstr "Vyhľadať pracovnú skúsenosť"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:37
+msgid "All Job Skills"
+msgstr "Všetky pracovné skúsenosti"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:38
+msgid "Parent Job Skill"
+msgstr "Nadradená pracovná skúsenosť"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:39
+msgid "Parent Job Skill:"
+msgstr "Nadradená pracovná skúsenosť:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:40
+msgid "Edit Job Skill"
+msgstr "Upraviť pracovnú skúsenosť"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:41
+msgid "Update Job Skill"
+msgstr "Aktualizovať pracovnú skúsenosť"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:42
+msgid "Add New Job Skill"
+msgstr "Pridať novú pracovnú skúsenosť"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:43
+msgid "New Job Skill"
+msgstr "Nová pracovná skúsenosť"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:45
+msgid "No job skills found."
+msgstr "Nenašli sa žiadne pracovné skúsenosti."
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:52
+msgctxt "URL slug"
+msgid "job-skill"
+msgstr "pracovna-skusenost"
+
+#: templates/applicant.php:47 templates/jobs-apply-mail.php:12
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templates/applicant.php:54
+msgid "Phone"
+msgstr "Telefón"
+
+#: templates/applicant.php:61
+msgid "Website"
+msgstr "Webstránka"
+
+#: templates/jobs-applicants.php:3
+msgid "Nobody applied to any of your jobs yet."
+msgstr "Nik sa zatiaľ o žiadnu z Vašich pracovných ponúk neuchádzal."
+
+#: templates/jobs-applications-total.php:2
+#, php-format
+msgid "<strong>%d</strong> person applied"
+msgid_plural "<strong>%d</strong> people applied"
+msgstr[0] "<strong>%d</strong> človek sa uchádzal"
+msgstr[1] "<strong>%d</strong> ľudí sa uchádzalo"
+
+#: templates/jobs-apply-button.php:4
+msgid "I applied"
+msgstr "Uchádzal som sa"
+
+#: templates/jobs-apply-button.php:8
+msgid "Apply"
+msgstr "Uchádzať sa"
+
+#: templates/jobs-apply-form.php:3
+msgid "You have to specify listing!"
+msgstr "Musíte špecifikovať položku!"
+
+#: templates/jobs-apply-form.php:13
+msgid "Choose a resume you want to apply with"
+msgstr "Zvoľte životopis s ktorým chcete požiadať"
+
+#: templates/jobs-apply-form.php:29
+msgid "Message"
+msgstr "Správa"
+
+#: templates/jobs-apply-mail.php:24
+msgid "URL"
+msgstr "URL"
+
+#: templates/listings/detail/section-resume-experience.php:21
+#, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d rok"
+msgstr[1] "%d rokov"
+
+#~ msgid "General"
+#~ msgstr "Všeobecné"
+
+#~ msgid "Job ID"
+#~ msgstr "ID práce"
+
+#~ msgid "Resume ID"
+#~ msgstr "ID životopisu"
+
+#~ msgid "You already applied for this job."
+#~ msgstr "O túto prácu ste sa už uchádzali."

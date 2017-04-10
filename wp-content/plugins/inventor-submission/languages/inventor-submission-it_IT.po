@@ -1,0 +1,2665 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor\n"
+"POT-Creation-Date: 2016-05-17 15:42+0200\n"
+"PO-Revision-Date: 2016-05-17 15:42+0200\n"
+"Last-Translator: Cristian Dragos <dpcdpc11@gmail.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/class-inventor-submission-logic.php:375
+msgid "New submission has been successfully created."
+msgstr "Invio di nuovo è stato creato con successo."
+
+#: includes/class-inventor-submission-logic.php:381
+msgid "Submission has been successfully updated."
+msgstr "Post aggiornato con successo."
+
+#: includes/class-inventor-submission-logic.php:534
+msgid "Item has been successfully removed."
+msgstr "Elemento è stato rimosso con successo."
+
+#: includes/class-inventor-submission-logic.php:536
+msgid "An error occurred when removing an item."
+msgstr "Si è verificato un errore durante la rimozione di un elemento."
+
+#: includes/class-inventor-submission-logic.php:581
+msgid "Featured listing"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:582
+#, php-format
+msgid "Make listing %s featured"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:586
+msgid "Publish listing"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:587
+#, php-format
+msgid "Publish %s"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:652
+msgid "Listing successfully featured."
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:664
+msgid "Listing will be published after review."
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:668
+msgid "Listing has been published."
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:69
+msgid "Check your package."
+msgstr "Controllo del pacchetto"
+
+#: includes/class-inventor-submission-shortcodes.php:88
+msgid "You are not allowed to submit this type."
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Done"
+msgstr "Fatto"
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Proceed to next step"
+msgstr "Processo alla fase successiva"
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Save"
+msgstr "Salva"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:36
+msgid "Inventor Submission"
+msgstr "Invio Inventor"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:49
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:50
+msgid "Defines what determines number of user listings."
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:54
+msgid "Free for all"
+msgstr "Gratuito per tutti"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:55
+msgid "Pay per post"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:68
+msgid "Review Before Submission"
+msgstr "Recensione prima dell'invio"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:81
+msgid "Publish price"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:84
+msgid "For \"pay per post\" submission type"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:96
+msgid "Featured price"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:111
+msgid "User listings"
+msgstr "Lista utenti"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:126
+msgid "Add listing"
+msgstr "Aggiungi Listing"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:141
+msgid "Edit listing"
+msgstr "Modifica Annuncio"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:156
+msgid "Remove listing"
+msgstr "Rimuovere Annuncio"
+
+#: templates/submission/list.php:11
+msgid "Create listing"
+msgstr "Crea Listing"
+
+#: templates/submission/list.php:29
+msgid "Listing published"
+msgstr "Annuncio pubblicato"
+
+#: templates/submission/list.php:30
+msgid "Waiting for review"
+msgstr "In attesa di Revisione"
+
+#: templates/submission/list.php:31
+msgid "Listing disabled"
+msgstr "Annuncio disattivato"
+
+#: templates/submission/list.php:44 templates/submission/list.php:124
+msgid "Pending"
+msgstr "In sospeso"
+
+#: templates/submission/list.php:48 templates/submission/list.php:117
+msgid "Published"
+msgstr "Pubblicato"
+
+#: templates/submission/list.php:52
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: templates/submission/list.php:98
+msgid "Make featured"
+msgstr ""
+
+#: templates/submission/list.php:104
+msgid "Featured"
+msgstr "In Primo Piano"
+
+#: templates/submission/list.php:136
+msgid "Publish"
+msgstr ""
+
+#: templates/submission/list.php:151
+msgid "Edit"
+msgstr "Modifica"
+
+#: templates/submission/list.php:157
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: templates/submission/list.php:169
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: templates/submission/list.php:170
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: templates/submission/list.php:171
+msgid "Page"
+msgstr "Pagina"
+
+#: templates/submission/list.php:178
+msgid "No listings found."
+msgstr "Nessun annuncio trovato."
+
+#: templates/submission/list.php:184
+msgid "You don't have any listings, yet. Start by creating new one."
+msgstr "Non hai ancora nessun annuncio. Comincia per aggiungerne uno nuovo."
+
+#: templates/submission/payment-form-before.php:7
+msgid "Price is not set."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:12
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for featured listing <strong>\"%s"
+"\"</strong>."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:14
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> to publish listing <strong>\"%s\"</"
+"strong>."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:21
+msgid "Missing listing."
+msgstr ""
+
+#: templates/submission/remove-form.php:3
+msgid "You have to specify listing!"
+msgstr "È necessario specificare annuncio!"
+
+#: templates/submission/remove-form.php:6
+#, php-format
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: templates/submission/remove-form.php:15
+msgid "Delete"
+msgstr "Elimina"
+
+#: templates/submission/step-title.php:8
+msgid "Step"
+msgstr "Passo"
+
+#: templates/submission/steps-not-found.php:1
+msgid "Listing type does not have any metaboxes."
+msgstr "Tipo di post personalizzato non dispone di alcun metaboxes."
+
+#: templates/submission/steps.php:26
+msgid "Nothing to show."
+msgstr "Nulla da mostrare."
+
+#: templates/submission/type-not-found.php:6
+msgid "Please define type of your submission"
+msgstr "Si prega di definire tipo della Vostro invio"
+
+#: templates/submission/type-not-found.php:21
+msgid "You don't have privilege to create any submission."
+msgstr ""
+
+#~ msgid "Inventor"
+#~ msgstr "Inventor"
+
+#~ msgid "Colors"
+#~ msgstr "Colori"
+
+#~ msgid "Locations"
+#~ msgstr "Posizioni"
+
+#~ msgid "Categories"
+#~ msgstr "Categorie"
+
+#~ msgid "Listings"
+#~ msgstr "Annunci"
+
+#~ msgid "Lexicon"
+#~ msgstr "Lessico"
+
+#~ msgid "Please refresh the page and retry action."
+#~ msgstr "Aggiorna la pagina e riprovare l'azione."
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Reg. No."
+#~ msgstr "Nr. Reg."
+
+#~ msgid "VAT No."
+#~ msgstr "P. IVA"
+
+#~ msgid "Street and number"
+#~ msgstr "Via e numero civico:"
+
+#~ msgid "Country"
+#~ msgstr "Paese"
+
+#~ msgid "State / County"
+#~ msgstr "Provincia/Regione"
+
+#~ msgid "City"
+#~ msgstr "Citta’"
+
+#~ msgid "Postal code"
+#~ msgstr "Codice postale"
+
+#~ msgid "Billing details"
+#~ msgstr "Dettagli Fatturazione"
+
+#~ msgid "Listing type"
+#~ msgstr "Tipo di annuncio"
+
+#~ msgid "Title"
+#~ msgstr "Titolo"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Keyword"
+#~ msgstr "Parola Chiave"
+
+#~ msgid "Distance"
+#~ msgstr "Distanza"
+
+#~ msgid "Price"
+#~ msgstr "Prezzo"
+
+#~ msgid "Geolocation"
+#~ msgstr "Geolocalizzazione"
+
+#~ msgid "Reduced"
+#~ msgstr "Ridotto"
+
+#~ msgid "General"
+#~ msgstr "Generico"
+
+#~ msgid "Featured Image"
+#~ msgstr "Immagine in Evidenza"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Add Another FAQ"
+#~ msgstr "Aggiungere altro FAQ"
+
+#~ msgid "Remove FAQ"
+#~ msgstr "Rimuovere FAQ"
+
+#~ msgid "Question"
+#~ msgstr "Questione"
+
+#~ msgid "Answer"
+#~ msgstr "Rizpozta"
+
+#~ msgid "Branding"
+#~ msgstr "Branding"
+
+#~ msgid "Slogan"
+#~ msgstr "Slogan"
+
+#~ msgid "Brand color"
+#~ msgstr "Colore Marca"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Banner"
+#~ msgstr "Banner"
+
+#~ msgid "Custom Image"
+#~ msgstr "Immagine personalizzata"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Google Map"
+#~ msgstr "Google Map"
+
+#~ msgid "Google Street View"
+#~ msgstr "Google Street View"
+
+#~ msgid "Google Inside View"
+#~ msgstr "Google Inside View"
+
+#~ msgid "Banner Type"
+#~ msgstr "Tipo di Banner"
+
+#~ msgid "To set map position go to section <strong>Location</strong>."
+#~ msgstr ""
+#~ "Per impostare la posizione sulla mappa vai alla sezione <strong>Posizione."
+#~ "</strong>"
+
+#~ msgid ""
+#~ "To set Street View go to section <strong>Location</strong>. Do not forget "
+#~ "to <strong>enable</strong> Street View."
+#~ msgstr ""
+#~ "Per impostare Street View andare alla sezione <strong>Posizione.</strong> "
+#~ "Non dimenticate di <strong>attivare</strong> Street View."
+
+#~ msgid ""
+#~ "To set Inside View go to section <strong>Location</strong>. Do not forget "
+#~ "to <strong>enable</strong> Inside View."
+#~ msgstr ""
+#~ "Per impostare Inside View andare alla sezione <strong>Posizione.</strong> "
+#~ "Non dimenticate di <strong>attivare</strong> Vista interna."
+
+#~ msgid "Upload an image."
+#~ msgstr "Carica un’immagine."
+
+#~ msgid "Upload video file in .mp4 format."
+#~ msgstr "Caricare file video in formato. MP4."
+
+#~ msgid "Loop"
+#~ msgstr "Ciclo"
+
+#~ msgid "Check to loop video"
+#~ msgstr "Seleziona ciclo continuo del video"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid ""
+#~ "Minimum value of zoom is 0. Maximum value depends on location (12-25)."
+#~ msgstr ""
+#~ "Valore minimo di zoom è 0. Il valore massimo dipende dalla posizione "
+#~ "(12-25)."
+
+#~ msgid "Map Type"
+#~ msgstr "Tipo di Mappa"
+
+#~ msgid "Roadmap"
+#~ msgstr "Stradale"
+
+#~ msgid "Satellite"
+#~ msgstr "Satellite "
+
+#~ msgid "Hybrid"
+#~ msgstr "Ibrido"
+
+#~ msgid "Marker"
+#~ msgstr "Marcatore"
+
+#~ msgid "Check to show marker."
+#~ msgstr "Seleziona per mostrare il marcatore."
+
+#~ msgid "Gallery"
+#~ msgstr "Galleria"
+
+#~ msgid "Color"
+#~ msgstr "Colore"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid ""
+#~ "For more information about embeding videos and video links support please "
+#~ "read this <a href=\"http://codex.wordpress.org/Embeds\">article</a>."
+#~ msgstr ""
+#~ "Per ulteriori informazioni su embeding video e collegamenti video "
+#~ "supporto si prega di leggere questo <a href=\"http://codex.wordpress.org/"
+#~ "Embeds\">articolo</a>."
+
+#~ msgid "Listing categories"
+#~ msgstr "Categorie annunci"
+
+#~ msgid "Opening Hours"
+#~ msgstr "Orario di Apertura"
+
+#~ msgid "Contact"
+#~ msgstr "Contatti"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "Website"
+#~ msgstr "Sito Web"
+
+#~ msgid "Address"
+#~ msgstr "Indirizzo"
+
+#~ msgid "Social"
+#~ msgstr "Social"
+
+#~ msgid "In %s."
+#~ msgstr "Di %s."
+
+#~ msgid "Prefix"
+#~ msgstr "Prefisso"
+
+#~ msgid "Any text shown before price (for example \"from\")."
+#~ msgstr "Qualsiasi testo mostrato prima prezzo (per esempio \"da\")."
+
+#~ msgid "Suffix"
+#~ msgstr "Suffisso"
+
+#~ msgid "Any text shown after price (for example \"per night\")."
+#~ msgstr ""
+#~ "Qualsiasi testo mostrato dopo che il prezzo (ad esempio, \"per notte\")."
+
+#~ msgid "Custom"
+#~ msgstr "Personalizza"
+
+#~ msgid ""
+#~ "Any text instead of numeric price (for example \"by agreement\"). Prefix "
+#~ "and Suffix will be ignored."
+#~ msgstr ""
+#~ "Qualsiasi testo invece del prezzo (ad esempio \"di comune accordo\"). "
+#~ "Prefisso e suffisso verranno ignorati."
+
+#~ msgid "Flags"
+#~ msgstr "Flags"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Time"
+#~ msgstr "Ora"
+
+#~ msgid "Date interval"
+#~ msgstr "Intervallo data"
+
+#~ msgid "Date from"
+#~ msgstr "Data dal"
+
+#~ msgid "Date to"
+#~ msgstr "Data fino"
+
+#~ msgid "Date and time interval"
+#~ msgstr "Data e ora l'intervallo"
+
+#~ msgid "Date and time from"
+#~ msgstr "Data e ora da"
+
+#~ msgid "Date and time to"
+#~ msgstr "Data e ora"
+
+#~ msgid "Time interval"
+#~ msgstr "Intervallo di tempo"
+
+#~ msgid "Time from"
+#~ msgstr "Tempo da"
+
+#~ msgid "Time to"
+#~ msgstr "Tempo alla"
+
+#~ msgid "Location"
+#~ msgstr "Posizione"
+
+#~ msgid "Map Location"
+#~ msgstr "Posizione mappa"
+
+#~ msgid "Map Location Polygon"
+#~ msgstr "Posizione Mappa Poligono"
+
+#~ msgid ""
+#~ "Enter encoded path. It can be constructed using <a href=\"https://google-"
+#~ "developers.appspot.com/maps/documentation/utilities/"
+#~ "polylineutility_6dfa1f29011ecf2cf389dba27e343637.frame?hl=en&redesign=true"
+#~ "\" target=\"_blank\">Interactive Polyline Encoder Utility</a>."
+#~ msgstr ""
+#~ "Immettere il percorso codificato. Esso può essere costruito utilizzando "
+#~ "<a href=\"https://google-developers.appspot.com/maps/documentation/"
+#~ "utilities/polylineutility_6dfa1f29011ecf2cf389dba27e343637.frame?"
+#~ "hl=en&redesign=true\" target=\"_blank\">Interactive Polyline Utility "
+#~ "Encoder.</a>"
+
+#~ msgid "Street View"
+#~ msgstr "Street view"
+
+#~ msgid "Check to enable Street View"
+#~ msgstr "Controllare per abilitare Street View"
+
+#~ msgid "Street View Location"
+#~ msgstr "Street View Posizione"
+
+#~ msgid "Inside View"
+#~ msgstr "Inside View"
+
+#~ msgid "Check to enable Inside View"
+#~ msgstr "Controllare per abilitare Inside View"
+
+#~ msgid "Inside View Location"
+#~ msgstr "Inside View Posizione"
+
+#~ msgid "Yes"
+#~ msgstr "Sì"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Details"
+#~ msgstr "Dettagli"
+
+#~ msgid "Meals And Drinks"
+#~ msgstr "Pasti e bevande"
+
+#~ msgid "Social connections"
+#~ msgstr "Connessioni sociali"
+
+#~ msgid "Listing was reported"
+#~ msgstr "Annuncio è stato segnalato"
+
+#~ msgid "Listing was reported. Please, wait for admin review."
+#~ msgstr "Annuncio è stato segnalato. Attendere per la revisione di admin."
+
+#~ msgid "Unable to send a message."
+#~ msgstr "Impossibile inviare il messaggio."
+
+#~ msgid "You have been successfully logged out."
+#~ msgstr "Sei stato disconnesso con successo."
+
+#~ msgid "Process to next step"
+#~ msgstr "Processo alla fase successiva"
+
+#~ msgid "Save profile"
+#~ msgstr "Salva profilo"
+
+#~ msgid "Please sign in before accessing this page."
+#~ msgstr "Per favore fai il Login prima di accedere questa pagina."
+
+#~ msgid "You are not allowed to access this page."
+#~ msgstr "Non hai i priviligi per accedere a questa pagina."
+
+#~ msgid "Not set"
+#~ msgstr "Non impostato"
+
+#~ msgid "Wire Transfer"
+#~ msgstr "Wire Transfer"
+
+#~ msgid "Missing payment data."
+#~ msgstr "Dati di pagamento mancanti."
+
+#~ msgid "You must agree terms &amp; conditions."
+#~ msgstr "È necessario accettare Termini e Condizioni"
+
+#~ msgid "Inventor Currency"
+#~ msgstr "Inventor valuta"
+
+#~ msgid "Currency Symbol"
+#~ msgstr "Simbolo Valuta"
+
+#~ msgid "Currency Code"
+#~ msgstr "Codice Valuta"
+
+#~ msgid "Show Symbol After Amount"
+#~ msgstr "Mostra simbolo dopo quantità"
+
+#~ msgid "Decimal places"
+#~ msgstr "Posizioni decimali"
+
+#~ msgid "Decimal Separator"
+#~ msgstr "Separatore Decimale"
+
+#~ msgid ". (dot)"
+#~ msgstr ". (punto)"
+
+#~ msgid ", (comma)"
+#~ msgstr ", (virgola)"
+
+#~ msgid "Thousands Separator"
+#~ msgstr "Separatore delle migliaia"
+
+#~ msgid "\" \" (space)"
+#~ msgstr "\" \" (spazio)"
+
+#~ msgid "\"\" (empty string)"
+#~ msgstr "\"\" (stringa vuota)"
+
+#~ msgid "Inventor General"
+#~ msgstr "Inventore Generali"
+
+#~ msgid "Post types"
+#~ msgstr "Tipi di post"
+
+#~ msgid ""
+#~ "After changing post types make sure that your resave permalinks in "
+#~ "\"Settings - Permalinks\""
+#~ msgstr ""
+#~ "Dopo aver cambiato i tipi dei post assicurarsi di salvare di nuovo i "
+#~ "permalinks in \"Impostazioni - Permalink\""
+
+#~ msgid "Default sorting for listing archive"
+#~ msgstr "Ordinamento predefinito per lista archivio"
+
+#~ msgid "Default ordering for listing archive"
+#~ msgstr "Ordinazione predefinita per lista archivio"
+
+#~ msgid "Automatically log user in after registration"
+#~ msgstr "Login automatico utente a dopo la registrazione"
+
+#~ msgid "Show listing archive as grid"
+#~ msgstr "Visualizza lista archivio come griglia"
+
+#~ msgid "Purchase code"
+#~ msgstr "Codice Acquisto"
+
+#~ msgid "Google Browser Key"
+#~ msgstr "Google Browser Key"
+
+#~ msgid ""
+#~ "Browser API key. Read more <a href=\"https://developers.google.com/maps/"
+#~ "documentation/javascript/get-api-key\" target=\"_blank\">here</a>."
+#~ msgstr ""
+#~ "Browser API key. Leggi di più <a href=\"https://developers.google.com/"
+#~ "maps/documentation/javascript/get-api-key\" target=\"_blank\">qui</a> ."
+
+#~ msgid "Inventor Measurement"
+#~ msgstr "Inventor Misurazione"
+
+#~ msgid "Area Unit"
+#~ msgstr "Unità Area"
+
+#~ msgid "Short Distance Unit"
+#~ msgstr "Unità di breve distanza"
+
+#~ msgid "Example: \"ft\" or \"m\""
+#~ msgstr "Esempio: \"ft\" o \"m\""
+
+#~ msgid "Long Distance Unit"
+#~ msgstr "Unità di lunga distanza"
+
+#~ msgid "Example: \"mi\" or \"km\""
+#~ msgstr "Esempio: \"mi\" o \"km\""
+
+#~ msgid "Weight unit"
+#~ msgstr "Unità di peso"
+
+#~ msgid "Example: \"lbs\" or \"kg\""
+#~ msgstr "Esempio: \"lbs\" o \"kg\""
+
+#~ msgid "Inventor Pages"
+#~ msgstr "Inventor Pagine"
+
+#~ msgid "Login Required"
+#~ msgstr "Login richiesto"
+
+#~ msgid "After Login"
+#~ msgstr "Dopo login"
+
+#~ msgid "Registration"
+#~ msgstr "Registrazione"
+
+#~ msgid "After Register"
+#~ msgstr "Dopo registrazione"
+
+#~ msgid "Profile"
+#~ msgstr "Profilo"
+
+#~ msgid "Change password"
+#~ msgstr "Cambia la password"
+
+#~ msgid "Terms & Conditions"
+#~ msgstr "Termini & Condizioni"
+
+#~ msgid "Report listing"
+#~ msgstr "Lista Rapporti"
+
+#~ msgid "Payment"
+#~ msgstr "Pagamento"
+
+#~ msgid "After Payment"
+#~ msgstr "Dopo il pagamento"
+
+#~ msgid "Transactions"
+#~ msgstr "Transazioni"
+
+#~ msgid "Account number"
+#~ msgstr "Numero di conto"
+
+#~ msgid "Bank code"
+#~ msgstr "Codice bancario"
+
+#~ msgid "Full name"
+#~ msgstr "Nome completo"
+
+#~ msgid "Street / P.O.Box"
+#~ msgstr "Via / CP"
+
+#~ msgid "Postcode"
+#~ msgstr "Codice postale"
+
+#~ msgid "Inventor Wire Transfer"
+#~ msgstr "Inventor Wire Transfer"
+
+#~ msgid "Bank account number [mandatory]"
+#~ msgstr "Numero di conto bancario [obbligatoria]"
+
+#~ msgid "SWIFT or BIC of your bank [mandatory]"
+#~ msgstr "SWIFT o BIC della vostra banca [obbligatoria]"
+
+#~ msgid "Your full name [mandatory]"
+#~ msgstr "Il tuo nome completo [obbligatoria]"
+
+#~ msgid "Enter your street."
+#~ msgstr "Inserisci il tuo indirizzo"
+
+#~ msgid "Enter your postcode (ZIP)."
+#~ msgstr "Inserisci il tuo codice postale (ZIP)."
+
+#~ msgid "Enter your city."
+#~ msgstr "Inserisci la tua città."
+
+#~ msgid "Enter your country [mandatory]"
+#~ msgstr "Inserisci il tuo paese [obbligatoria]"
+
+#~ msgid "No terms"
+#~ msgstr "Nessun termine"
+
+#~ msgid "Invalid E-mail value."
+#~ msgstr "Valore non valido di email."
+
+#~ msgid "E-mail already exists."
+#~ msgstr "E-mail già presente."
+
+#~ msgid "Businesses"
+#~ msgstr "Businesses"
+
+#~ msgid "Business"
+#~ msgstr "Business"
+
+#~ msgid "Add New Business"
+#~ msgstr "Aggiungi nuovo business"
+
+#~ msgid "Edit Business"
+#~ msgstr "Modifica business"
+
+#~ msgid "New Business"
+#~ msgstr "Nuovo business"
+
+#~ msgid "View Business"
+#~ msgstr "Visualizza business"
+
+#~ msgid "Search Business"
+#~ msgstr "Ricerca business"
+
+#~ msgid "No Businesses found"
+#~ msgstr "Nessun business trovato"
+
+#~ msgid "No Businesses Found in Trash"
+#~ msgstr "Nessun imprese trovati nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "businesses"
+#~ msgstr "imprese"
+
+#~ msgid "Cars"
+#~ msgstr "Automobili"
+
+#~ msgid "Car"
+#~ msgstr "Auto"
+
+#~ msgid "Add New Car"
+#~ msgstr "Aggiungi Nuova Pagina Veicolo"
+
+#~ msgid "Edit Car"
+#~ msgstr "Modifica auto"
+
+#~ msgid "New Car"
+#~ msgstr "Aggiungi auto"
+
+#~ msgid "View Car"
+#~ msgstr "Visualizza auto"
+
+#~ msgid "Search Car"
+#~ msgstr "Ricerca Auto"
+
+#~ msgid "No Cars found"
+#~ msgstr "Nessuna auto trovata"
+
+#~ msgid "No Cars Found in Trash"
+#~ msgstr "Nessuna auto trovata nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "cars"
+#~ msgstr "automobili"
+
+#~ msgid "Engine type"
+#~ msgstr "﻿Tipo di motore"
+
+#~ msgid "Body style"
+#~ msgstr "Style body"
+
+#~ msgid "Transmission"
+#~ msgstr "Cambio"
+
+#~ msgid "Model"
+#~ msgstr "Modello"
+
+#~ msgid "Year manufactured"
+#~ msgstr "Anno di fabbricazione"
+
+#~ msgid "Mileage"
+#~ msgstr "Km"
+
+#~ msgid "Condition"
+#~ msgstr "Condizione"
+
+#~ msgid "new"
+#~ msgstr "nuova"
+
+#~ msgid "used"
+#~ msgstr "usato"
+
+#~ msgid "Leasing available"
+#~ msgstr "Leasing disponibile"
+
+#~ msgid "Interior color"
+#~ msgstr "Colore Interno"
+
+#~ msgid "Exterior color"
+#~ msgstr "Colore Esterno"
+
+#~ msgid "Datings"
+#~ msgstr "Incontri"
+
+#~ msgid "Dating"
+#~ msgstr "Incontri"
+
+#~ msgid "Add New Dating"
+#~ msgstr "Aggiungi nuovo Incontro"
+
+#~ msgid "Edit Dating"
+#~ msgstr "Modificare incontro"
+
+#~ msgid "New Dating"
+#~ msgstr "Aggiungi nuovo Incontro"
+
+#~ msgid "View Dating"
+#~ msgstr "Visualizza incontro"
+
+#~ msgid "Search Dating"
+#~ msgstr "Cerca incontri"
+
+#~ msgid "No Datings found"
+#~ msgstr "Nessun incontro trovato"
+
+#~ msgid "No Datings Found in Trash"
+#~ msgstr "Nessun incontro trovato nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "datings"
+#~ msgstr "incontri"
+
+#~ msgid "Dating groups"
+#~ msgstr "Gruppi Incontri"
+
+#~ msgid "Gender"
+#~ msgstr "Genere"
+
+#~ msgid "Male"
+#~ msgstr "Maschio"
+
+#~ msgid "Female"
+#~ msgstr "Femmina"
+
+#~ msgid "Age"
+#~ msgstr "Età"
+
+#~ msgid "Weight"
+#~ msgstr "Peso"
+
+#~ msgid "Status"
+#~ msgstr "Stato"
+
+#~ msgid "Eye color"
+#~ msgstr "Colore degli occhi"
+
+#~ msgid "Interests"
+#~ msgstr "Interessi"
+
+#~ msgid "Educations"
+#~ msgstr "Educazione"
+
+#~ msgid "Education"
+#~ msgstr "Formazione"
+
+#~ msgid "Add New Education"
+#~ msgstr "Aggiungi nuova Educazione"
+
+#~ msgid "Edit Education"
+#~ msgstr "Modifica educazione"
+
+#~ msgid "New Education"
+#~ msgstr "Nuova Educazione"
+
+#~ msgid "View Education"
+#~ msgstr "Visualizza Educatione"
+
+#~ msgid "Search Education"
+#~ msgstr "Ricerca Educazione"
+
+#~ msgid "No Educations found"
+#~ msgstr "Nessun Educazioni trovato"
+
+#~ msgid "No Educations Found in Trash"
+#~ msgstr "Nessun educazioni trovato nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "educations"
+#~ msgstr "educazione"
+
+#~ msgid "Education subject"
+#~ msgstr "Soggetto di educazione"
+
+#~ msgid "Education level"
+#~ msgstr "Livello scolastico"
+
+#~ msgid "Lector"
+#~ msgstr "Lettore"
+
+#~ msgid "Events"
+#~ msgstr "Eventi"
+
+#~ msgid "Event"
+#~ msgstr "Evento"
+
+#~ msgid "Add New Event"
+#~ msgstr "Aggiungi nuovo Evento"
+
+#~ msgid "Edit Event"
+#~ msgstr "Modifica Evento"
+
+#~ msgid "New Event"
+#~ msgstr "Nuovo Evento"
+
+#~ msgid "View Event"
+#~ msgstr "Vedi Evento"
+
+#~ msgid "Search Events"
+#~ msgstr "Cerca eventi"
+
+#~ msgid "No Events found"
+#~ msgstr "Non ci sono appuntamenti"
+
+#~ msgid "No Events Found in Trash"
+#~ msgstr "Nessun Evento Trovato nel Cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "events"
+#~ msgstr "eventi"
+
+#~ msgid "Event type"
+#~ msgstr "Tipo di evento"
+
+#~ msgid "Food & Drinks"
+#~ msgstr "Cibo & Bevande"
+
+#~ msgid "Food & Drink"
+#~ msgstr "Cibo & Bevanda"
+
+#~ msgid "Add New Food & Drink"
+#~ msgstr "Aggiungi nuovo Cibo & Bevanda"
+
+#~ msgid "Edit Food & Drink"
+#~ msgstr "Modifica Cibo & Bevanda"
+
+#~ msgid "New Food & Drink"
+#~ msgstr "Aggiungi nuovo Cibo & Bevanda"
+
+#~ msgid "View Food & Drink"
+#~ msgstr "Visualizza Cibo & Bevanda"
+
+#~ msgid "Search Food & Drink"
+#~ msgstr "Cerca Cibo & Bevanda"
+
+#~ msgid "No Food & Drinks found"
+#~ msgstr "Nesun Cibo & Bevanda trovato"
+
+#~ msgid "No Food & Drinks Found in Trash"
+#~ msgstr "Nesun Cibo & Bevande trovati nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "foods"
+#~ msgstr "cibo"
+
+#~ msgid "Food kind"
+#~ msgstr "Tipo di cibo"
+
+#~ msgid "Meals and drinks menu"
+#~ msgstr "Menu pasti e bevande"
+
+#~ msgid "Item"
+#~ msgstr "Elemento"
+
+#~ msgid "Add Another"
+#~ msgstr "Aggiungi un’altra"
+
+#~ msgid "Serving day"
+#~ msgstr "Giorno di servizio"
+
+#~ msgid "Leave blank if it is not daily menu"
+#~ msgstr "Lasciare vuoto se non si tratta di menu del giorno"
+
+#~ msgid "Speciality"
+#~ msgstr "Specialità"
+
+#~ msgid "Photo"
+#~ msgstr "Foto"
+
+#~ msgid "Hotels"
+#~ msgstr "Hotels"
+
+#~ msgid "Hotel"
+#~ msgstr "Hotel"
+
+#~ msgid "Add New Hotel"
+#~ msgstr "Aggiungi nuovo Hotel"
+
+#~ msgid "Edit Hotel"
+#~ msgstr "Modifica Hotel"
+
+#~ msgid "New Hotel"
+#~ msgstr "Aggiungi nuovo Hotel"
+
+#~ msgid "View Hotel"
+#~ msgstr "Vedi Hotel"
+
+#~ msgid "Search Hotel"
+#~ msgstr "Ricerca Hotel"
+
+#~ msgid "No Hotels found"
+#~ msgstr "Nessun hotel trovato."
+
+#~ msgid "No Hotels Found in Trash"
+#~ msgstr "Nessun hotel trovato nel cestino."
+
+#~ msgctxt "URL slug"
+#~ msgid "hotels"
+#~ msgstr "hotels"
+
+#~ msgid "Hotel class"
+#~ msgstr "Classe Hotel"
+
+#~ msgid "Rooms"
+#~ msgstr "Le Camere"
+
+#~ msgid "Listing"
+#~ msgstr "Annuncio"
+
+#~ msgid "Add New Listing"
+#~ msgstr "Aggiungi Nuovo Annuncio"
+
+#~ msgid "Edit Listing"
+#~ msgstr "Modifica Annuncio"
+
+#~ msgid "New Listing"
+#~ msgstr "Aggiungi Nuovo Annuncio"
+
+#~ msgid "View Listing"
+#~ msgstr "Visualizza annuncio"
+
+#~ msgid "Search Listing"
+#~ msgstr "Cerca annuncio"
+
+#~ msgid "No Listings found"
+#~ msgstr "Nessun annuncio trovato"
+
+#~ msgid "No Listings Found in Trash"
+#~ msgstr "Nessun annuncio trovato nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "listings"
+#~ msgstr "annunci"
+
+#~ msgid "Message from enquire form"
+#~ msgstr "Messaggio del modulo di contatto"
+
+#~ msgid "Message has been successfully sent."
+#~ msgstr "Il suo messaggio è stato inviato con successo"
+
+#~ msgid "Musics"
+#~ msgstr "Musici"
+
+#~ msgid "Music"
+#~ msgstr "Musica"
+
+#~ msgid "Add New Music"
+#~ msgstr "Aggiungi nuova musica"
+
+#~ msgid "Edit Music"
+#~ msgstr "Modifica Musica"
+
+#~ msgid "New Music"
+#~ msgstr "Aggiungi nuova musica"
+
+#~ msgid "View Music"
+#~ msgstr "Visualizza musica"
+
+#~ msgid "Search Music"
+#~ msgstr "Cerca musica"
+
+#~ msgid "No Musics found"
+#~ msgstr "Nessun musici trovati"
+
+#~ msgid "No Musics Found in Trash"
+#~ msgstr "Nessun musici trovati nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "musics"
+#~ msgstr "musici"
+
+#~ msgid "Pets"
+#~ msgstr "Animali domestici"
+
+#~ msgid "Pet"
+#~ msgstr "Animale domestico"
+
+#~ msgid "Add New Pet"
+#~ msgstr "Aggiungi nuovo Animale"
+
+#~ msgid "Edit Pet"
+#~ msgstr "Modificare Animale domestico"
+
+#~ msgid "New Pet"
+#~ msgstr "Nuovo animale domestico"
+
+#~ msgid "View Pet"
+#~ msgstr "Visualizza animale domestico"
+
+#~ msgid "Search Pet"
+#~ msgstr "Cerca Animali domestici"
+
+#~ msgid "No Pets found"
+#~ msgstr "Nessun animali da compagnia trovato"
+
+#~ msgid "No Pets Found in Trash"
+#~ msgstr "Nessun animali da compagnia trovato nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "pets"
+#~ msgstr "animale-domestico"
+
+#~ msgid "Animal"
+#~ msgstr "Animale"
+
+#~ msgid "Reports"
+#~ msgstr "Rapporti"
+
+#~ msgid "Report"
+#~ msgstr "Rapporto"
+
+#~ msgid "Add New Report"
+#~ msgstr "Aggiungi nuovo report"
+
+#~ msgid "Edit Report"
+#~ msgstr "Modifica rapporto"
+
+#~ msgid "New Report"
+#~ msgstr "Nuovo rapporto"
+
+#~ msgid "View Report"
+#~ msgstr "Visualizza rapporto"
+
+#~ msgid "Search Report"
+#~ msgstr "Cerca Rapporto"
+
+#~ msgid "No Reports found"
+#~ msgstr "Nessun rapporto trovato"
+
+#~ msgid "No Reports Found in Trash"
+#~ msgstr "Nessun rapporto trovato nel cestino"
+
+#~ msgid "Listing ID"
+#~ msgstr "ID Annuncio"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Reason"
+#~ msgstr "Motivo"
+
+#~ msgid "Message"
+#~ msgstr "Messaggio"
+
+#~ msgid "Author"
+#~ msgstr "Autore"
+
+#~ msgid "Shoppings"
+#~ msgstr "Shoppings"
+
+#~ msgid "Shopping"
+#~ msgstr "Shopping"
+
+#~ msgid "Add New Shopping"
+#~ msgstr "Aggiungi nuovo Shopping"
+
+#~ msgid "Edit Shopping"
+#~ msgstr "Modificare Shopping"
+
+#~ msgid "New Shopping"
+#~ msgstr "Aggiungi nuovo Shopping"
+
+#~ msgid "View Shopping"
+#~ msgstr "Visualizza Shopping"
+
+#~ msgid "Search Shopping"
+#~ msgstr "Cerca Shopping"
+
+#~ msgid "No Shoppings found"
+#~ msgstr "Nessun Shopping trovato"
+
+#~ msgid "No Shoppings Found in Trash"
+#~ msgstr "Nessun Shopping trovato nel cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "shoppings"
+#~ msgstr "shoppings"
+
+#~ msgid "Shopping category"
+#~ msgstr "Categoria di shopping"
+
+#~ msgid "Size"
+#~ msgstr "Taglia"
+
+#~ msgid "For example M, 10cm, 47 ..."
+#~ msgstr "Per esempio M, 10cm, 47 ..."
+
+#~ msgid "Transaction"
+#~ msgstr "Transazione"
+
+#~ msgid "Add New Transaction"
+#~ msgstr "Aggiungere nuova transazione"
+
+#~ msgid "Edit Transaction"
+#~ msgstr "Modifica transazione"
+
+#~ msgid "New Transaction"
+#~ msgstr "Aggiungere nuova transazione"
+
+#~ msgid "View Transaction"
+#~ msgstr "Visualizza Transazione"
+
+#~ msgid "Search Transaction"
+#~ msgstr "Ricerca Transazione"
+
+#~ msgid "No Transactions found"
+#~ msgstr "Nessuna transazione trovata."
+
+#~ msgid "No Transactions Found in Trash"
+#~ msgstr "Nessuna transazione Found in Trash"
+
+#~ msgid "Payment type"
+#~ msgstr "Tipo di pagamento"
+
+#~ msgid "Gateway"
+#~ msgstr "Gateway"
+
+#~ msgid "Object ID"
+#~ msgstr "ID Oggetto"
+
+#~ msgid "Payment ID"
+#~ msgstr "ID del pagamento"
+
+#~ msgid "Currency"
+#~ msgstr "Valuta"
+
+#~ msgid "Success"
+#~ msgstr "Completato"
+
+#~ msgid "Data"
+#~ msgstr "Data"
+
+#~ msgid "Object"
+#~ msgstr "Elemento"
+
+#~ msgid "Travels"
+#~ msgstr "Viaggi"
+
+#~ msgid "Travel"
+#~ msgstr "Viaggio"
+
+#~ msgid "Add New Travel"
+#~ msgstr "Aggiungi nuovo viaggio"
+
+#~ msgid "Edit Travel"
+#~ msgstr "Modificare il viaggio"
+
+#~ msgid "New Travel"
+#~ msgstr "Aggiungi nuovo viaggio"
+
+#~ msgid "View Travel"
+#~ msgstr "Visualizza Viaggio"
+
+#~ msgid "Search Travel"
+#~ msgstr "Ricerca viaggio"
+
+#~ msgid "No Travels found"
+#~ msgstr "Nessun viaggio trovato"
+
+#~ msgid "No Travels Found in Trash"
+#~ msgstr "Nessun viaggio trovato ne cestino"
+
+#~ msgctxt "URL slug"
+#~ msgid "travels"
+#~ msgstr "﻿viaggi"
+
+#~ msgid "Travel activities"
+#~ msgstr "Attività di viaggio"
+
+#~ msgid "Image"
+#~ msgstr "Immagine"
+
+#~ msgid "First name"
+#~ msgstr "Nome"
+
+#~ msgid "Last name"
+#~ msgstr "Cognome"
+
+#~ msgid "Social Connections"
+#~ msgstr "Connessioni sociali"
+
+#~ msgid "Profile has been successfully updated."
+#~ msgstr "Il profilo è stato aggiornato con successo."
+
+#~ msgid "All fields are required."
+#~ msgstr "Devi compilare tutti i campi."
+
+#~ msgid "New and retyped password are not same."
+#~ msgstr "Nuovo e riscritto password non sono gli stessi."
+
+#~ msgid "Your old password is not correct."
+#~ msgstr "La vecchia password non è corretta."
+
+#~ msgid "Your password has been successfully changed."
+#~ msgstr "La password è stata modificata correttamente."
+
+#~ msgid "Login and password are required."
+#~ msgstr "Login e password sono obbligatori."
+
+#~ msgid "You have been successfully logged in."
+#~ msgstr "Ti sei collegato con successo."
+
+#~ msgid "Unable to send an e-mail."
+#~ msgstr "Impossibile inviare una e-mail."
+
+#~ msgid "Please check inbox for more information."
+#~ msgstr "Controlla la casella di posta per ulteriori informazioni."
+
+#~ msgid "Username and e-mail are required."
+#~ msgstr "Sono obbligatori Username e e-mail."
+
+#~ msgid "Username already exists."
+#~ msgstr "Nome utente già esistente."
+
+#~ msgid "Email already exists."
+#~ msgstr "Email già esistente"
+
+#~ msgid "Passwords must be same."
+#~ msgstr "Le password devono essere uguali"
+
+#~ msgid "You have been successfully registered."
+#~ msgstr "Sei stato registrato con successo."
+
+#~ msgid "Car Body Styles"
+#~ msgstr "Tutti gli stili di carrozzeria"
+
+#~ msgid "Car Body Style"
+#~ msgstr "Stile di carrozzeria"
+
+#~ msgid "Search Car Body Style"
+#~ msgstr "Cerca stile di carrozzeria"
+
+#~ msgid "All Car Body Styles"
+#~ msgstr "Tutti gli stili di carrozzeria"
+
+#~ msgid "Parent Car Body Style"
+#~ msgstr "Genitore stile di carrozzeria"
+
+#~ msgid "Parent Car Body Style:"
+#~ msgstr "Genitore stile di carrozzeria:"
+
+#~ msgid "Edit Car Body Style"
+#~ msgstr "Modifica stile di carrozzeria"
+
+#~ msgid "Update Car Body Style"
+#~ msgstr "Aggiornamento stile di carrozzeria"
+
+#~ msgid "Add New Car Body Style"
+#~ msgstr "Aggiungi nuova carrozzeria auto"
+
+#~ msgid "New Car Body Style"
+#~ msgstr "Aggiungi nuovo stile di carrozzeria"
+
+#~ msgid "No car body styles found."
+#~ msgstr "Non ci sono stili di carrozzeria trovati."
+
+#~ msgctxt "URL slug"
+#~ msgid "car-body-style"
+#~ msgstr "stile-di-carrozzeria"
+
+#~ msgid "Car Engine Types"
+#~ msgstr "Tipi di motore auto"
+
+#~ msgid "Car Engine Type"
+#~ msgstr "Tipo di motore auto"
+
+#~ msgid "Search Car Engine Type"
+#~ msgstr "Cerca tipo di motore auto"
+
+#~ msgid "All Car Engine Types"
+#~ msgstr "Tutti i tipi di motore auto"
+
+#~ msgid "Parent Car Engine Type"
+#~ msgstr "Genitore tipo di motore auto"
+
+#~ msgid "Parent Car Engine Type:"
+#~ msgstr "Genitore tipo di motore auto"
+
+#~ msgid "Edit Car Engine Type"
+#~ msgstr "Modifica tipo di motore auto"
+
+#~ msgid "Update Car Engine Type"
+#~ msgstr "Aggiornamento di motore auto"
+
+#~ msgid "Add New Car Engine Type"
+#~ msgstr "Aggiungere nuovo tipo di motore auto"
+
+#~ msgid "New Car Engine Type"
+#~ msgstr "Nuovo tipo di motore auto"
+
+#~ msgid "No car engine types found."
+#~ msgstr "Nessun tipo di motore auto trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "car-engine-type"
+#~ msgstr "tipo-di-motore-auto"
+
+#~ msgid "Car Models"
+#~ msgstr "Modelli d'auto"
+
+#~ msgid "Car Model"
+#~ msgstr "Modello d'auto"
+
+#~ msgid "Search Car Model"
+#~ msgstr "Cerca modello d'auto"
+
+#~ msgid "All Car Models"
+#~ msgstr "Tutti modelli d'auto"
+
+#~ msgid "Parent Car Model"
+#~ msgstr "Genitore modello d'auto"
+
+#~ msgid "Parent Car Model:"
+#~ msgstr "Genitore modello d'auto:"
+
+#~ msgid "Edit Car Model"
+#~ msgstr "Modfifica modello d'auto"
+
+#~ msgid "Update Car Model"
+#~ msgstr "Aggiornamento modello d'auto"
+
+#~ msgid "Add New Car Model"
+#~ msgstr "Aggiungi modello d'auto"
+
+#~ msgid "New Car Model"
+#~ msgstr "Nuovo modello auto"
+
+#~ msgid "No car models found."
+#~ msgstr "Nessun modello di auto trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "car-model"
+#~ msgstr "modello-auto"
+
+#~ msgid "Car Transmissions"
+#~ msgstr "Trasmissioni d'auto"
+
+#~ msgid "Car Transmission"
+#~ msgstr "Trasmissione d'auto"
+
+#~ msgid "Search Car Transmission"
+#~ msgstr "Cerca trasmissione auto"
+
+#~ msgid "All Car Transmissions"
+#~ msgstr "Tutte le trasmissioni auto"
+
+#~ msgid "Parent Car Transmission"
+#~ msgstr "Genitore trasmissione auto"
+
+#~ msgid "Parent Car Transmission:"
+#~ msgstr "Genitore trasmissione auto:"
+
+#~ msgid "Edit Car Transmission"
+#~ msgstr "Modifica trasmissione auto"
+
+#~ msgid "Update Car Transmission"
+#~ msgstr "Aggiornamento trasmissione auto"
+
+#~ msgid "Add New Car Transmission"
+#~ msgstr "Aggiungi trasmissione auto"
+
+#~ msgid "New Car Transmission"
+#~ msgstr "Nuova trasmissione auto"
+
+#~ msgid "No car transmissions found."
+#~ msgstr "Nessun trasmissione auto trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "car-transmission"
+#~ msgstr "trasmissione-auto"
+
+#~ msgid "Search Color"
+#~ msgstr "Cerca Colore"
+
+#~ msgid "All Colors"
+#~ msgstr "Tutti i colori"
+
+#~ msgid "Parent Color"
+#~ msgstr "Colore genitore"
+
+#~ msgid "Parent Color:"
+#~ msgstr "Colore genitore:"
+
+#~ msgid "Edit Color"
+#~ msgstr "Modifica colore"
+
+#~ msgid "Update Color"
+#~ msgstr "Aggiornamento Colore"
+
+#~ msgid "Add New Color"
+#~ msgstr "Aggiungi nuovo colore"
+
+#~ msgid "New Color"
+#~ msgstr "Nuovo colore"
+
+#~ msgid "No colors found."
+#~ msgstr "Colori non trovati."
+
+#~ msgctxt "URL slug"
+#~ msgid "color"
+#~ msgstr "colore"
+
+#~ msgid "Dating Groups"
+#~ msgstr "Gruppi Incontri"
+
+#~ msgid "Dating Group"
+#~ msgstr "Incontri di gruppo"
+
+#~ msgid "Search Dating Group"
+#~ msgstr "Cerca gruppo incontri"
+
+#~ msgid "All Dating Groups"
+#~ msgstr "Tutti i gruppi Incontri"
+
+#~ msgid "Parent Dating Group"
+#~ msgstr "Genitore gruppo incontri"
+
+#~ msgid "Parent Dating Group:"
+#~ msgstr "Genitore gruppo incontri:"
+
+#~ msgid "Edit Dating Group"
+#~ msgstr "Modifica gruppo incontri"
+
+#~ msgid "Update Dating Group"
+#~ msgstr "Aggiornamento gruppo incontri"
+
+#~ msgid "Add New Dating Group"
+#~ msgstr "Aggiungi nuovo gruppo incontri"
+
+#~ msgid "New Dating Group"
+#~ msgstr "Nuovo gruppo incontri"
+
+#~ msgid "No dating groups found."
+#~ msgstr "Nessun gruppo incontri trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "dating-group"
+#~ msgstr "gruppo-incontri"
+
+#~ msgid "Dating Interests"
+#~ msgstr "Interessi incontri"
+
+#~ msgid "Dating Status"
+#~ msgstr "Stati incontri"
+
+#~ msgid "Search Dating Status"
+#~ msgstr "Cerca stati incontri"
+
+#~ msgid "All Dating Interests"
+#~ msgstr "Tutti interessi incontri"
+
+#~ msgid "Parent Dating Status"
+#~ msgstr "Genitore stato incontri"
+
+#~ msgid "Parent Dating Status:"
+#~ msgstr "Genitore stato incontri:"
+
+#~ msgid "Edit Dating Status"
+#~ msgstr "Modifica stato incontri"
+
+#~ msgid "Update Dating Status"
+#~ msgstr "Aggiornamento stato incontri"
+
+#~ msgid "Add New Dating Status"
+#~ msgstr "Aggiungi nuovo Stato di Incontri"
+
+#~ msgid "New Dating Status"
+#~ msgstr "Nuovo stato incontri"
+
+#~ msgid "No dating interests found."
+#~ msgstr "Nessun interesso incontri trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "dating-interest"
+#~ msgstr "interesso-incontri"
+
+#~ msgid "Dating Statuses"
+#~ msgstr "Stati incontri"
+
+#~ msgid "All Dating Statuses"
+#~ msgstr "Tutti gli stati incontri"
+
+#~ msgid "No dating statuses found."
+#~ msgstr "Nessun stati incontri trovati."
+
+#~ msgctxt "URL slug"
+#~ msgid "dating-status"
+#~ msgstr "stato-incontri"
+
+#~ msgid "Education Levels"
+#~ msgstr "Tutti i livelli di educazione"
+
+#~ msgid "Education Level"
+#~ msgstr "Livello di educazione"
+
+#~ msgid "Search Education Level"
+#~ msgstr "Cerca livello di educazione"
+
+#~ msgid "All Education Levels"
+#~ msgstr "Tutti i livelli di educazione"
+
+#~ msgid "Parent Education Level"
+#~ msgstr "Genitore livello di educazione"
+
+#~ msgid "Parent Education Level:"
+#~ msgstr "Genitore livello di educazione:"
+
+#~ msgid "Edit Education Level"
+#~ msgstr "Modifica livello di educazione"
+
+#~ msgid "Update Education Level"
+#~ msgstr "Aggiornamento livello di educazione"
+
+#~ msgid "Add New Education Level"
+#~ msgstr "Aggiungi livello di educazione"
+
+#~ msgid "New Education Level"
+#~ msgstr "Nuovo livello di educazione"
+
+#~ msgid "No education levels found."
+#~ msgstr "Nessun livello di educazione trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "education-level"
+#~ msgstr "livello-di-educazione"
+
+#~ msgid "Education Subjects"
+#~ msgstr "Soggetti di educazione"
+
+#~ msgid "Education Subject"
+#~ msgstr "Soggetto di educazione"
+
+#~ msgid "Search Education Subject"
+#~ msgstr "Cerca soggetto di educazione"
+
+#~ msgid "All Education Subjects"
+#~ msgstr "Tutti i soggetti di educazione"
+
+#~ msgid "Parent Education Subject"
+#~ msgstr "Genitore soggetto di educazione"
+
+#~ msgid "Parent Education Subject:"
+#~ msgstr "Genitore soggetto di educazione:"
+
+#~ msgid "Edit Education Subject"
+#~ msgstr "Modifica soggetto di educazione"
+
+#~ msgid "Update Education Subject"
+#~ msgstr "Aggiornamento soggetto di educazione"
+
+#~ msgid "Add New Education Subject"
+#~ msgstr "Aggiungi soggetto di educazione"
+
+#~ msgid "New Education Subject"
+#~ msgstr "Nuovo soggetto di educazione"
+
+#~ msgid "No education subjects found."
+#~ msgstr "Nessun soggetto di educazione trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "education-subject"
+#~ msgstr "formazione-soggetto"
+
+#~ msgid "Event Types"
+#~ msgstr "Tipi di evento"
+
+#~ msgid "Event Type"
+#~ msgstr "Tipo di evento"
+
+#~ msgid "Search Event Type"
+#~ msgstr "Cerca tipo di evento"
+
+#~ msgid "All Event Types"
+#~ msgstr "Tutti i tipi di eventi"
+
+#~ msgid "Parent Event Type"
+#~ msgstr "Tipo di evento genitore"
+
+#~ msgid "Parent Event Type:"
+#~ msgstr "Tipo di evento genitore:"
+
+#~ msgid "Edit Event Type"
+#~ msgstr "Modifica il tipo di evento"
+
+#~ msgid "Update Event Type"
+#~ msgstr "Aggiornamento Tipo di evento"
+
+#~ msgid "Add New Event Type"
+#~ msgstr "Aggiungi nuovo tipo di Evento"
+
+#~ msgid "New Event Type"
+#~ msgstr "Nuovo tipo evento"
+
+#~ msgid "No event types found."
+#~ msgstr "Nessun tipo di evento trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "event-type"
+#~ msgstr "tipo-di-evento"
+
+#~ msgid "Food Kinds"
+#~ msgstr "Tipi di cibo"
+
+#~ msgid "Food Kind"
+#~ msgstr "Tipo di cibo"
+
+#~ msgid "Search Food Kind"
+#~ msgstr "Cerca tipo di cibo"
+
+#~ msgid "All Food Kinds"
+#~ msgstr "Tutti i tipi di cibo"
+
+#~ msgid "Parent Food Kind"
+#~ msgstr "Tipo di cibo genitore"
+
+#~ msgid "Parent Food Kind:"
+#~ msgstr "Tipo di cibo genitore:"
+
+#~ msgid "Edit Food Kind"
+#~ msgstr "Modificare il tipo di cibo"
+
+#~ msgid "Update Food Kind"
+#~ msgstr "Aggiornamento tipo di cibo"
+
+#~ msgid "Add New Food Kind"
+#~ msgstr "Aggiungi nuovo tipo di cibo"
+
+#~ msgid "New Food Kind"
+#~ msgstr "Nuovo tipo di cibo"
+
+#~ msgid "No food kinds found."
+#~ msgstr "Nessun tipo di cibo trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "food-kind"
+#~ msgstr "cibo-tipo"
+
+#~ msgid "Hotel Classes"
+#~ msgstr "Classi Hotel"
+
+#~ msgid "Hotel Class"
+#~ msgstr "Classe Hotel"
+
+#~ msgid "Search Hotel Class"
+#~ msgstr "Ricerca Hotel classe"
+
+#~ msgid "All Hotel Classes"
+#~ msgstr "Tutte le classi di Hotel"
+
+#~ msgid "Parent Hotel Class"
+#~ msgstr "Classe di Hotel del genitore"
+
+#~ msgid "Parent Hotel Class:"
+#~ msgstr "Classe di Hotel del genitore:"
+
+#~ msgid "Edit Hotel Class"
+#~ msgstr "Modificare classe Hotel"
+
+#~ msgid "Update Hotel Class"
+#~ msgstr "Aggiornamento Classe hotel"
+
+#~ msgid "Add New Hotel Class"
+#~ msgstr "Aggiungi nuova classe Hotel"
+
+#~ msgid "New Hotel Class"
+#~ msgstr "Nuova classe Hotel"
+
+#~ msgid "No hotel classes found."
+#~ msgstr "Nessuna classe di hotel trovata."
+
+#~ msgctxt "URL slug"
+#~ msgid "hotel-class"
+#~ msgstr "hotel-class"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Search Categories"
+#~ msgstr "Cerca Categorie"
+
+#~ msgid "All Categories"
+#~ msgstr "Tutte le Categorie"
+
+#~ msgid "Parent Category"
+#~ msgstr "Categoria Genitore"
+
+#~ msgid "Parent Category:"
+#~ msgstr "Categoria Genitore:"
+
+#~ msgid "Edit Category"
+#~ msgstr "Modifica categoria"
+
+#~ msgid "Update Category"
+#~ msgstr "Aggiorna categoria"
+
+#~ msgid "Add New Category"
+#~ msgstr "Aggiungi nuova categoria"
+
+#~ msgid "New Category"
+#~ msgstr "Nuova categoria"
+
+#~ msgid "No categories found."
+#~ msgstr "Nessuna categoria trovata."
+
+#~ msgctxt "URL slug"
+#~ msgid "listing-category"
+#~ msgstr "listing-categoria"
+
+#~ msgid "POI"
+#~ msgstr "POI"
+
+#~ msgid "Listing Category Options"
+#~ msgstr "Listing Categoria Opzioni"
+
+#~ msgid "Search Location"
+#~ msgstr "Cerca Posizione"
+
+#~ msgid "All Locations"
+#~ msgstr "Tutti gli Posizioni"
+
+#~ msgid "Parent Location"
+#~ msgstr "Posizione genitore"
+
+#~ msgid "Parent Location:"
+#~ msgstr "Posizione genitore"
+
+#~ msgid "Edit Location"
+#~ msgstr "Modifica Posizione"
+
+#~ msgid "Update Location"
+#~ msgstr "Aggiorna Posizione"
+
+#~ msgid "Add New Location"
+#~ msgstr "Aggiungi nouva Posizione"
+
+#~ msgid "New Location"
+#~ msgstr "Nuova Posizione"
+
+#~ msgid "No locations found."
+#~ msgstr "Nessuna posizione trovata."
+
+#~ msgctxt "URL slug"
+#~ msgid "location"
+#~ msgstr "posizione"
+
+#~ msgid "Music Genres"
+#~ msgstr "Generi Musicali"
+
+#~ msgid "Music Genre"
+#~ msgstr "Genere Musicale"
+
+#~ msgid "Search Music Genre"
+#~ msgstr "Cerca Genere Musicale"
+
+#~ msgid "All Music Genres"
+#~ msgstr "Tutti i Generi Musicali"
+
+#~ msgid "Parent Music Genre"
+#~ msgstr "Genitore genere musicale"
+
+#~ msgid "Parent Music Genre:"
+#~ msgstr "Genitore genere musicale:"
+
+#~ msgid "Edit Music Genre"
+#~ msgstr "Modifica Genere Musicale"
+
+#~ msgid "Update Music Genre"
+#~ msgstr "Aggiorna Genere Musicale"
+
+#~ msgid "Add New Music Genre"
+#~ msgstr "Aggiungi nuovo Genere Musicale"
+
+#~ msgid "New Music Genre"
+#~ msgstr "Aggiungi nuovo Genere Musicale"
+
+#~ msgid "No music genres found."
+#~ msgstr "Nessun generi musicali trovati."
+
+#~ msgctxt "URL slug"
+#~ msgid "music-genre"
+#~ msgstr "genere-musicale"
+
+#~ msgid "Pet Animals"
+#~ msgstr "Animali da compagnia"
+
+#~ msgid "Pet Animal"
+#~ msgstr "Animale da compagnia"
+
+#~ msgid "Search Pet Animal"
+#~ msgstr "Ricerca animale da compagnia"
+
+#~ msgid "All Pet Animals"
+#~ msgstr "Tutti gli animali da compagnia"
+
+#~ msgid "Parent Pet Animal"
+#~ msgstr "Animale da compagnia genitore"
+
+#~ msgid "Parent Pet Animal:"
+#~ msgstr "Animale da compagnia genitore:"
+
+#~ msgid "Edit Pet Animal"
+#~ msgstr "Modificare l'animale da compagnia"
+
+#~ msgid "Update Pet Animal"
+#~ msgstr "Aggiorna animale da compagnia"
+
+#~ msgid "Add New Pet Animal"
+#~ msgstr "Aggiungi nuovo Animale"
+
+#~ msgid "New Pet Animal"
+#~ msgstr "Nuovo animale da compagnia"
+
+#~ msgid "No pet animals found."
+#~ msgstr "Nessun animali da compagnia trovato."
+
+#~ msgctxt "URL slug"
+#~ msgid "pet-animal"
+#~ msgstr "animale-da-compagnia"
+
+#~ msgid "Shopping Categories"
+#~ msgstr "Categorie di Shopping"
+
+#~ msgid "Shopping Category"
+#~ msgstr "Categoria di shopping"
+
+#~ msgid "Search Shopping Category"
+#~ msgstr "Cerca categoria di Shopping"
+
+#~ msgid "All Shopping Categories"
+#~ msgstr "Tutte le categorie di Shopping"
+
+#~ msgid "Parent Shopping Category"
+#~ msgstr "Genitore Categoria Shopping"
+
+#~ msgid "Parent Shopping Category:"
+#~ msgstr "Genitore Categoria Shopping:"
+
+#~ msgid "Edit Shopping Category"
+#~ msgstr "Modifica Categoria Shopping"
+
+#~ msgid "Update Shopping Category"
+#~ msgstr "Aggiornamento Categoria Shopping"
+
+#~ msgid "Add New Shopping Category"
+#~ msgstr "Aggiungere nouva Categoria di Shopping"
+
+#~ msgid "New Shopping Category"
+#~ msgstr "Aggiungere nouva Categoria di Shopping"
+
+#~ msgid "No shopping categories found."
+#~ msgstr "Nessuna categoria di shopping trovata."
+
+#~ msgctxt "URL slug"
+#~ msgid "shopping-category"
+#~ msgstr "categoria-shopping"
+
+#~ msgid "Travel Activities"
+#~ msgstr "Attività di viaggio"
+
+#~ msgid "Travel Activity"
+#~ msgstr "Attività di viaggio"
+
+#~ msgid "Search Travel Activity"
+#~ msgstr "Ricerca attività di viaggio"
+
+#~ msgid "All Travel Activities"
+#~ msgstr "Tutte le attività di viaggi"
+
+#~ msgid "Parent Travel Activity"
+#~ msgstr "Genitore attività di viaggio"
+
+#~ msgid "Parent Travel Activity:"
+#~ msgstr "Genitore attività di viaggio:"
+
+#~ msgid "Edit Travel Activity"
+#~ msgstr "Modifica attività di viaggio"
+
+#~ msgid "Update Travel Activity"
+#~ msgstr "Aggiornamento attività di viaggio"
+
+#~ msgid "Add New Travel Activity"
+#~ msgstr "Aggiungi nuova attività di viaggio"
+
+#~ msgid "New Travel Activity"
+#~ msgstr "Nuova attività di viaggio"
+
+#~ msgid "No travel activities found."
+#~ msgstr "Nessuna attività di viaggio trovata."
+
+#~ msgctxt "URL slug"
+#~ msgid "travel-activity"
+#~ msgstr "viaggi-attivita"
+
+#~ msgid "Filter"
+#~ msgstr "Filtro"
+
+#~ msgid "Filter for filtering listings."
+#~ msgstr "Filtro per filtrare annunci."
+
+#~ msgid "Listing Author"
+#~ msgstr "Autore annuncio"
+
+#~ msgid ""
+#~ "Listing author widget for displaying information about listing author."
+#~ msgstr ""
+#~ "Widget di autore di profilo per la visualizzazione delle informazioni sul "
+#~ "profilo autore."
+
+#~ msgid "Listing Categories Boxes"
+#~ msgstr "Scatole categorie annunci"
+
+#~ msgid "Displays listing categories in boxes."
+#~ msgstr "Visualizza categorie d'annuncio nelle caselle."
+
+#~ msgid "Listing Categories"
+#~ msgstr "Categorie annunci"
+
+#~ msgid "Displays listing categories."
+#~ msgstr "Visualizza categorie d'annuncio."
+
+#~ msgid "Listing details"
+#~ msgstr "Dettagli annuncio"
+
+#~ msgid "Displays listing details."
+#~ msgstr "Visualizza dettagli annuncio."
+
+#~ msgid "Listing Inquire"
+#~ msgstr "Informare su l'annuncio"
+
+#~ msgid "Listing inquire widget for sending inquire messages."
+#~ msgstr ""
+#~ "Widget di informare su l'annuncio per l'invio di messaggi di richiesta."
+
+#~ msgid "Displays listings."
+#~ msgstr "Visualizza annunci."
+
+#~ msgid "Opening hours"
+#~ msgstr "Orario di apertura"
+
+#~ msgid "Displays opening hours for current listing."
+#~ msgstr "Visualizza orari di apertura per l'annuncio corrente."
+
+#~ msgid "Username"
+#~ msgstr "Nome Utente"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Log in"
+#~ msgstr "Log in"
+
+#~ msgid "You are already logged in."
+#~ msgstr "Hai già effettuato l’accesso."
+
+#~ msgid "Old password"
+#~ msgstr "Password precedente"
+
+#~ msgid "New password"
+#~ msgstr "Nuova password"
+
+#~ msgid "Retype password"
+#~ msgstr "Reinserisci password"
+
+#~ msgid "Change Password"
+#~ msgstr "Cambia la Password"
+
+#~ msgid "Retype Password"
+#~ msgstr "Ripeti la password"
+
+#~ msgid "I agree with <a href=\"%s\">terms & conditions</a>"
+#~ msgstr "Sono d'accordo con <a href=\"%s\">termini e condizioni</a>"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registrati"
+
+#~ msgid "Registrations are not allowed."
+#~ msgstr "Le registrazioni non sono ammessi."
+
+#~ msgid "Username or E-mail:"
+#~ msgstr "Nome utente o E-mail:"
+
+#~ msgid "Get New Password"
+#~ msgstr "Ottieni una nuova password"
+
+#~ msgid "Please enter valid purchase code to get an update"
+#~ msgstr ""
+#~ "Si prega di inserire il codice d'acquisto valido per ottenere un "
+#~ "aggiornamento"
+
+#~ msgid "Confirm"
+#~ msgstr "Conferma"
+
+#~ msgid "How to find purchase code."
+#~ msgstr "Come trovare il codice di acquisto."
+
+#~ msgid "Previous"
+#~ msgstr "Precedente"
+
+#~ msgid "Next"
+#~ msgstr "Prossimo"
+
+#~ msgid "Monday"
+#~ msgstr "Lunedì"
+
+#~ msgid "Tuesday"
+#~ msgstr "Martedì"
+
+#~ msgid "Wednesday"
+#~ msgstr "Mercoledì"
+
+#~ msgid "Thursday"
+#~ msgstr "Giovedì"
+
+#~ msgid "Friday"
+#~ msgstr "Venerdì"
+
+#~ msgid "Saturday"
+#~ msgstr "Sabato"
+
+#~ msgid "Sunday"
+#~ msgstr "Domenica"
+
+#~ msgid "Day"
+#~ msgstr "Giorno"
+
+#~ msgid "Custom text"
+#~ msgstr "Testo personalizzato"
+
+#~ msgid "Daily Menu"
+#~ msgstr "Menu del giorno"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Map"
+#~ msgstr "Mappa"
+
+#~ msgid "See Inside"
+#~ msgstr "Vedere Dentro"
+
+#~ msgid "Directions"
+#~ msgstr "Direzioni"
+
+#~ msgid "Report spam, abuse, or inappropriate content"
+#~ msgstr "Segnala spam, abuso, o contenuto inappropriato"
+
+#~ msgid "Report reason"
+#~ msgstr "Ragione del rapporto"
+
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgid "Page not found"
+#~ msgstr "Pagina non trovata"
+
+#~ msgid "Archive for"
+#~ msgstr "Archivio di"
+
+#~ msgid "Author Archive"
+#~ msgstr "Archivio Autore"
+
+#~ msgid "Blog Archives"
+#~ msgstr "Archivi del Blog"
+
+#~ msgid "Search Results"
+#~ msgstr "Risultati di ricerca"
+
+#~ msgid "You need to log in at first."
+#~ msgstr "Effettua prima l'accesso."
+
+#~ msgid "Login"
+#~ msgstr "Accedi"
+
+#~ msgid "Register"
+#~ msgstr "Registrati"
+
+#~ msgid "Object does not exist."
+#~ msgstr "L'oggetto non esiste."
+
+#~ msgid "Print"
+#~ msgstr "Stampa"
+
+#~ msgid "What's wrong with %s?"
+#~ msgstr "Cosa c'è di sbagliato con %s?"
+
+#~ msgid "It is spam"
+#~ msgstr "Si tratta di spam"
+
+#~ msgid "It is nudity or pornography"
+#~ msgstr "Si tratta di nudità o pornografia"
+
+#~ msgid "It humiliates somebody"
+#~ msgstr "Questo umilia qualcuno"
+
+#~ msgid "It is inappropriate"
+#~ msgstr "E 'inadeguato"
+
+#~ msgid ""
+#~ "It insults or attacks someone based on their religion, ethnicity or "
+#~ "sexual orientation"
+#~ msgstr ""
+#~ "E insulta o attacchi di qualcuno in base alla loro religione, etnia o "
+#~ "l'orientamento sessuale"
+
+#~ msgid "It advocates violence or harm to a person or animal"
+#~ msgstr "Sostiene violenza o danni a una persona o animale"
+
+#~ msgid "It displays someone harming themself or planning to harm themself"
+#~ msgstr ""
+#~ "Esso mostra qualcuno che farsi male o intenzione di danneggiare se stesso"
+
+#~ msgid "It describes buying or selling drugs, guns or regulated products"
+#~ msgstr ""
+#~ "Descrive l'acquisto o la vendita di droga, armi o prodotti regolamentati"
+
+#~ msgid "It is an unauthorized use of my intellectual property"
+#~ msgstr "Si tratta di un uso non autorizzato di mia proprietà intellettuale"
+
+#~ msgid "Something else"
+#~ msgstr "Altro"
+
+#~ msgid "Other reason or additional information"
+#~ msgstr "Altro motivo o per ulteriori informazioni"
+
+#~ msgid "Contact to you"
+#~ msgstr "Contattare per voi"
+
+#~ msgid "Submit to review"
+#~ msgstr "Sottoporre a revisione"
+
+#~ msgid "Share"
+#~ msgstr "Condividi"
+
+#~ msgid ""
+#~ "<strong>Welcome to Inventor</strong> - please read <a href=\"http://"
+#~ "inventorwp.com/documentation/\" target=\"_blank\">documentation</a> for "
+#~ "more information."
+#~ msgstr ""
+#~ "<strong>Benvenuto a Inventor</strong> - si prega di leggere la <a href="
+#~ "\"http://inventorwp.com/documentation/\" target=\"_blank"
+#~ "\">documentazione</a> per ulteriori informazioni."
+
+#~ msgid ""
+#~ "All available features are listed at <a href=\"http://inventorwp.com\" "
+#~ "target=\"_blank\">inventorwp.com</a>."
+#~ msgstr ""
+#~ "Tutte le funzioni disponibili sono elencate in <a href=\"http://"
+#~ "inventorwp.com\" target=\"_blank\">inventorwp.com</a> ."
+
+#~ msgid "Documentation"
+#~ msgstr "Documentazione"
+
+#~ msgid "Plugins"
+#~ msgstr "Plugins"
+
+#~ msgid "Hide"
+#~ msgstr "Nascondi"
+
+#~ msgid "for package \"%s\""
+#~ msgstr "per il pacchetto \"%s\""
+
+#~ msgid "Beneficiary's account number"
+#~ msgstr "Numero di conto del beneficiario"
+
+#~ msgid "Bank code (SWIFT/BIC)"
+#~ msgstr "Codice bancario (SWIFT / BIC)"
+
+#~ msgid "Variable symbol"
+#~ msgstr "Simbolo variabile"
+
+#~ msgid "Information / reference"
+#~ msgstr "Informazioni / riferimento"
+
+#~ msgid "Beneficiary's name"
+#~ msgstr "Nome del beneficiario"
+
+#~ msgid "Postcode (ZIP)"
+#~ msgstr "Codice postale (CAP)"
+
+#~ msgid ""
+#~ "Your payment will be manually reviewed when transfer will be completed."
+#~ msgstr ""
+#~ "Il pagamento sarà riesaminata manualmente quando sarà completato il "
+#~ "trasferimento."
+
+#~ msgid "You are missing payment type."
+#~ msgstr "Ti manca il tipo di pagamento."
+
+#~ msgid "Invalid payment type."
+#~ msgstr "Tipo di pagamento invalido."
+
+#~ msgid "Object is missing."
+#~ msgstr "L'oggetto è mancante."
+
+#~ msgid "Payment gateway"
+#~ msgstr "Gateway di pagamento"
+
+#~ msgid "Process payment"
+#~ msgstr "Procedi al pagamento"
+
+#~ msgid "No payment gateways found."
+#~ msgstr "Nessun gateway di pagamento trovato."
+
+#~ msgid "Back to"
+#~ msgstr "Torna a"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Payment Type"
+#~ msgstr "Tipo di pagamento"
+
+#~ msgid "Package"
+#~ msgstr "Pacchetto"
+
+#~ msgid "No transactions found."
+#~ msgstr "Nessuna transazione trovata."
+
+#~ msgid "step"
+#~ msgstr "passo"
+
+#~ msgid "Custom post type does not have any metaboxes."
+#~ msgstr "Tipo di post personalizzato non dispone di alcun metaboxes."
+
+#~ msgid "Advanced Options"
+#~ msgstr "Opzioni avanzate"
+
+#~ msgid "Background Color"
+#~ msgstr "Colore di Sfondo"
+
+#~ msgid "Background Image (URL)"
+#~ msgstr "Immagine di sfondo (URL)"
+
+#~ msgid "Padding Top"
+#~ msgstr "Padding Superiore"
+
+#~ msgid "Padding Bottom"
+#~ msgstr "Padding Inferiore"
+
+#~ msgid "Classes"
+#~ msgstr "Classi"
+
+#~ msgid "Additional classes e.g. <i>background-gray</i>"
+#~ msgstr "Classi ulteriori, ad esempio <i>background-gray</i>"
+
+#~ msgid "Button text"
+#~ msgstr "Testo del pulsante"
+
+#~ msgid "Sorting Options"
+#~ msgstr "Opzioni di ordinamento"
+
+#~ msgid "Input titles"
+#~ msgstr "I titoli di ingresso"
+
+#~ msgid "Labels"
+#~ msgstr "Etichette"
+
+#~ msgid "Placeholders"
+#~ msgstr "Segnaposti"
+
+#~ msgid "Result numbers"
+#~ msgstr "Numeri di risultato"
+
+#~ msgid "Show result numbers"
+#~ msgstr "Numeri Mostra risultati"
+
+#~ msgid "Show total count"
+#~ msgstr "Mostra conteggio totale"
+
+#~ msgid "All categories"
+#~ msgstr "Tutte le categorie"
+
+#~ msgid "All listing types"
+#~ msgstr "Tutte le tipologie di annuncio"
+
+#~ msgid "All locations"
+#~ msgstr "Tutti gli posizioni"
+
+#~ msgid "Price from"
+#~ msgstr "Prezzo da"
+
+#~ msgid "Price to"
+#~ msgstr "Prezzo a"
+
+#~ msgid "Sort"
+#~ msgstr "Ordina"
+
+#~ msgid "Order"
+#~ msgstr "Ordine"
+
+#~ msgid "Asc"
+#~ msgstr "Cresc."
+
+#~ msgid "Desc"
+#~ msgstr "Decr"
+
+#~ msgid "Rows"
+#~ msgstr "Righe"
+
+#~ msgid "Grid"
+#~ msgstr "Griglia"
+
+#~ msgid ""
+#~ "<span class=\"match\">%d</span> listing from <span class=\"total\">%d</"
+#~ "span> matches your search criteria"
+#~ msgid_plural ""
+#~ "<span class=\"match\">%d</span> listings from <span class=\"total\">%d</"
+#~ "span> match your search criteria"
+#~ msgstr[0] ""
+#~ "<span class=\"match\">%d</span> annuncio da <span class=\"total\">%d</"
+#~ "span> corrisponde ai tuoi criteri di ricerca"
+#~ msgstr[1] ""
+#~ "<span class=\"match\">%d</span> annunci da <span class=\"total\">%d</"
+#~ "span> corrisponde ai tuoi criteri di ricerca"
+
+#~ msgid "<span class=\"match\">%d</span> listing matches your search criteria"
+#~ msgid_plural ""
+#~ "<span class=\"match\">%d</span> listings match your search criteria"
+#~ msgstr[0] ""
+#~ "<span class=\"match\">%d</span> annuncio corrisponde ai tuoi criteri di "
+#~ "ricerca"
+#~ msgstr[1] ""
+#~ "<span class=\"match\">%d</span> annunci corrisponde ai tuoi criteri di "
+#~ "ricerca"
+
+#~ msgid "Show count"
+#~ msgstr "Mostra conteggio"
+
+#~ msgid "Items per row"
+#~ msgstr "Elementi per riga"
+
+#~ msgid "Form fields"
+#~ msgstr "Campi del modulo"
+
+#~ msgid "Subject"
+#~ msgstr "Oggetto"
+
+#~ msgid "Who will receive an e-mail?"
+#~ msgstr "Chi riceverà una email?"
+
+#~ msgid "Site admin"
+#~ msgstr "Site Admin"
+
+#~ msgid "Listing author"
+#~ msgstr "Autore annuncio"
+
+#~ msgid "Listing email"
+#~ msgstr "Email annuncio"
+
+#~ msgid "If none selected, post author will receive an email by default."
+#~ msgstr ""
+#~ "Se nessuno selezionata, posta autore riceverà una e-mail di default."
+
+#~ msgid "Send Message"
+#~ msgstr "Invia Messaggio"
+
+#~ msgid "Count"
+#~ msgstr "Conteggio"
+
+#~ msgid "IDs"
+#~ msgstr "IDs"
+
+#~ msgid ""
+#~ "For specific listings please insert post ids, separated by comma. "
+#~ "Example: 1,2,3"
+#~ msgstr ""
+#~ "Per le inserzioni specifiche inserire gli ID postali, separate da una "
+#~ "virgola. Esempio: 1,2,3"
+
+#~ msgid "Default"
+#~ msgstr "Predefinito"
+
+#~ msgid "Random"
+#~ msgstr "Casuale"
+
+#~ msgid "Choose attribute"
+#~ msgstr "Scegli un attributo"
+
+#~ msgid "None"
+#~ msgstr "Nessuna"
+
+#~ msgid "Featured only"
+#~ msgstr "Mostra solo in evidenza"
+
+#~ msgid "Reduced only"
+#~ msgstr "Mostra solo ridotti"
+
+#~ msgid "Display as"
+#~ msgstr "Visualizza come"
+
+#~ msgid "Small"
+#~ msgstr "Piccolo"
+
+#~ msgid "Box"
+#~ msgstr "Box"
+
+#~ msgid "Row"
+#~ msgstr "Riga"
+
+#~ msgid "Masonry"
+#~ msgstr "A blocchi"
+
+#~ msgid "Types"
+#~ msgstr "Tipi"
+
+#~ msgid "Mon"
+#~ msgstr "Lun"
+
+#~ msgid "Tue"
+#~ msgstr "Mar"
+
+#~ msgid "Wed"
+#~ msgstr "Mer"
+
+#~ msgid "Thu"
+#~ msgstr "Gio"
+
+#~ msgid "Fri"
+#~ msgstr "Ven"
+
+#~ msgid "Sat"
+#~ msgstr "Sab"
+
+#~ msgid "Sun"
+#~ msgstr "Dom"
+
+#~ msgid "It is <span class=\"open\">open</span>."
+#~ msgstr "È <span class=\"open\">aperto</span>."
+
+#~ msgid "It is <span class=\"closed\">closed</span>."
+#~ msgstr "È <span class=\"closed\">chiuso</span>."

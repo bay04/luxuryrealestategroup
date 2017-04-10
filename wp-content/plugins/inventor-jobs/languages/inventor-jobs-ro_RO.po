@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Listing Slider\n"
+"POT-Creation-Date: 2016-08-02 09:26+0200\n"
+"PO-Revision-Date: 2016-08-02 09:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-jobs-logic.php:55
+msgid "New job application"
+msgstr "Aplicație pentru un nou job"
+
+#: includes/class-inventor-jobs-logic.php:75
+msgid "Job was already assigned to user."
+msgstr "Jobul a fost deja atribuit utilizatorului."
+
+#: includes/class-inventor-jobs-logic.php:83
+#: includes/class-inventor-jobs-logic.php:255
+msgid "You already applied for this job."
+msgstr "Deja ai aplicat pentru acest job."
+
+#: includes/class-inventor-jobs-logic.php:94
+msgid "Job ID is missing."
+msgstr "ID-ul jobului lipsește"
+
+#: includes/class-inventor-jobs-logic.php:246
+msgid "reCAPTCHA is not valid."
+msgstr "Codul reCAPTCHA este invalid."
+
+#: includes/class-inventor-jobs-logic.php:308
+msgid "Message has been successfully sent."
+msgstr "Mesajul a fost trimis cu succes."
+
+#: includes/class-inventor-jobs-logic.php:310
+msgid "Unable to send a message."
+msgstr "Eroare la trimiterea mesajului."
+
+#: includes/class-inventor-jobs-shortcodes.php:42
+msgid "Listing is not a job."
+msgstr "Listarea aleasă nu este un job."
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:45
+msgid "Apply for job"
+msgstr "Aplică pentru acest job"
+
+#: includes/customizations/class-inventor-jobs-customizations-jobs.php:60
+msgid "Job applicants"
+msgstr "Candidații acestui job"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:37
+#: includes/post-types/class-inventor-jobs-post-type-application.php:43
+#: includes/post-types/class-inventor-jobs-post-type-application.php:49
+msgid "Applications"
+msgstr "Aplicații"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:38
+msgid "Application"
+msgstr "Aplicație"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:39
+#: includes/post-types/class-inventor-jobs-post-type-application.php:40
+msgid "Add New Application"
+msgstr "Adaugă aplicație nouă"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:41
+msgid "Edit Application"
+msgstr "Editează aplicație"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:42
+msgid "New Application"
+msgstr "Aplicație nouă"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:44
+msgid "View Application"
+msgstr "Vezi aplicație"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:45
+msgid "Search Application"
+msgstr "Caută aplicație"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:46
+msgid "No Applications found"
+msgstr "Nu s-au găsit aplicații"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:47
+msgid "No Applications Found in Trash"
+msgstr "Nu s-au găsit aplicații în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:74
+msgid "General"
+msgstr "General"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:83
+msgid "Job ID"
+msgstr "ID job"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:93
+msgid "Resume ID"
+msgstr "ID CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:111
+#: templates/jobs-apply-mail.php:8
+msgid "Name"
+msgstr "Nume"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:112
+#: includes/post-types/class-inventor-jobs-post-type-job.php:101
+#: templates/jobs-apply-mail.php:16
+msgid "Job"
+msgstr "Job"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:113
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:52
+#: templates/jobs-apply-mail.php:20
+msgid "Resume"
+msgstr "CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:114
+msgid "Author"
+msgstr "Autor"
+
+#: includes/post-types/class-inventor-jobs-post-type-application.php:115
+msgid "Date"
+msgstr "Dată"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:53
+#: includes/post-types/class-inventor-jobs-post-type-job.php:225
+msgid "Required skills"
+msgstr "Calificări necesare"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:100
+#: includes/post-types/class-inventor-jobs-post-type-job.php:106
+#: includes/post-types/class-inventor-jobs-post-type-job.php:112
+msgid "Jobs"
+msgstr "Joburi"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:102
+#: includes/post-types/class-inventor-jobs-post-type-job.php:103
+msgid "Add New Job"
+msgstr "Adaugă job nou"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:104
+msgid "Edit Job"
+msgstr "Editează job"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:105
+msgid "New Job"
+msgstr "Job nou"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:107
+msgid "View Job"
+msgstr "Vezi job"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:108
+msgid "Search Job"
+msgstr "Caută job"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:109
+msgid "No Jobs found"
+msgstr "Nu s-au găsit joburi"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:110
+msgid "No Jobs Found in Trash"
+msgstr "Nu s-au găsit joburi în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:122
+msgctxt "URL slug"
+msgid "jobs"
+msgstr "joburi"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:142
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:93
+msgid "Details"
+msgstr "Detalii"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:161
+msgid "Employer"
+msgstr "Angajator"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:178
+msgid "Starting date"
+msgstr "Dată începere"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:191
+msgid "Job position"
+msgstr "Poziție job"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:205
+msgid "Contract type"
+msgstr "Tip contract"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:216
+msgid "Full-time"
+msgstr "Full-time"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:217
+msgid "Part-time"
+msgstr "Part-time"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:218
+msgid "Brigade"
+msgstr "Brigadă"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:219
+msgid "Agreement"
+msgstr "Înțelegere"
+
+#: includes/post-types/class-inventor-jobs-post-type-job.php:220
+msgid "Self-employed persons"
+msgstr "Persoană independentă"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:51
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:57
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:63
+msgid "Resumes"
+msgstr "CV-uri"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:53
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:54
+msgid "Add New Resume"
+msgstr "Adaugă CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:55
+msgid "Edit Resume"
+msgstr "Editează CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:56
+msgid "New Resume"
+msgstr "CV nou"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:58
+msgid "View Resume"
+msgstr "Vezi CV"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:59
+msgid "Search Resume"
+msgstr "Caută CV-uri"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:60
+msgid "No Resumes found"
+msgstr "Nu s-au găsit CV-uri"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:61
+msgid "No Resumes Found in Trash"
+msgstr "Nu s-au găsit CV-uri în Coșul de gunoi"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:72
+msgctxt "URL slug"
+msgid "resumes"
+msgstr "cvuri"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:102
+msgid "Working history"
+msgstr "Istoric carieră"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:112
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:159
+msgid "Item"
+msgstr "Articol"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:113
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:160
+msgid "Add Another"
+msgstr "Adaugă altul"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:114
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:161
+msgid "Remove"
+msgstr "Șterge"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:121
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:168
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:130
+msgid "Description"
+msgstr "Descriere"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:136
+msgid "Date from"
+msgstr "De la data"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:142
+msgid "Date to"
+msgstr "Până la data"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:149
+msgid "Experience"
+msgstr "Experiență"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:177
+msgid "Since"
+msgstr "De la"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:182
+msgid "Beginner"
+msgstr "Începător"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:183
+msgid "Intermediate"
+msgstr "Intermediar"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:184
+msgid "Professional"
+msgstr "Profesional"
+
+#: includes/post-types/class-inventor-jobs-post-type-resume.php:189
+msgid "Level"
+msgstr "Nivel"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:44
+msgid "Job Positions"
+msgstr "Locuri de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:35
+msgid "Job Position"
+msgstr "Loc de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:36
+msgid "Search Job Position"
+msgstr "Caută loc de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:37
+msgid "All Job Positions"
+msgstr "Toate locurile de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:38
+msgid "Parent Job Position"
+msgstr "Părinte loc de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:39
+msgid "Parent Job Position:"
+msgstr "Părinte loc de muncă:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:40
+msgid "Edit Job Position"
+msgstr "Editează loc de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:41
+msgid "Update Job Position"
+msgstr "Actualizează loc de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:42
+msgid "Add New Job Position"
+msgstr "Adaugă un loc de muncă nou"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:43
+msgid "New Job Position"
+msgstr "Loc de muncă nou"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:45
+msgid "No job positions found."
+msgstr "Nu s-au găsit locuri de muncă."
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-positions.php:52
+msgctxt "URL slug"
+msgid "job-position"
+msgstr "locuri-de-munca"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:34
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:44
+msgid "Job Skills"
+msgstr "Calificări loc de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:35
+msgid "Job Skill"
+msgstr "Calificare loc de muncă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:36
+msgid "Search Job Skill"
+msgstr "Caută calificare"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:37
+msgid "All Job Skills"
+msgstr "Toate calificările"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:38
+msgid "Parent Job Skill"
+msgstr "Părinte calificare"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:39
+msgid "Parent Job Skill:"
+msgstr "Părinte calificare:"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:40
+msgid "Edit Job Skill"
+msgstr "Editează calificare"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:41
+msgid "Update Job Skill"
+msgstr "Actualizează calificarea"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:42
+msgid "Add New Job Skill"
+msgstr "Adaugă calificare nouă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:43
+msgid "New Job Skill"
+msgstr "Calificare nouă"
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:45
+msgid "No job skills found."
+msgstr "Nu s-au găsit calificări."
+
+#: includes/taxonomies/class-inventor-jobs-taxonomy-job-skills.php:52
+msgctxt "URL slug"
+msgid "job-skill"
+msgstr "calificare"
+
+#: templates/jobs-apply-button.php:4
+msgid "I applied"
+msgstr "Am aplicat"
+
+#: templates/jobs-apply-button.php:8
+msgid "Apply"
+msgstr "Aplică"
+
+#: templates/jobs-apply-form.php:3
+msgid "You have to specify listing!"
+msgstr "Trebuie să specifici listarea!"
+
+#: templates/jobs-apply-form.php:7
+msgid "You have already applied for this job."
+msgstr "Deja ai aplicat pentru acest job."
+
+#: templates/jobs-apply-form.php:13
+msgid "Choose a resume you want to apply with"
+msgstr "Alege un CV cu care vrei să aplici"
+
+#: templates/jobs-apply-form.php:29
+msgid "Message"
+msgstr "Mesaj"
+
+#: templates/jobs-apply-mail.php:12
+msgid "E-mail"
+msgstr "Email"
+
+#: templates/jobs-apply-mail.php:24
+msgid "URL"
+msgstr "URL"

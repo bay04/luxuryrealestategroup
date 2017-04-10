@@ -1,0 +1,105 @@
+Version: 0.1.0
+Release date: 2015-11-03
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2016-01-18
+What's new:
+- performance optimization
+- total views in listing row
+
+
+Version: 0.1.2
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- removed unnecessary theme support condition
+- 0 views rendered as empty string fix
+- fixed table prefix
+- fixed missing translation strings and phrases
+- Slovak translation
+
+
+Version: 0.2.0
+Release date: 2016-03-29
+What's new:
+- Italian translation
+
+
+Version: 0.2.1
+Release date: 2016-04-02
+What's new:
+- views statistics fix
+
+
+Version: 0.3.0
+Release date: 2016-04-07
+What's new:
+- Spanish translation
+
+
+Version: 0.4.0
+Release date: 2016-04-17
+What's new:
+- Hungarian translation
+- French translation
+- Danish translation
+- fixed search queries graphs values
+
+
+Version: 0.5.0
+Release date: 2016-05-01
+What's new:
+- support for filter params without filter-prefix
+
+
+Version: 0.6.0
+Release date: 2016-05-20
+What's new:
+- German translation
+
+
+Version: 0.7.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- removed session id from listing views logic
+- used inventor_before_listing_detail WP action instead of the_content WP filter
+
+
+Version: 0.8.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- Portugal translation fix
+- support for parameters of multiple values
+- option to override translation files more easily
+
+
+Version: 0.9.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- Inventor_Filter::get_price_range() replaced by Inventor_Filter::get_field_range()
+
+
+Version: 1.0.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- fixed plugin dependency
+
+
+Version: 1.1.0
+Release date: 2016-11-04
+What's new:
+- option to pick most viewed listings in the Listings Widget
+
+
+Version: 1.2.0
+Release date: 2016-12-13
+What's new:
+- number of listing views are handled using visitor (cookie) data
+- new WP filter: inventor_statistics_timeout

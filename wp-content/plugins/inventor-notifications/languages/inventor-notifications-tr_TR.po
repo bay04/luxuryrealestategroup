@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Notifications\n"
+"POT-Creation-Date: 2016-08-02 09:27+0200\n"
+"PO-Revision-Date: 2016-08-02 09:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-notifications-logic.php:43
+msgid "Package will expire"
+msgstr "Paket sona erecek"
+
+#: includes/class-inventor-notifications-logic.php:44
+msgid "Package expired"
+msgstr "Paket sona erdi"
+
+#: includes/class-inventor-notifications-logic.php:47
+msgid "Submission waiting for review - for admin"
+msgstr "Gönderiniz inceleme bekliyor- admin için"
+
+#: includes/class-inventor-notifications-logic.php:48
+msgid "Submission waiting for review - for user"
+msgstr "Gönderiniz inceleme bekliyor- kullanıcı için"
+
+#: includes/class-inventor-notifications-logic.php:49
+msgid "Submission published - for admin"
+msgstr "Gönderi yayınlandı - admin için"
+
+#: includes/class-inventor-notifications-logic.php:50
+msgid "Submission published - for user"
+msgstr "Gönderi yayınlandı - kullanıcı için"
+
+#: includes/class-inventor-notifications-logic.php:209
+msgid "Your package will expire soon"
+msgstr "Paketiniz sona erecek"
+
+#: includes/class-inventor-notifications-logic.php:213
+msgid "Your package expired"
+msgstr "Paketiniz sona erdi"
+
+#: includes/class-inventor-notifications-logic.php:217
+msgid "New submission waiting for review"
+msgstr "Yeni gönderi incelenmek için bekletiliyor"
+
+#: includes/class-inventor-notifications-logic.php:221
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:95
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:110
+msgid "Submission waiting for review"
+msgstr "Gönderi inceleme için bekletiliyor"
+
+#: includes/class-inventor-notifications-logic.php:225
+msgid "New submission was published"
+msgstr "Yeni gönderi yayınlandı"
+
+#: includes/class-inventor-notifications-logic.php:229
+msgid "Your submission was published"
+msgstr "Gönderiniz yayınlandı"
+
+#: includes/class-inventor-notifications-logic.php:268
+#, php-format
+msgid "Your package %s will expire in %d days."
+msgstr "Paketiniz %s, %d gün içinde sona erecek."
+
+#: includes/class-inventor-notifications-logic.php:272
+#, php-format
+msgid "Your package %s expired."
+msgstr "Paketiniz %s sona erdi."
+
+#: includes/class-inventor-notifications-logic.php:276
+#, php-format
+msgid "New pending submission %s is waiting for admin review."
+msgstr "Gönderiniz %s, yönetici incelemesi bekliyor"
+
+#: includes/class-inventor-notifications-logic.php:280
+#, php-format
+msgid ""
+"Your submission %s is waiting for admin review. Until then, it will be not "
+"published."
+msgstr ""
+"Gönderiniz %s, yönetici incelemesi bekliyor. İnceleme tamamlanınca "
+"yayınlanacak."
+
+#: includes/class-inventor-notifications-logic.php:284
+#, php-format
+msgid "New submission %s was published."
+msgstr "Gönderiniz %s yayınlandı"
+
+#: includes/class-inventor-notifications-logic.php:288
+#, php-format
+msgid "Your submission %s was published."
+msgstr "Gönderileriniz %s yayınlandı"
+
+#: includes/class-inventor-notifications-post-type-notification.php:37
+#: includes/class-inventor-notifications-post-type-notification.php:43
+#: includes/class-inventor-notifications-post-type-notification.php:49
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: includes/class-inventor-notifications-post-type-notification.php:38
+msgid "Notification"
+msgstr "Bildirim"
+
+#: includes/class-inventor-notifications-post-type-notification.php:39
+#: includes/class-inventor-notifications-post-type-notification.php:40
+msgid "Add New Notification"
+msgstr "Yeni Bildirim Ekle"
+
+#: includes/class-inventor-notifications-post-type-notification.php:41
+msgid "Edit Notification"
+msgstr "Bildirimi Düzenle"
+
+#: includes/class-inventor-notifications-post-type-notification.php:42
+msgid "New Notification"
+msgstr "Yeni Bildirim"
+
+#: includes/class-inventor-notifications-post-type-notification.php:44
+msgid "View Notification"
+msgstr "Bildirimi Düzenle"
+
+#: includes/class-inventor-notifications-post-type-notification.php:45
+msgid "Search Notification"
+msgstr "Bildirim Ara"
+
+#: includes/class-inventor-notifications-post-type-notification.php:46
+msgid "No Notifications found"
+msgstr "Hiç Bildirim Bulunamadı"
+
+#: includes/class-inventor-notifications-post-type-notification.php:47
+msgid "No Notifications Found in Trash"
+msgstr "Çöpte hiç Bildirim bulunamadı"
+
+#: includes/class-inventor-notifications-post-type-notification.php:77
+msgid "General"
+msgstr "Genel"
+
+#: includes/class-inventor-notifications-post-type-notification.php:85
+#: includes/class-inventor-notifications-post-type-notification.php:102
+msgid "Action"
+msgstr "Eylem"
+
+#: includes/class-inventor-notifications-post-type-notification.php:101
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/class-inventor-notifications-post-type-notification.php:103
+msgid "Author"
+msgstr "Yazar"
+
+#: includes/class-inventor-notifications-post-type-notification.php:104
+msgid "Date and status"
+msgstr "Tarih ve durum"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:34
+msgid "Inventor Notifications"
+msgstr "Envanter Bildirimleri"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:46
+msgid "Package expiration warning"
+msgstr "Paket bitim uyarısı"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:59
+msgid "Package expiration warning threshold"
+msgstr "Paket bitim uyarı eşiği"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:64
+msgid "3 days"
+msgstr "3 gün"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:65
+msgid "7 days"
+msgstr "7 gün"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:66
+msgid "14 days"
+msgstr "14 gün"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:67
+msgid "30 days"
+msgstr "30 gün"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:69
+msgid "Set threshold in days."
+msgstr "Uyarı eşik değerini ayarla"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:80
+msgid "Package expiration announcement"
+msgstr "Paket bitimi duyurusu"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:84
+msgid "One day before package expiration."
+msgstr "Paket bitiminden 1 gün önce"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:99
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:129
+msgid "For admin"
+msgstr "Yönetici için"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:114
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:144
+msgid "For user"
+msgstr "Kullanıcı için"
+
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:125
+#: includes/customizations/class-inventor-notifications-customizations-notifications.php:140
+msgid "Submission published"
+msgstr "Gönderi yayınlandı"

@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Packages v0.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-01 11:52+0200\n"
+"PO-Revision-Date: 2016-07-01 11:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:55
+#: includes/post-types/class-inventor-packages-post-type-package.php:37
+#: includes/post-types/class-inventor-packages-post-type-package.php:43
+#: includes/post-types/class-inventor-packages-post-type-package.php:49
+#: includes/widgets/class-inventor-packages-widget-packages.php:23
+msgid "Packages"
+msgstr "Pakker"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:204
+#: templates/widgets/packages.php:83
+msgid "Unlimited"
+msgstr "Ubegrænset"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:208
+#: includes/post-types/class-inventor-packages-post-type-package.php:107
+#: includes/post-types/class-inventor-packages-post-type-package.php:212
+#: templates/widgets/packages.php:80
+msgid "Max Listings"
+msgstr "Antal restauranter"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:259
+msgid "Listing details"
+msgstr "Giver adgang til:"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:282
+msgid "week"
+msgstr "uge"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:283
+msgid "month"
+msgstr "måned"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:284
+msgid "year"
+msgstr "år"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:301
+msgid "Purchase package"
+msgstr "Køb abonnement"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:302
+#, php-format
+msgid "Upgrade package to %s"
+msgstr "Opgradere pakke til %s"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:320
+msgid "Not set"
+msgstr "Ikke sat"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:469
+msgid "Infinite"
+msgstr "Uendelig"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:510
+#: includes/class-inventor-packages-logic.php:525
+#: includes/class-inventor-packages-logic.php:571
+#: includes/post-types/class-inventor-packages-post-type-package.php:38
+msgid "Package"
+msgstr "Pakke"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:519
+msgid "Package Information"
+msgstr "Pakkeoplysninger"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:541
+msgid "Infinite duration"
+msgstr "Uendelig varighed"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:548
+msgid "Validity"
+msgstr "Gyldighed"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:574
+msgid ""
+"Button will be linked to the purchase page. You must create payment page "
+"(containing [inventor_payment]) which must be set up in customizer."
+msgstr ""
+"Knappen vil linke til købssiden. Dette kræver at du har oprettet en side med "
+"[inventor_payment]."
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:1030
+msgid "Package is not free."
+msgstr "Abonnementet er ikke gratis."
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:1035
+msgid "Package has been set."
+msgstr "Din pakke er blevet ændret"
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:1037
+msgid "Could not set package for user."
+msgstr "Kunne ikke indstille pakke for brugeren."
+
+# @ inventor-packages
+#: includes/class-inventor-packages-logic.php:1058
+msgid "Package has been upgraded."
+msgstr "Dit abonnement er blevet opgraderet."
+
+# @ inventor-packages
+#: includes/customizations/class-inventor-packages-customizations-packages.php:34
+msgid "Inventor Packages"
+msgstr "Inventor Packages"
+
+# @ inventor-packages
+#: includes/customizations/class-inventor-packages-customizations-packages.php:49
+msgid "Default package"
+msgstr "Standard pakke"
+
+# @ inventor-packages
+#: includes/customizations/class-inventor-packages-customizations-packages.php:53
+msgid "For newly registered user"
+msgstr "For nyligt registrerede bruger"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:39
+#: includes/post-types/class-inventor-packages-post-type-package.php:40
+msgid "Add New Package"
+msgstr "Tilføj nye pakker"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:41
+msgid "Edit Package"
+msgstr "Rediger Pakke"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:42
+msgid "New Package"
+msgstr "Ny pakke"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:44
+msgid "View Package"
+msgstr "Vis Abonnement"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:45
+msgid "Search Package"
+msgstr "Søg pakke"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:46
+msgid "No Packages found"
+msgstr "Ingen pakker fundet"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:47
+msgid "No Packages Found in Trash"
+msgstr "Ingen pakker findes i papirkurven"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:76
+msgid "General"
+msgstr "Generelt"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:85
+#: includes/post-types/class-inventor-packages-post-type-package.php:210
+#: templates/widgets/packages.php:64
+msgid "Price"
+msgstr "Pris"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:88
+#, php-format
+msgid "In %s."
+msgstr "I %s."
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:100
+#: includes/post-types/class-inventor-packages-post-type-package.php:211
+#: templates/widgets/packages.php:72
+msgid "Duration"
+msgstr "Varighed"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:109
+msgid ""
+"If submission type is 'packages'. Use -1 for unlimited amount of listings."
+msgstr ""
+"Hvis oprettelsen af restauranter er sat til at bruge \\\"pakker\\\" brug da "
+"-1 for ubegrænset antal"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:119
+#: includes/post-types/class-inventor-packages-post-type-package.php:214
+msgid "Private"
+msgstr "Privat"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:121
+msgid ""
+"If checked, package won't be visible in the pricing. Suitable for VIP users "
+"or admins."
+msgstr ""
+"Tjek, hvis produktet skal bruges til særlige brugere. Er ikke synlig "
+"brugerne."
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:126
+msgid "Permissions"
+msgstr "Tilladelser"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:135
+msgid "Video"
+msgstr "Video"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:141
+msgid "Gallery"
+msgstr "Galleri"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:147
+msgid "Reviews"
+msgstr "Anmeldelser"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:159
+msgid "Location"
+msgstr "Placering"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:165
+msgid "Opening hours"
+msgstr "Åbningstider"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:171
+msgid "Contact"
+msgstr "Kontakt"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:177
+msgid "Listing types restrictions"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:186
+msgid "Use restriction"
+msgstr ""
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:192
+msgid "Listing types"
+msgstr ""
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:209
+#: templates/widgets/packages-admin.php:12
+msgid "Title"
+msgstr "Titel"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:213
+msgid "Type"
+msgstr "Type"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:215
+msgid "Date"
+msgstr "Dato"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:262
+msgid "Yes"
+msgstr "Ja"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:262
+msgid "No"
+msgstr "Nej"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:267
+msgid "free"
+msgstr "gratis"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:269
+msgid "regular"
+msgstr "normal"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:271
+msgid "simple"
+msgstr "enkelt"
+
+# @ inventor-packages
+#: includes/post-types/class-inventor-packages-post-type-package.php:273
+msgid "trial"
+msgstr "prøveperiode"
+
+# @ inventor-packages
+#: includes/widgets/class-inventor-packages-widget-packages.php:25
+msgid "Displays available packages."
+msgstr "Viser tilgængelige pakker."
+
+# @ inventor-packages
+#: templates/package-info.php:13
+msgid ""
+"Site is using packages. Before you can post listing, please upgrade your "
+"package."
+msgstr ""
+"Webstedet bruger pakker. Før du kan indsende din restaurant, skal du "
+"opgradere din pakke."
+
+# @ inventor-packages
+#: templates/package-info.php:17
+msgid "You don't have any package."
+msgstr "Du har ikke nogen pakke."
+
+# @ inventor-packages
+#: templates/package-info.php:22
+#, php-format
+msgid "You are using <strong>%s</strong> package."
+msgstr "Dit abonnement er <strong>%s</strong>."
+
+# @ inventor-packages
+#: templates/package-info.php:29
+#, php-format
+msgid "Your membership is valid until <strong>%s</strong>."
+msgstr "Dit medlemskab er gyldig indtil <strong>%s</strong>."
+
+# @ inventor-packages
+#: templates/package-info.php:38
+msgid "You can add <strong>unlimited</strong> amount of items"
+msgstr "Du kan tilføje <strong>ubegrænset</strong> mængder"
+
+# @ inventor-packages
+#: templates/package-info.php:40
+#, php-format
+msgid ""
+"You can not add new listings because you spent all of your available "
+"listings. Change your package. First <strong>%s</strong> items has been "
+"disabled from listing."
+msgstr ""
+"Du kan ikke tilføje nye restaurant, fordi du har brugt alle de inkluderet i "
+"din pakke. Ændre din pakke. Første <strong>%s</strong> punkter er blevet "
+"deaktiveret fra listen."
+
+# @ inventor-packages
+#: templates/package-info.php:42
+#, php-format
+msgid "You can add <strong>%s</strong> items."
+msgstr "Du har <strong>%s</strong> tilføjelser tilbage"
+
+# @ inventor-packages
+#: templates/package-info.php:49
+#, php-format
+msgid "Your membership already expired at <strong>%s</strong>."
+msgstr "Dit medlemskab udløbet allerede på <strong>%s</strong>."
+
+# @ inventor-packages
+#: templates/package-info.php:51
+msgid "All your items has been deactivated until you pay for new membership."
+msgstr ""
+"Alle varer er blevet deaktiveret, indtil du betaler for nye medlemskab."
+
+# @ inventor-packages
+#: templates/package-info.php:67
+msgid "Select Package"
+msgstr "Vælg din nye pakke"
+
+# @ inventor-packages
+#: templates/package-info.php:77 templates/widgets/packages.php:55
+msgid "Change"
+msgstr "Ændre"
+
+# @ inventor-packages
+#: templates/payment-form-before.php:9
+msgid "You can't choose trial package."
+msgstr "Du kan ikke vælge prøveperioden."
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You chose package <strong>\"%s\"</strong>."
+msgstr ""
+
+# @ inventor-packages
+#: templates/payment-form-before.php:17
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for package <strong>\"%s\"</strong>."
+msgstr ""
+"Vi har gjort dit valg klar, til <strong>%s</strong>. Du har valgt følgende "
+"abonement <strong>\"%s\"</strong>"
+
+# @ inventor-packages
+#: templates/payment-form-before.php:23 templates/payment-form-fields.php:23
+msgid "Missing package."
+msgstr "Manglende pakke."
+
+# @ inventor-packages
+#: templates/payment-form-fields.php:8
+msgid ""
+"Trial packages can only be used as a default package. They cannot be "
+"purchased or chosen."
+msgstr ""
+"Prøveperiode pakker kan kun bruges som en standard pakken. De kan ikke være "
+"købt eller valgt."
+
+# @ inventor-packages
+#: templates/payment-form-fields.php:16
+msgid "Confirm"
+msgstr "Bekræft"
+
+# @ inventor-packages
+#: templates/widgets/packages.php:53
+msgid "Purchase"
+msgstr "Køb"
+
+# @ inventor-packages
+#: templates/widgets/packages.php:95
+msgid "No packages found."
+msgstr "Intet abonnementer fundet"
+
+# @ inventor-packages
+#~ msgid "You choosed package <strong>\"%s\"</strong>."
+#~ msgstr "Dit abonnement  <strong>\"%s\"</strong>."

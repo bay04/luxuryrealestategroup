@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Shop\n"
+"POT-Creation-Date: 2016-04-06 09:10+0200\n"
+"PO-Revision-Date: 2016-06-17 15:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+
+#: includes/class-inventor-shop-logic.php:77
+msgid "Purchase listing"
+msgstr "Liste Satın Al"
+
+#: includes/class-inventor-shop-logic.php:102
+msgid "Listing successfully purchased."
+msgstr "Liste başarıyla satın alındı."
+
+#: includes/class-inventor-shop-logic.php:129
+msgid "Shop configuration"
+msgstr "Market Ayarları"
+
+#: includes/class-inventor-shop-logic.php:136
+msgid "Enabled"
+msgstr "Etkin"
+
+#: includes/class-inventor-shop-logic.php:137
+msgid "Allow/disallow listing purchasing (also price needs to be set)."
+msgstr "Listeleme satın almaya izin ver ya da devredışı bırak. (fiyatların ayrıca ayarlanması gerekiyor)"
+
+#: includes/class-inventor-shop-logic.php:143
+msgid "Quantity"
+msgstr "Miktar"
+
+#: includes/class-inventor-shop-logic.php:144
+msgid "In stock"
+msgstr "stokta var"
+
+#: templates/buy-button.php:8
+msgid "Buy"
+msgstr "Satın Al"
+
+#: templates/payment-form-before.php:9
+msgid "Listing price is not set."
+msgstr "Listeleme ücreti ayarlanmadı"
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You are going to pay <strong>%s</strong> for listing <strong>\"%s\"</strong>."
+msgstr "<strong>\"%s\"</strong> yazısını listelemek için  <strong>%s</strong> tutarında ücret ödeyeceksiniz."
+
+#: templates/payment-form-before.php:19
+msgid "Missing listing."
+msgstr "Eksik listeleme."

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Currencies\n"
+"POT-Creation-Date: 2016-07-01 11:46+0200\n"
+"PO-Revision-Date: 2016-07-01 11:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:34
+msgid "Inventor Currencies"
+msgstr "Inventor Valuta"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:47
+msgid "Number of additional currencies"
+msgstr "Antallet af ekstra valutaer"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:50
+msgid "Input positive integer or 0 for no other currencies."
+msgstr "Input positivt tal eller 0 for ingen andre valutaer."
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:66
+msgid "currencylayer.com API key"
+msgstr "currencylayer.com API nøglen"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:69
+msgid "Enter if you want to automatically update rates of currencies."
+msgstr "Skriv hvis du vil automatisk opdatere priser af valutaer."
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:84
+msgid "Currency"
+msgstr "Valuta"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:96
+msgid "Currency Symbol"
+msgstr "Valuta Symbol"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:109
+msgid "Currency Code"
+msgstr "Valuta Kode"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:123
+msgid "Show Symbol After Amount"
+msgstr "Vis Symbol Efter Beløb"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:136
+msgid "Decimal places"
+msgstr "Adskiller for decimaler"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:155
+msgid "Decimal Separator"
+msgstr "Decimal Separator"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:160
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:178
+msgid ". (dot)"
+msgstr ". (punktum)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:161
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:179
+msgid ", (comma)"
+msgstr ", (Komma)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:173
+msgid "Thousands Separator"
+msgstr "Separator for tusinder"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:180
+msgid "\" \" (space)"
+msgstr "\" \" (Mellemrum)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:181
+msgid "\"\" (empty string)"
+msgstr "\"\" (Tom streng)"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:193
+msgid "Rate"
+msgstr "Bedøm"
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:196
+msgid "Rate from default currency"
+msgstr "Overordnedes standardvaluta"

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-04-28 13:25+0200\n"
+"PO-Revision-Date: 2016-04-28 13:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/widgets/class-inventor-boxes-widget-boxes.php:29
+msgid "Boxes"
+msgstr "Boxy"
+
+#: includes/widgets/class-inventor-boxes-widget-boxes.php:31
+msgid "Displays information boxes."
+msgstr "Zobrazí informačné boxy."
+
+#: templates/widgets/boxes-admin.php:16 templates/widgets/boxes-admin.php:75
+msgid "Title"
+msgstr "Nadpis"
+
+#: templates/widgets/boxes-admin.php:21
+msgid "Description"
+msgstr "Opis"
+
+#: templates/widgets/boxes-admin.php:28
+msgid "Button"
+msgstr "Tlačidlo"
+
+#: templates/widgets/boxes-admin.php:36
+msgid "Text of the action button"
+msgstr "Text tlačidla"
+
+#: templates/widgets/boxes-admin.php:43
+msgid "URL of the action button"
+msgstr "URL tlačidla"
+
+#: templates/widgets/boxes-admin.php:80
+msgid "Content"
+msgstr "Obsah"
+
+#: templates/widgets/boxes-admin.php:85
+msgid "Icon"
+msgstr "Ikona"
+
+#: templates/widgets/boxes-admin.php:90
+msgid "Number"
+msgstr "Číslo"
+
+#: templates/widgets/boxes-admin.php:95
+msgid "Read More Link"
+msgstr "Odkaz na čítaj viac"
+
+#: templates/widgets/boxes-admin.php:97
+msgid "For example"
+msgstr "Napríklad"
+
+#: templates/widgets/boxes-admin.php:101
+msgid "Background image"
+msgstr "Obrázok na pozadí"
+
+#: templates/widgets/boxes-admin.php:106
+msgid "CSS class"
+msgstr "CSS trieda"
+
+#: templates/widgets/boxes-box.php:31
+msgid "Read More"
+msgstr "Čítaj viac"
+
+#~ msgid "Button text"
+#~ msgstr "Text tlačidla"

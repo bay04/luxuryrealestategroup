@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Coupons\n"
+"POT-Creation-Date: 2016-12-13 18:08+0100\n"
+"PO-Revision-Date: 2016-12-13 18:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/class-inventor-coupons-ajax.php:41
+msgid "Missing coupon ID."
+msgstr "Chýba ID kupónu."
+
+#: includes/class-inventor-coupons-ajax.php:52
+msgid "Coupon does not exists."
+msgstr "Kupón neexistuje."
+
+#: includes/class-inventor-coupons-ajax.php:70
+msgid "You have already generated your coupon code."
+msgstr "Svoj kupón ste už vygenerovali."
+
+#: includes/class-inventor-coupons-ajax.php:82
+msgid "Max number of coupons exceeded."
+msgstr "Maximálny počet kupónov vyčerpaný."
+
+#: includes/class-inventor-coupons-metaboxes.php:23
+msgid "Coupon details"
+msgstr "Detail kupónu"
+
+#: includes/class-inventor-coupons-metaboxes.php:34
+msgid "Discount"
+msgstr "Zľava"
+
+#: includes/class-inventor-coupons-metaboxes.php:36
+msgid "Insert integer number like: 30. It will be outputted as 30%."
+msgstr "Zadajte celé číslo, napr. 30. Bude vypísané ako 30%."
+
+#: includes/class-inventor-coupons-metaboxes.php:46
+msgid "Variant"
+msgstr "Varianta"
+
+#: includes/class-inventor-coupons-metaboxes.php:50
+#: includes/class-inventor-coupons-metaboxes.php:58
+msgid "Image"
+msgstr "Obrázok"
+
+#: includes/class-inventor-coupons-metaboxes.php:51
+msgid "Custom code"
+msgstr "Vlastný kód"
+
+#: includes/class-inventor-coupons-metaboxes.php:52
+msgid "Generated code"
+msgstr "Vygenerovaný kód"
+
+#: includes/class-inventor-coupons-metaboxes.php:64
+msgid "Max. number"
+msgstr "Max. číslo"
+
+#: includes/class-inventor-coupons-metaboxes.php:66
+msgid "Insert integer for max. number of codes which can be generated."
+msgstr ""
+"Zadajte celé číslo pre maximálny možný počet kódov, ktoré možno vygenerovať."
+
+#: includes/class-inventor-coupons-metaboxes.php:76
+msgid "Coupon code"
+msgstr "Kód kupónu"
+
+#: includes/class-inventor-coupons-metaboxes.php:82
+msgid "Coupon Valid"
+msgstr "Platnosť kupónu"
+
+#: includes/class-inventor-coupons-metaboxes.php:83
+msgid "Validation description"
+msgstr "Popis uplatnenia"
+
+#: includes/class-inventor-coupons-metaboxes.php:89
+msgid "Conditions"
+msgstr "Podmienky"
+
+#: includes/class-inventor-coupons-metaboxes.php:104
+msgid "Generated Code"
+msgstr "Vygenerovaný kód"
+
+#: includes/class-inventor-coupons-metaboxes.php:117
+msgid "Generated Codes"
+msgstr "Vygenerované kódy"
+
+#: includes/class-inventor-coupons-metaboxes.php:118
+msgid "Add Another Code"
+msgstr "Pridať ďalší kód"
+
+#: includes/class-inventor-coupons-metaboxes.php:119
+msgid "Remove Code"
+msgstr "Odstrániť kód"
+
+#: includes/class-inventor-coupons-metaboxes.php:125
+msgid "User ID"
+msgstr "ID používateľa"
+
+#: includes/class-inventor-coupons-metaboxes.php:131
+msgid "Code"
+msgstr "Kód"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:34
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:40
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:46
+msgid "Coupons"
+msgstr "Kupóny"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:35
+msgid "Coupon"
+msgstr "Kupón"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:36
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:37
+msgid "Add New Coupon"
+msgstr "Pridať nový kupón"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:38
+msgid "Edit Coupon"
+msgstr "Upraviť kupón"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:39
+msgid "New Coupon"
+msgstr "Nový kupón"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:41
+#: templates/coupons/box.php:55
+msgid "View Coupon"
+msgstr "Zobraziť kupón"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:42
+msgid "Search Coupon"
+msgstr "Vyhľadať kupón"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:43
+msgid "No Coupons found"
+msgstr "Nenašli sa žiadne kupóny"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:44
+msgid "No Coupons Found in Trash"
+msgstr "V koši sa nenašli žiadne kupóny"
+
+#: includes/post-types/class-inventor-coupons-post-type-coupon.php:57
+msgctxt "URL slug"
+msgid "coupons"
+msgstr "kupony"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:23
+msgid "Coupon Detail"
+msgstr "Detail kupónu"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:25
+msgid "Coupon Detail."
+msgstr "Detail kupónu."
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:23
+msgid "Coupon Listing"
+msgstr "Položka kupónu"
+
+#: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:25
+msgid "Coupon listing."
+msgstr "Položka kupónu."
+
+#: templates/coupons/box.php:48
+msgid "Expiration"
+msgstr "Expirácia"
+
+#: templates/coupons/box.php:50
+msgid "Coupon does not expire."
+msgstr "Kupón neexpiruje."
+
+#: templates/widgets/coupon-detail-admin.php:12
+#: templates/widgets/coupon-listings-admin.php:13
+msgid "Title"
+msgstr "Nadpis"
+
+#: templates/widgets/coupon-detail.php:34
+msgid "Print Coupon"
+msgstr "Vytlačiť kupón"
+
+#: templates/widgets/coupon-detail.php:40
+msgid "Get the Code"
+msgstr "Získať kupón"
+
+#: templates/widgets/coupon-detail.php:58
+msgid "Generate Code"
+msgstr "Vygenerovať kupón"
+
+#: templates/widgets/coupon-detail.php:64
+msgid "Available codes"
+msgstr "Dostupné kódy"
+
+#: templates/widgets/coupon-detail.php:74
+msgid "You must be logged in to get the coupon code."
+msgstr "Na získanie kupónu musíte byť prihlásený."
+
+#: templates/widgets/coupon-detail.php:82
+msgid "Expires"
+msgstr "Expiruje"
+
+#: templates/widgets/coupon-detail.php:89
+msgid "Voucher valid"
+msgstr "Voucher platný"
+
+#: templates/widgets/coupon-detail.php:97
+msgid "Conditions of application"
+msgstr "Podmienky prihlásenia"
+
+#: templates/widgets/coupon-listings-admin.php:26
+msgid "Count"
+msgstr "Počet"
+
+#~ msgid "coupons"
+#~ msgstr "kupóny"

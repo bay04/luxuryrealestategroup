@@ -1,0 +1,51 @@
+.pricing-row {
+    clear: both;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: 30px;
+}
+
+.pricing-row:before, .pricing-row:after {
+    content: " ";
+    display: table;
+}
+
+.pricing-row:after {
+    clear: both;
+}
+
+.pricing-container {
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    width: 100%;
+}
+
+.items-per-row-1 .pricing-container {
+    width: 100%;
+}
+
+.items-per-row-2 .pricing-container {
+    width: 50%;
+}
+
+.items-per-row-3 .pricing-container {
+    width: 33.33333%;
+}
+
+.items-per-row-4 .pricing-container {
+    width: 25%;
+}
+
+.items-per-row-5 .pricing-container {
+    width: 20%;
+}
+
+.items-per-row-6 .pricing-container {
+    width: 16.66666%;
+}
+
+.pricing-inner {
+    text-align: center;
+}

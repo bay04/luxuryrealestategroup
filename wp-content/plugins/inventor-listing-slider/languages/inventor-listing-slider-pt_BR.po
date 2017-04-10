@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Listing Slider\n"
+"POT-Creation-Date: 2016-05-09 08:20-0300\n"
+"PO-Revision-Date: 2016-05-18 14:13-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: includes/class-inventor-listing-slider-extend.php:28
+#: includes/widgets/class-inventor-listing-slider-widget-listing-slider.php:23
+msgid "Listing Slider"
+msgstr "Listagem de Slider"
+
+#: includes/class-inventor-listing-slider-extend.php:36
+msgid "Image"
+msgstr "Imagem"
+
+#: includes/widgets/class-inventor-listing-slider-widget-listing-slider.php:25
+msgid "Displays listings in slider."
+msgstr "Exibe anúncios no slider."
+
+#: templates/widgets/listing-slider-admin.php:16
+msgid "IDs"
+msgstr "IDs"
+
+#: templates/widgets/listing-slider-admin.php:25
+msgid "Listing IDs, separated by commas."
+msgstr "ID dos anúncios, separados por vírgula"
+
+#: templates/widgets/listing-slider-admin.php:31
+msgid "Classes"
+msgstr "Classes"
+
+#: templates/widgets/listing-slider-admin.php:40
+msgid ""
+"Additional classes appended to body class and separated by , e.g. <i>header-"
+"transparent, listing-slider-append-top</i>"
+msgstr ""
+"Classes adicionais acrescentados à classe corpo e separados por, <i>header-"
+"transparent, listing-slider-append-top</i>"
+
+#: templates/widgets/listing-slider-admin.php:46
+msgid "Container height"
+msgstr "Altura do container"
+
+#: templates/widgets/listing-slider-admin.php:55
+msgid "Default value 500px."
+msgstr "Valor padrão 500px"
+
+#: templates/widgets/listing-slider-admin.php:67
+msgid "Fullscreen"
+msgstr "Tela inteira"
+
+#: templates/widgets/listing-slider-admin.php:77
+msgid "Thumbnail size"
+msgstr "Tamanho miniatura"
+
+#: templates/widgets/listing-slider-admin.php:99
+msgid "Show arrows"
+msgstr "Mostrar setas"
+
+#: templates/widgets/listing-slider-admin.php:112
+msgid "Autoplay"
+msgstr "Reprodução automática "
+
+#: templates/widgets/listing-slider-admin.php:119
+msgid "Autoplay timeout"
+msgstr "Tempo limite de reprodução automática"
+
+#: templates/widgets/listing-slider-admin.php:128
+msgid "Default value 2000."
+msgstr "Valor padrão 2000."
+
+#: templates/widgets/listing-slider.php:39
+msgid "View Detail"
+msgstr "Ver Detalhes"

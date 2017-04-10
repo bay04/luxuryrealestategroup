@@ -1,0 +1,284 @@
+$compare-border: 1px solid darken($color-gray-light, 4%);
+
+.compare-wrapper {
+  overflow-x: scroll;
+}
+
+.compare-table {
+  background-color: transparent;
+  margin-bottom: 0;
+  table-layout: initial;
+  width: auto;
+
+  @media (min-width: $screen-lg-min) {
+    table-layout: fixed;
+    width: 100%;
+  }
+
+  @media (max-width: $screen-xs-max) {
+    tr {
+      td, th {
+        &:first-child {
+          display: none;
+        }
+      }
+    }
+  }
+
+  th {
+    vertical-align: bottom;
+    border-bottom: $compare-border;
+    border-left: $compare-border;
+    padding: 0;
+    position: relative;
+
+    &:first-child {
+      border-left: 0;
+    }
+  }
+
+  td {
+    border-bottom: $compare-border;
+    max-width: 255px;
+    padding: 16px 30px;
+    vertical-align: middle;
+
+    @media (max-width: $screen-lg-min) {
+      min-width: 255px;
+    }
+  }
+
+  tr {
+    th:last-child {
+      .compare-table-title {
+        border-right: 0;
+      }
+    }
+  }
+}
+
+.compare-table-col {
+  background-color: #fff;
+  border-right: $compare-border;
+  color: $color-black-light;
+  text-align: center;
+
+  &.first {
+    border-left: 1px solid red;
+  }
+
+  &:last-child {
+    border-right: $compare-border;
+  }
+
+  .yes {
+    color: $color-success;
+  }
+
+  .no {
+    color: $color-danger;
+  }
+
+  i {
+    margin-right: 5px;
+    vertical-align: -1px;
+  }
+}
+
+.compare-table-col-label {
+  color: $color-gray-darker;
+  display: block;
+  padding-bottom: 8px;
+  text-transform: uppercase;
+
+  @media (min-width: $screen-sm-min) {
+    display: none;
+  }
+}
+
+.compare-table-label {
+  background-color: $color-gray;
+  color: $color-black-light;
+  border-left: $compare-border;
+  font-weight: 600;
+  min-width: 230px;
+  padding-left: 0;
+  vertical-align: middle;
+}
+
+.compare-table-image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 180px;
+  position: relative;
+}
+
+.inventor-compare-btn-remove {
+  background-color: transparentize(#fff, 0.5);
+  border-bottom: 0 !important;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  font-size: 0;
+  color: $color-black-light;
+  left: 50%;
+  opacity: 0;
+  position: absolute;;
+  top: 50%;
+  text-align: center;
+  text-decoration: none;
+  transform: translateX(-50%) translateY(-50%);
+  transition: opacity .15s linear;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  width: 32px;
+
+  &:hover {
+    background-color: #fff;
+    color: $color-black-light;
+  }
+
+  i {
+    font-size: 14px;
+    line-height: 32px;
+    padding-left: 1px;
+  }
+
+  .compare-table-image:hover & {
+    opacity: 1;
+  }
+}
+
+.compare-table-label-top {
+  background-color: $color-black-light;
+  color: #fff;
+  font-size: 13px;
+  padding: 3px 15px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  z-index: 2;
+
+  &.compare-table-label-top-center {
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+  }
+
+  &.compare-table-label-top-left {
+    background-color: $color-primary;
+    left: 0;
+  }
+
+  &.compare-table-label-top-right {
+    right: 0;
+  }
+
+  a {
+    border: 0 !important;
+    color: #fff;
+
+    &:hover {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}
+
+.compare-table-label-special {
+  @extend .box-shadow;
+  background-color: $color-primary;
+  color: #fff;
+  font-size: 13px;
+  padding: 3px 15px;
+  position: absolute;
+  right: 10px;
+  top: 165px;
+  white-space: nowrap;
+  z-index: 2;
+}
+
+.compare-table-title {
+  background-color: $color-black-light;
+  color: #fff;
+  min-height: 70px;
+  padding: 17px 20px;
+  transition: background-color .15s linear;
+
+  a {
+    color: #fff;
+  }
+
+  h3 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  span {
+    font-size: 11px;
+    margin-top: 5px;
+    padding-left: 13px;
+    position: relative;
+
+    &:before {
+      transition: color .15s linear;
+      color: transparentize($color-primary, 0.2);
+      content: '\f041';
+      line-height: 14px;
+      font-family: FontAwesome;
+      font-size: 12px;
+      left: 0;
+      padding: 1px;
+      position: absolute;
+      top: 0;
+    }
+
+    a {
+      color: transparentize(#fff, 0.5);
+    }
+  }
+}
+
+.compare-table-subtitle {
+  a {
+    border-bottom: 0 !important;
+    text-decoration: none;
+    font-weight: normal;
+  }
+}
+
+#compare-info {
+  @extend .box-shadow;
+  background-color: #fff;
+  border-radius: 3px;
+  bottom: 30px;
+  left: 30px;
+  padding: 15px 20px;
+  position: fixed;
+  z-index: 100;
+
+  i {
+    color: $color-gray-dark;
+    float: left;
+    font-size: 28px;
+    line-height: 38px;
+    margin-right: 20px;
+  }
+
+  a {
+    display: inline-block;
+    color: $color-black;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 38px;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+}

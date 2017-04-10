@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Invoices v0.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-01 11:51+0200\n"
+"PO-Revision-Date: 2016-07-01 11:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ inventor-invoices
+#: includes/class-inventor-invoices-logic.php:39
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:37
+msgid "Invoice"
+msgstr "Faktura"
+
+# @ inventor-invoices
+#: includes/class-inventor-invoices-logic.php:40
+msgid "Advance invoice"
+msgstr "Advance faktura"
+
+# @ inventor-invoices
+#: includes/class-inventor-invoices-logic.php:41
+msgid "Proforma invoice"
+msgstr "Proformafaktura (Proforma invoice)"
+
+# @ inventor-invoices
+#: includes/class-inventor-invoices-logic.php:42
+msgid "VAT credit note"
+msgstr "MOMS kreditnota"
+
+# @ inventor-invoices
+#: includes/class-inventor-invoices-logic.php:114
+msgid "It is not your invoice."
+msgstr "Det er ikke din faktura."
+
+# @ inventor-invoices
+#: includes/class-inventor-invoices-logic.php:359
+msgid "Bank details"
+msgstr "Bankoplysninger"
+
+# @ inventor-invoices
+#: includes/class-inventor-invoices-logic.php:381
+msgid "Advance invoice was created."
+msgstr "Advance faktura blev oprettet."
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:34
+msgid "Inventor Invoices"
+msgstr "Inventor Faktura"
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:49
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:36
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:42
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:48
+msgid "Invoices"
+msgstr "Fakturaer"
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:63
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:161
+#: templates/content-invoice.php:27
+msgid "Payment term"
+msgstr "Betalingsbetingelse"
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:66
+msgid "In days"
+msgstr "Om dage"
+
+# @ inventor-invoices
+# @ inventor-invoice
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:77
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:292
+#: templates/content-invoice.php:67
+msgid "Tax rate"
+msgstr "Moms"
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:80
+msgid "In %"
+msgstr "i %"
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:91
+msgid "Billing name"
+msgstr "Fakturering navn"
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:104
+#: templates/content-invoice.php:44 templates/content-invoice.php:54
+msgid "Reg. No."
+msgstr "Reg.nr."
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:117
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:199
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:233
+#: templates/content-invoice.php:45 templates/content-invoice.php:55
+msgid "VAT No."
+msgstr "Moms No."
+
+# @ inventor-invoices
+#: includes/customizations/class-inventor-invoices-customizations-invoices.php:130
+msgid "Billing details"
+msgstr "Fakturering detaljer"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:38
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:39
+msgid "Add New Invoice"
+msgstr "Tilføj ny faktura"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:40
+msgid "Edit Invoice"
+msgstr "Rediger faktura"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:41
+msgid "New Invoice"
+msgstr "Ny faktura"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:43
+msgid "View Invoice"
+msgstr "Vis faktura"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:44
+msgid "Search Invoice"
+msgstr "Søg efter faktura"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:45
+msgid "No Invoices found"
+msgstr "Ingen faktura fundet"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:46
+msgid "No Invoices found in Trash"
+msgstr "Ingen fakturaer findes i papirkurven"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:74
+#: templates/invoices.php:11
+msgid "Number"
+msgstr "Nummer"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:75
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:133
+#: templates/invoices.php:12
+msgid "Type"
+msgstr "Type"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:76
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:214
+#: templates/content-invoice.php:51
+msgid "Customer"
+msgstr "Kunde"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:77
+#: templates/content-invoice.php:99 templates/invoices.php:14
+msgid "Total"
+msgstr "Totalt"
+
+# @ inventor-invoices
+# @ inventor-invoice
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:78
+#: templates/content-invoice.php:69 templates/invoices.php:15
+msgid "Currency"
+msgstr "Valuta"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:79
+#: templates/content-invoice.php:26 templates/invoices.php:16
+msgid "Issue date"
+msgstr "Udstedelsesdato"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:126
+msgid "General information"
+msgstr "Generelle oplysninger"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:142
+msgid "Payment information"
+msgstr "Betalingsinformation"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:149
+msgid "Currency code"
+msgstr "Valutakode"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:155
+#: templates/content-invoice.php:28
+msgid "Reference"
+msgstr "Reference"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:164
+msgid "days"
+msgstr "dage"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:172
+#: templates/content-invoice.php:35
+msgid "Details / Instructions"
+msgstr "Oplysninger / vejledning"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:180
+#: templates/content-invoice.php:41
+msgid "Supplier"
+msgstr "Leverandør"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:187
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:221
+#: templates/content-invoice.php:43 templates/content-invoice.php:53
+msgid "Name"
+msgstr "Navn"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:193
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:227
+msgid "Registration No."
+msgstr "registreringsnummer"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:205
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:239
+#: templates/content-invoice.php:46 templates/content-invoice.php:56
+msgid "Details"
+msgstr "Detaljer"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:206
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:240
+msgid "for example address or any additional information"
+msgstr "for eksempel adresse eller supplerende oplysninger"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:248
+#: templates/invoices.php:13
+msgid "Items"
+msgstr "Artikler"
+
+# @ inventor-invoices
+# @ inventor-invoice
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:260
+#: templates/content-invoice.php:64
+msgid "Item"
+msgstr "Artikl"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:261
+msgid "Add Another Item"
+msgstr "Tilføj endnu en"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:262
+msgid "Remove Item"
+msgstr "Fjern artikel"
+
+# @ inventor-invoices
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:268
+msgid "Title"
+msgstr "Titel"
+
+# @ inventor-invoices
+# @ inventor-invoice
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:274
+#: templates/content-invoice.php:65
+msgid "Quantity"
+msgstr "Mængde"
+
+# @ inventor-invoices
+# @ inventor-invoice
+#: includes/post-types/class-inventor-invoices-post-type-invoice.php:283
+#: templates/content-invoice.php:66
+msgid "Unit price"
+msgstr "Styk pris"
+
+# @ inventor-invoice
+#: templates/content-invoice.php:68
+msgid "Subtotal"
+msgstr "Subtotal"
+
+# @ inventor-invoices
+#: templates/content-invoice.php:94
+msgid "No invoice items found."
+msgstr "Ingen faktura artikler fundet."
+
+# @ inventor-invoices
+#: templates/invoices.php:53
+msgid "Previous page"
+msgstr "Forrige side"
+
+# @ inventor-invoices
+#: templates/invoices.php:54
+msgid "Next page"
+msgstr "Næste side"
+
+# @ inventor-invoices
+#: templates/invoices.php:55 templates/single-invoice.php:19
+msgid "Page"
+msgstr "Side"
+
+# @ inventor-invoices
+#: templates/invoices.php:58
+msgid "No Invoices found."
+msgstr "Ingen faktura fundet"
+
+# @ inventor-invoices
+#: templates/single-invoice.php:17
+msgid "Previous"
+msgstr "Forrige"
+
+# @ inventor-invoices
+#: templates/single-invoice.php:18
+msgid "Next"
+msgstr "Næste"
+
+# @ inventor-invoices
+#~ msgid "http://inventorwp.com/plugins/inventor-invoices/"
+#~ msgstr "http://inventorwp.com/plugins/inventor-invoices/"
+
+# @ inventor-invoices
+#~ msgid "Pragmatic Mates"
+#~ msgstr "Pragmatic Mates"
+
+# @ inventor-invoices
+#~ msgid "http://inventorwp.com"
+#~ msgstr "http://inventorwp.com"
+
+# @ inventor-invoices
+#~ msgid "0.5.0"
+#~ msgstr "0.5.0"

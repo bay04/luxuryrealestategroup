@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor\n"
+"POT-Creation-Date: 2016-08-02 09:30+0200\n"
+"PO-Revision-Date: 2016-08-02 09:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/class-inventor-submission-logic.php:372
+msgid "New submission has been successfully created."
+msgstr "O nouă cerere a fost creată cu succes."
+
+#: includes/class-inventor-submission-logic.php:378
+msgid "Submission has been successfully updated."
+msgstr "Cererea a fost actualizată cu succes."
+
+#: includes/class-inventor-submission-logic.php:532
+msgid "Item has been successfully removed."
+msgstr "Elementul a fost șters cu succes."
+
+#: includes/class-inventor-submission-logic.php:534
+msgid "An error occurred when removing an item."
+msgstr "A apărut o eroare la ștergerea unui element."
+
+#: includes/class-inventor-submission-logic.php:583
+msgid "Featured listing"
+msgstr "Listare promovată"
+
+#: includes/class-inventor-submission-logic.php:584
+#, php-format
+msgid "Make listing %s featured"
+msgstr "Promovează listarea %s"
+
+#: includes/class-inventor-submission-logic.php:588
+msgid "Publish listing"
+msgstr "Publică listarea"
+
+#: includes/class-inventor-submission-logic.php:589
+#, php-format
+msgid "Publish %s"
+msgstr "Publică %s"
+
+#: includes/class-inventor-submission-logic.php:658
+msgid "Listing successfully featured."
+msgstr "Listarea a fost promovată cu succes."
+
+#: includes/class-inventor-submission-logic.php:670
+msgid "Listing will be published after review."
+msgstr "Listarea va fi publicată după verificare."
+
+#: includes/class-inventor-submission-logic.php:674
+msgid "Listing has been published."
+msgstr "Listarea a fost publicată."
+
+#: includes/class-inventor-submission-shortcodes.php:69
+msgid "Check your package."
+msgstr "Verifică pachetul tău."
+
+#: includes/class-inventor-submission-shortcodes.php:88
+msgid "You are not allowed to submit this type."
+msgstr "Nu îți este permisă depunerea de acest tip."
+
+#: includes/class-inventor-submission-shortcodes.php:119
+msgid "Done"
+msgstr "Gata"
+
+#: includes/class-inventor-submission-shortcodes.php:119
+msgid "Proceed to next step"
+msgstr "Înainte către următorul pas"
+
+#: includes/class-inventor-submission-shortcodes.php:119
+msgid "Save"
+msgstr "Salvează"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:36
+msgid "Inventor Submission"
+msgstr "Depuneri Inventor"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:49
+msgid "Type"
+msgstr "Tip"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:50
+msgid "Defines what determines number of user listings."
+msgstr "Definelte ce determină numărul de listări ale utilizatorului"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:54
+msgid "Free for all"
+msgstr "Gratis pentru toți"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:55
+msgid "Pay per post"
+msgstr "Plată per articol"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:68
+msgid "Review Before Submission"
+msgstr "Verifică înainte de a trimite"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:81
+msgid "Publish price"
+msgstr "Preț publicare"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:84
+msgid "For \"pay per post\" submission type"
+msgstr "Pentru plata per articol"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:96
+msgid "Featured price"
+msgstr "Preț promovare"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:111
+msgid "User listings"
+msgstr "Listare utilizator"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:126
+msgid "Add listing"
+msgstr "Adaugă listare"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:141
+msgid "Edit listing"
+msgstr "Editează listare"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:156
+msgid "Remove listing"
+msgstr "Șterge listare"
+
+#: templates/submission/list.php:11
+msgid "Create listing"
+msgstr "Crează listare"
+
+#: templates/submission/list.php:30
+msgid "Listing published"
+msgstr "Listare publicată"
+
+#: templates/submission/list.php:31
+msgid "Waiting for review"
+msgstr "Așteaptă aprobare"
+
+#: templates/submission/list.php:32
+msgid "Listing disabled"
+msgstr "Lustare dezactivată"
+
+#: templates/submission/list.php:45 templates/submission/list.php:132
+msgid "Pending"
+msgstr "În așteptare"
+
+#: templates/submission/list.php:49 templates/submission/list.php:125
+msgid "Published"
+msgstr "Publicată"
+
+#: templates/submission/list.php:53
+msgid "Disabled"
+msgstr "Dezactivată"
+
+#: templates/submission/list.php:106
+msgid "Make featured"
+msgstr "Promovează"
+
+#: templates/submission/list.php:112
+msgid "Featured"
+msgstr "Promovată"
+
+#: templates/submission/list.php:144
+msgid "Publish"
+msgstr "Publică"
+
+#: templates/submission/list.php:159
+msgid "Edit"
+msgstr "Editează"
+
+#: templates/submission/list.php:165
+msgid "Remove"
+msgstr "Șterge"
+
+#: templates/submission/list.php:177
+msgid "Previous page"
+msgstr "Pagina anterioară"
+
+#: templates/submission/list.php:178
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: templates/submission/list.php:179
+msgid "Page"
+msgstr "Pagina"
+
+#: templates/submission/list.php:186
+msgid "No listings found."
+msgstr "Nu s-au găsit listări."
+
+#: templates/submission/list.php:192
+msgid "You don't have any listings, yet. Start by creating new one."
+msgstr "Nu ai nici o listare, încă. Adaugă una nouă."
+
+#: templates/submission/payment-form-before.php:7
+msgid "Price is not set."
+msgstr "Prețul listării nu este setat."
+
+#: templates/submission/payment-form-before.php:12
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for featured listing <strong>\"%s"
+"\"</strong>."
+msgstr ""
+"Trebuie să plătești <strong>%s</strong> pentru a promova <strong>\"%s\"</"
+"strong>."
+
+#: templates/submission/payment-form-before.php:14
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> to publish listing <strong>\"%s\"</"
+"strong>."
+msgstr ""
+"Trebuie să plătești <strong>%s</strong> pentru a publica <strong>\"%s\"</"
+"strong>."
+
+#: templates/submission/payment-form-before.php:21
+msgid "Missing listing."
+msgstr "Lipsă listare"
+
+#: templates/submission/remove-form.php:3
+msgid "You have to specify listing!"
+msgstr "Trebuie să specifici listarea!"
+
+#: templates/submission/remove-form.php:6
+#, php-format
+msgid "Are you sure you want to delete %s?"
+msgstr "Ești sigur că vrei să ștergi %s?"
+
+#: templates/submission/remove-form.php:15
+msgid "Delete"
+msgstr "Șterge"
+
+#: templates/submission/step-title.php:8
+msgid "Step"
+msgstr "Pas"
+
+#: templates/submission/steps-not-found.php:1
+msgid "Listing type does not have any metaboxes."
+msgstr "Acest tip de listare nu are nici un metaboxe."
+
+#: templates/submission/steps.php:26
+msgid "Nothing to show."
+msgstr "Nimic de afișat."
+
+#: templates/submission/type-not-found.php:7
+msgid "Please define type of your submission"
+msgstr "Te răg să definești tipul listării tale"
+
+#: templates/submission/type-not-found.php:33
+msgid "You don't have privilege to create any submission."
+msgstr "Nu ai drepturile necesare pentru a crea conținut."

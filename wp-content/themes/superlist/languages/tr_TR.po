@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superlist\n"
+"POT-Creation-Date: 2016-05-17 15:50+0200\n"
+"PO-Revision-Date: 2016-06-02 13:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/libraries/class-tgm-plugin-activation."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: 404.php:21
+msgid "Page does not exist."
+msgstr "Sayfa bulunamıyor"
+
+#: comments.php:21
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Bir düşünce &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: comments.php:27 comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Önceki Yorumlar"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Yeni Yorumlar &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:56
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"<abbr title=\"HyperText Markup Language\">HTML</abbr> dili ve etiketlerini "
+"kullanabilirsiniz: %s"
+
+#: comments.php:57
+msgid "Write a Comment"
+msgstr "Bir yorum yaz"
+
+#: comments.php:59
+msgid "Comment"
+msgstr "Yorum"
+
+#: comments.php:61
+msgid "Name"
+msgstr "İsim"
+
+#: comments.php:62
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+msgid "Website"
+msgstr "Web sayfası"
+
+#: functions.php:104
+msgid "Main"
+msgstr "Ana"
+
+#: functions.php:115
+msgid "Primary"
+msgstr "Birincil"
+
+#: functions.php:116
+msgid "Dashboard Sidebar"
+msgstr "Pano Kenar Çubuğu"
+
+#: functions.php:117
+msgid "Header Topbar Left"
+msgstr "Header Topbar Left"
+
+#: functions.php:118
+msgid "Header Topbar Right"
+msgstr "Header Topbar Right"
+
+#: functions.php:119
+msgid "Top Fullwidth"
+msgstr "Top Fullwidth"
+
+#: functions.php:120
+msgid "Top"
+msgstr "Top"
+
+#: functions.php:121
+msgid "Content Top"
+msgstr "Content Top"
+
+#: functions.php:122
+msgid "Content Bottom"
+msgstr "Content Bottom"
+
+#: functions.php:123
+msgid "Bottom"
+msgstr "Bottom"
+
+#: functions.php:124
+msgid "Footer Top First"
+msgstr "Footer Top First"
+
+#: functions.php:125
+msgid "Footer Top Second"
+msgstr "Footer Top Second"
+
+#: functions.php:126
+msgid "Footer Top Third"
+msgstr "Footer Top Third"
+
+#: functions.php:127
+msgid "Footer Top Fourth"
+msgstr "Footer Top Fourth"
+
+#: functions.php:128
+msgid "Footer First"
+msgstr "Footer First"
+
+#: functions.php:129
+msgid "Footer Second"
+msgstr "Footer Second"
+
+#: functions.php:130
+msgid "Footer Bottom First"
+msgstr "Footer Bottom First"
+
+#: functions.php:131
+msgid "Footer Bottom Second"
+msgstr "Footer Bottom Second"
+
+#: functions.php:381
+msgid "Superlist General"
+msgstr "Superlist General"
+
+#: functions.php:386
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:389
+msgid "Logo displayed in header."
+msgstr "Logo üstbölümde görünür."
+
+#: functions.php:401
+msgid "Customizer"
+msgstr "Özelleştirici"
+
+#: functions.php:415 widgets/templates/widget-simple-map-admin.php:76
+msgid "Style"
+msgstr "Stil"
+
+#: functions.php:420 templates/action-bar.php:46
+msgid "Blue Light"
+msgstr "Açık Mavi"
+
+#: functions.php:421 templates/action-bar.php:47
+msgid "Blue"
+msgstr "Mavi"
+
+#: functions.php:422
+msgid "Blue dark"
+msgstr "Koyu Mavi"
+
+#: functions.php:423
+msgid "Blue gray"
+msgstr "Gri tonlu mavi"
+
+#: functions.php:424 templates/action-bar.php:49
+msgid "Brown"
+msgstr "Kahverengi"
+
+#: functions.php:425 templates/action-bar.php:53
+msgid "Green"
+msgstr "Yeşil"
+
+#: functions.php:426
+msgid "Green dark"
+msgstr "Koyu Yeşil"
+
+#: functions.php:427 templates/action-bar.php:67
+msgid "Lime"
+msgstr "Lime"
+
+#: functions.php:428 templates/action-bar.php:55
+msgid "Magenta"
+msgstr "Magenta"
+
+#: functions.php:429 templates/action-bar.php:56
+msgid "Orange"
+msgstr "Turuncu"
+
+#: functions.php:430 templates/action-bar.php:68
+msgid "Pink"
+msgstr "Pembe"
+
+#: functions.php:431 templates/action-bar.php:60
+msgid "Purple"
+msgstr "Mor"
+
+#: functions.php:432 templates/action-bar.php:70
+msgid "Purple Dark"
+msgstr "Koyu Mor"
+
+#: functions.php:433
+msgid "Mint"
+msgstr "Nane Rengi"
+
+#: functions.php:434 templates/action-bar.php:61 templates/action-bar.php:62
+msgid "Red"
+msgstr "Kırmızı"
+
+#: functions.php:435 templates/action-bar.php:63
+msgid "Turquoise"
+msgstr "Turkuaz"
+
+#: functions.php:437
+msgid "Check the documentation to learn how to compile custom color."
+msgstr "Özel bir renk oluşturmak için tema kurulum rehberini inceleyin."
+
+#: functions.php:448
+msgid "Layout"
+msgstr "Sayfa Tasarımı"
+
+#: functions.php:453 templates/action-bar.php:17
+msgid "Wide"
+msgstr "Geniş"
+
+#: functions.php:454 templates/action-bar.php:18
+msgid "Boxed"
+msgstr "Kutu Çerçeve"
+
+#: functions.php:466
+msgid "Header"
+msgstr "Üst Bölüm"
+
+#: functions.php:471 templates/action-bar.php:27
+msgid "Sticky"
+msgstr "Sabit"
+
+#: functions.php:472 templates/action-bar.php:26
+msgid "Fixed"
+msgstr "Hareketli"
+
+#: functions.php:484
+msgid "Submenu"
+msgstr "Altmenü"
+
+#: functions.php:489 templates/action-bar.php:35
+msgid "Dark"
+msgstr "Koyu"
+
+#: functions.php:490 templates/action-bar.php:36
+msgid "Light"
+msgstr "Açık"
+
+#: functions.php:501
+msgid "Action Button Text"
+msgstr "Eylem Düğmesi Metni"
+
+#: functions.php:504
+msgid "Text is displayed when button is hovered."
+msgstr "Düğme vurgulandığında metin gösterilecek."
+
+#: functions.php:510
+msgid "Action Button Page"
+msgstr "Eylem Düğme Sayfası"
+
+#: functions.php:515
+msgid "Page where the action button will point to."
+msgstr "Eylem düğmesinin yönlendirileceği bağlantı."
+
+#: functions.php:527
+msgid "Show print button in listing detail"
+msgstr "Liste detaylarında yazdır düğmesini göster"
+
+#: functions.php:555
+msgid "Not set"
+msgstr "Ayarlı değil"
+
+#: functions.php:716
+msgid "Previous"
+msgstr "Önceki"
+
+#: functions.php:717
+msgid "Next"
+msgstr "Sonraki"
+
+#: header.php:89
+msgid "Toggle navigation"
+msgstr "Geçiş Navigasyonu"
+
+#: searchform.php:15
+msgid "Search ..."
+msgstr "Ara ..."
+
+#: templates/action-bar.php:14
+msgid "Choose Page Layout"
+msgstr "Sayfa Tasarımını Seç"
+
+#: templates/action-bar.php:23
+msgid "Header Position"
+msgstr "Header Pozisyonu"
+
+#: templates/action-bar.php:32
+msgid "Submenu Style"
+msgstr "Alt menü stili"
+
+#: templates/action-bar.php:41
+msgid "Color combination"
+msgstr "Renk Kombinasyonu"
+
+#: templates/action-bar.php:48
+msgid "Blue Dark"
+msgstr "Koyu Mavi"
+
+#: templates/action-bar.php:54
+msgid "Green Dark"
+msgstr "Koyu Yeşil"
+
+#: templates/action-bar.php:69
+msgid "Blue Gray"
+msgstr "Gri tonlu Mavi"
+
+#: templates/banner-types/video.php:6
+msgid "Your browser does not support the video html tag."
+msgstr "Tarayıcınız video html etiketlemeyi desteklemiyor."
+
+#: templates/content-listing-banner-info.php:40
+msgid "Reduced Price"
+msgstr "İndirimli Fiyat"
+
+#: templates/content-listing-banner-info.php:40
+msgid "Price"
+msgstr "Fiyat"
+
+#: templates/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Aramanızla ilgili herhangi bir sonuç bulunamadı. Lütfen farklı terimlerle "
+"tekrar deneyin."
+
+#: templates/content-post.php:17 templates/content.php:25
+msgid "By"
+msgstr "Tarafından"
+
+#: templates/content-post.php:34
+msgid "Post Pages:"
+msgstr "Sayfalar"
+
+#: templates/content-post.php:43
+msgid "Tags"
+msgstr "Etiketler"
+
+#: templates/content.php:15
+msgid "View"
+msgstr "Gösterim"
+
+#: templates/content.php:31
+msgid "Read more"
+msgstr "Devamını oku"
+
+#: templates/document-title.php:18
+msgid "Page Not Found"
+msgstr "Sayfa bulunamadı"
+
+#: templates/document-title.php:20
+msgid "Search for"
+msgstr "Bunu ara"
+
+#: templates/misc/comment.php:25
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: templates/misc/comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay için bekliyor."
+
+#: widgets/templates/widget-call-to-action-admin.php:17
+msgid "Text"
+msgstr "Metin"
+
+#: widgets/templates/widget-call-to-action-admin.php:30
+msgid "Button Text"
+msgstr "Düğme Metni"
+
+#: widgets/templates/widget-call-to-action-admin.php:43
+msgid "Button Link"
+msgstr "Düğme Bağlantısı"
+
+#: widgets/templates/widget-simple-map-admin.php:19
+msgid "Latitude"
+msgstr "Enlem"
+
+#: widgets/templates/widget-simple-map-admin.php:32
+msgid "Longitude"
+msgstr "Boylam"
+
+#: widgets/templates/widget-simple-map-admin.php:45
+msgid "Zoom"
+msgstr "Yakınlaştır"
+
+#: widgets/templates/widget-simple-map-admin.php:60
+msgid "Height in pixels"
+msgstr "Pixel biriminde yükseklik"
+
+#: widgets/templates/widget-simple-map-admin.php:80
+msgid "Default"
+msgstr "Varsayılan"
+
+#: widgets/templates/widget-video-cover-admin.php:25
+msgid "Title"
+msgstr "Başlık"
+
+#: widgets/templates/widget-video-cover-admin.php:39
+msgid "Subtitle"
+msgstr "Altbaşlık"
+
+#: widgets/templates/widget-video-cover-admin.php:53
+msgid "Height"
+msgstr "Yükseklik"
+
+#: widgets/templates/widget-video-cover-admin.php:67
+msgid "Preset Image URL"
+msgstr "Şuanki resim bağlantısı"
+
+#: widgets/templates/widget-video-cover-admin.php:81
+msgid "Overlay opacity"
+msgstr "Katman Şeffaflığı"
+
+#: widgets/templates/widget-video-cover-admin.php:95
+msgid "Video MP4"
+msgstr "Video MP4"
+
+#: widgets/templates/widget-video-cover-admin.php:109
+msgid "Video OGG"
+msgstr "Video OGG"
+
+#: widgets/templates/widget-video-cover-admin.php:129
+msgid "Filter"
+msgstr "Süzgeç"
+
+#: widgets/templates/widget-video-cover-admin.php:136
+msgid "Filter Button Text"
+msgstr "Süzgeç Düğmesi Metni"
+
+#: widgets/templates/widget-video-cover-admin.php:147
+msgid "Input titles"
+msgstr "Girdi başlıkları"
+
+#: widgets/templates/widget-video-cover-admin.php:158
+msgid "Labels"
+msgstr "Etiketler"
+
+#: widgets/templates/widget-video-cover-admin.php:170
+msgid "Placeholders"
+msgstr "Yerbelirleyiciler"
+
+#: widgets/templates/widget-video-cover-admin.php:175
+msgid "Filter Fields"
+msgstr "Süzgeç Alanları"
+
+#: widgets/widget-call-to-action.php:29
+msgid "Call to action"
+msgstr "Eyleme çağrı"
+
+#: widgets/widget-call-to-action.php:31
+msgid "Call to action widget."
+msgstr "Eyleme çağrı bileşeni"
+
+#: widgets/widget-simple-map.php:29
+msgid "Simple Map"
+msgstr "Basit Harita"
+
+#: widgets/widget-simple-map.php:31
+msgid "Displays 1 place in the map."
+msgstr "Görüntü 1'i haritaya yerleştir."
+
+#: widgets/widget-video-cover.php:29
+msgid "Video Cover"
+msgstr "Video Cover"
+
+#: widgets/widget-video-cover.php:31
+msgid "Displays small filter with video or image background."
+msgstr "Video ya da fotoğraf arkaplanı ile küçük süzgeç göster."

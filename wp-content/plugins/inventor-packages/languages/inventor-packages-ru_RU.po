@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Packages\n"
+"POT-Creation-Date: 2016-08-05 18:19+0600\n"
+"PO-Revision-Date: 2016-08-05 18:41+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-inventor-packages-logic.php:55
+#: includes/post-types/class-inventor-packages-post-type-package.php:37
+#: includes/post-types/class-inventor-packages-post-type-package.php:43
+#: includes/post-types/class-inventor-packages-post-type-package.php:49
+#: includes/widgets/class-inventor-packages-widget-packages.php:23
+msgid "Packages"
+msgstr "Тарифные Пакеты"
+
+#: includes/class-inventor-packages-logic.php:204
+#: templates/widgets/packages.php:83
+msgid "Unlimited"
+msgstr "Безлимитный"
+
+#: includes/class-inventor-packages-logic.php:208
+#: includes/post-types/class-inventor-packages-post-type-package.php:107
+#: includes/post-types/class-inventor-packages-post-type-package.php:212
+#: templates/widgets/packages.php:80
+msgid "Max Listings"
+msgstr "Макс. Листинги"
+
+#: includes/class-inventor-packages-logic.php:259
+msgid "Listing details"
+msgstr "Детали Листинга"
+
+#: includes/class-inventor-packages-logic.php:282
+msgid "week"
+msgstr "неделя"
+
+#: includes/class-inventor-packages-logic.php:283
+msgid "month"
+msgstr "месяц"
+
+#: includes/class-inventor-packages-logic.php:284
+msgid "year"
+msgstr "год"
+
+#: includes/class-inventor-packages-logic.php:301
+msgid "Purchase package"
+msgstr "Купить тарифный пакет"
+
+#: includes/class-inventor-packages-logic.php:302
+#, php-format
+msgid "Upgrade package to %s"
+msgstr "Улучшить тарифный пакет до %s"
+
+#: includes/class-inventor-packages-logic.php:320
+msgid "Not set"
+msgstr "Не задано"
+
+#: includes/class-inventor-packages-logic.php:469
+msgid "Infinite"
+msgstr "Бесконечный"
+
+#: includes/class-inventor-packages-logic.php:510
+#: includes/class-inventor-packages-logic.php:525
+#: includes/class-inventor-packages-logic.php:572
+#: includes/post-types/class-inventor-packages-post-type-package.php:38
+msgid "Package"
+msgstr "Тарифный пакет"
+
+#: includes/class-inventor-packages-logic.php:519
+msgid "Package Information"
+msgstr "Информация о Тарифном Пакете"
+
+#: includes/class-inventor-packages-logic.php:542
+msgid "Infinite duration"
+msgstr "Бесконечная Длительность"
+
+#: includes/class-inventor-packages-logic.php:549
+msgid "Validity"
+msgstr "Период действия"
+
+#: includes/class-inventor-packages-logic.php:575
+msgid ""
+"Button will be linked to the purchase page. You must create payment page "
+"(containing [inventor_payment]) which must be set up in customizer."
+msgstr ""
+"Кнопка будет связана со страницей покупки. Вы должны создать платежную "
+"страницу (содержащую [inventor_payment]), который должен быть установлен в "
+"настройщике."
+
+#: includes/class-inventor-packages-logic.php:1031
+msgid "Package is not free."
+msgstr "Тарифный пакет не бесплатный."
+
+#: includes/class-inventor-packages-logic.php:1036
+msgid "Package has been set."
+msgstr "Тарифный Пакет был задан."
+
+#: includes/class-inventor-packages-logic.php:1038
+msgid "Could not set package for user."
+msgstr "Не удалось задать тарифный пакет для пользователя."
+
+#: includes/class-inventor-packages-logic.php:1059
+msgid "Package has been upgraded."
+msgstr "Тарифный Пакет был улучшен."
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:34
+msgid "Inventor Packages"
+msgstr "Тарифные Пакеты Разработчика"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:49
+msgid "Default package"
+msgstr "Тарифные Пакеты по умолчанию"
+
+#: includes/customizations/class-inventor-packages-customizations-packages.php:53
+msgid "For newly registered user"
+msgstr "Для новых зарегистрированных пользователей"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:39
+#: includes/post-types/class-inventor-packages-post-type-package.php:40
+msgid "Add New Package"
+msgstr "Добавить Новый Тарифный Пакет"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:41
+msgid "Edit Package"
+msgstr "Редактировать Тарифный Пакет"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:42
+msgid "New Package"
+msgstr "Новый Тарифный Пакет"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:44
+msgid "View Package"
+msgstr "Просмотр Тарифного Пакета"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:45
+msgid "Search Package"
+msgstr "Искать Тарифный Пакет"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:46
+msgid "No Packages found"
+msgstr "Тарифные Пакеты не найдены"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:47
+msgid "No Packages Found in Trash"
+msgstr "Тарифные Пакеты не найдены в Корзине"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:76
+msgid "General"
+msgstr "Общее"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:85
+#: includes/post-types/class-inventor-packages-post-type-package.php:210
+#: templates/widgets/packages.php:64
+msgid "Price"
+msgstr "Цена"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:88
+#, php-format
+msgid "In %s."
+msgstr "В %s."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:100
+#: includes/post-types/class-inventor-packages-post-type-package.php:211
+#: templates/widgets/packages.php:72
+msgid "Duration"
+msgstr "Длительность"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:109
+msgid ""
+"If submission type is 'packages'. Use -1 for unlimited amount of listings."
+msgstr ""
+"Если тип заявки 'тарифные пакеты'. Используйте -1 для неограниченного "
+"количества листингов."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:119
+#: includes/post-types/class-inventor-packages-post-type-package.php:214
+msgid "Private"
+msgstr "Частный"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:121
+msgid ""
+"If checked, package won't be visible in the pricing. Suitable for VIP users "
+"or admins."
+msgstr ""
+"Если отмечено, тарифный пакет не будет виден в ценах. Подходит для VIP "
+"пользователей или администраторов."
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:126
+msgid "Permissions"
+msgstr "Права"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:135
+msgid "Video"
+msgstr "Видео"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:141
+msgid "Gallery"
+msgstr "Галерея"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:147
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:159
+msgid "Location"
+msgstr "Место нахождения"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:165
+msgid "Opening hours"
+msgstr "Часы работы"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:171
+msgid "Contact"
+msgstr "Контакт"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:177
+msgid "Listing types restrictions"
+msgstr "Ограничения типов Листинга"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:186
+msgid "Use restriction"
+msgstr "Использовать ограничения"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:192
+msgid "Listing types"
+msgstr "Типы листинга"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:209
+#: templates/widgets/packages-admin.php:12
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:213
+msgid "Type"
+msgstr "Тип"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:215
+msgid "Date"
+msgstr "Дата"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:262
+msgid "Yes"
+msgstr "Да"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:262
+msgid "No"
+msgstr "Нет"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:267
+msgid "free"
+msgstr "бесплатно"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:269
+msgid "regular"
+msgstr "регулярный"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:271
+msgid "simple"
+msgstr "простой"
+
+#: includes/post-types/class-inventor-packages-post-type-package.php:273
+msgid "trial"
+msgstr "пробный"
+
+#: includes/widgets/class-inventor-packages-widget-packages.php:25
+msgid "Displays available packages."
+msgstr "Показать доступные тарифные пакеты."
+
+#: templates/package-info.php:13
+msgid ""
+"Site is using packages. Before you can post listing, please upgrade your "
+"package."
+msgstr ""
+"Вебсайт использует тарифные пакеты. Перед тем как вы сможете опубликовать "
+"листинг, пожалуйста улучшьте ваш тарифный пакет."
+
+#: templates/package-info.php:17
+msgid "You don't have any package."
+msgstr "У вас нет ни одного тарифного пакета."
+
+#: templates/package-info.php:22
+#, php-format
+msgid "You are using <strong>%s</strong> package."
+msgstr "Вы используете <strong>%s</strong> тарифный пакет."
+
+#: templates/package-info.php:29
+#, php-format
+msgid "Your membership is valid until <strong>%s</strong>."
+msgstr "Ваша учетная запись действует до <strong>%s</strong>."
+
+#: templates/package-info.php:38
+msgid "You can add <strong>unlimited</strong> amount of items"
+msgstr ""
+"Вы можете добавлять <strong>неограниченное</strong> количество элементов"
+
+#: templates/package-info.php:40
+#, php-format
+msgid ""
+"You can not add new listings because you spent all of your available "
+"listings. Change your package. First <strong>%s</strong> items has been "
+"disabled from listing."
+msgstr ""
+"Вы не можете добавить новый листинг, потому что вы потратили все доступные "
+"вам листинги. Измените свой тарифный пакет. Первые <strong>%s</strong>  "
+"элементы были отключены из листинга."
+
+#: templates/package-info.php:42
+#, php-format
+msgid "You can add <strong>%s</strong> items."
+msgstr "Вы можете добавить <strong>%s</strong> элементов."
+
+#: templates/package-info.php:49
+#, php-format
+msgid "Your membership already expired at <strong>%s</strong>."
+msgstr "Ваша учетная запись уже истекла в <strong>%s</strong>."
+
+#: templates/package-info.php:51
+msgid "All your items has been deactivated until you pay for new membership."
+msgstr ""
+"Все ваши элементы были деактивированы до тех пор пока вы не заплатите за "
+"новую учетную запись."
+
+#: templates/package-info.php:67
+msgid "Select Package"
+msgstr "Выбрать Тарифный Пакет"
+
+#: templates/package-info.php:77 templates/widgets/packages.php:55
+msgid "Change"
+msgstr "Изменить"
+
+#: templates/payment-form-before.php:9
+msgid "You can't choose trial package."
+msgstr "Вы не можете выбрать пробный тарифный пакет."
+
+#: templates/payment-form-before.php:13
+#, php-format
+msgid "You chose package <strong>\"%s\"</strong>."
+msgstr "Вы выбрали тарифный пакет <strong>\"%s\"</strong>."
+
+#: templates/payment-form-before.php:17
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for package <strong>\"%s\"</strong>."
+msgstr ""
+"Вы собираетесь оплатить <strong>%s</strong> за тарифный пакет <strong>\"%s"
+"\"</strong>."
+
+#: templates/payment-form-before.php:23 templates/payment-form-fields.php:23
+msgid "Missing package."
+msgstr "Тарифный пакет отсутствует."
+
+#: templates/payment-form-fields.php:8
+msgid ""
+"Trial packages can only be used as a default package. They cannot be "
+"purchased or chosen."
+msgstr ""
+"Пробные тарифные пакеты могут быть  использованы только по умолчанию. Они не "
+"могут быть куплены или выбраны."
+
+#: templates/payment-form-fields.php:16
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: templates/widgets/packages.php:53
+msgid "Purchase"
+msgstr "купить"
+
+#: templates/widgets/packages.php:95
+msgid "No packages found."
+msgstr "Тарифные пакеты не найдены."

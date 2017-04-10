@@ -1,0 +1,596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superlist\n"
+"POT-Creation-Date: 2016-12-13 17:59+0100\n"
+"PO-Revision-Date: 2016-12-13 17:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/libraries/class-tgm-plugin-activation."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: 404.php:21
+msgid "Page does not exist."
+msgstr "Stránka neexistuje"
+
+#: comments.php:21
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myšlienka o &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myšlienok o &ldquo;%2$s&rdquo;"
+
+#: comments.php:27 comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Staršie komentáre"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Novšie komentáre &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Komentáre sú uzavreté."
+
+#: comments.php:56
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Môžete použiť tieto <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+"značky a atribúty: %s"
+
+#: comments.php:57
+msgid "Write a Comment"
+msgstr "Napísať komentár"
+
+#: comments.php:59
+msgid "Comment"
+msgstr "Komentár"
+
+#: comments.php:61
+msgid "Name"
+msgstr "Meno"
+
+#: comments.php:62
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+msgid "Website"
+msgstr "Webstránka"
+
+#: functions.php:109
+msgid "Main"
+msgstr "Hlavný"
+
+#: functions.php:120
+msgid "Primary"
+msgstr "Primárny"
+
+#: functions.php:121
+msgid "Dashboard Sidebar"
+msgstr "Panel nástenky"
+
+#: functions.php:122
+msgid "Header Topbar Left"
+msgstr "Hlavička vľavo"
+
+#: functions.php:123
+msgid "Header Topbar Right"
+msgstr "Hlavička vpravo"
+
+#: functions.php:124
+msgid "Header"
+msgstr "Hlavička"
+
+#: functions.php:125
+msgid "Top Fullwidth"
+msgstr "Vrch na celú šírku"
+
+#: functions.php:126
+msgid "Top"
+msgstr "Vrch"
+
+#: functions.php:127
+msgid "Content Top"
+msgstr "Nad obsahom"
+
+#: functions.php:128
+msgid "Content Bottom"
+msgstr "Pod obsahom"
+
+#: functions.php:129
+msgid "Bottom"
+msgstr "Spodok"
+
+#: functions.php:130
+msgid "Footer Top First"
+msgstr "Päta vrch 1"
+
+#: functions.php:131
+msgid "Footer Top Second"
+msgstr "Päta vrch 2"
+
+#: functions.php:132
+msgid "Footer Top Third"
+msgstr "Päta vrch 3"
+
+#: functions.php:133
+msgid "Footer Top Fourth"
+msgstr "Päta vrch 4"
+
+#: functions.php:134
+msgid "Footer First"
+msgstr "Päta 1"
+
+#: functions.php:135
+msgid "Footer Second"
+msgstr "Päta 2"
+
+#: functions.php:136
+msgid "Footer Bottom First"
+msgstr "Päta spodok 1"
+
+#: functions.php:137
+msgid "Footer Bottom Second"
+msgstr "Päta spodok 2"
+
+#: functions.php:431
+msgid "Superlist General"
+msgstr "Superlist všeobecné"
+
+#: functions.php:436
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:439
+msgid "Logo displayed in header."
+msgstr "Logo zobrazené v hlavičke."
+
+#: functions.php:451
+msgid "Customizer"
+msgstr "Kustomizér"
+
+#: functions.php:465 widgets/templates/widget-simple-map-admin.php:76
+msgid "Style"
+msgstr "Štýl"
+
+#: functions.php:470 templates/action-bar.php:46
+msgid "Blue Light"
+msgstr "Svelomodrá"
+
+#: functions.php:471 templates/action-bar.php:47
+msgid "Blue"
+msgstr "Modrá"
+
+#: functions.php:472
+msgid "Blue dark"
+msgstr "Tmavomodrá"
+
+#: functions.php:473
+msgid "Blue gray"
+msgstr "Modrosivá"
+
+#: functions.php:474 templates/action-bar.php:49
+msgid "Brown"
+msgstr "Hnedá"
+
+#: functions.php:475 templates/action-bar.php:53
+msgid "Green"
+msgstr "Zelená"
+
+#: functions.php:476
+msgid "Green dark"
+msgstr "Tmavozelená"
+
+#: functions.php:477 templates/action-bar.php:67
+msgid "Lime"
+msgstr "Limetková"
+
+#: functions.php:478 templates/action-bar.php:55
+msgid "Magenta"
+msgstr "Purpurová"
+
+#: functions.php:479 templates/action-bar.php:56
+msgid "Orange"
+msgstr "Oranžová"
+
+#: functions.php:480 templates/action-bar.php:68
+msgid "Pink"
+msgstr "Ružová"
+
+#: functions.php:481 templates/action-bar.php:60
+msgid "Purple"
+msgstr "Fialová"
+
+#: functions.php:482 templates/action-bar.php:70
+msgid "Purple Dark"
+msgstr "Tmavofialová"
+
+#: functions.php:483
+msgid "Mint"
+msgstr "Mätová"
+
+#: functions.php:484 templates/action-bar.php:61 templates/action-bar.php:62
+msgid "Red"
+msgstr "Červená"
+
+#: functions.php:485 templates/action-bar.php:63
+msgid "Turquoise"
+msgstr "Tyrkysová"
+
+#: functions.php:487
+msgid "Check the documentation to learn how to compile custom color."
+msgstr "Pozrite sa do dokumentácie ako vytvoriť vlastnú farbu."
+
+#: functions.php:498
+msgid "Layout"
+msgstr "Rozloženie"
+
+#: functions.php:503 templates/action-bar.php:17
+msgid "Wide"
+msgstr "Široké"
+
+#: functions.php:504 templates/action-bar.php:18
+msgid "Boxed"
+msgstr "V boxe"
+
+#: functions.php:516
+msgid "Header position"
+msgstr "Pozícia hlavičky"
+
+#: functions.php:521 templates/action-bar.php:27
+msgid "Sticky"
+msgstr "Prilepená"
+
+#: functions.php:522 templates/action-bar.php:26
+msgid "Fixed"
+msgstr "Pevná"
+
+#: functions.php:534
+msgid "Header Type"
+msgstr "Typ hlavičky"
+
+#: functions.php:539
+msgid "Regular"
+msgstr "Regulárna"
+
+#: functions.php:540
+msgid "Complex"
+msgstr "Komplexná"
+
+#: functions.php:552
+msgid "Submenu"
+msgstr "Podmenu"
+
+#: functions.php:557 templates/action-bar.php:35
+msgid "Dark"
+msgstr "Tmavé"
+
+#: functions.php:558 templates/action-bar.php:36
+msgid "Light"
+msgstr "Svetlé"
+
+#: functions.php:570
+msgid "Blog display"
+msgstr "Zobrazenie blogu"
+
+#: functions.php:575
+msgid "Row"
+msgstr "Riadok"
+
+#: functions.php:576 widgets/widget-recent-posts.php:164
+msgid "Masonry"
+msgstr "Masonry"
+
+#: functions.php:587
+msgid "Action Button Text"
+msgstr "Text tlačidla akcie"
+
+#: functions.php:590
+msgid "Text is displayed when button is hovered."
+msgstr "Text sa zobrazí pri prechode myšou ponad tlačidlo."
+
+#: functions.php:596
+msgid "Action Button Page"
+msgstr "Stránka tlačidla akcie"
+
+#: functions.php:601
+msgid "Page where the action button will point to."
+msgstr "Stránka, na ktorú bude odkazovať tlačidlo akcie."
+
+#: functions.php:613
+msgid "Show print button in listing detail"
+msgstr "Zobraziť tlačidlo na tlač položky"
+
+#: functions.php:641
+msgid "Not set"
+msgstr "Nenastavené"
+
+#: functions.php:804
+msgid "Previous"
+msgstr "Predchádzajúce"
+
+#: functions.php:805
+msgid "Next"
+msgstr "Nasledujúce"
+
+#: searchform.php:15
+msgid "Search ..."
+msgstr "Hľadať …"
+
+#: templates/action-bar.php:14
+msgid "Choose Page Layout"
+msgstr "Zvoľte rozloženie stránky"
+
+#: templates/action-bar.php:23
+msgid "Header Position"
+msgstr "Pozícia hlavičky"
+
+#: templates/action-bar.php:32
+msgid "Submenu Style"
+msgstr "Štýl podmenu"
+
+#: templates/action-bar.php:41
+msgid "Color combination"
+msgstr "Farebná kombinácia"
+
+#: templates/action-bar.php:48
+msgid "Blue Dark"
+msgstr "Tmavomodrá"
+
+#: templates/action-bar.php:54
+msgid "Green Dark"
+msgstr "Tmavozelená"
+
+#: templates/action-bar.php:69
+msgid "Blue Gray"
+msgstr "Modrosivá"
+
+#: templates/banner-types/video.php:11
+msgid "Your browser does not support the video html tag."
+msgstr "Váš prehliadač nepodporuje video HTML značku."
+
+#: templates/content-listing-banner-info.php:41
+msgid "Reduced Price"
+msgstr "Zlacnené"
+
+#: templates/content-listing-banner-info.php:41
+msgid "Price"
+msgstr "Cena"
+
+#: templates/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Prepáčte, ale nič sa nezhoduje s Vašimi kritériami vyhľadávania. Skúste "
+"prosím iné kľúčové slová."
+
+#: templates/content-post.php:17 templates/content.php:30
+msgid "By"
+msgstr "Od"
+
+#: templates/content-post.php:36
+msgid "Post Pages:"
+msgstr "Stránky príspevkov:"
+
+#: templates/content-post.php:45
+msgid "Tags"
+msgstr "Značky"
+
+#: templates/content.php:20
+msgid "View"
+msgstr "Zobraziť"
+
+#: templates/content.php:38
+msgid "Read more"
+msgstr "Čítať viac"
+
+#: templates/document-title.php:18
+msgid "Page Not Found"
+msgstr "Stránka sa nenašla"
+
+#: templates/document-title.php:20
+msgid "Search for"
+msgstr "Hľadať"
+
+#: templates/header-parts/header-navigation-toggle.php:2
+msgid "Toggle navigation"
+msgstr "Prepnúť navigáciu"
+
+#: templates/misc/comment.php:25
+msgid "Reply"
+msgstr "Odpovedať"
+
+#: templates/misc/comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentár musí byť odmoderovaný."
+
+#: widgets/templates/widget-call-to-action-admin.php:17
+msgid "Text"
+msgstr "Text"
+
+#: widgets/templates/widget-call-to-action-admin.php:30
+msgid "Button Text"
+msgstr "Text tlačidla"
+
+#: widgets/templates/widget-call-to-action-admin.php:43
+msgid "Button Link"
+msgstr "Odkaz tlačidla"
+
+#: widgets/templates/widget-simple-map-admin.php:19
+msgid "Latitude"
+msgstr "Zemepisná šírka"
+
+#: widgets/templates/widget-simple-map-admin.php:32
+msgid "Longitude"
+msgstr "Zemepisná dĺžka"
+
+#: widgets/templates/widget-simple-map-admin.php:45
+msgid "Zoom"
+msgstr "Priblíženie"
+
+#: widgets/templates/widget-simple-map-admin.php:60
+msgid "Height in pixels"
+msgstr "Výška v pixeloch"
+
+#: widgets/templates/widget-simple-map-admin.php:80
+msgid "Default"
+msgstr "Prednastavené"
+
+#: widgets/widget-call-to-action.php:29
+msgid "Call to action"
+msgstr "Výzva k akcii"
+
+#: widgets/widget-call-to-action.php:31
+msgid "Call to action widget."
+msgstr "Widget výzvy k akcii"
+
+#: widgets/widget-recent-posts.php:136
+msgid "Title:"
+msgstr "Nadpis:"
+
+#: widgets/widget-recent-posts.php:141
+msgid "Description"
+msgstr "Opis"
+
+#: widgets/widget-recent-posts.php:150
+msgid "Number of posts to show:"
+msgstr "Počet zobrazených príspevkov:"
+
+#: widgets/widget-recent-posts.php:154
+msgid "Display post date?"
+msgstr "Zobraziť dátum príspevku?"
+
+#: widgets/widget-recent-posts.php:158
+msgid "Display as"
+msgstr "Zobraziť ako"
+
+#: widgets/widget-recent-posts.php:163
+msgid "Default (title)"
+msgstr "Prednastavené (názov)"
+
+#: widgets/widget-simple-map.php:29
+msgid "Simple Map"
+msgstr "Jednoduchá mapa"
+
+#: widgets/widget-simple-map.php:31
+msgid "Displays 1 place in the map."
+msgstr "Zobrazí 1 miesto na mape"
+
+#: widgets/widget-video-cover.php:29
+msgid "Video Cover"
+msgstr "Video kryt"
+
+#: widgets/widget-video-cover.php:31
+msgid "Displays small filter with video or image background."
+msgstr "Zobrazí malý filter s videom alebo obrázkom na pozadí."
+
+#~ msgid "Title"
+#~ msgstr "Nadpis"
+
+#~ msgid "Subtitle"
+#~ msgstr "Podnadpis"
+
+#~ msgid "Height"
+#~ msgstr "Výška"
+
+#~ msgid "Preset Image URL"
+#~ msgstr "URL obrázka"
+
+#~ msgid "Overlay opacity"
+#~ msgstr "Priehľadnosť vrstvy"
+
+#~ msgid "Video MP4"
+#~ msgstr "MP4 video"
+
+#~ msgid "Video OGG"
+#~ msgstr "OGG video"
+
+#~ msgid "Video URL"
+#~ msgstr "Video URL"
+
+#~ msgid "Enter a youtube or vimeo URL."
+#~ msgstr "Zadajte YouTube alebo Vimeo URL."
+
+#~ msgid "Classes"
+#~ msgstr "Triedy"
+
+#~ msgid ""
+#~ "Additional classes appended to body class and separated by , e.g. "
+#~ "<i>header-transparent, listing-slider-append-top</i>"
+#~ msgstr ""
+#~ "Dodatočné triedy pridané do triedy elementu body oddelené čiarkou, napr. "
+#~ "<i>header-transparent, listing-slider-append-top</i>"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Filter Button Text"
+#~ msgstr "Text tlačidla filtra"
+
+#~ msgid "Input titles"
+#~ msgstr "Nadpisy vstupov"
+
+#~ msgid "Labels"
+#~ msgstr "Štítky"
+
+#~ msgid "Placeholders"
+#~ msgstr "Text v poliach"
+
+#~ msgid "Filter Fields"
+#~ msgstr "Polia filtra"
+
+#~ msgid "Featured"
+#~ msgstr "Významné"
+
+#~ msgid "Reduced"
+#~ msgstr "Zlacnené"
+
+#~ msgid "Read More"
+#~ msgstr "Čítať viac"
+
+#~ msgid "Location"
+#~ msgstr "Umiestnenie"
+
+#~ msgid "Dashboard Sidebar Top"
+#~ msgstr "Sidebar nástenky hore"
+
+#~ msgid "Dashboard Sidebar Bottom"
+#~ msgstr "Sidebar nástenky dole"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigácia"
+
+#~ msgid "Category"
+#~ msgstr "Kategória"
+
+#~ msgid "Content:"
+#~ msgstr "Obsah:"
+
+#~ msgid "Icon Class:"
+#~ msgstr "Trieda ikony:"
+
+#~ msgid "Read More Link:"
+#~ msgstr "Odkaz čítať viac:"
+
+#~ msgid "Boxes"
+#~ msgstr "Boxy"
+
+#~ msgid "Text boxes with icons."
+#~ msgstr "Boxy s textami a ikonami."

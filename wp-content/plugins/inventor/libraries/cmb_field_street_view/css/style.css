@@ -1,0 +1,13 @@
+#street-view-map, #street-view {
+    float: left;
+    height: 400px;
+    margin: 20px 0;
+}
+
+#street-view-map {
+    width: 39%;
+}
+
+#street-view {
+    width: 60%
+}

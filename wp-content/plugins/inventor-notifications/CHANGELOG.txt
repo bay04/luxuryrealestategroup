@@ -1,0 +1,111 @@
+Version: 0.1.0
+Release date: 2015-11-03
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2015-11-13
+What's new:
+- show_in_menu fix
+- plugin URI
+- fixed pending notification
+
+
+Version: 0.1.2
+Release date: 2015-12-02
+What's new:
+- support for inventor-packages
+- fixed cmb2 hook
+
+
+Version: 0.1.3
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- Slovak translation
+
+
+Version: 0.1.4
+Release date: 2016-03-24
+What's new:
+- text domain fix
+
+
+Version: 0.1.5
+Release date: 2016-03-28
+What's new:
+- admin notifications fix
+
+
+Version: 0.1.6
+Release date: 2016-03-28
+What's new:
+- fix for notifications of custom post types
+
+
+Version: 0.2.0
+Release date: 2016-03-29
+What's new:
+- Italian translation
+
+
+Version: 0.3.0
+Release date: 2016-04-07
+What's new:
+- Spanish translation
+
+
+Version: 0.4.0
+Release date: 2016-04-18
+What's new:
+- French translation
+- Danish translation
+- listing type in notification mail template
+
+
+Version: 0.4.1
+Release date: 2016-05-01
+What's new:
+- updated langauge catalogs
+
+
+Version: 0.5.0
+Release date: 2016-05-20
+What's new:
+- German translation
+
+
+Version: 0.6.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- get_site_admins moved to Inventor core plugin
+- fix of some missing notifications
+
+
+Version: 0.7.0
+Release date: 2016-07-01
+What's new:
+- Turkish translation
+- updated Danish translations
+- Portugal translation fix
+- option to override translation files more easily
+
+
+Version: 0.8.0
+Release date: 2016-08-02
+What's new:
+- Romanian translation
+- listing_url variable in submission mail body templates
+- package variable in submission mail body templates
+- author variable in submission mail body templates
+
+
+Version: 0.9.0
+Release date: 2016-09-01
+What's new:
+- Russian translation
+- plugin dependency fix
+- new notification type: package purchased - for admin
+- gateway ID in the gateways array

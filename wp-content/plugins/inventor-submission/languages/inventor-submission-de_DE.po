@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor\n"
+"POT-Creation-Date: 2016-07-08 09:13+0200\n"
+"PO-Revision-Date: 2016-07-08 09:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+
+#: includes/class-inventor-submission-logic.php:372
+msgid "New submission has been successfully created."
+msgstr "Neue Anzeige wurde erfolgreich erstellt."
+
+#: includes/class-inventor-submission-logic.php:378
+msgid "Submission has been successfully updated."
+msgstr "Inserat wurde erfolgreich aktualisiert."
+
+#: includes/class-inventor-submission-logic.php:531
+msgid "Item has been successfully removed."
+msgstr "Der Inhalt erfolgreich entfernt"
+
+#: includes/class-inventor-submission-logic.php:533
+msgid "An error occurred when removing an item."
+msgstr "Beim entfernen des Inhaltes ist ein Fehler aufgetreten."
+
+#: includes/class-inventor-submission-logic.php:582
+msgid "Featured listing"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:583
+#, php-format
+msgid "Make listing %s featured"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:587
+msgid "Publish listing"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:588
+#, php-format
+msgid "Publish %s"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:657
+msgid "Listing successfully featured."
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:669
+msgid "Listing will be published after review."
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:673
+msgid "Listing has been published."
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:69
+msgid "Check your package."
+msgstr "Überprüfen Sie Ihr Paket."
+
+#: includes/class-inventor-submission-shortcodes.php:88
+msgid "You are not allowed to submit this type."
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Done"
+msgstr "Fertig"
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Proceed to next step"
+msgstr "Weiter mit dem nächsten Schritt"
+
+#: includes/class-inventor-submission-shortcodes.php:115
+msgid "Save"
+msgstr "Speichern"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:36
+msgid "Inventor Submission"
+msgstr "Inventor Inserat"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:49
+msgid "Type"
+msgstr "Typ"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:50
+msgid "Defines what determines number of user listings."
+msgstr "Legt fest, wie die Anzahl der Benutzeranzeigen ist."
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:54
+msgid "Free for all"
+msgstr "Kostenlos für alle"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:55
+msgid "Pay per post"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:68
+msgid "Review Before Submission"
+msgstr "Überprüfung vor der endgültigen Einreichung"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:81
+msgid "Publish price"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:84
+msgid "For \"pay per post\" submission type"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:96
+msgid "Featured price"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:111
+msgid "User listings"
+msgstr "Benutzer Inserate"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:126
+msgid "Add listing"
+msgstr "Inserat hinzufügen"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:141
+msgid "Edit listing"
+msgstr "Inserat bearbeiten"
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:156
+msgid "Remove listing"
+msgstr "Inserat löschen"
+
+#: templates/submission/list.php:11
+msgid "Create listing"
+msgstr "Inserat erstellen"
+
+#: templates/submission/list.php:29
+msgid "Listing published"
+msgstr "Inserat veröffentlicht"
+
+#: templates/submission/list.php:30
+msgid "Waiting for review"
+msgstr "Warten auf Überprüfung"
+
+#: templates/submission/list.php:31
+msgid "Listing disabled"
+msgstr "Inserat deaktiviert"
+
+#: templates/submission/list.php:44 templates/submission/list.php:124
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: templates/submission/list.php:48 templates/submission/list.php:117
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: templates/submission/list.php:52
+msgid "Disabled"
+msgstr "deaktiviert"
+
+#: templates/submission/list.php:98
+msgid "Make featured"
+msgstr ""
+
+#: templates/submission/list.php:104
+msgid "Featured"
+msgstr ""
+
+#: templates/submission/list.php:136
+msgid "Publish"
+msgstr ""
+
+#: templates/submission/list.php:151
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: templates/submission/list.php:157
+msgid "Remove"
+msgstr "Entfernen"
+
+#: templates/submission/list.php:169
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: templates/submission/list.php:170
+msgid "Next page"
+msgstr "Folgeseite"
+
+#: templates/submission/list.php:171
+msgid "Page"
+msgstr "Seite"
+
+#: templates/submission/list.php:178
+msgid "No listings found."
+msgstr "Keine Inserat gefunden."
+
+#: templates/submission/list.php:184
+msgid "You don't have any listings, yet. Start by creating new one."
+msgstr ""
+"Sie haben noch keine Inserate. Starten Sie indem Sie ein Neues erstellen."
+
+#: templates/submission/payment-form-before.php:7
+msgid "Price is not set."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:12
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for featured listing <strong>\"%s"
+"\"</strong>."
+msgstr ""
+"Sie sind dabei <strong>%s</strong> für das Hervorheben des Eintrags <strong>"
+"\"%s\"</strong> zu bezahlen."
+
+#: templates/submission/payment-form-before.php:14
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> to publish listing <strong>\"%s\"</"
+"strong>."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:21
+msgid "Missing listing."
+msgstr ""
+
+#: templates/submission/remove-form.php:3
+msgid "You have to specify listing!"
+msgstr "Sie müssen Ihr Inserat spezifizieren."
+
+#: templates/submission/remove-form.php:6
+#, php-format
+msgid "Are you sure you want to delete %s?"
+msgstr "Sind Sie sicher, dass Sie %s löschen möchten?"
+
+#: templates/submission/remove-form.php:15
+msgid "Delete"
+msgstr "Löschen"
+
+#: templates/submission/step-title.php:8
+msgid "Step"
+msgstr "Schritt"
+
+#: templates/submission/steps-not-found.php:1
+msgid "Listing type does not have any metaboxes."
+msgstr "Eintagstyp hat keine Metabolen."
+
+#: templates/submission/steps.php:26
+msgid "Nothing to show."
+msgstr "Nichts zu zeigen."
+
+#: templates/submission/type-not-found.php:6
+msgid "Please define type of your submission"
+msgstr "Bitte eine Kategorie auswählen."
+
+#: templates/submission/type-not-found.php:21
+msgid "You don't have privilege to create any submission."
+msgstr ""
