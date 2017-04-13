@@ -950,6 +950,13 @@ margin: 0 auto;}
   font-size: 22px;
   line-height: 35px;}
 
+.lifestyle_box{
+	height:400px;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
 
 @media (max-width: 991px) {
   .user-banner-image{
